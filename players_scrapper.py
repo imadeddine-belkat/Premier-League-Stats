@@ -35,10 +35,14 @@ def main():
 
     # 2. Loop through players
     for i, p in enumerate(players_meta):
+        # We need the ID for the URL, but the Code for our data
         p_id = p['id']
-        p_dir = os.path.join(season, "players",
-                             f"{clean_filename(p['first_name'])}_{clean_filename(p['second_name'])}_{p_id}")
+        p_code = p['code']
 
+        p_dir = os.path.join(season, "players",
+                             f"{clean_filename(p['first_name'])}_{clean_filename(p['second_name'])}_{p_code}")
+
+        # Make the API call using the ID
         p_res = requests.get(f"{base_url}element-summary/{p_id}/", headers=headers)
         if p_res.status_code != 200:
             continue
@@ -47,21 +51,20 @@ def main():
         if not history:
             continue
 
-        # Save individual player file
-        os.makedirs(p_dir, exist_ok=True)
-        pd.DataFrame(history).to_csv(os.path.join(p_dir, "gw.csv"), index=False)
-
-        # Prep for merged file
+        # Inject the player_code instead of player_id into the rows
         for gw in history:
-            gw['player_id'] = p_id
+            gw['player_code'] = p_code
             gw['first_name'] = p['first_name']
             gw['second_name'] = p['second_name']
             all_player_gw_data.append(gw)
 
+        # Save individual player file
+        os.makedirs(p_dir, exist_ok=True)
+        pd.DataFrame(history).to_csv(os.path.join(p_dir, "gw.csv"), index=False)
+
         if (i + 1) % 100 == 0:
             print(f" Progress: {i + 1}/{len(players_meta)} players compiled...")
 
-        # Prevent rate-limiting
         time.sleep(0.1)
 
     # 3. Save merged Player GW files
