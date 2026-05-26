@@ -1,0 +1,22 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.swp
+
+# Python Cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables (if you ever use API keys later)
+.env
