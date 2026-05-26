@@ -1,0 +1,12 @@
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,player_code,first_name,second_name
+819,274,3,0,False,2026-02-28T15:00:00Z,3,4,28,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,494556,Ollie,Shield
+819,282,4,0,False,2026-03-03T19:30:00Z,0,0,29,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,79,175,84,5,494556,Ollie,Shield
+819,292,20,0,True,2026-03-16T20:00:00Z,2,2,30,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,89,431,123,34,494556,Ollie,Shield
+819,306,11,0,False,2026-03-21T20:00:00Z,0,0,31,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,34,694,57,23,494556,Ollie,Shield
+819,312,9,0,True,2026-04-11T14:00:00Z,2,2,32,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,17,773,47,30,494556,Ollie,Shield
+819,322,10,0,True,2026-04-18T11:30:00Z,0,0,33,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,-5,876,33,38,494556,Ollie,Shield
+819,337,14,0,False,2026-04-27T19:00:00Z,2,1,34,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,12,1042,50,38,494556,Ollie,Shield
+819,344,19,0,True,2026-05-02T14:00:00Z,3,0,35,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,11,1032,33,22,494556,Ollie,Shield
+819,356,13,0,False,2026-05-09T16:30:00Z,3,0,36,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,1,1111,41,40,494556,Ollie,Shield
+819,364,8,0,True,2026-05-17T14:00:00Z,2,2,37,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,8,1171,36,28,494556,Ollie,Shield
+819,375,12,0,False,2026-05-24T15:00:00Z,1,1,38,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,9,1247,42,33,494556,Ollie,Shield

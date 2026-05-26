@@ -1,0 +1,39 @@
+team_code,team_name,gw,is_home,opponent_code,opponent_name,team_score,opponent_score,difficulty,finished
+7,Aston Villa,1,True,4,Newcastle,0,0,3,True
+7,Aston Villa,2,False,94,Brentford,0,1,3,True
+7,Aston Villa,3,True,31,Crystal Palace,0,3,3,True
+7,Aston Villa,4,False,11,Everton,0,0,3,True
+7,Aston Villa,5,False,56,Sunderland,1,1,3,True
+7,Aston Villa,6,True,54,Fulham,3,1,3,True
+7,Aston Villa,7,True,90,Burnley,2,1,1,True
+7,Aston Villa,8,False,6,Spurs,2,1,3,True
+7,Aston Villa,9,True,43,Man City,1,0,4,True
+7,Aston Villa,10,False,14,Liverpool,0,2,4,True
+7,Aston Villa,11,True,91,Bournemouth,4,0,3,True
+7,Aston Villa,12,False,2,Leeds,2,1,3,True
+7,Aston Villa,13,True,39,Wolves,1,0,1,True
+7,Aston Villa,14,False,36,Brighton,4,3,4,True
+7,Aston Villa,15,True,3,Arsenal,2,1,4,True
+7,Aston Villa,16,False,21,West Ham,3,2,3,True
+7,Aston Villa,17,True,1,Man Utd,2,1,3,True
+7,Aston Villa,18,False,8,Chelsea,2,1,3,True
+7,Aston Villa,19,False,3,Arsenal,1,4,5,True
+7,Aston Villa,20,True,17,Nott'm Forest,3,1,3,True
+7,Aston Villa,21,False,31,Crystal Palace,0,0,3,True
+7,Aston Villa,22,True,11,Everton,0,1,3,True
+7,Aston Villa,23,False,4,Newcastle,2,0,3,True
+7,Aston Villa,24,True,94,Brentford,0,1,3,True
+7,Aston Villa,25,False,91,Bournemouth,1,1,4,True
+7,Aston Villa,26,True,36,Brighton,1,0,3,True
+7,Aston Villa,27,True,2,Leeds,1,1,2,True
+7,Aston Villa,28,False,39,Wolves,0,2,2,True
+7,Aston Villa,29,True,8,Chelsea,1,4,3,True
+7,Aston Villa,30,False,1,Man Utd,1,3,4,True
+7,Aston Villa,31,True,21,West Ham,2,0,2,True
+7,Aston Villa,32,False,17,Nott'm Forest,1,1,3,True
+7,Aston Villa,33,True,56,Sunderland,4,3,2,True
+7,Aston Villa,34,False,54,Fulham,0,1,3,True
+7,Aston Villa,35,True,6,Spurs,1,2,3,True
+7,Aston Villa,36,False,90,Burnley,2,2,2,True
+7,Aston Villa,37,True,14,Liverpool,4,2,3,True
+7,Aston Villa,38,False,43,Man City,2,1,5,True
