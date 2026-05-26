@@ -40,7 +40,7 @@ jobs:
           # Only commit if there are actual data updates to avoid workflow failures
           git diff-index --quiet HEAD || git commit -m "🤖 Auto-update FPL data for $(date +'%Y-%m-%d')"
           
-          # Pull any changes that happened while the script was running
+          
           git pull --rebase origin main
           
           git push
