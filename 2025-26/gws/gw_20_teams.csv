@@ -1,0 +1,21 @@
+team_id,team_name,gw,is_home,opponent_id,opponent_name,team_score,opponent_score,difficulty,finished
+2,Aston Villa,20,True,16,Nott'm Forest,3,1,3,True
+16,Nott'm Forest,20,False,2,Aston Villa,1,3,4,True
+6,Brighton,20,True,3,Burnley,2,0,1,True
+3,Burnley,20,False,6,Brighton,0,2,4,True
+20,Wolves,20,True,19,West Ham,3,0,2,True
+19,West Ham,20,False,20,Wolves,0,3,2,True
+4,Bournemouth,20,True,1,Arsenal,2,3,4,True
+1,Arsenal,20,False,4,Bournemouth,3,2,4,True
+11,Leeds,20,True,14,Man Utd,1,1,3,True
+14,Man Utd,20,False,11,Leeds,1,1,3,True
+9,Everton,20,True,5,Brentford,2,4,3,True
+5,Brentford,20,False,9,Everton,4,2,3,True
+15,Newcastle,20,True,8,Crystal Palace,2,0,3,True
+8,Crystal Palace,20,False,15,Newcastle,0,2,3,True
+18,Spurs,20,True,17,Sunderland,1,1,2,True
+17,Sunderland,20,False,18,Spurs,1,1,3,True
+10,Fulham,20,True,12,Liverpool,2,2,3,True
+12,Liverpool,20,False,10,Fulham,2,2,3,True
+13,Man City,20,True,7,Chelsea,1,1,3,True
+7,Chelsea,20,False,13,Man City,1,1,5,True

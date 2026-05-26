@@ -1,0 +1,39 @@
+team_id,team_name,gw,is_home,opponent_id,opponent_name,team_score,opponent_score,difficulty,finished
+7,Chelsea,1,True,8,Crystal Palace,0,0,3,True
+7,Chelsea,2,False,19,West Ham,5,1,3,True
+7,Chelsea,3,True,10,Fulham,2,0,3,True
+7,Chelsea,4,False,5,Brentford,2,2,3,True
+7,Chelsea,5,False,14,Man Utd,1,2,4,True
+7,Chelsea,6,True,6,Brighton,1,3,3,True
+7,Chelsea,7,True,12,Liverpool,2,1,3,True
+7,Chelsea,8,False,16,Nott'm Forest,3,0,3,True
+7,Chelsea,9,True,17,Sunderland,1,2,2,True
+7,Chelsea,10,False,18,Spurs,1,0,3,True
+7,Chelsea,11,True,20,Wolves,3,0,1,True
+7,Chelsea,12,False,3,Burnley,2,0,2,True
+7,Chelsea,13,True,1,Arsenal,1,1,4,True
+7,Chelsea,14,False,11,Leeds,1,3,3,True
+7,Chelsea,15,False,4,Bournemouth,0,0,4,True
+7,Chelsea,16,True,9,Everton,2,0,3,True
+7,Chelsea,17,False,15,Newcastle,2,2,3,True
+7,Chelsea,18,True,2,Aston Villa,1,2,3,True
+7,Chelsea,19,True,4,Bournemouth,2,2,3,True
+7,Chelsea,20,False,13,Man City,1,1,5,True
+7,Chelsea,21,False,10,Fulham,1,2,3,True
+7,Chelsea,22,True,5,Brentford,2,0,3,True
+7,Chelsea,23,False,8,Crystal Palace,3,1,3,True
+7,Chelsea,24,True,19,West Ham,3,2,2,True
+7,Chelsea,25,False,20,Wolves,3,1,2,True
+7,Chelsea,26,True,11,Leeds,2,2,2,True
+7,Chelsea,27,True,3,Burnley,1,1,1,True
+7,Chelsea,28,False,1,Arsenal,1,2,5,True
+7,Chelsea,29,False,2,Aston Villa,4,1,4,True
+7,Chelsea,30,True,15,Newcastle,0,1,3,True
+7,Chelsea,31,False,9,Everton,0,3,3,True
+7,Chelsea,32,True,13,Man City,0,3,4,True
+7,Chelsea,33,True,14,Man Utd,0,1,3,True
+7,Chelsea,33,False,6,Brighton,0,3,4,True
+7,Chelsea,35,True,16,Nott'm Forest,1,3,3,True
+7,Chelsea,36,False,12,Liverpool,1,1,4,True
+7,Chelsea,37,True,18,Spurs,2,1,3,True
+7,Chelsea,38,False,17,Sunderland,1,2,3,True
