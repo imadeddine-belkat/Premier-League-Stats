@@ -12,7 +12,7 @@ jobs:
 
     permissions:
       contents: write
-      
+
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
@@ -34,9 +34,13 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add .
-        # Only commit if there are actual data updates to avoid workflow failures
-        git diff-index --quiet HEAD || git commit -m "🤖 Auto-update FPL data for $(date +'%Y-%m-%d')"
-        git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          # Only commit if there are actual data updates to avoid workflow failures
+          git diff-index --quiet HEAD || git commit -m "🤖 Auto-update FPL data for $(date +'%Y-%m-%d')"
+          
+          # Pull any changes that happened while the script was running
+          git pull --rebase origin main
+          
+          git push
