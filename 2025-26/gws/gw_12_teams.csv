@@ -1,0 +1,21 @@
+team_code,team_name,gw,is_home,opponent_code,opponent_name,team_score,opponent_score,difficulty,finished
+90,Burnley,12,True,8,Chelsea,0,2,3,True
+8,Chelsea,12,False,90,Burnley,2,0,2,True
+91,Bournemouth,12,True,21,West Ham,2,2,2,True
+21,West Ham,12,False,91,Bournemouth,2,2,4,True
+36,Brighton,12,True,94,Brentford,2,1,3,True
+94,Brentford,12,False,36,Brighton,1,2,4,True
+54,Fulham,12,True,56,Sunderland,1,0,2,True
+56,Sunderland,12,False,54,Fulham,0,1,3,True
+14,Liverpool,12,True,17,Nott'm Forest,0,3,3,True
+17,Nott'm Forest,12,False,14,Liverpool,3,0,4,True
+39,Wolves,12,True,31,Crystal Palace,0,2,3,True
+31,Crystal Palace,12,False,39,Wolves,2,0,2,True
+4,Newcastle,12,True,43,Man City,2,1,4,True
+43,Man City,12,False,4,Newcastle,1,2,3,True
+2,Leeds,12,True,7,Aston Villa,1,2,3,True
+7,Aston Villa,12,False,2,Leeds,2,1,3,True
+3,Arsenal,12,True,6,Spurs,4,1,3,True
+6,Spurs,12,False,3,Arsenal,1,4,5,True
+1,Man Utd,12,True,11,Everton,0,1,3,True
+11,Everton,12,False,1,Man Utd,1,0,4,True

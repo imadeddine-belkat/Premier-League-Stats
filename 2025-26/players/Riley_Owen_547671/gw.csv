@@ -1,0 +1,8 @@
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,player_code,first_name,second_name
+826,312,9,0,True,2026-04-11T14:00:00Z,2,2,32,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,547671,Riley,Owen
+826,322,10,0,True,2026-04-18T11:30:00Z,0,0,33,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,45,29,61,33,4,547671,Riley,Owen
+826,337,14,0,False,2026-04-27T19:00:00Z,2,1,34,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,45,24,127,33,9,547671,Riley,Owen
+826,344,19,0,True,2026-05-02T14:00:00Z,3,0,35,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,45,45,144,56,11,547671,Riley,Owen
+826,356,13,0,False,2026-05-09T16:30:00Z,3,0,36,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,45,36,201,62,26,547671,Riley,Owen
+826,364,8,0,True,2026-05-17T14:00:00Z,2,2,37,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,45,14,220,31,17,547671,Riley,Owen
+826,375,12,0,False,2026-05-24T15:00:00Z,1,1,38,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,45,5,231,34,29,547671,Riley,Owen
