@@ -5,7 +5,7 @@ import time
 import re
 from datetime import datetime
 
-ROOT = "fpl"
+ROOT = "fpl_stats"
 
 
 def get_current_season():
