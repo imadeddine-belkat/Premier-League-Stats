@@ -5,6 +5,8 @@ import time
 import re
 from datetime import datetime
 
+ROOT = "fpl"
+
 
 def get_current_season():
     now = datetime.now()
@@ -23,10 +25,12 @@ def main():
 
     base_url = "https://fantasy.premierleague.com/api/"
     headers = {"User-Agent": "Mozilla/5.0"}
-    os.makedirs(season, exist_ok=True)
+
+    gw_dir = os.path.join(ROOT, "gameweeks", season)
+    os.makedirs(gw_dir, exist_ok=True)
 
     # 1. Fetch base player list
-    print("📥 Fetching master player list...")
+    print("Fetching master player list...")
     bootstrap_res = requests.get(base_url + "bootstrap-static/", headers=headers)
     players_meta = bootstrap_res.json()['elements']
 
@@ -35,14 +39,12 @@ def main():
 
     # 2. Loop through players
     for i, p in enumerate(players_meta):
-        # We need the ID for the URL, but the Code for our data
         p_id = p['id']
         p_code = p['code']
 
-        p_dir = os.path.join(season, "players",
-                             f"{clean_filename(p['first_name'])}_{clean_filename(p['second_name'])}_{p_code}")
+        p_folder = f"{clean_filename(p['first_name'])}_{clean_filename(p['second_name'])}_{p_code}"
+        p_dir = os.path.join(ROOT, "players", p_folder)
 
-        # Make the API call using the ID
         p_res = requests.get(f"{base_url}element-summary/{p_id}/", headers=headers)
         if p_res.status_code != 200:
             continue
@@ -51,16 +53,15 @@ def main():
         if not history:
             continue
 
-        # Inject the player_code instead of player_id into the rows
         for gw in history:
             gw['player_code'] = p_code
             gw['first_name'] = p['first_name']
             gw['second_name'] = p['second_name']
             all_player_gw_data.append(gw)
 
-        # Save individual player file
         os.makedirs(p_dir, exist_ok=True)
-        pd.DataFrame(history).to_csv(os.path.join(p_dir, "gw.csv"), index=False)
+        pd.DataFrame(history).to_csv(
+            os.path.join(p_dir, f"{season}_gw_stats.csv"), index=False)
 
         if (i + 1) % 100 == 0:
             print(f" Progress: {i + 1}/{len(players_meta)} players compiled...")
@@ -69,15 +70,12 @@ def main():
 
     # 3. Save merged Player GW files
     if all_player_gw_data:
-        print("💾 Saving merged player gameweek files...")
+        print("Saving merged player gameweek files...")
         df_all_players = pd.DataFrame(all_player_gw_data)
-        gw_dir = os.path.join(season, "gws")
-        os.makedirs(gw_dir, exist_ok=True)
-
         for gw_num, df_gw in df_all_players.groupby('round'):
-            df_gw.to_csv(os.path.join(gw_dir, f"gw_{int(gw_num)}.csv"), index=False)
+            df_gw.to_csv(os.path.join(gw_dir, f"gw_{int(gw_num)}_players.csv"), index=False)
 
-    print("🎉 Players sync complete!")
+    print("Players sync complete!")
 
 
 if __name__ == "__main__":
