@@ -1,842 +1,842 @@
-id,code,first_name,second_name,team_id,team_code,team_name
-1,154561,David,Raya Martín,1,3,Arsenal
-2,109745,Kepa,Arrizabalaga Revuelta,1,3,Arsenal
-3,463748,Karl,Hein,1,3,Arsenal
-4,551221,Tommy,Setford,1,3,Arsenal
-5,226597,Gabriel,dos Santos Magalhães,1,3,Arsenal
-6,462424,William,Saliba,1,3,Arsenal
-7,466075,Riccardo,Calafiori,1,3,Arsenal
-8,445122,Jurriën,Timber,1,3,Arsenal
-9,440854,Jakub,Kiwior,1,3,Arsenal
-10,499169,Myles,Lewis-Skelly,1,3,Arsenal
-11,198869,Benjamin,White,1,3,Arsenal
-13,563324,Brayden,Clarke,1,3,Arsenal
-14,588793,Maldini,Kacurri,1,3,Arsenal
-15,499167,Josh,Nichols,1,3,Arsenal
-16,223340,Bukayo,Saka,1,3,Arsenal
-17,184029,Martin,Ødegaard,1,3,Arsenal
-18,248857,Noni,Madueke,1,3,Arsenal
-19,444145,Gabriel,Martinelli Silva,1,3,Arsenal
-20,116216,Leandro,Trossard,1,3,Arsenal
-21,204480,Declan,Rice,1,3,Arsenal
-22,195384,Mikel,Merino Zazón,1,3,Arsenal
-23,438098,Fábio,Ferreira Vieira,1,3,Arsenal
-24,128295,Christian,Nørgaard,1,3,Arsenal
-25,499175,Ethan,Nwaneri,1,3,Arsenal
-26,481655,Martín,Zubimendi Ibáñez,1,3,Arsenal
-28,588796,Ismeal,Kabia,1,3,Arsenal
-29,437742,Albert,Sambi Lokonga,1,3,Arsenal
-30,219847,Kai,Havertz,1,3,Arsenal
-31,205651,Gabriel,Fernando de Jesus,1,3,Arsenal
-266,232413,Eberechi,Eze,1,3,Arsenal
-662,500040,Cristhian,Mosquera,1,3,Arsenal
-666,224117,Viktor,Gyökeres,1,3,Arsenal
-700,616077,Max,Dowman,1,3,Arsenal
-711,646243,Andre,Harriman-Annous,1,3,Arsenal
-725,448104,Piero,Hincapié,1,3,Arsenal
-759,616065,Marli,Salmon,1,3,Arsenal
-32,98980,Emiliano,Martínez Romero,2,7,Aston Villa
-33,72147,Marco,Bizot,2,7,Aston Villa
-34,462492,Joe,Gauci,2,7,Aston Villa
-35,462381,Filip,Marschall,2,7,Aston Villa
-36,199796,Matty,Cash,2,7,Aston Villa
-37,101188,Lucas,Digne,2,7,Aston Villa
-38,199798,Ezri,Konsa Ngoyo,2,7,Aston Villa
-39,441302,Ian,Maatsen,2,7,Aston Villa
-40,149484,Tyrone,Mings,2,7,Aston Villa
-41,244954,Pau,Torres,2,7,Aston Villa
-42,606798,Andrés,García,2,7,Aston Villa
-43,106468,Álex,Moreno Lopera,2,7,Aston Villa
-44,515597,Lamare,Bogarde,2,7,Aston Villa
-45,514315,Lino,da Cruz Sousa,2,7,Aston Villa
-46,587178,Yasin,Özcan,2,7,Aston Villa
-47,244850,Morgan,Rogers,2,7,Aston Villa
-48,166989,Youri,Tielemans,2,7,Aston Villa
-49,215711,Leon,Bailey,2,7,Aston Villa
-50,195546,Emiliano,Buendía Stati,2,7,Aston Villa
-51,469247,Samuel,Iling-Junior,2,7,Aston Villa
-53,204646,Donyell,Malen,2,7,Aston Villa
-54,122806,John,McGinn,2,7,Aston Villa
-55,88894,Ross,Barkley,2,7,Aston Villa
-56,491287,Enzo,Barrenechea,2,7,Aston Villa
-57,461421,Lewis,Dobbin,2,7,Aston Villa
-58,226944,Boubacar,Kamara,2,7,Aston Villa
-59,449871,Amadou,Onana,2,7,Aston Villa
-60,577731,Ben,Broggio,2,7,Aston Villa
-61,151589,Leander,Dendoncker,2,7,Aston Villa
-62,559962,Jamaldeen,Jimoh-Aloba,2,7,Aston Villa
-63,537403,Kadan,Young,2,7,Aston Villa
-64,178301,Ollie,Watkins,2,7,Aston Villa
-65,576756,Zépiqueno,Redmond,2,7,Aston Villa
-389,444884,Harvey,Elliott,2,7,Aston Villa
-456,209243,Jadon,Sancho,2,7,Aston Villa
-688,481283,James,Wright,2,7,Aston Villa
-699,230046,Douglas Luiz,Soares de Paulo,2,7,Aston Villa
-701,569577,Triston,Rowe,2,7,Aston Villa
-702,645618,Bradley,Burrowes,2,7,Aston Villa
-703,564505,Sam,Proctor,2,7,Aston Villa
-710,534836,Travis,Patterson,2,7,Aston Villa
-719,184667,Victor,Lindelöf,2,7,Aston Villa
-754,577285,George,Hemmings,2,7,Aston Villa
-757,516875,Ronnie,Hollingshead,2,7,Aston Villa
-768,664015,Leon,Routh,2,7,Aston Villa
-781,618027,TJ,Carroll,2,7,Aston Villa
-792,653481,Alysson Edward Franco,da Rocha dos Santos,2,7,Aston Villa
-808,173879,Tammy,Abraham,2,7,Aston Villa
-183,518030,Max,Weiß,3,90,Burnley
-184,489571,Etienne,Green,3,90,Burnley
-185,51943,Václav,Hladký,3,90,Burnley
-186,192290,Connor,Roberts,3,90,Burnley
-187,58621,Kyle,Walker,3,90,Burnley
-188,247245,Hannes,Delcroix,3,90,Burnley
-189,461567,Owen,Dodgson,3,90,Burnley
-190,478969,Hjalmar,Ekdal,3,90,Burnley
-191,477717,Maxime,Estève,3,90,Burnley
-192,494960,Quilindschy,Hartman,3,90,Burnley
-193,461188,Bashir,Humphreys,3,90,Burnley
-194,241231,Jordan,Beyer,3,90,Burnley
-195,549329,Lucas,Pires Silva,3,90,Burnley
-196,450072,Shurandy,Sambo,3,90,Burnley
-197,519895,Oliver,Sonne,3,90,Burnley
-198,180804,Axel,Tuanzebe,3,90,Burnley
-199,208912,Joe,Worrall,3,90,Burnley
-200,444180,Jaidon,Anthony,3,90,Burnley
-201,183751,Manuel,Benson Hedilazio,3,90,Burnley
-202,179458,Jacob,Bruun Larsen,3,90,Burnley
-203,578614,Enock,Agyei,3,90,Burnley
-204,250735,Darko,Churlinov,3,90,Burnley
-205,172567,Josh,Cullen,3,90,Burnley
-206,174592,Marcus,Edwards,3,90,Burnley
-207,465527,Hannibal,Mejbri,3,90,Burnley
-208,487702,Luca,Koleosho,3,90,Burnley
-209,167887,Josh,Laurent,3,90,Burnley
-210,469272,Loum,Tchaouna,3,90,Burnley
-211,447715,Aaron,Ramsey,3,90,Burnley
-212,576323,Oluwaseun,Adewumi,3,90,Burnley
-213,551206,Jaydon,Banel,3,90,Burnley
-214,437748,Mike,Trésor Ndayishimiye,3,90,Burnley
-215,431639,Zian,Flemming,3,90,Burnley
-216,492831,Zeki,Amdouni,3,90,Burnley
-217,435973,Lyle,Foster,3,90,Burnley
-218,44699,Ashley,Barnes,3,90,Burnley
-219,220598,Michael,Obafemi,3,90,Burnley
-470,67089,Martin,Dúbravka,3,90,Burnley
-614,101178,James,Ward-Prowse,3,90,Burnley
-676,503714,Lesley,Ugochukwu,3,90,Burnley
-680,440323,Armando,Broja,3,90,Burnley
-722,216055,Florentino Ibrain,Morris Luís,3,90,Burnley
-776,647960,Oliver,Pimlott,3,90,Burnley
-784,704232,George,Brierley,3,90,Burnley
-820,644593,Kian,McMahon-Brown,3,90,Burnley
-66,69752,Norberto,Murara Neto,4,91,Bournemouth
-67,457569,Đorđe,Petrović,4,91,Bournemouth
-68,444172,Will,Dennis,4,91,Bournemouth
-69,568791,Callan,McKenna,4,91,Bournemouth
-70,495145,Alex,Paulsen,4,91,Bournemouth
-71,477580,Illia,Zabarnyi,4,91,Bournemouth
-72,221466,Marcos,Senesi Barón,4,91,Bournemouth
-73,54469,Adam,Smith,4,91,Bournemouth
-74,494521,Adrien,Truffert,4,91,Bournemouth
-75,541462,Matai,Akinmboni,4,91,Bournemouth
-76,518906,Owen,Bevan,4,91,Bournemouth
-77,463981,James,Hill,4,91,Bournemouth
-78,436893,Julián,Araujo Zúñiga,4,91,Bournemouth
-79,223911,Chris,Mepham,4,91,Bournemouth
-80,575901,Julio,Soler Barreto,4,91,Bournemouth
-81,222683,Justin,Kluivert,4,91,Bournemouth
-84,201658,Marcus,Tavernier,4,91,Bournemouth
-85,200785,Tyler,Adams,4,91,Bournemouth
-86,111317,David,Brooks,4,91,Bournemouth
-87,158499,Ryan,Christie,4,91,Bournemouth
-88,155408,Lewis,Cook,4,91,Bournemouth
-89,168991,Philip,Billing,4,91,Bournemouth
-90,503139,Alex,Scott,4,91,Bournemouth
-91,224995,Luis,Sinisterra Lucumí,4,91,Bournemouth
-92,441240,Romain,Faivre,4,91,Bournemouth
-93,424044,Hamed,Traorè,4,91,Bournemouth
-94,550596,Dominic,Sadi,4,91,Bournemouth
-95,530121,Zain,Silcott-Duberry,4,91,Bournemouth
-96,606775,Ben,Winterburn,4,91,Bournemouth
-97,444102,Francisco Evanilson,de Lima Barbosa,4,91,Bournemouth
-98,168636,Enes,Ünal,4,91,Bournemouth
-99,590760,Daniel,Adu-Adjei,4,91,Bournemouth
-100,560262,Junior,Kroupi,4,91,Bournemouth
-391,496208,Ben,Gannon-Doak,4,91,Bournemouth
-685,242882,Bafodé,Diakité,4,91,Bournemouth
-687,606774,Remy,Rees-Dottin,4,91,Bournemouth
-697,489888,Amine,Adli,4,91,Bournemouth
-713,551483,Álex,Jiménez Sánchez,4,91,Bournemouth
-721,620487,Veljko,Milosavljevic,4,91,Bournemouth
-756,678552,Malcom,DaCosta,4,91,Bournemouth
-782,40383,Fraser,Forster,4,91,Bournemouth
-799,658013,Charlie,Stevens,4,91,Bournemouth
-801,614574,Alex,Tóth,4,91,Bournemouth
-806,436416,Christos,Mandas,4,91,Bournemouth
-807,499604,Rayan Vitor,Simplício Rocha,4,91,Bournemouth
-27,200641,Reiss,Nelson,5,94,Brentford
-83,533463,Dango,Ouattara,5,94,Brentford
-101,200720,Caoimhín,Kelleher,5,94,Brentford
-102,235448,Ellery,Balcombe,5,94,Brentford
-103,503300,Matthew,Cox,5,94,Brentford
-104,535017,Julian,Eyestone,5,94,Brentford
-105,507433,Hákon Rafn,Valdimarsson,5,94,Brentford
-106,432830,Nathan,Collins,5,94,Brentford
-107,249231,Keane,Lewis-Potter,5,94,Brentford
-108,191866,Kristoffer,Ajer,5,94,Brentford
-109,194010,Rico,Henry,5,94,Brentford
-110,607464,Michael,Kayode,5,94,Brentford
-111,231065,Ethan,Pinnock,5,94,Brentford
-112,226956,Mads,Roerslev Rasmussen,5,94,Brentford
-113,444765,Sepp,van den Berg,5,94,Brentford
-114,622536,Benjamin,Arthur,5,94,Brentford
-115,612534,Benjamin,Fredrick,5,94,Brentford
-116,472713,Aaron,Hickey,5,94,Brentford
-117,570241,Kim,Ji-soo,5,94,Brentford
-118,499717,Jayden,Meghoma,5,94,Brentford
-120,513418,Kevin,Schade,5,94,Brentford
-121,440089,Mikkel,Damsgaard,5,94,Brentford
-122,543295,Antoni,Milambo,5,94,Brentford
-123,244858,Fábio,Freitas Gouveia Carvalho,5,94,Brentford
-124,56979,Jordan,Henderson,5,94,Brentford
-125,204580,Vitaly,Janelt,5,94,Brentford
-126,207283,Mathias,Jensen,5,94,Brentford
-127,626464,Gustavo,Nunes Fernandes Gomes,5,94,Brentford
-128,428580,Frank,Onyeka,5,94,Brentford
-129,508395,Yehor,Yarmoliuk,5,94,Brentford
-130,606689,Romelle,Donovan,5,94,Brentford
-131,628204,Yunus Emre,Konak,5,94,Brentford
-132,220695,Paris,Maghoma,5,94,Brentford
-133,450539,Myles,Peart-Harris,5,94,Brentford
-134,591357,Ryan,Trevitt,5,94,Brentford
-136,502500,Igor Thiago,Nascimento Rodrigues,5,94,Brentford
-137,533710,Iwan,Morgan,5,94,Brentford
-748,183656,Josh,Dasilva,5,94,Brentford
-797,593174,Kaye,Furo,5,94,Brentford
-810,559610,Luka,Bentt,5,94,Brentford
-819,494556,Ollie,Shield,5,94,Brentford
-823,649240,Joshua,Stephenson,5,94,Brentford
-824,587433,Conor,McManus,5,94,Brentford
-826,547671,Riley,Owen,5,94,Brentford
-138,49262,Jason,Steele,6,36,Brighton
-139,489639,Bart,Verbruggen,6,36,Brighton
-140,209288,Tom,McGill,6,36,Brighton
-141,472739,Carl,Rushworth,6,36,Brighton
-142,240514,Kjell,Scherpen,6,36,Brighton
-143,204120,Olivier,Boscagli,6,36,Brighton
-144,550090,Diego,Coppola,6,36,Brighton
-145,465730,Maxim,De Cuyper,6,36,Brighton
-146,83299,Lewis,Dunk,6,36,Brighton
-147,204214,Pervis,Estupiñán Tenorio,6,36,Brighton
-148,231416,Ferdi,Kadıoğlu,6,36,Brighton
-149,223434,Igor Julio,dos Santos de Paulo,6,36,Brighton
-150,232792,Tariq,Lamptey,6,36,Brighton
-151,469142,Jan Paul,van Hecke,6,36,Brighton
-152,111478,Joël,Veltman,6,36,Brighton
-153,110735,Adam,Webster,6,36,Brighton
-154,439135,Eiran,Cashin,6,36,Brighton
-155,589100,Jacob,Slater,6,36,Brighton
-156,547720,Charlie,Tasker,6,36,Brighton
-157,451340,Mitoma,Kaoru,6,36,Brighton
-158,463067,Georginio,Rutter,6,36,Brighton
-159,109345,Solly,March,6,36,Brighton
-160,592031,Yankuba,Minteh,6,36,Brighton
-161,474120,Julio,Enciso Espínola,6,36,Brighton
-162,513433,Brajan,Gruda,6,36,Brighton
-163,532529,Jack,Hinshelwood,6,36,Brighton
-164,219249,Matt,O'Riley,6,36,Brighton
-165,516211,Abdallah,Sima,6,36,Brighton
-166,509416,Yasin,Ayari,6,36,Brighton
-167,535301,Carlos,Baleba,6,36,Brighton
-169,514254,Diego,Gómez Amarilla,6,36,Brighton
-170,15157,James,Milner,6,36,Brighton
-171,441192,Jeremy,Sarmiento Morante,6,36,Brighton
-172,549074,Tom,Watson,6,36,Brighton
-173,467779,Mats,Wieffer,6,36,Brighton
-174,611695,Malick,Yalcouyé,6,36,Brighton
-175,567121,Joe,Knight,6,36,Brighton
-176,550141,Adrian,Mazilu,6,36,Brighton
-177,513834,Andrew,Moran,6,36,Brighton
-178,50175,Danny,Welbeck,6,36,Brighton
-179,487117,Evan,Ferguson,6,36,Brighton
-180,608181,Stefanos,Tzimas,6,36,Brighton
-181,647850,Charalampos,Kostoulas,6,36,Brighton
-744,556637,Nehemiah,Oriola,6,36,Brighton
-761,604988,Freddie,Simmonds,6,36,Brighton
-783,60307,Pascal,Groß,6,36,Brighton
-795,597320,Harry,Howell,6,36,Brighton
-220,215059,Robert,Lynch Sánchez,7,8,Chelsea
-221,508479,Filip,Jörgensen,7,8,Chelsea
-222,549939,Mike,Penders,7,8,Chelsea
-223,471798,Gabriel,Słonina,7,8,Chelsea
-224,179268,Marc,Cucurella Saseta,7,8,Chelsea
-225,225796,Reece,James,7,8,Chelsea
-226,180736,Trevoh,Chalobah,7,8,Chelsea
-227,460028,Levi,Samuels Colwill,7,8,Chelsea
-228,482609,Malo,Gusto,7,8,Chelsea
-229,242880,Benoît,Badiashile Mukinayi,7,8,Chelsea
-230,444463,Wesley,Fofana,7,8,Chelsea
-231,574458,Mamadou,Sarr,7,8,Chelsea
-232,109646,Tosin,Adarabioyo,7,8,Chelsea
-233,577016,Josh,Acheampong,7,8,Chelsea
-234,622758,Aarón,Anselmino,7,8,Chelsea
-235,244851,Cole,Palmer,7,8,Chelsea
-236,247632,Pedro,Lomba Neto,7,8,Chelsea
-237,448047,Enzo,Fernández,7,8,Chelsea
-238,624773,Estêvão,Almeida de Oliveira Gonçalves,7,8,Chelsea
-239,463936,Jamie,Bynoe-Gittens,7,8,Chelsea
-240,213198,Christopher,Nkunku,7,8,Chelsea
-241,486672,Moisés,Caicedo Corozo,7,8,Chelsea
-244,514356,Roméo,Lavia,7,8,Chelsea
-245,465920,Mykhailo,Mudryk,7,8,Chelsea
-246,532605,Andrey,Nascimento dos Santos,7,8,Chelsea
-247,491007,Dário,Luís Essugo,7,8,Chelsea
-248,611134,Kendry,Páez Andrade,7,8,Chelsea
-249,475168,João Pedro,Junqueira de Jesus,7,8,Chelsea
-250,463034,Liam,Delap,7,8,Chelsea
-251,517052,Nicolas,Jackson,7,8,Chelsea
-252,499309,Marc,Guiu Paz,7,8,Chelsea
-453,493105,Alejandro,Garnacho Ferreyra,7,8,Chelsea
-672,551210,Jorrel,Hato,7,8,Chelsea
-743,611912,Landon,Emenalo,7,8,Chelsea
-789,518335,Max,Merrick,7,8,Chelsea
-803,499857,Teddy,Sharman-Lowe,7,8,Chelsea
-829,619734,Jesse,Derry,7,8,Chelsea
-833,671606,Mathis,Eboué,7,8,Chelsea
-834,616286,Ryan,Kavuma-McQueen,7,8,Chelsea
-840,567119,Shumaira,Mheuka,7,8,Chelsea
-253,172649,Dean,Henderson,8,31,Crystal Palace
-254,121709,Walter,Benítez,8,31,Crystal Palace
-255,169593,Remi,Matthews,8,31,Crystal Palace
-256,247348,Daniel,Muñoz Mejía,8,31,Crystal Palace
-257,437499,Maxence,Lacroix,8,31,Crystal Palace
-258,244723,Tyrick,Mitchell,8,31,Crystal Palace
-259,218364,Borna,Sosa,8,31,Crystal Palace
-261,427623,Chris,Richards,8,31,Crystal Palace
-262,515621,Chadi,Riad Dnanou,8,31,Crystal Palace
-263,57328,Nathaniel,Clyne,8,31,Crystal Palace
-264,156074,Rob,Holding,8,31,Crystal Palace
-265,590012,Caleb,Kporha,8,31,Crystal Palace
-267,232185,Ismaïla,Sarr,8,31,Crystal Palace
-268,438464,Cheick,Doucouré,8,31,Crystal Palace
-269,606921,Romain,Esse,8,31,Crystal Palace
-270,108413,Will,Hughes,8,31,Crystal Palace
-271,209400,Daichi,Kamada,8,31,Crystal Palace
-272,152551,Jefferson,Lerma Solís,8,31,Crystal Palace
-273,496221,Adam,Wharton,8,31,Crystal Palace
-274,579075,Asher,Agbinone,8,31,Crystal Palace
-275,466117,Naouirou,Ahamada,8,31,Crystal Palace
-276,489706,Justin,Devenny,8,31,Crystal Palace
-277,450535,Malcolm,Ebiowei,8,31,Crystal Palace
-278,450542,Jesurun,Rak-Sakyi,8,31,Crystal Palace
-279,536694,Matheus,França de Oliveira,8,31,Crystal Palace
-280,531989,David,Ozoh,8,31,Crystal Palace
-281,530318,Kaden,Rodney,8,31,Crystal Palace
-282,574398,Franco,Umeh-Chibueze,8,31,Crystal Palace
-283,231747,Jean-Philippe,Mateta,8,31,Crystal Palace
-284,205533,Eddie,Nketiah,8,31,Crystal Palace
-285,199670,Odsonne,Édouard,8,31,Crystal Palace
-286,576980,Zach,Marsh,8,31,Crystal Palace
-580,242898,Brennan,Johnson,8,31,Crystal Palace
-654,247412,Jørgen,Strand Larsen,8,31,Crystal Palace
-677,485337,Evann,Guessand,8,31,Crystal Palace
-690,590014,Rio,Cardines,8,31,Crystal Palace
-712,488024,Yéremy,Pino Santos,8,31,Crystal Palace
-723,651426,Jaydee,Canvot,8,31,Crystal Palace
-732,660392,Christantus,Uche,8,31,Crystal Palace
-762,672492,Joél,Drakes-Thomas,8,31,Crystal Palace
-773,643426,Dean,Benamar,8,31,Crystal Palace
-780,631106,Ben,Casey,8,31,Crystal Palace
-793,591384,George,King,8,31,Crystal Palace
-798,502988,Danny,Imray,8,31,Crystal Palace
-242,215413,Kiernan,Dewsbury-Hall,9,11,Everton
-243,550615,Tyrique,George,9,11,Everton
-287,111234,Jordan,Pickford,9,11,Everton
-288,229600,Mark,Travers,9,11,Everton
-289,447325,Harry,Tyrer,9,11,Everton
-290,480455,Jarrad,Branthwaite,9,11,Everton
-291,17761,James,Tarkowski,9,11,Everton
-292,224967,Vitalii,Mykolenko,9,11,Everton
-293,512462,Jake,O'Brien,9,11,Everton
-294,59949,Séamus,Coleman,9,11,Everton
-295,106611,Michael,Keane,9,11,Everton
-296,243571,Nathan,Patterson,9,11,Everton
-297,496178,Roman,Dixon,9,11,Everton
-298,474907,Reece,Welch,9,11,Everton
-299,440993,Iliman,Ndiaye,9,11,Everton
-300,433154,Dwight,McNeil,9,11,Everton
-301,502697,Carlos,Alcaraz Durán,9,11,Everton
-302,80801,Idrissa Gana,Gueye,9,11,Everton
-303,232928,James,Garner,9,11,Everton
-304,490094,Tim,Iroegbunam,9,11,Everton
-305,609873,Harrison,Armstrong,9,11,Everton
-306,547801,Callum,Bates,9,11,Everton
-307,504296,Coby,Ebere,9,11,Everton
-308,496279,Isaac,Heath,9,11,Everton
-309,491557,Jenson,Metcalfe,9,11,Everton
-310,586309,Thierno,Barry,9,11,Everton
-311,486385,Norberto Bercique,Gomes Betuncal,9,11,Everton
-312,491012,Youssef,Ramalho Chermiti,9,11,Everton
-313,536241,Martin,Sherif,9,11,Everton
-419,114283,Jack,Grealish,9,11,Everton
-630,138001,Tom,King,9,11,Everton
-667,499300,Adam,Aznou,9,11,Everton
-704,461446,Tyler,Onyango,9,11,Everton
-705,491745,Elijah,Campbell,9,11,Everton
-707,496661,Tyler,Dibling,9,11,Everton
-728,513466,Merlin,Röhl,9,11,Everton
-779,629068,Braiden,Graham,9,11,Everton
-314,80201,Bernd,Leno,10,54,Fulham
-315,428971,Steven,Benda,10,54,Fulham
-316,169528,Antonee,Robinson,10,54,Fulham
-317,174874,Joachim,Andersen,10,54,Fulham
-318,232892,Calvin,Bassey,10,54,Fulham
-319,166477,Timothy,Castagne,10,54,Fulham
-320,219924,Issa,Diop,10,54,Fulham
-321,246301,Jorge,Cuenca Barreno,10,54,Fulham
-322,167074,Kenny,Tete,10,54,Fulham
-323,591385,Samuel,Amissah,10,54,Fulham
-324,153133,Alex,Iwobi,10,54,Fulham
-325,209289,Emile,Smith Rowe,10,54,Fulham
-327,156689,Andreas,Hoelgebaum Pereira,10,54,Fulham
-328,184349,Ryan,Sessegnon,10,54,Fulham
-329,153682,Harry,Wilson,10,54,Fulham
-330,207189,Sander,Berge,10,54,Fulham
-331,76357,Tom,Cairney,10,54,Fulham
-332,212314,Saša,Lukić,10,54,Fulham
-333,573062,Martial,Godo,10,54,Fulham
-334,515024,Luke,Harris,10,54,Fulham
-335,577725,Josh,King,10,54,Fulham
-336,153366,Harrison,Reed,10,54,Fulham
-337,102057,Raúl,Jiménez Rodríguez,10,54,Fulham
-338,244042,Rodrigo,Muniz Carvalho,10,54,Fulham
-424,477555,Oscar,Bobb,10,54,Fulham
-664,86873,Benjamin,Lecomte,10,54,Fulham
-727,218328,Samuel,Chukwueze,10,54,Fulham
-731,560552,Kevin,Santos Lopes de Macedo,10,54,Fulham
-737,631786,Jonah,Kusi-Asare,10,54,Fulham
-770,619536,Seth,Ridgeon,10,54,Fulham
-786,505079,Alfie,McNally,10,54,Fulham
-168,536916,Facundo,Buonanotte,11,2,Leeds
-339,437495,Illan,Meslier,11,2,Leeds
-340,97846,Alex,Cairns,11,2,Leeds
-341,59735,Karl,Darlow,11,2,Leeds
-342,226182,Jayden,Bogle,11,2,Leeds
-343,222694,Pascal,Struijk,11,2,Leeds
-344,434752,Jaka,Bijol,11,2,Leeds
-345,437738,Sebastiaan,Bornauw,11,2,Leeds
-346,113564,Sam,Byram,11,2,Leeds
-347,243526,Gabriel,Gudmundsson,11,2,Leeds
-348,214225,Joe,Rodon,11,2,Leeds
-349,492368,Isaac,Schmidt,11,2,Leeds
-350,427637,Brenden,Aaronson,11,2,Leeds
-351,492859,Wilfried,Gnonto,11,2,Leeds
-352,221399,Jack,Harrison,11,2,Leeds
-353,200617,Daniel,James,11,2,Leeds
-354,199598,Ethan,Ampadu,11,2,Leeds
-355,248937,Sam,Greenwood,11,2,Leeds
-356,486520,Ilia,Gruev,11,2,Leeds
-357,433952,Largie,Ramazani,11,2,Leeds
-358,248056,Tanaka,Ao,11,2,Leeds
-359,536119,Charlie,Crew,11,2,Leeds
-360,462635,Joe,Gelhardt,11,2,Leeds
-361,470294,Darko,Gyabi,11,2,Leeds
-362,235826,Joël,Piroe,11,2,Leeds
-363,106617,Patrick,Bamford,11,2,Leeds
-364,565297,Mateo,Joseph Fernández-Regatillo,11,2,Leeds
-365,174594,Lukas,Nmecha,11,2,Leeds
-493,180135,Sean,Longstaff,11,2,Leeds
-660,466525,Anton,Stach,11,2,Leeds
-665,201595,Lucas Estella,Perri,11,2,Leeds
-691,177815,Dominic,Calvert-Lewin,11,2,Leeds
-698,435997,Noah,Okafor,11,2,Leeds
-706,220627,James,Justin,11,2,Leeds
-741,600882,Harry,Gray,11,2,Leeds
-787,565863,Sam,Chambers,11,2,Leeds
-837,643970,Jayden,Lienou,11,2,Leeds
-838,577978,Rhys,Chadwick,11,2,Leeds
-839,592740,Alfie,Cresswell,11,2,Leeds
-366,116535,Alisson,Becker,12,14,Liverpool
-367,449027,Giorgi,Mamardashvili,12,14,Liverpool
-368,586268,Ármin,Pécsi,12,14,Liverpool
-369,155503,Freddie,Woodman,12,14,Liverpool
-370,216094,Jeremie,Frimpong,12,14,Liverpool
-371,544877,Milos,Kerkez,12,14,Liverpool
-372,122798,Andrew,Robertson,12,14,Liverpool
-373,97032,Virgil,van Dijk,12,14,Liverpool
-374,204716,Ibrahima,Konaté,12,14,Liverpool
-375,492777,Conor,Bradley,12,14,Liverpool
-376,171287,Joe,Gomez,12,14,Liverpool
-377,214285,Konstantinos,Tsimikas,12,14,Liverpool
-378,611926,Amara,Nallo,12,14,Liverpool
-379,219937,Rhys,Williams,12,14,Liverpool
-380,489580,Calvin,Ramsay,12,14,Liverpool
-381,118748,Mohamed,Salah,12,14,Liverpool
-382,494595,Florian,Wirtz,12,14,Liverpool
-383,244731,Luis,Díaz Marulanda,12,14,Liverpool
-384,243298,Cody,Gakpo,12,14,Liverpool
-385,223541,Federico,Chiesa,12,14,Liverpool
-386,243016,Alexis,Mac Allister,12,14,Liverpool
-387,424876,Dominik,Szoboszlai,12,14,Liverpool
-388,206915,Curtis,Jones,12,14,Liverpool
-390,441266,Ryan,Gravenberch,12,14,Liverpool
-392,158983,Endo,Wataru,12,14,Liverpool
-393,535928,Stefan,Bajčetić Maquieira,12,14,Liverpool
-394,491501,James,McConnell,12,14,Liverpool
-395,440148,Tyler,Morton,12,14,Liverpool
-396,591386,Trey,Nyoni,12,14,Liverpool
-397,447203,Darwin,Núñez Ribeiro,12,14,Liverpool
-398,500058,Jayden,Danns,12,14,Liverpool
-499,219168,Alexander,Isak,12,14,Liverpool
-661,510663,Hugo,Ekitiké,12,14,Liverpool
-686,611922,Rio,Ngumoha,12,14,Liverpool
-692,647681,Giovanni,Leoni,12,14,Liverpool
-746,596042,Kieran,Morrison,12,14,Liverpool
-760,519440,Wellity,Lucky,12,14,Liverpool
-830,677945,Will,Wright,12,14,Liverpool
-832,718875,Talla,Ndiaye,12,14,Liverpool
-82,437730,Antoine,Semenyo,13,43,Man City
-182,432720,James,Trafford,13,43,Man City
-260,209036,Marc,Guéhi,13,43,Man City
-399,121160,Ederson,Santana de Moraes,13,43,Man City
-401,122074,Marcus,Bettinelli,13,43,Man City
-402,448514,Rayan,Aït-Nouri,13,43,Man City
-403,477424,Joško,Gvardiol,13,43,Man City
-404,211975,Manuel,Akanji,13,43,Man City
-405,126184,Nathan,Aké,13,43,Man City
-406,578153,Abdukodir,Khusanov,13,43,Man City
-407,465351,Matheus,Nunes,13,43,Man City
-408,171314,Rúben,dos Santos Gato Alves Dias,13,43,Man City
-409,97299,John,Stones,13,43,Man City
-410,477064,Rico,Lewis,13,43,Man City
-411,472769,Nico,O'Reilly,13,43,Man City
-412,616222,Vitor,de Oliveira Nunes dos Reis,13,43,Man City
-413,438234,Omar,Marmoush,13,43,Man City
-414,209244,Phil,Foden,13,43,Man City
-415,510281,Sávio,Moreira de Oliveira,13,43,Man City
-416,165809,Bernardo,Mota Veiga de Carvalho e Silva,13,43,Man City
-417,466052,Rayan,Cherki,13,43,Man City
-418,248875,Jérémy,Doku,13,43,Man City
-420,59859,İlkay,Gündoğan,13,43,Man City
-421,220566,Rodrigo 'Rodri',Hernandez Cascante,13,43,Man City
-422,91651,Mateo,Kovačić,13,43,Man City
-423,465694,Nico,González Iglesias,13,43,Man City
-425,575204,Claudio,Echeverri,13,43,Man City
-427,433036,Tijjani,Reijnders,13,43,Man City
-428,566164,Sverre,Nypan,13,43,Man City
-429,155405,Kalvin,Phillips,13,43,Man City
-430,223094,Erling,Haaland,13,43,Man City
-736,204936,Gianluigi,Donnarumma,13,43,Man City
-739,590039,Divine,Mukasa,13,43,Man City
-740,566213,Stephen,Mfuni,13,43,Man City
-742,616288,Ryan,McAidoo,13,43,Man City
-763,516234,Charlie,Gray,13,43,Man City
-764,580921,Reigan,Heskey,13,43,Man City
-794,494307,Max,Alleyne,13,43,Man City
-119,446008,Bryan,Mbeumo,14,1,Man Utd
-431,451302,Altay,Bayındır,14,1,Man Utd
-432,202641,André,Onana,14,1,Man Utd
-433,588555,Elyh,Harrison,14,1,Man Utd
-434,21205,Tom,Heaton,14,1,Man Utd
-435,461537,Dermot,Mee,14,1,Man Utd
-436,209365,Matthijs,de Ligt,14,1,Man Utd
-437,221820,Lisandro,Martínez,14,1,Man Utd
-438,230001,Noussair,Mazraoui,14,1,Man Utd
-439,661712,Diego,León Blanco,14,1,Man Utd
-440,216051,Diogo,Dalot Teixeira,14,1,Man Utd
-441,596777,Patrick,Dorgu,14,1,Man Utd
-442,95658,Harry,Maguire,14,1,Man Utd
-443,106760,Luke,Shaw,14,1,Man Utd
-444,550864,Leny,Yoro,14,1,Man Utd
-445,577974,Harry,Amass,14,1,Man Utd
-446,547676,Tyler,Fredricson,14,1,Man Utd
-447,606745,Ayden,Heaven,14,1,Man Utd
-448,222690,Tyrell,Malacia,14,1,Man Utd
-449,141746,Bruno,Borges Fernandes,14,1,Man Utd
-450,430871,Matheus,Santos Carneiro da Cunha,14,1,Man Utd
-451,176297,Marcus,Rashford,14,1,Man Utd
-452,493250,Amad,Diallo,14,1,Man Utd
-454,467169,Antony,dos Santos,14,1,Man Utd
-455,184341,Mason,Mount,14,1,Man Utd
-457,61256,Carlos Henrique,Casimiro,14,1,Man Utd
-458,516895,Kobbie,Mainoo,14,1,Man Utd
-459,232112,Manuel,Ugarte Ribeiro,14,1,Man Utd
-460,490881,Toby,Collyer,14,1,Man Utd
-461,556639,Jayce,Fitzgerald,14,1,Man Utd
-462,547037,Jack,Fletcher,14,1,Man Utd
-463,618873,Sékou,Koné,14,1,Man Utd
-464,559684,Jack,Moorhouse,14,1,Man Utd
-465,497894,Rasmus,Højlund,14,1,Man Utd
-466,458249,Joshua,Zirkzee,14,1,Man Utd
-467,596047,Chido,Obi,14,1,Man Utd
-468,575034,Ethan,Wheatley,14,1,Man Utd
-681,485711,Benjamin,Sesko,14,1,Man Utd
-733,465247,Senne,Lammens,14,1,Man Utd
-755,576628,Shea,Lacey,14,1,Man Utd
-769,576620,Bendito,Mantato,14,1,Man Utd
-771,519913,Tyler,Fletcher,14,1,Man Utd
-788,576637,Godwill,Kukonki,14,1,Man Utd
-827,576634,Jim,Thwaites,14,1,Man Utd
-52,232653,Jacob,Ramsey,15,4,Newcastle
-135,216646,Yoane,Wissa,15,4,Newcastle
-469,98747,Nick,Pope,15,4,Newcastle
-471,81441,Mark,Gillespie,15,4,Newcastle
-472,111452,Odysseas,Vlachodimos,15,4,Newcastle
-473,487838,Lewis,Hall,15,4,Newcastle
-474,119471,Fabian,Schär,15,4,Newcastle
-475,220237,Sven,Botman,15,4,Newcastle
-476,78916,Dan,Burn,15,4,Newcastle
-477,441191,Tino,Livramento,15,4,Newcastle
-478,77794,Kieran,Trippier,15,4,Newcastle
-479,111773,Emil,Krafth,15,4,Newcastle
-480,101148,Jamaal,Lascelles,15,4,Newcastle
-481,545477,Alex,Murphy,15,4,Newcastle
-482,441024,Harrison,Ashby,15,4,Newcastle
-483,578512,Miodrag,Pivaš,15,4,Newcastle
-484,169359,Matt,Targett,15,4,Newcastle
-485,232826,Anthony,Gordon,15,4,Newcastle
-486,449434,Anthony,Elanga,15,4,Newcastle
-487,201666,Harvey,Barnes,15,4,Newcastle
-488,208706,Bruno,Guimarães Rodriguez Moura,15,4,Newcastle
-489,114243,Jacob,Murphy,15,4,Newcastle
-490,180974,Joelinton Cássio,Apolinário de Lira,15,4,Newcastle
-491,432422,Sandro,Tonali,15,4,Newcastle
-492,640108,Antoñito,Cordero Campillo,15,4,Newcastle
-494,200089,Joe,Willock,15,4,Newcastle
-495,153127,Isaac,Hayden,15,4,Newcastle
-496,564510,Garang,Kuol,15,4,Newcastle
-497,547719,Lewis,Miley,15,4,Newcastle
-498,461484,Joe,White,15,4,Newcastle
-500,538207,William,Osula,15,4,Newcastle
-501,599303,Sean,Neave,15,4,Newcastle
-674,225321,Aaron,Ramsdale,15,4,Newcastle
-684,465642,Malick,Thiaw,15,4,Newcastle
-689,623110,Seung-Soo,Park,15,4,Newcastle
-714,470313,Nick,Woltemade,15,4,Newcastle
-753,19236,John,Ruddy,15,4,Newcastle
-765,553746,Leo,Shahar,15,4,Newcastle
-772,666607,Sam,Alabi,15,4,Newcastle
-12,206325,Oleksandr,Zinchenko,16,17,Nott'm Forest
-400,88248,Stefan,Ortega Moreno,16,17,Nott'm Forest
-426,432714,James,McAtee,16,17,Nott'm Forest
-502,85633,Matz,Sels,16,17,Nott'm Forest
-503,475123,Carlos Miguel,dos Santos Pereira,16,17,Nott'm Forest
-504,224068,Matt,Turner,16,17,Nott'm Forest
-505,227444,Nikola,Milenković,16,17,Nott'm Forest
-506,575476,Murillo,Costa dos Santos,16,17,Nott'm Forest
-507,159506,Ola,Aina,16,17,Nott'm Forest
-508,215136,Neco,Williams,16,17,Nott'm Forest
-509,451432,David,Mota Veiga Teixeira do Carmo,16,17,Nott'm Forest
-510,575458,Jair,Paula da Cunha Filho,16,17,Nott'm Forest
-511,485047,Felipe,Rodrigues da Silva,16,17,Nott'm Forest
-512,204822,Omar,Richards,16,17,Nott'm Forest
-513,549067,Zach,Abbott,16,17,Nott'm Forest
-514,90585,Willy,Boly,16,17,Nott'm Forest
-515,222531,Morgan,Gibbs-White,16,17,Nott'm Forest
-516,209046,Callum,Hudson-Odoi,16,17,Nott'm Forest
-517,215379,Elliot,Anderson,16,17,Nott'm Forest
-518,510500,João Pedro,Ferreira da Silva,16,17,Nott'm Forest
-519,250199,Nicolás,Domínguez,16,17,Nott'm Forest
-520,243345,Lewis,O'Brien,16,17,Nott'm Forest
-521,210462,Ibrahim,Sangaré,16,17,Nott'm Forest
-522,204968,Ryan,Yates,16,17,Nott'm Forest
-523,569014,Eric,da Silva Moreira,16,17,Nott'm Forest
-524,495161,Marko,Stamenić,16,17,Nott'm Forest
-525,60689,Chris,Wood,16,17,Nott'm Forest
-526,482973,Igor Jesus,Maciel da Cruz,16,17,Nott'm Forest
-527,210156,Taiwo,Awoniyi,16,17,Nott'm Forest
-669,456512,Dan,Ndoye,16,17,Nott'm Forest
-675,107265,Angus,Gunn,16,17,Nott'm Forest
-693,503301,Omari,Hutchinson,16,17,Nott'm Forest
-696,465680,Arnaud,Kalimuendo,16,17,Nott'm Forest
-715,221389,John Victor,Maciel Furtado,16,17,Nott'm Forest
-716,500151,Nicolò,Savona,16,17,Nott'm Forest
-729,560441,Luis Eduardo,Soares da Silva,16,17,Nott'm Forest
-734,476887,Dilane,Bakwa,16,17,Nott'm Forest
-805,469130,Lorenzo,Lucca,16,17,Nott'm Forest
-814,470315,Luca,Netz,16,17,Nott'm Forest
-835,568159,Archie,Whitehall,16,17,Nott'm Forest
-836,590040,Jimmy,Sinclair,16,17,Nott'm Forest
-841,687076,Lamin,Sillah,16,17,Nott'm Forest
-528,232571,Anthony,Patterson,17,56,Sunderland
-529,74854,Simon,Moore,17,56,Sunderland
-530,490000,Blondy,Nna Noukeu,17,56,Sunderland
-531,223827,Daniel,Ballard,17,56,Sunderland
-532,487676,Trai,Hume,17,56,Sunderland
-533,220684,Aji,Alese,17,56,Sunderland
-534,232820,Joe,Anderson,17,56,Sunderland
-535,461195,Dennis,Cirkin,17,56,Sunderland
-536,477547,Leo Fuhr,Hjelde,17,56,Sunderland
-537,492066,Niall,Huggins,17,56,Sunderland
-538,514613,Zak,Johnson,17,56,Sunderland
-539,167512,Luke,O'Nien,17,56,Sunderland
-540,465702,Timothée,Pembélé,17,56,Sunderland
-541,434399,Reinildo,Mandava,17,56,Sunderland
-542,519634,Jenson,Seelt,17,56,Sunderland
-543,535818,Simon,Adingra,17,56,Sunderland
-544,547027,Habib,Diarra,17,56,Sunderland
-545,124165,Patrick,Roberts,17,56,Sunderland
-546,626844,Milan,Aleksić,17,56,Sunderland
-547,484420,Enzo,Le Fée,17,56,Sunderland
-548,461199,Romaine,Mundle,17,56,Sunderland
-549,223336,Dan,Neil,17,56,Sunderland
-550,215460,Ian,Poveda-Ocampo,17,56,Sunderland
-551,554197,Chris,Rigg,17,56,Sunderland
-552,577669,Noah,Sadiki,17,56,Sunderland
-553,549912,Chemsdine,Talbi,17,56,Sunderland
-554,477851,Abdoullah,Ba,17,56,Sunderland
-555,171422,Alan,Browne,17,56,Sunderland
-556,458297,Pierre,Ekwah Elimby,17,56,Sunderland
-557,547410,Harrison,Jones,17,56,Sunderland
-558,493837,Jay,Matete,17,56,Sunderland
-559,500696,Nectarios,Triantis,17,56,Sunderland
-560,437505,Wilson,Isidor,17,56,Sunderland
-561,564406,Eliezer,Mayenda Dossou,17,56,Sunderland
-562,611975,Ahmed,Abdullahi,17,56,Sunderland
-563,551153,Luís Hemir,Silva Semedo,17,56,Sunderland
-564,440955,Nazarii,Rusyn,17,56,Sunderland
-668,84450,Granit,Xhaka,17,56,Sunderland
-670,498016,Robin,Roefs,17,56,Sunderland
-678,105717,Arthur,Masuaku,17,56,Sunderland
-683,201895,Omar,Alderete,17,56,Sunderland
-694,200834,Nordi,Mukiele,17,56,Sunderland
-724,247955,Lutsharel,Geertruida,17,56,Sunderland
-730,441264,Brian,Brobbey,17,56,Sunderland
-735,110504,Bertrand,Traoré,17,56,Sunderland
-774,232356,Jenson,Jones,17,56,Sunderland
-775,604211,Tymur,Tutierov,17,56,Sunderland
-800,699989,Djiamgone Jocelin Ta,Bi,17,56,Sunderland
-812,515046,Melker,Ellborg,17,56,Sunderland
-813,536661,Nilson,Angulo,17,56,Sunderland
-821,570929,Jack,Whittaker,17,56,Sunderland
-822,571087,Jaydon,Jones,17,56,Sunderland
-565,184254,Guglielmo,Vicario,18,6,Spurs
-566,214572,Brandon,Austin,18,6,Spurs
-567,485055,Antonín,Kinský,18,6,Spurs
-568,441164,Pedro,Porro Sauceda,18,6,Spurs
-569,221632,Cristian,Romero,18,6,Spurs
-570,135720,Kevin,Danso,18,6,Spurs
-571,115556,Ben,Davies,18,6,Spurs
-572,493125,Radu,Drăgușin,18,6,Spurs
-573,232859,Djed,Spence,18,6,Spurs
-574,487053,Destiny,Udogie,18,6,Spurs
-575,491279,Micky,van de Ven,18,6,Spurs
-576,548308,Ashley,Phillips,18,6,Spurs
-577,553299,Takai,Kōta,18,6,Spurs
-578,610799,Luka,Vušković,18,6,Spurs
-579,85971,Son,Heung-min,18,6,Spurs
-581,172780,James,Maddison,18,6,Spurs
-582,460842,Mohammed,Kudus,18,6,Spurs
-583,445044,Dejan,Kulusevski,18,6,Spurs
-584,511499,Mathys,Tel,18,6,Spurs
-585,202993,Rodrigo,Bentancur,18,6,Spurs
-586,570526,Lucas,Bergvall,18,6,Spurs
-587,227127,Yves,Bissouma,18,6,Spurs
-588,550839,Wilson,Odobert,18,6,Spurs
-589,235674,Manor,Solomon,18,6,Spurs
-590,436234,Bryan,Gil Salvatierra,18,6,Spurs
-591,547701,Archie,Gray,18,6,Spurs
-592,499721,Mikey,Moore,18,6,Spurs
-593,482442,Pape Matar,Sarr,18,6,Spurs
-594,623095,Yang,Min-hyeok,18,6,Spurs
-595,499726,Callum,Olusesi,18,6,Spurs
-596,154566,Dominic,Solanke-Mitchell,18,6,Spurs
-597,212319,Richarlison,de Andrade,18,6,Spurs
-598,552427,Will,Lankshear,18,6,Spurs
-599,490145,Dane,Scarlett,18,6,Spurs
-673,154296,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,18,6,Spurs
-717,493362,Xavi,Simons,18,6,Spurs
-726,247693,Randal,Kolo Muani,18,6,Spurs
-745,640419,Jun'ai,Byfield,18,6,Spurs
-750,499716,James,Rowswell,18,6,Spurs
-751,590035,Yusuf,Akhamrich,18,6,Spurs
-790,611917,Lucá,Williams-Barnett,18,6,Spurs
-796,232787,Conor,Gallagher,18,6,Spurs
-804,616221,João Victor,de Souza Menezes,18,6,Spurs
-811,536134,Rio,Kyerematen,18,6,Spurs
-818,613232,James,Wilson,18,6,Spurs
-326,159533,Adama,Traoré Diarra,19,21,West Ham
-600,84182,Alphonse,Areola,19,21,West Ham
-601,82143,Wes,Foderingham,19,21,West Ham
-602,483364,Krisztián,Hegyi,19,21,West Ham
-603,613804,El Hadji Malick,Diouf,19,21,West Ham
-604,109533,Emerson,Palmieri dos Santos,19,21,West Ham
-605,214048,Maximilian,Kilman,19,21,West Ham
-606,233963,Konstantinos,Mavropanos,19,21,West Ham
-607,210494,Nayef,Aguerd,19,21,West Ham
-608,536109,Ollie,Scarles,19,21,West Ham
-609,462116,Jean-Clair,Todibo,19,21,West Ham
-610,214590,Aaron,Wan-Bissaka,19,21,West Ham
-611,518438,Kaelan,Casey,19,21,West Ham
-612,224024,Lucas,Tolentino Coelho de Lima,19,21,West Ham
-613,215439,Tomáš,Souček,19,21,West Ham
-615,450070,Crysencio,Summerville,19,21,West Ham
-616,213999,Edson,Álvarez Velázquez,19,21,West Ham
-617,149519,Maxwel,Cornet,19,21,West Ham
-618,197024,Guido,Rodríguez,19,21,West Ham
-619,577114,Luis Guilherme,Lira dos Santos,19,21,West Ham
-620,490885,George,Earthy,19,21,West Ham
-621,229384,Andy,Irving,19,21,West Ham
-622,518442,Lewis,Orford,19,21,West Ham
-623,490142,Freddie,Potts,19,21,West Ham
-624,178186,Jarrod,Bowen,19,21,West Ham
-625,91889,Niclas,Füllkrug,19,21,West Ham
-626,565431,Callum,Marshall,19,21,West Ham
-659,158534,Kyle,Walker-Peters,19,21,West Ham
-671,75115,Callum,Wilson,19,21,West Ham
-679,467189,Mads,Hermansen,19,21,West Ham
-708,551226,Mateus Gonçalo,Espanha Fernandes,19,21,West Ham
-718,564940,Soungoutou,Magassa,19,21,West Ham
-738,37096,Lukasz,Fabianski,19,21,West Ham
-747,602903,Ezra,Mayers,19,21,West Ham
-752,643473,Airidas,Golambeckis,19,21,West Ham
-758,630699,Mohamadou,Kanté,19,21,West Ham
-785,530335,Pablo Felipe,Pereira de Jesus,19,21,West Ham
-791,247670,Valentín,Castellanos,19,21,West Ham
-802,572702,Keiber,Lamadrid,19,21,West Ham
-815,220362,Axel,Disasi,19,21,West Ham
-825,553742,Finlay,Herrick,19,21,West Ham
-627,101982,Sam,Johnstone,20,39,Wolves
-628,149065,José,Malheiro de Sá,20,39,Wolves
-629,79602,Daniel,Bentley,20,39,Wolves
-631,516939,Emmanuel,Agbadou,20,39,Wolves
-632,87835,Matt,Doherty,20,39,Wolves
-633,490721,Hugo,Bueno López,20,39,Wolves
-634,501837,Yerson,Mosquera Valdelamar,20,39,Wolves
-635,483081,Rodrigo,Martins Gomes,20,39,Wolves
-636,231480,Santiago,Ignacio Bueno,20,39,Wolves
-637,510362,Toti,Gomes,20,39,Wolves
-638,441271,Ki-Jana,Hoever,20,39,Wolves
-639,560248,Bastien,Meupiyou Menadjou,20,39,Wolves
-640,641221,Pedro,Cardoso de Lima,20,39,Wolves
-641,517179,Alfie,Pond,20,39,Wolves
-642,184754,Hwang,Hee-chan,20,39,Wolves
-643,509291,André,Trindade da Costa Neto,20,39,Wolves
-644,231057,Jean-Ricner,Bellegarde,20,39,Wolves
-645,643135,Fer,López González,20,39,Wolves
-646,448089,João Victor,Gomes da Silva,20,39,Wolves
-647,181284,Gonçalo Manuel,Ganchinho Guedes,20,39,Wolves
-648,433312,Marshall,Munetsi,20,39,Wolves
-649,476502,Boubacar,Traoré,20,39,Wolves
-650,497606,Tawanda,Chirewa,20,39,Wolves
-651,596054,Tom,Edozie,20,39,Wolves
-652,593001,Enso,González Medina,20,39,Wolves
-653,240299,Joe,Hodge,20,39,Wolves
-655,449988,Fábio,Soares Silva,20,39,Wolves
-656,429414,Saša,Kalajdžić,20,39,Wolves
-657,589507,Leon,Chiwome,20,39,Wolves
-658,531363,Nathan,Fraser,20,39,Wolves
-663,230376,Jhon,Arias,20,39,Wolves
-682,497949,David,Møller Wolfe,20,39,Wolves
-695,523705,Jackson,Tchatchoua,20,39,Wolves
-709,431248,Ladislav,Krejcí,20,39,Wolves
-720,488213,Tolu,Arokodare,20,39,Wolves
-749,647671,Mateus,Mané,20,39,Wolves
-766,601956,Saheed,Olagunju,20,39,Wolves
-767,605319,Luke,Rawlings,20,39,Wolves
-777,514362,Temple,Ojinnaka,20,39,Wolves
-778,589121,Ethan,Sutherland,20,39,Wolves
-809,685628,Jerome,Abbey,20,39,Wolves
-816,209041,Angel,Gomes,20,39,Wolves
-817,155511,Adam,Armstrong,20,39,Wolves
-828,491460,Alfie,Brooks,20,39,Wolves
-831,627888,Josh,Gracey,20,39,Wolves
+id,code,first_name,second_name,team,team_name,element_type
+1,154561,David,Raya Martín,1,Arsenal,1
+2,109745,Kepa,Arrizabalaga Revuelta,1,Arsenal,1
+3,463748,Karl,Hein,1,Arsenal,1
+4,551221,Tommy,Setford,1,Arsenal,1
+5,226597,Gabriel,dos Santos Magalhães,1,Arsenal,2
+6,462424,William,Saliba,1,Arsenal,2
+7,466075,Riccardo,Calafiori,1,Arsenal,2
+8,445122,Jurriën,Timber,1,Arsenal,2
+9,440854,Jakub,Kiwior,1,Arsenal,2
+10,499169,Myles,Lewis-Skelly,1,Arsenal,2
+11,198869,Benjamin,White,1,Arsenal,2
+13,563324,Brayden,Clarke,1,Arsenal,2
+14,588793,Maldini,Kacurri,1,Arsenal,2
+15,499167,Josh,Nichols,1,Arsenal,2
+16,223340,Bukayo,Saka,1,Arsenal,3
+17,184029,Martin,Ødegaard,1,Arsenal,3
+18,248857,Noni,Madueke,1,Arsenal,3
+19,444145,Gabriel,Martinelli Silva,1,Arsenal,3
+20,116216,Leandro,Trossard,1,Arsenal,3
+21,204480,Declan,Rice,1,Arsenal,3
+22,195384,Mikel,Merino Zazón,1,Arsenal,3
+23,438098,Fábio,Ferreira Vieira,1,Arsenal,3
+24,128295,Christian,Nørgaard,1,Arsenal,3
+25,499175,Ethan,Nwaneri,1,Arsenal,3
+26,481655,Martín,Zubimendi Ibáñez,1,Arsenal,3
+28,588796,Ismeal,Kabia,1,Arsenal,3
+29,437742,Albert,Sambi Lokonga,1,Arsenal,3
+30,219847,Kai,Havertz,1,Arsenal,4
+31,205651,Gabriel,Fernando de Jesus,1,Arsenal,4
+266,232413,Eberechi,Eze,1,Arsenal,3
+662,500040,Cristhian,Mosquera,1,Arsenal,2
+666,224117,Viktor,Gyökeres,1,Arsenal,4
+700,616077,Max,Dowman,1,Arsenal,3
+711,646243,Andre,Harriman-Annous,1,Arsenal,3
+725,448104,Piero,Hincapié,1,Arsenal,2
+759,616065,Marli,Salmon,1,Arsenal,2
+32,98980,Emiliano,Martínez Romero,2,Aston Villa,1
+33,72147,Marco,Bizot,2,Aston Villa,1
+34,462492,Joe,Gauci,2,Aston Villa,1
+35,462381,Filip,Marschall,2,Aston Villa,1
+36,199796,Matty,Cash,2,Aston Villa,2
+37,101188,Lucas,Digne,2,Aston Villa,2
+38,199798,Ezri,Konsa Ngoyo,2,Aston Villa,2
+39,441302,Ian,Maatsen,2,Aston Villa,2
+40,149484,Tyrone,Mings,2,Aston Villa,2
+41,244954,Pau,Torres,2,Aston Villa,2
+42,606798,Andrés,García,2,Aston Villa,2
+43,106468,Álex,Moreno Lopera,2,Aston Villa,2
+44,515597,Lamare,Bogarde,2,Aston Villa,2
+45,514315,Lino,da Cruz Sousa,2,Aston Villa,2
+46,587178,Yasin,Özcan,2,Aston Villa,2
+47,244850,Morgan,Rogers,2,Aston Villa,3
+48,166989,Youri,Tielemans,2,Aston Villa,3
+49,215711,Leon,Bailey,2,Aston Villa,3
+50,195546,Emiliano,Buendía Stati,2,Aston Villa,3
+51,469247,Samuel,Iling-Junior,2,Aston Villa,3
+53,204646,Donyell,Malen,2,Aston Villa,3
+54,122806,John,McGinn,2,Aston Villa,3
+55,88894,Ross,Barkley,2,Aston Villa,3
+56,491287,Enzo,Barrenechea,2,Aston Villa,3
+57,461421,Lewis,Dobbin,2,Aston Villa,3
+58,226944,Boubacar,Kamara,2,Aston Villa,3
+59,449871,Amadou,Onana,2,Aston Villa,3
+60,577731,Ben,Broggio,2,Aston Villa,3
+61,151589,Leander,Dendoncker,2,Aston Villa,3
+62,559962,Jamaldeen,Jimoh-Aloba,2,Aston Villa,3
+63,537403,Kadan,Young,2,Aston Villa,3
+64,178301,Ollie,Watkins,2,Aston Villa,4
+65,576756,Zépiqueno,Redmond,2,Aston Villa,4
+389,444884,Harvey,Elliott,2,Aston Villa,3
+456,209243,Jadon,Sancho,2,Aston Villa,3
+688,481283,James,Wright,2,Aston Villa,1
+699,230046,Douglas Luiz,Soares de Paulo,2,Aston Villa,3
+701,569577,Triston,Rowe,2,Aston Villa,2
+702,645618,Bradley,Burrowes,2,Aston Villa,3
+703,564505,Sam,Proctor,2,Aston Villa,1
+710,534836,Travis,Patterson,2,Aston Villa,2
+719,184667,Victor,Lindelöf,2,Aston Villa,2
+754,577285,George,Hemmings,2,Aston Villa,3
+757,516875,Ronnie,Hollingshead,2,Aston Villa,1
+768,664015,Leon,Routh,2,Aston Villa,2
+781,618027,TJ,Carroll,2,Aston Villa,2
+792,653481,Alysson Edward Franco,da Rocha dos Santos,2,Aston Villa,3
+808,173879,Tammy,Abraham,2,Aston Villa,4
+183,518030,Max,Weiß,3,Burnley,1
+184,489571,Etienne,Green,3,Burnley,1
+185,51943,Václav,Hladký,3,Burnley,1
+186,192290,Connor,Roberts,3,Burnley,2
+187,58621,Kyle,Walker,3,Burnley,2
+188,247245,Hannes,Delcroix,3,Burnley,2
+189,461567,Owen,Dodgson,3,Burnley,2
+190,478969,Hjalmar,Ekdal,3,Burnley,2
+191,477717,Maxime,Estève,3,Burnley,2
+192,494960,Quilindschy,Hartman,3,Burnley,2
+193,461188,Bashir,Humphreys,3,Burnley,2
+194,241231,Jordan,Beyer,3,Burnley,2
+195,549329,Lucas,Pires Silva,3,Burnley,2
+196,450072,Shurandy,Sambo,3,Burnley,2
+197,519895,Oliver,Sonne,3,Burnley,2
+198,180804,Axel,Tuanzebe,3,Burnley,2
+199,208912,Joe,Worrall,3,Burnley,2
+200,444180,Jaidon,Anthony,3,Burnley,3
+201,183751,Manuel,Benson Hedilazio,3,Burnley,3
+202,179458,Jacob,Bruun Larsen,3,Burnley,3
+203,578614,Enock,Agyei,3,Burnley,3
+204,250735,Darko,Churlinov,3,Burnley,3
+205,172567,Josh,Cullen,3,Burnley,3
+206,174592,Marcus,Edwards,3,Burnley,3
+207,465527,Hannibal,Mejbri,3,Burnley,3
+208,487702,Luca,Koleosho,3,Burnley,3
+209,167887,Josh,Laurent,3,Burnley,3
+210,469272,Loum,Tchaouna,3,Burnley,3
+211,447715,Aaron,Ramsey,3,Burnley,3
+212,576323,Oluwaseun,Adewumi,3,Burnley,3
+213,551206,Jaydon,Banel,3,Burnley,3
+214,437748,Mike,Trésor Ndayishimiye,3,Burnley,3
+215,431639,Zian,Flemming,3,Burnley,4
+216,492831,Zeki,Amdouni,3,Burnley,4
+217,435973,Lyle,Foster,3,Burnley,4
+218,44699,Ashley,Barnes,3,Burnley,4
+219,220598,Michael,Obafemi,3,Burnley,4
+470,67089,Martin,Dúbravka,3,Burnley,1
+614,101178,James,Ward-Prowse,3,Burnley,3
+676,503714,Lesley,Ugochukwu,3,Burnley,3
+680,440323,Armando,Broja,3,Burnley,4
+722,216055,Florentino Ibrain,Morris Luís,3,Burnley,3
+776,647960,Oliver,Pimlott,3,Burnley,3
+784,704232,George,Brierley,3,Burnley,3
+820,644593,Kian,McMahon-Brown,3,Burnley,3
+66,69752,Norberto,Murara Neto,4,Bournemouth,1
+67,457569,Đorđe,Petrović,4,Bournemouth,1
+68,444172,Will,Dennis,4,Bournemouth,1
+69,568791,Callan,McKenna,4,Bournemouth,1
+70,495145,Alex,Paulsen,4,Bournemouth,1
+71,477580,Illia,Zabarnyi,4,Bournemouth,2
+72,221466,Marcos,Senesi Barón,4,Bournemouth,2
+73,54469,Adam,Smith,4,Bournemouth,2
+74,494521,Adrien,Truffert,4,Bournemouth,2
+75,541462,Matai,Akinmboni,4,Bournemouth,2
+76,518906,Owen,Bevan,4,Bournemouth,2
+77,463981,James,Hill,4,Bournemouth,2
+78,436893,Julián,Araujo Zúñiga,4,Bournemouth,2
+79,223911,Chris,Mepham,4,Bournemouth,2
+80,575901,Julio,Soler Barreto,4,Bournemouth,2
+81,222683,Justin,Kluivert,4,Bournemouth,3
+84,201658,Marcus,Tavernier,4,Bournemouth,3
+85,200785,Tyler,Adams,4,Bournemouth,3
+86,111317,David,Brooks,4,Bournemouth,3
+87,158499,Ryan,Christie,4,Bournemouth,3
+88,155408,Lewis,Cook,4,Bournemouth,3
+89,168991,Philip,Billing,4,Bournemouth,3
+90,503139,Alex,Scott,4,Bournemouth,3
+91,224995,Luis,Sinisterra Lucumí,4,Bournemouth,3
+92,441240,Romain,Faivre,4,Bournemouth,3
+93,424044,Hamed,Traorè,4,Bournemouth,3
+94,550596,Dominic,Sadi,4,Bournemouth,3
+95,530121,Zain,Silcott-Duberry,4,Bournemouth,3
+96,606775,Ben,Winterburn,4,Bournemouth,3
+97,444102,Francisco Evanilson,de Lima Barbosa,4,Bournemouth,4
+98,168636,Enes,Ünal,4,Bournemouth,4
+99,590760,Daniel,Adu-Adjei,4,Bournemouth,4
+100,560262,Junior,Kroupi,4,Bournemouth,4
+391,496208,Ben,Gannon-Doak,4,Bournemouth,3
+685,242882,Bafodé,Diakité,4,Bournemouth,2
+687,606774,Remy,Rees-Dottin,4,Bournemouth,3
+697,489888,Amine,Adli,4,Bournemouth,3
+713,551483,Álex,Jiménez Sánchez,4,Bournemouth,2
+721,620487,Veljko,Milosavljevic,4,Bournemouth,2
+756,678552,Malcom,DaCosta,4,Bournemouth,3
+782,40383,Fraser,Forster,4,Bournemouth,1
+799,658013,Charlie,Stevens,4,Bournemouth,3
+801,614574,Alex,Tóth,4,Bournemouth,3
+806,436416,Christos,Mandas,4,Bournemouth,1
+807,499604,Rayan Vitor,Simplício Rocha,4,Bournemouth,3
+27,200641,Reiss,Nelson,5,Brentford,3
+83,533463,Dango,Ouattara,5,Brentford,3
+101,200720,Caoimhín,Kelleher,5,Brentford,1
+102,235448,Ellery,Balcombe,5,Brentford,1
+103,503300,Matthew,Cox,5,Brentford,1
+104,535017,Julian,Eyestone,5,Brentford,1
+105,507433,Hákon Rafn,Valdimarsson,5,Brentford,1
+106,432830,Nathan,Collins,5,Brentford,2
+107,249231,Keane,Lewis-Potter,5,Brentford,2
+108,191866,Kristoffer,Ajer,5,Brentford,2
+109,194010,Rico,Henry,5,Brentford,2
+110,607464,Michael,Kayode,5,Brentford,2
+111,231065,Ethan,Pinnock,5,Brentford,2
+112,226956,Mads,Roerslev Rasmussen,5,Brentford,2
+113,444765,Sepp,van den Berg,5,Brentford,2
+114,622536,Benjamin,Arthur,5,Brentford,2
+115,612534,Benjamin,Fredrick,5,Brentford,2
+116,472713,Aaron,Hickey,5,Brentford,2
+117,570241,Kim,Ji-soo,5,Brentford,2
+118,499717,Jayden,Meghoma,5,Brentford,2
+120,513418,Kevin,Schade,5,Brentford,3
+121,440089,Mikkel,Damsgaard,5,Brentford,3
+122,543295,Antoni,Milambo,5,Brentford,3
+123,244858,Fábio,Freitas Gouveia Carvalho,5,Brentford,3
+124,56979,Jordan,Henderson,5,Brentford,3
+125,204580,Vitaly,Janelt,5,Brentford,3
+126,207283,Mathias,Jensen,5,Brentford,3
+127,626464,Gustavo,Nunes Fernandes Gomes,5,Brentford,3
+128,428580,Frank,Onyeka,5,Brentford,3
+129,508395,Yehor,Yarmoliuk,5,Brentford,3
+130,606689,Romelle,Donovan,5,Brentford,3
+131,628204,Yunus Emre,Konak,5,Brentford,3
+132,220695,Paris,Maghoma,5,Brentford,3
+133,450539,Myles,Peart-Harris,5,Brentford,3
+134,591357,Ryan,Trevitt,5,Brentford,3
+136,502500,Igor Thiago,Nascimento Rodrigues,5,Brentford,4
+137,533710,Iwan,Morgan,5,Brentford,4
+748,183656,Josh,Dasilva,5,Brentford,3
+797,593174,Kaye,Furo,5,Brentford,4
+810,559610,Luka,Bentt,5,Brentford,3
+819,494556,Ollie,Shield,5,Brentford,2
+823,649240,Joshua,Stephenson,5,Brentford,2
+824,587433,Conor,McManus,5,Brentford,2
+826,547671,Riley,Owen,5,Brentford,3
+138,49262,Jason,Steele,6,Brighton,1
+139,489639,Bart,Verbruggen,6,Brighton,1
+140,209288,Tom,McGill,6,Brighton,1
+141,472739,Carl,Rushworth,6,Brighton,1
+142,240514,Kjell,Scherpen,6,Brighton,1
+143,204120,Olivier,Boscagli,6,Brighton,2
+144,550090,Diego,Coppola,6,Brighton,2
+145,465730,Maxim,De Cuyper,6,Brighton,2
+146,83299,Lewis,Dunk,6,Brighton,2
+147,204214,Pervis,Estupiñán Tenorio,6,Brighton,2
+148,231416,Ferdi,Kadıoğlu,6,Brighton,2
+149,223434,Igor Julio,dos Santos de Paulo,6,Brighton,2
+150,232792,Tariq,Lamptey,6,Brighton,2
+151,469142,Jan Paul,van Hecke,6,Brighton,2
+152,111478,Joël,Veltman,6,Brighton,2
+153,110735,Adam,Webster,6,Brighton,2
+154,439135,Eiran,Cashin,6,Brighton,2
+155,589100,Jacob,Slater,6,Brighton,2
+156,547720,Charlie,Tasker,6,Brighton,2
+157,451340,Mitoma,Kaoru,6,Brighton,3
+158,463067,Georginio,Rutter,6,Brighton,3
+159,109345,Solly,March,6,Brighton,3
+160,592031,Yankuba,Minteh,6,Brighton,3
+161,474120,Julio,Enciso Espínola,6,Brighton,3
+162,513433,Brajan,Gruda,6,Brighton,3
+163,532529,Jack,Hinshelwood,6,Brighton,3
+164,219249,Matt,O'Riley,6,Brighton,3
+165,516211,Abdallah,Sima,6,Brighton,3
+166,509416,Yasin,Ayari,6,Brighton,3
+167,535301,Carlos,Baleba,6,Brighton,3
+169,514254,Diego,Gómez Amarilla,6,Brighton,3
+170,15157,James,Milner,6,Brighton,3
+171,441192,Jeremy,Sarmiento Morante,6,Brighton,3
+172,549074,Tom,Watson,6,Brighton,3
+173,467779,Mats,Wieffer,6,Brighton,3
+174,611695,Malick,Yalcouyé,6,Brighton,3
+175,567121,Joe,Knight,6,Brighton,3
+176,550141,Adrian,Mazilu,6,Brighton,3
+177,513834,Andrew,Moran,6,Brighton,3
+178,50175,Danny,Welbeck,6,Brighton,4
+179,487117,Evan,Ferguson,6,Brighton,4
+180,608181,Stefanos,Tzimas,6,Brighton,4
+181,647850,Charalampos,Kostoulas,6,Brighton,4
+744,556637,Nehemiah,Oriola,6,Brighton,3
+761,604988,Freddie,Simmonds,6,Brighton,2
+783,60307,Pascal,Groß,6,Brighton,3
+795,597320,Harry,Howell,6,Brighton,3
+220,215059,Robert,Lynch Sánchez,7,Chelsea,1
+221,508479,Filip,Jörgensen,7,Chelsea,1
+222,549939,Mike,Penders,7,Chelsea,1
+223,471798,Gabriel,Słonina,7,Chelsea,1
+224,179268,Marc,Cucurella Saseta,7,Chelsea,2
+225,225796,Reece,James,7,Chelsea,2
+226,180736,Trevoh,Chalobah,7,Chelsea,2
+227,460028,Levi,Samuels Colwill,7,Chelsea,2
+228,482609,Malo,Gusto,7,Chelsea,2
+229,242880,Benoît,Badiashile Mukinayi,7,Chelsea,2
+230,444463,Wesley,Fofana,7,Chelsea,2
+231,574458,Mamadou,Sarr,7,Chelsea,2
+232,109646,Tosin,Adarabioyo,7,Chelsea,2
+233,577016,Josh,Acheampong,7,Chelsea,2
+234,622758,Aarón,Anselmino,7,Chelsea,2
+235,244851,Cole,Palmer,7,Chelsea,3
+236,247632,Pedro,Lomba Neto,7,Chelsea,3
+237,448047,Enzo,Fernández,7,Chelsea,3
+238,624773,Estêvão,Almeida de Oliveira Gonçalves,7,Chelsea,3
+239,463936,Jamie,Bynoe-Gittens,7,Chelsea,3
+240,213198,Christopher,Nkunku,7,Chelsea,3
+241,486672,Moisés,Caicedo Corozo,7,Chelsea,3
+244,514356,Roméo,Lavia,7,Chelsea,3
+245,465920,Mykhailo,Mudryk,7,Chelsea,3
+246,532605,Andrey,Nascimento dos Santos,7,Chelsea,3
+247,491007,Dário,Luís Essugo,7,Chelsea,3
+248,611134,Kendry,Páez Andrade,7,Chelsea,3
+249,475168,João Pedro,Junqueira de Jesus,7,Chelsea,4
+250,463034,Liam,Delap,7,Chelsea,4
+251,517052,Nicolas,Jackson,7,Chelsea,4
+252,499309,Marc,Guiu Paz,7,Chelsea,4
+453,493105,Alejandro,Garnacho Ferreyra,7,Chelsea,3
+672,551210,Jorrel,Hato,7,Chelsea,2
+743,611912,Landon,Emenalo,7,Chelsea,3
+789,518335,Max,Merrick,7,Chelsea,1
+803,499857,Teddy,Sharman-Lowe,7,Chelsea,1
+829,619734,Jesse,Derry,7,Chelsea,3
+833,671606,Mathis,Eboué,7,Chelsea,3
+834,616286,Ryan,Kavuma-McQueen,7,Chelsea,3
+840,567119,Shumaira,Mheuka,7,Chelsea,4
+253,172649,Dean,Henderson,8,Crystal Palace,1
+254,121709,Walter,Benítez,8,Crystal Palace,1
+255,169593,Remi,Matthews,8,Crystal Palace,1
+256,247348,Daniel,Muñoz Mejía,8,Crystal Palace,2
+257,437499,Maxence,Lacroix,8,Crystal Palace,2
+258,244723,Tyrick,Mitchell,8,Crystal Palace,2
+259,218364,Borna,Sosa,8,Crystal Palace,2
+261,427623,Chris,Richards,8,Crystal Palace,2
+262,515621,Chadi,Riad Dnanou,8,Crystal Palace,2
+263,57328,Nathaniel,Clyne,8,Crystal Palace,2
+264,156074,Rob,Holding,8,Crystal Palace,2
+265,590012,Caleb,Kporha,8,Crystal Palace,2
+267,232185,Ismaïla,Sarr,8,Crystal Palace,3
+268,438464,Cheick,Doucouré,8,Crystal Palace,3
+269,606921,Romain,Esse,8,Crystal Palace,3
+270,108413,Will,Hughes,8,Crystal Palace,3
+271,209400,Daichi,Kamada,8,Crystal Palace,3
+272,152551,Jefferson,Lerma Solís,8,Crystal Palace,3
+273,496221,Adam,Wharton,8,Crystal Palace,3
+274,579075,Asher,Agbinone,8,Crystal Palace,3
+275,466117,Naouirou,Ahamada,8,Crystal Palace,3
+276,489706,Justin,Devenny,8,Crystal Palace,3
+277,450535,Malcolm,Ebiowei,8,Crystal Palace,3
+278,450542,Jesurun,Rak-Sakyi,8,Crystal Palace,3
+279,536694,Matheus,França de Oliveira,8,Crystal Palace,3
+280,531989,David,Ozoh,8,Crystal Palace,3
+281,530318,Kaden,Rodney,8,Crystal Palace,3
+282,574398,Franco,Umeh-Chibueze,8,Crystal Palace,3
+283,231747,Jean-Philippe,Mateta,8,Crystal Palace,4
+284,205533,Eddie,Nketiah,8,Crystal Palace,4
+285,199670,Odsonne,Édouard,8,Crystal Palace,4
+286,576980,Zach,Marsh,8,Crystal Palace,4
+580,242898,Brennan,Johnson,8,Crystal Palace,3
+654,247412,Jørgen,Strand Larsen,8,Crystal Palace,4
+677,485337,Evann,Guessand,8,Crystal Palace,3
+690,590014,Rio,Cardines,8,Crystal Palace,3
+712,488024,Yéremy,Pino Santos,8,Crystal Palace,3
+723,651426,Jaydee,Canvot,8,Crystal Palace,2
+732,660392,Christantus,Uche,8,Crystal Palace,4
+762,672492,Joél,Drakes-Thomas,8,Crystal Palace,3
+773,643426,Dean,Benamar,8,Crystal Palace,2
+780,631106,Ben,Casey,8,Crystal Palace,4
+793,591384,George,King,8,Crystal Palace,2
+798,502988,Danny,Imray,8,Crystal Palace,2
+242,215413,Kiernan,Dewsbury-Hall,9,Everton,3
+243,550615,Tyrique,George,9,Everton,3
+287,111234,Jordan,Pickford,9,Everton,1
+288,229600,Mark,Travers,9,Everton,1
+289,447325,Harry,Tyrer,9,Everton,1
+290,480455,Jarrad,Branthwaite,9,Everton,2
+291,17761,James,Tarkowski,9,Everton,2
+292,224967,Vitalii,Mykolenko,9,Everton,2
+293,512462,Jake,O'Brien,9,Everton,2
+294,59949,Séamus,Coleman,9,Everton,2
+295,106611,Michael,Keane,9,Everton,2
+296,243571,Nathan,Patterson,9,Everton,2
+297,496178,Roman,Dixon,9,Everton,2
+298,474907,Reece,Welch,9,Everton,2
+299,440993,Iliman,Ndiaye,9,Everton,3
+300,433154,Dwight,McNeil,9,Everton,3
+301,502697,Carlos,Alcaraz Durán,9,Everton,3
+302,80801,Idrissa Gana,Gueye,9,Everton,3
+303,232928,James,Garner,9,Everton,3
+304,490094,Tim,Iroegbunam,9,Everton,3
+305,609873,Harrison,Armstrong,9,Everton,3
+306,547801,Callum,Bates,9,Everton,3
+307,504296,Coby,Ebere,9,Everton,3
+308,496279,Isaac,Heath,9,Everton,3
+309,491557,Jenson,Metcalfe,9,Everton,3
+310,586309,Thierno,Barry,9,Everton,4
+311,486385,Norberto Bercique,Gomes Betuncal,9,Everton,4
+312,491012,Youssef,Ramalho Chermiti,9,Everton,4
+313,536241,Martin,Sherif,9,Everton,4
+419,114283,Jack,Grealish,9,Everton,3
+630,138001,Tom,King,9,Everton,1
+667,499300,Adam,Aznou,9,Everton,2
+704,461446,Tyler,Onyango,9,Everton,3
+705,491745,Elijah,Campbell,9,Everton,2
+707,496661,Tyler,Dibling,9,Everton,3
+728,513466,Merlin,Röhl,9,Everton,3
+779,629068,Braiden,Graham,9,Everton,4
+314,80201,Bernd,Leno,10,Fulham,1
+315,428971,Steven,Benda,10,Fulham,1
+316,169528,Antonee,Robinson,10,Fulham,2
+317,174874,Joachim,Andersen,10,Fulham,2
+318,232892,Calvin,Bassey,10,Fulham,2
+319,166477,Timothy,Castagne,10,Fulham,2
+320,219924,Issa,Diop,10,Fulham,2
+321,246301,Jorge,Cuenca Barreno,10,Fulham,2
+322,167074,Kenny,Tete,10,Fulham,2
+323,591385,Samuel,Amissah,10,Fulham,2
+324,153133,Alex,Iwobi,10,Fulham,3
+325,209289,Emile,Smith Rowe,10,Fulham,3
+327,156689,Andreas,Hoelgebaum Pereira,10,Fulham,3
+328,184349,Ryan,Sessegnon,10,Fulham,3
+329,153682,Harry,Wilson,10,Fulham,3
+330,207189,Sander,Berge,10,Fulham,3
+331,76357,Tom,Cairney,10,Fulham,3
+332,212314,Saša,Lukić,10,Fulham,3
+333,573062,Martial,Godo,10,Fulham,3
+334,515024,Luke,Harris,10,Fulham,3
+335,577725,Josh,King,10,Fulham,3
+336,153366,Harrison,Reed,10,Fulham,3
+337,102057,Raúl,Jiménez Rodríguez,10,Fulham,4
+338,244042,Rodrigo,Muniz Carvalho,10,Fulham,4
+424,477555,Oscar,Bobb,10,Fulham,3
+664,86873,Benjamin,Lecomte,10,Fulham,1
+727,218328,Samuel,Chukwueze,10,Fulham,3
+731,560552,Kevin,Santos Lopes de Macedo,10,Fulham,3
+737,631786,Jonah,Kusi-Asare,10,Fulham,4
+770,619536,Seth,Ridgeon,10,Fulham,3
+786,505079,Alfie,McNally,10,Fulham,1
+168,536916,Facundo,Buonanotte,11,Leeds,3
+339,437495,Illan,Meslier,11,Leeds,1
+340,97846,Alex,Cairns,11,Leeds,1
+341,59735,Karl,Darlow,11,Leeds,1
+342,226182,Jayden,Bogle,11,Leeds,2
+343,222694,Pascal,Struijk,11,Leeds,2
+344,434752,Jaka,Bijol,11,Leeds,2
+345,437738,Sebastiaan,Bornauw,11,Leeds,2
+346,113564,Sam,Byram,11,Leeds,2
+347,243526,Gabriel,Gudmundsson,11,Leeds,2
+348,214225,Joe,Rodon,11,Leeds,2
+349,492368,Isaac,Schmidt,11,Leeds,2
+350,427637,Brenden,Aaronson,11,Leeds,3
+351,492859,Wilfried,Gnonto,11,Leeds,3
+352,221399,Jack,Harrison,11,Leeds,3
+353,200617,Daniel,James,11,Leeds,3
+354,199598,Ethan,Ampadu,11,Leeds,3
+355,248937,Sam,Greenwood,11,Leeds,3
+356,486520,Ilia,Gruev,11,Leeds,3
+357,433952,Largie,Ramazani,11,Leeds,3
+358,248056,Tanaka,Ao,11,Leeds,3
+359,536119,Charlie,Crew,11,Leeds,3
+360,462635,Joe,Gelhardt,11,Leeds,3
+361,470294,Darko,Gyabi,11,Leeds,3
+362,235826,Joël,Piroe,11,Leeds,4
+363,106617,Patrick,Bamford,11,Leeds,4
+364,565297,Mateo,Joseph Fernández-Regatillo,11,Leeds,4
+365,174594,Lukas,Nmecha,11,Leeds,4
+493,180135,Sean,Longstaff,11,Leeds,3
+660,466525,Anton,Stach,11,Leeds,3
+665,201595,Lucas Estella,Perri,11,Leeds,1
+691,177815,Dominic,Calvert-Lewin,11,Leeds,4
+698,435997,Noah,Okafor,11,Leeds,3
+706,220627,James,Justin,11,Leeds,2
+741,600882,Harry,Gray,11,Leeds,4
+787,565863,Sam,Chambers,11,Leeds,3
+837,643970,Jayden,Lienou,11,Leeds,2
+838,577978,Rhys,Chadwick,11,Leeds,3
+839,592740,Alfie,Cresswell,11,Leeds,3
+366,116535,Alisson,Becker,12,Liverpool,1
+367,449027,Giorgi,Mamardashvili,12,Liverpool,1
+368,586268,Ármin,Pécsi,12,Liverpool,1
+369,155503,Freddie,Woodman,12,Liverpool,1
+370,216094,Jeremie,Frimpong,12,Liverpool,2
+371,544877,Milos,Kerkez,12,Liverpool,2
+372,122798,Andrew,Robertson,12,Liverpool,2
+373,97032,Virgil,van Dijk,12,Liverpool,2
+374,204716,Ibrahima,Konaté,12,Liverpool,2
+375,492777,Conor,Bradley,12,Liverpool,2
+376,171287,Joe,Gomez,12,Liverpool,2
+377,214285,Konstantinos,Tsimikas,12,Liverpool,2
+378,611926,Amara,Nallo,12,Liverpool,2
+379,219937,Rhys,Williams,12,Liverpool,2
+380,489580,Calvin,Ramsay,12,Liverpool,2
+381,118748,Mohamed,Salah,12,Liverpool,3
+382,494595,Florian,Wirtz,12,Liverpool,3
+383,244731,Luis,Díaz Marulanda,12,Liverpool,3
+384,243298,Cody,Gakpo,12,Liverpool,3
+385,223541,Federico,Chiesa,12,Liverpool,3
+386,243016,Alexis,Mac Allister,12,Liverpool,3
+387,424876,Dominik,Szoboszlai,12,Liverpool,3
+388,206915,Curtis,Jones,12,Liverpool,3
+390,441266,Ryan,Gravenberch,12,Liverpool,3
+392,158983,Endo,Wataru,12,Liverpool,3
+393,535928,Stefan,Bajčetić Maquieira,12,Liverpool,3
+394,491501,James,McConnell,12,Liverpool,3
+395,440148,Tyler,Morton,12,Liverpool,3
+396,591386,Trey,Nyoni,12,Liverpool,3
+397,447203,Darwin,Núñez Ribeiro,12,Liverpool,4
+398,500058,Jayden,Danns,12,Liverpool,4
+499,219168,Alexander,Isak,12,Liverpool,4
+661,510663,Hugo,Ekitiké,12,Liverpool,4
+686,611922,Rio,Ngumoha,12,Liverpool,3
+692,647681,Giovanni,Leoni,12,Liverpool,2
+746,596042,Kieran,Morrison,12,Liverpool,3
+760,519440,Wellity,Lucky,12,Liverpool,2
+830,677945,Will,Wright,12,Liverpool,4
+832,718875,Talla,Ndiaye,12,Liverpool,2
+82,437730,Antoine,Semenyo,13,Man City,3
+182,432720,James,Trafford,13,Man City,1
+260,209036,Marc,Guéhi,13,Man City,2
+399,121160,Ederson,Santana de Moraes,13,Man City,1
+401,122074,Marcus,Bettinelli,13,Man City,1
+402,448514,Rayan,Aït-Nouri,13,Man City,2
+403,477424,Joško,Gvardiol,13,Man City,2
+404,211975,Manuel,Akanji,13,Man City,2
+405,126184,Nathan,Aké,13,Man City,2
+406,578153,Abdukodir,Khusanov,13,Man City,2
+407,465351,Matheus,Nunes,13,Man City,2
+408,171314,Rúben,dos Santos Gato Alves Dias,13,Man City,2
+409,97299,John,Stones,13,Man City,2
+410,477064,Rico,Lewis,13,Man City,2
+411,472769,Nico,O'Reilly,13,Man City,2
+412,616222,Vitor,de Oliveira Nunes dos Reis,13,Man City,2
+413,438234,Omar,Marmoush,13,Man City,3
+414,209244,Phil,Foden,13,Man City,3
+415,510281,Sávio,Moreira de Oliveira,13,Man City,3
+416,165809,Bernardo,Mota Veiga de Carvalho e Silva,13,Man City,3
+417,466052,Rayan,Cherki,13,Man City,3
+418,248875,Jérémy,Doku,13,Man City,3
+420,59859,İlkay,Gündoğan,13,Man City,3
+421,220566,Rodrigo 'Rodri',Hernandez Cascante,13,Man City,3
+422,91651,Mateo,Kovačić,13,Man City,3
+423,465694,Nico,González Iglesias,13,Man City,3
+425,575204,Claudio,Echeverri,13,Man City,3
+427,433036,Tijjani,Reijnders,13,Man City,3
+428,566164,Sverre,Nypan,13,Man City,3
+429,155405,Kalvin,Phillips,13,Man City,3
+430,223094,Erling,Haaland,13,Man City,4
+736,204936,Gianluigi,Donnarumma,13,Man City,1
+739,590039,Divine,Mukasa,13,Man City,3
+740,566213,Stephen,Mfuni,13,Man City,2
+742,616288,Ryan,McAidoo,13,Man City,3
+763,516234,Charlie,Gray,13,Man City,3
+764,580921,Reigan,Heskey,13,Man City,3
+794,494307,Max,Alleyne,13,Man City,2
+119,446008,Bryan,Mbeumo,14,Man Utd,3
+431,451302,Altay,Bayındır,14,Man Utd,1
+432,202641,André,Onana,14,Man Utd,1
+433,588555,Elyh,Harrison,14,Man Utd,1
+434,21205,Tom,Heaton,14,Man Utd,1
+435,461537,Dermot,Mee,14,Man Utd,1
+436,209365,Matthijs,de Ligt,14,Man Utd,2
+437,221820,Lisandro,Martínez,14,Man Utd,2
+438,230001,Noussair,Mazraoui,14,Man Utd,2
+439,661712,Diego,León Blanco,14,Man Utd,2
+440,216051,Diogo,Dalot Teixeira,14,Man Utd,2
+441,596777,Patrick,Dorgu,14,Man Utd,2
+442,95658,Harry,Maguire,14,Man Utd,2
+443,106760,Luke,Shaw,14,Man Utd,2
+444,550864,Leny,Yoro,14,Man Utd,2
+445,577974,Harry,Amass,14,Man Utd,2
+446,547676,Tyler,Fredricson,14,Man Utd,2
+447,606745,Ayden,Heaven,14,Man Utd,2
+448,222690,Tyrell,Malacia,14,Man Utd,2
+449,141746,Bruno,Borges Fernandes,14,Man Utd,3
+450,430871,Matheus,Santos Carneiro da Cunha,14,Man Utd,3
+451,176297,Marcus,Rashford,14,Man Utd,3
+452,493250,Amad,Diallo,14,Man Utd,3
+454,467169,Antony,dos Santos,14,Man Utd,3
+455,184341,Mason,Mount,14,Man Utd,3
+457,61256,Carlos Henrique,Casimiro,14,Man Utd,3
+458,516895,Kobbie,Mainoo,14,Man Utd,3
+459,232112,Manuel,Ugarte Ribeiro,14,Man Utd,3
+460,490881,Toby,Collyer,14,Man Utd,3
+461,556639,Jayce,Fitzgerald,14,Man Utd,3
+462,547037,Jack,Fletcher,14,Man Utd,3
+463,618873,Sékou,Koné,14,Man Utd,3
+464,559684,Jack,Moorhouse,14,Man Utd,3
+465,497894,Rasmus,Højlund,14,Man Utd,4
+466,458249,Joshua,Zirkzee,14,Man Utd,4
+467,596047,Chido,Obi,14,Man Utd,4
+468,575034,Ethan,Wheatley,14,Man Utd,4
+681,485711,Benjamin,Sesko,14,Man Utd,4
+733,465247,Senne,Lammens,14,Man Utd,1
+755,576628,Shea,Lacey,14,Man Utd,3
+769,576620,Bendito,Mantato,14,Man Utd,3
+771,519913,Tyler,Fletcher,14,Man Utd,3
+788,576637,Godwill,Kukonki,14,Man Utd,2
+827,576634,Jim,Thwaites,14,Man Utd,3
+52,232653,Jacob,Ramsey,15,Newcastle,3
+135,216646,Yoane,Wissa,15,Newcastle,4
+469,98747,Nick,Pope,15,Newcastle,1
+471,81441,Mark,Gillespie,15,Newcastle,1
+472,111452,Odysseas,Vlachodimos,15,Newcastle,1
+473,487838,Lewis,Hall,15,Newcastle,2
+474,119471,Fabian,Schär,15,Newcastle,2
+475,220237,Sven,Botman,15,Newcastle,2
+476,78916,Dan,Burn,15,Newcastle,2
+477,441191,Tino,Livramento,15,Newcastle,2
+478,77794,Kieran,Trippier,15,Newcastle,2
+479,111773,Emil,Krafth,15,Newcastle,2
+480,101148,Jamaal,Lascelles,15,Newcastle,2
+481,545477,Alex,Murphy,15,Newcastle,2
+482,441024,Harrison,Ashby,15,Newcastle,2
+483,578512,Miodrag,Pivaš,15,Newcastle,2
+484,169359,Matt,Targett,15,Newcastle,2
+485,232826,Anthony,Gordon,15,Newcastle,3
+486,449434,Anthony,Elanga,15,Newcastle,3
+487,201666,Harvey,Barnes,15,Newcastle,3
+488,208706,Bruno,Guimarães Rodriguez Moura,15,Newcastle,3
+489,114243,Jacob,Murphy,15,Newcastle,3
+490,180974,Joelinton Cássio,Apolinário de Lira,15,Newcastle,3
+491,432422,Sandro,Tonali,15,Newcastle,3
+492,640108,Antoñito,Cordero Campillo,15,Newcastle,3
+494,200089,Joe,Willock,15,Newcastle,3
+495,153127,Isaac,Hayden,15,Newcastle,3
+496,564510,Garang,Kuol,15,Newcastle,3
+497,547719,Lewis,Miley,15,Newcastle,3
+498,461484,Joe,White,15,Newcastle,3
+500,538207,William,Osula,15,Newcastle,4
+501,599303,Sean,Neave,15,Newcastle,4
+674,225321,Aaron,Ramsdale,15,Newcastle,1
+684,465642,Malick,Thiaw,15,Newcastle,2
+689,623110,Seung-Soo,Park,15,Newcastle,3
+714,470313,Nick,Woltemade,15,Newcastle,4
+753,19236,John,Ruddy,15,Newcastle,1
+765,553746,Leo,Shahar,15,Newcastle,2
+772,666607,Sam,Alabi,15,Newcastle,3
+12,206325,Oleksandr,Zinchenko,16,Nott'm Forest,2
+400,88248,Stefan,Ortega Moreno,16,Nott'm Forest,1
+426,432714,James,McAtee,16,Nott'm Forest,3
+502,85633,Matz,Sels,16,Nott'm Forest,1
+503,475123,Carlos Miguel,dos Santos Pereira,16,Nott'm Forest,1
+504,224068,Matt,Turner,16,Nott'm Forest,1
+505,227444,Nikola,Milenković,16,Nott'm Forest,2
+506,575476,Murillo,Costa dos Santos,16,Nott'm Forest,2
+507,159506,Ola,Aina,16,Nott'm Forest,2
+508,215136,Neco,Williams,16,Nott'm Forest,2
+509,451432,David,Mota Veiga Teixeira do Carmo,16,Nott'm Forest,2
+510,575458,Jair,Paula da Cunha Filho,16,Nott'm Forest,2
+511,485047,Felipe,Rodrigues da Silva,16,Nott'm Forest,2
+512,204822,Omar,Richards,16,Nott'm Forest,2
+513,549067,Zach,Abbott,16,Nott'm Forest,2
+514,90585,Willy,Boly,16,Nott'm Forest,2
+515,222531,Morgan,Gibbs-White,16,Nott'm Forest,3
+516,209046,Callum,Hudson-Odoi,16,Nott'm Forest,3
+517,215379,Elliot,Anderson,16,Nott'm Forest,3
+518,510500,João Pedro,Ferreira da Silva,16,Nott'm Forest,3
+519,250199,Nicolás,Domínguez,16,Nott'm Forest,3
+520,243345,Lewis,O'Brien,16,Nott'm Forest,3
+521,210462,Ibrahim,Sangaré,16,Nott'm Forest,3
+522,204968,Ryan,Yates,16,Nott'm Forest,3
+523,569014,Eric,da Silva Moreira,16,Nott'm Forest,3
+524,495161,Marko,Stamenić,16,Nott'm Forest,3
+525,60689,Chris,Wood,16,Nott'm Forest,4
+526,482973,Igor Jesus,Maciel da Cruz,16,Nott'm Forest,4
+527,210156,Taiwo,Awoniyi,16,Nott'm Forest,4
+669,456512,Dan,Ndoye,16,Nott'm Forest,3
+675,107265,Angus,Gunn,16,Nott'm Forest,1
+693,503301,Omari,Hutchinson,16,Nott'm Forest,3
+696,465680,Arnaud,Kalimuendo,16,Nott'm Forest,4
+715,221389,John Victor,Maciel Furtado,16,Nott'm Forest,1
+716,500151,Nicolò,Savona,16,Nott'm Forest,2
+729,560441,Luis Eduardo,Soares da Silva,16,Nott'm Forest,2
+734,476887,Dilane,Bakwa,16,Nott'm Forest,3
+805,469130,Lorenzo,Lucca,16,Nott'm Forest,4
+814,470315,Luca,Netz,16,Nott'm Forest,2
+835,568159,Archie,Whitehall,16,Nott'm Forest,3
+836,590040,Jimmy,Sinclair,16,Nott'm Forest,3
+841,687076,Lamin,Sillah,16,Nott'm Forest,4
+528,232571,Anthony,Patterson,17,Sunderland,1
+529,74854,Simon,Moore,17,Sunderland,1
+530,490000,Blondy,Nna Noukeu,17,Sunderland,1
+531,223827,Daniel,Ballard,17,Sunderland,2
+532,487676,Trai,Hume,17,Sunderland,2
+533,220684,Aji,Alese,17,Sunderland,2
+534,232820,Joe,Anderson,17,Sunderland,2
+535,461195,Dennis,Cirkin,17,Sunderland,2
+536,477547,Leo Fuhr,Hjelde,17,Sunderland,2
+537,492066,Niall,Huggins,17,Sunderland,2
+538,514613,Zak,Johnson,17,Sunderland,2
+539,167512,Luke,O'Nien,17,Sunderland,2
+540,465702,Timothée,Pembélé,17,Sunderland,2
+541,434399,Reinildo,Mandava,17,Sunderland,2
+542,519634,Jenson,Seelt,17,Sunderland,2
+543,535818,Simon,Adingra,17,Sunderland,3
+544,547027,Habib,Diarra,17,Sunderland,3
+545,124165,Patrick,Roberts,17,Sunderland,3
+546,626844,Milan,Aleksić,17,Sunderland,3
+547,484420,Enzo,Le Fée,17,Sunderland,3
+548,461199,Romaine,Mundle,17,Sunderland,3
+549,223336,Dan,Neil,17,Sunderland,3
+550,215460,Ian,Poveda-Ocampo,17,Sunderland,3
+551,554197,Chris,Rigg,17,Sunderland,3
+552,577669,Noah,Sadiki,17,Sunderland,3
+553,549912,Chemsdine,Talbi,17,Sunderland,3
+554,477851,Abdoullah,Ba,17,Sunderland,3
+555,171422,Alan,Browne,17,Sunderland,3
+556,458297,Pierre,Ekwah Elimby,17,Sunderland,3
+557,547410,Harrison,Jones,17,Sunderland,3
+558,493837,Jay,Matete,17,Sunderland,3
+559,500696,Nectarios,Triantis,17,Sunderland,3
+560,437505,Wilson,Isidor,17,Sunderland,4
+561,564406,Eliezer,Mayenda Dossou,17,Sunderland,4
+562,611975,Ahmed,Abdullahi,17,Sunderland,4
+563,551153,Luís Hemir,Silva Semedo,17,Sunderland,4
+564,440955,Nazarii,Rusyn,17,Sunderland,4
+668,84450,Granit,Xhaka,17,Sunderland,3
+670,498016,Robin,Roefs,17,Sunderland,1
+678,105717,Arthur,Masuaku,17,Sunderland,2
+683,201895,Omar,Alderete,17,Sunderland,2
+694,200834,Nordi,Mukiele,17,Sunderland,2
+724,247955,Lutsharel,Geertruida,17,Sunderland,2
+730,441264,Brian,Brobbey,17,Sunderland,4
+735,110504,Bertrand,Traoré,17,Sunderland,3
+774,232356,Jenson,Jones,17,Sunderland,2
+775,604211,Tymur,Tutierov,17,Sunderland,3
+800,699989,Djiamgone Jocelin Ta,Bi,17,Sunderland,3
+812,515046,Melker,Ellborg,17,Sunderland,1
+813,536661,Nilson,Angulo,17,Sunderland,3
+821,570929,Jack,Whittaker,17,Sunderland,3
+822,571087,Jaydon,Jones,17,Sunderland,3
+565,184254,Guglielmo,Vicario,18,Spurs,1
+566,214572,Brandon,Austin,18,Spurs,1
+567,485055,Antonín,Kinský,18,Spurs,1
+568,441164,Pedro,Porro Sauceda,18,Spurs,2
+569,221632,Cristian,Romero,18,Spurs,2
+570,135720,Kevin,Danso,18,Spurs,2
+571,115556,Ben,Davies,18,Spurs,2
+572,493125,Radu,Drăgușin,18,Spurs,2
+573,232859,Djed,Spence,18,Spurs,2
+574,487053,Destiny,Udogie,18,Spurs,2
+575,491279,Micky,van de Ven,18,Spurs,2
+576,548308,Ashley,Phillips,18,Spurs,2
+577,553299,Takai,Kōta,18,Spurs,2
+578,610799,Luka,Vušković,18,Spurs,2
+579,85971,Son,Heung-min,18,Spurs,3
+581,172780,James,Maddison,18,Spurs,3
+582,460842,Mohammed,Kudus,18,Spurs,3
+583,445044,Dejan,Kulusevski,18,Spurs,3
+584,511499,Mathys,Tel,18,Spurs,3
+585,202993,Rodrigo,Bentancur,18,Spurs,3
+586,570526,Lucas,Bergvall,18,Spurs,3
+587,227127,Yves,Bissouma,18,Spurs,3
+588,550839,Wilson,Odobert,18,Spurs,3
+589,235674,Manor,Solomon,18,Spurs,3
+590,436234,Bryan,Gil Salvatierra,18,Spurs,3
+591,547701,Archie,Gray,18,Spurs,3
+592,499721,Mikey,Moore,18,Spurs,3
+593,482442,Pape Matar,Sarr,18,Spurs,3
+594,623095,Yang,Min-hyeok,18,Spurs,3
+595,499726,Callum,Olusesi,18,Spurs,3
+596,154566,Dominic,Solanke-Mitchell,18,Spurs,4
+597,212319,Richarlison,de Andrade,18,Spurs,4
+598,552427,Will,Lankshear,18,Spurs,4
+599,490145,Dane,Scarlett,18,Spurs,4
+673,154296,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,18,Spurs,3
+717,493362,Xavi,Simons,18,Spurs,3
+726,247693,Randal,Kolo Muani,18,Spurs,4
+745,640419,Jun'ai,Byfield,18,Spurs,2
+750,499716,James,Rowswell,18,Spurs,2
+751,590035,Yusuf,Akhamrich,18,Spurs,3
+790,611917,Lucá,Williams-Barnett,18,Spurs,3
+796,232787,Conor,Gallagher,18,Spurs,3
+804,616221,João Victor,de Souza Menezes,18,Spurs,2
+811,536134,Rio,Kyerematen,18,Spurs,3
+818,613232,James,Wilson,18,Spurs,4
+326,159533,Adama,Traoré Diarra,19,West Ham,3
+600,84182,Alphonse,Areola,19,West Ham,1
+601,82143,Wes,Foderingham,19,West Ham,1
+602,483364,Krisztián,Hegyi,19,West Ham,1
+603,613804,El Hadji Malick,Diouf,19,West Ham,2
+604,109533,Emerson,Palmieri dos Santos,19,West Ham,2
+605,214048,Maximilian,Kilman,19,West Ham,2
+606,233963,Konstantinos,Mavropanos,19,West Ham,2
+607,210494,Nayef,Aguerd,19,West Ham,2
+608,536109,Ollie,Scarles,19,West Ham,2
+609,462116,Jean-Clair,Todibo,19,West Ham,2
+610,214590,Aaron,Wan-Bissaka,19,West Ham,2
+611,518438,Kaelan,Casey,19,West Ham,2
+612,224024,Lucas,Tolentino Coelho de Lima,19,West Ham,3
+613,215439,Tomáš,Souček,19,West Ham,3
+615,450070,Crysencio,Summerville,19,West Ham,3
+616,213999,Edson,Álvarez Velázquez,19,West Ham,3
+617,149519,Maxwel,Cornet,19,West Ham,3
+618,197024,Guido,Rodríguez,19,West Ham,3
+619,577114,Luis Guilherme,Lira dos Santos,19,West Ham,3
+620,490885,George,Earthy,19,West Ham,3
+621,229384,Andy,Irving,19,West Ham,3
+622,518442,Lewis,Orford,19,West Ham,3
+623,490142,Freddie,Potts,19,West Ham,3
+624,178186,Jarrod,Bowen,19,West Ham,4
+625,91889,Niclas,Füllkrug,19,West Ham,4
+626,565431,Callum,Marshall,19,West Ham,4
+659,158534,Kyle,Walker-Peters,19,West Ham,2
+671,75115,Callum,Wilson,19,West Ham,4
+679,467189,Mads,Hermansen,19,West Ham,1
+708,551226,Mateus Gonçalo,Espanha Fernandes,19,West Ham,3
+718,564940,Soungoutou,Magassa,19,West Ham,3
+738,37096,Lukasz,Fabianski,19,West Ham,1
+747,602903,Ezra,Mayers,19,West Ham,2
+752,643473,Airidas,Golambeckis,19,West Ham,2
+758,630699,Mohamadou,Kanté,19,West Ham,3
+785,530335,Pablo Felipe,Pereira de Jesus,19,West Ham,4
+791,247670,Valentín,Castellanos,19,West Ham,4
+802,572702,Keiber,Lamadrid,19,West Ham,3
+815,220362,Axel,Disasi,19,West Ham,2
+825,553742,Finlay,Herrick,19,West Ham,1
+627,101982,Sam,Johnstone,20,Wolves,1
+628,149065,José,Malheiro de Sá,20,Wolves,1
+629,79602,Daniel,Bentley,20,Wolves,1
+631,516939,Emmanuel,Agbadou,20,Wolves,2
+632,87835,Matt,Doherty,20,Wolves,2
+633,490721,Hugo,Bueno López,20,Wolves,2
+634,501837,Yerson,Mosquera Valdelamar,20,Wolves,2
+635,483081,Rodrigo,Martins Gomes,20,Wolves,2
+636,231480,Santiago,Ignacio Bueno,20,Wolves,2
+637,510362,Toti,Gomes,20,Wolves,2
+638,441271,Ki-Jana,Hoever,20,Wolves,2
+639,560248,Bastien,Meupiyou Menadjou,20,Wolves,2
+640,641221,Pedro,Cardoso de Lima,20,Wolves,2
+641,517179,Alfie,Pond,20,Wolves,2
+642,184754,Hwang,Hee-chan,20,Wolves,3
+643,509291,André,Trindade da Costa Neto,20,Wolves,3
+644,231057,Jean-Ricner,Bellegarde,20,Wolves,3
+645,643135,Fer,López González,20,Wolves,3
+646,448089,João Victor,Gomes da Silva,20,Wolves,3
+647,181284,Gonçalo Manuel,Ganchinho Guedes,20,Wolves,3
+648,433312,Marshall,Munetsi,20,Wolves,3
+649,476502,Boubacar,Traoré,20,Wolves,3
+650,497606,Tawanda,Chirewa,20,Wolves,3
+651,596054,Tom,Edozie,20,Wolves,3
+652,593001,Enso,González Medina,20,Wolves,3
+653,240299,Joe,Hodge,20,Wolves,3
+655,449988,Fábio,Soares Silva,20,Wolves,4
+656,429414,Saša,Kalajdžić,20,Wolves,4
+657,589507,Leon,Chiwome,20,Wolves,4
+658,531363,Nathan,Fraser,20,Wolves,4
+663,230376,Jhon,Arias,20,Wolves,3
+682,497949,David,Møller Wolfe,20,Wolves,2
+695,523705,Jackson,Tchatchoua,20,Wolves,2
+709,431248,Ladislav,Krejcí,20,Wolves,2
+720,488213,Tolu,Arokodare,20,Wolves,4
+749,647671,Mateus,Mané,20,Wolves,4
+766,601956,Saheed,Olagunju,20,Wolves,2
+767,605319,Luke,Rawlings,20,Wolves,3
+777,514362,Temple,Ojinnaka,20,Wolves,3
+778,589121,Ethan,Sutherland,20,Wolves,3
+809,685628,Jerome,Abbey,20,Wolves,3
+816,209041,Angel,Gomes,20,Wolves,3
+817,155511,Adam,Armstrong,20,Wolves,4
+828,491460,Alfie,Brooks,20,Wolves,1
+831,627888,Josh,Gracey,20,Wolves,1
