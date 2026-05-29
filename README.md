@@ -47,24 +47,40 @@ All data is exported as clean, analysis-ready **CSV** (with raw **JSON** retaine
 Premier-League-Stats/
 ├── pl_stats/                          # Historical PL data, by club
 │   └── {Team_Name}/
-│       └── {Season}_events_stats.csv
+│       ├── events/
+│       │   └── {Season}_events_stats.csv
+│       ├── squad/
+│       │   └── {Season}_squad.csv
+│       └── players_stats/
+│           └── {Season}_players_stats.csv
 ├── fpl_stats/
-│   ├── gameweeks/2025-26/             # Per-gameweek snapshots
-│   │   ├── gw_{X}_players.csv
-│   │   └── gw_{X}_teams.csv
 │   ├── players/                       # Per-player season tracking
-│   │   └── {Player_Name}_{ID}/
-│   │       └── 2025-26_gw_stats.csv
-│   └── metadata/2025-26/              # ID mappings & raw API dumps
-│       ├── fixtures.csv
+│   │   └── {Player_Name}_{Player_Code}/
+│   │       └── gameweeks/
+│   │           └── {Season}_gw_stats.csv
+│   ├── teams/                         # Per-team season tracking
+│   │   └── {Team_Name}/
+│   │       ├── gameweeks/
+│   │       │   └── {Season}_gw_stats.csv
+│   │       └── fixtures/
+│   │           └── {Season}_fixtures.csv
+│   ├── _index/                        # Cross-entity aggregate tables
+│   │   ├── players/
+│   │   │   └── {Season}_all_players_gw.csv
+│   │   └── teams/
+│   │       └── {Season}_all_teams_gw.csv
+│   └── metadata/{Season}/             # ID mappings & raw API dumps
 │       ├── fixtures.json
 │       ├── players_id_list.csv
 │       ├── teams_id_list.csv
 │       └── raw_bootstrap_metadata.json
+├── fpl_cache/                         # Disk cache of element-summary calls
+│   └── {Season}/
+│       └── player_{id}.json
 ├── .github/workflows/
 │   └── fpl_updater.yml                # Scheduled scrape automation
-├── players_scrapper.py
-├── teams_scrapper.py
+├── players_scraper.py
+├── teams_scraper.py
 └── requirements.txt
 ```
 
@@ -73,40 +89,34 @@ Premier-League-Stats/
 ## Dataset Reference
 
 ### 1. Historical PL Stats (`pl_stats/`)
-
 Nearly two decades of match and event data for 40+ clubs — including historic top-flight stints from sides such as Blackpool, Bolton Wanderers, and Portsmouth.
-
 | Field | Value |
 | :--- | :--- |
-| **Path** | `pl_stats/{Team_Name}/{Season}_events_stats.csv` |
+| **Path** | `pl_stats/{Team_Name}/events/{Season}_events_stats.csv` |
 | **Granularity** | Team-specific event data, per season |
 | **Range** | 2008-09 onwards (each club's PL participation only) |
 
 ### 2. Gameweek FPL Data
-
 Round-by-round performance snapshots for the current season.
-
 | File | Contents |
 | :--- | :--- |
-| `fpl_stats/gameweeks/2025-26/gw_{X}_players.csv` | Points, minutes, goals, assists, and underlying metrics for all players in Gameweek X |
-| `fpl_stats/gameweeks/2025-26/gw_{X}_teams.csv` | Team-level performance metrics for Gameweek X |
+| `fpl_stats/players/{Player_Name}_{Player_Code}/gameweeks/{Season}_gw_stats.csv` | Points, minutes, goals, assists, and underlying metrics per player, per gameweek |
+| `fpl_stats/teams/{Team_Name}/gameweeks/{Season}_gw_stats.csv` | Team-level performance metrics per gameweek |
+| `fpl_stats/_index/players/{Season}_all_players_gw.csv` | All players' gameweek rows, flattened into one table |
+| `fpl_stats/_index/teams/{Season}_all_teams_gw.csv` | All teams' gameweek rows, flattened into one table |
 
 ### 3. Individual Player Stats
-
 Track a single player across the season without filtering global gameweek files.
-
 | Field | Value |
 | :--- | :--- |
-| **Path** | `fpl_stats/players/{Player_Name}_{ID}/2025-26_gw_stats.csv` |
-| **Contents** | Cumulative and round-by-round statistics for one player |
+| **Path** | `fpl_stats/players/{Player_Name}_{Player_Code}/gameweeks/2025-26_gw_stats.csv` |
+| **Contents** | Round-by-round statistics for one player |
 
 ### 4. FPL Metadata
-
 Structural data mapping FPL API IDs to real football entities.
-
 | File | Purpose |
 | :--- | :--- |
-| `fixtures.csv` / `fixtures.json` | Full PL schedule and Fixture Difficulty Ratings |
+| `fixtures.json` | Full PL schedule and Fixture Difficulty Ratings |
 | `players_id_list.csv` | Master player-name → FPL ID dictionary |
 | `teams_id_list.csv` | Master club-name → FPL ID dictionary |
 | `raw_bootstrap_metadata.json` | Unprocessed `bootstrap-static` API dump |
@@ -114,7 +124,6 @@ Structural data mapping FPL API IDs to real football entities.
 ---
 
 ## Update Cadence
-
 | Dataset | Method | Frequency |
 | :--- | :--- | :--- |
 | **FPL Data** | Automated (`fpl_updater.yml`) | Regularly via GitHub Actions |
