@@ -1,39 +1,38 @@
-gw,is_home,opponent_name,opponent_code,difficulty,finished
-1,True,Everton,11,3,True
-2,False,Arsenal,3,5,True
-3,True,Newcastle,4,3,True
-4,False,Fulham,54,3,True
-5,False,Wolves,39,2,True
-6,True,Bournemouth,91,3,True
-7,True,Spurs,6,3,True
-8,False,Burnley,90,2,True
-9,True,West Ham,21,2,True
-10,False,Brighton,36,4,True
-11,False,Nott'm Forest,17,3,True
-12,True,Aston Villa,7,3,True
-13,False,Man City,43,5,True
-14,True,Chelsea,8,3,True
-15,True,Liverpool,14,3,True
-16,False,Brentford,94,3,True
-17,True,Crystal Palace,31,3,True
-18,False,Sunderland,56,3,True
-19,False,Liverpool,14,4,True
-20,True,Man Utd,1,3,True
-21,False,Newcastle,4,3,True
-22,True,Fulham,54,3,True
-23,False,Everton,11,3,True
-24,True,Arsenal,3,4,True
-25,True,Nott'm Forest,17,3,True
-26,False,Chelsea,8,3,True
-27,False,Aston Villa,7,4,True
-28,True,Man City,43,4,True
-29,True,Sunderland,56,2,True
-30,False,Crystal Palace,31,3,True
-31,True,Brentford,94,3,True
-32,False,Man Utd,1,4,True
-33,True,Wolves,39,1,True
-33,False,Bournemouth,91,4,True
-35,True,Burnley,90,1,True
-36,False,Spurs,6,3,True
-37,True,Brighton,36,3,True
-38,False,West Ham,21,3,True
+fixture,opponent_team,was_home,kickoff_time,team_h_score,team_a_score,round
+3,10,True,2025-08-16T14:00:00Z,1,1,1
+16,9,False,2025-08-24T13:00:00Z,2,0,2
+22,13,True,2025-08-31T13:00:00Z,2,1,3
+33,5,False,2025-09-13T19:00:00Z,2,2,4
+47,14,False,2025-09-20T16:30:00Z,2,1,5
+53,6,True,2025-09-27T14:00:00Z,1,3,6
+65,12,True,2025-10-04T16:30:00Z,2,1,7
+77,16,False,2025-10-18T11:30:00Z,0,3,8
+85,17,True,2025-10-25T14:00:00Z,1,2,9
+99,18,False,2025-11-01T17:30:00Z,0,1,10
+103,20,True,2025-11-08T20:00:00Z,3,0,11
+114,3,False,2025-11-22T12:30:00Z,0,2,12
+123,1,True,2025-11-30T16:30:00Z,1,1,13
+136,11,False,2025-12-03T20:15:00Z,3,1,14
+142,4,False,2025-12-06T15:00:00Z,0,0,15
+154,9,True,2025-12-13T15:00:00Z,2,0,16
+168,15,False,2025-12-20T12:30:00Z,2,2,17
+174,2,True,2025-12-27T17:30:00Z,1,2,18
+184,4,True,2025-12-30T19:30:00Z,2,2,19
+197,13,False,2026-01-04T17:30:00Z,1,1,20
+207,10,False,2026-01-07T19:30:00Z,2,1,21
+214,10,True,2026-01-17T15:00:00Z,1,0,22
+226,9,False,2026-01-26T20:00:00Z,1,1,23
+234,1,True,2026-01-31T15:00:00Z,0,4,24
+246,16,True,2026-02-06T20:00:00Z,3,1,25
+253,7,False,2026-02-10T19:30:00Z,2,2,26
+261,2,False,2026-02-21T15:00:00Z,1,1,27
+276,13,True,2026-02-28T17:30:00Z,0,1,28
+286,17,True,2026-03-03T19:30:00Z,0,1,29
+295,8,False,2026-03-15T14:00:00Z,0,0,30
+306,5,True,2026-03-21T20:00:00Z,0,0,31
+317,14,False,2026-04-13T19:00:00Z,1,2,32
+326,20,True,2026-04-18T14:00:00Z,3,0,33
+347,3,True,2026-05-01T19:00:00Z,3,1,35
+359,18,False,2026-05-11T19:00:00Z,1,1,36
+367,6,True,2026-05-17T14:00:00Z,1,0,37
+380,19,False,2026-05-24T15:00:00Z,3,0,38
