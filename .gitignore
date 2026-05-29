@@ -28,3 +28,4 @@ squad_scraper.py
 player_stats_scraper.py
 
 cache
+fpl_cache
