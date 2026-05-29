@@ -1,0 +1,39 @@
+gw,is_home,opponent_name,opponent_code,difficulty,finished
+1,True,Newcastle,4,3,True
+2,False,Brentford,94,3,True
+3,True,Crystal Palace,31,3,True
+4,False,Everton,11,3,True
+5,False,Sunderland,56,3,True
+6,True,Fulham,54,3,True
+7,True,Burnley,90,1,True
+8,False,Spurs,6,3,True
+9,True,Man City,43,4,True
+10,False,Liverpool,14,4,True
+11,True,Bournemouth,91,3,True
+12,False,Leeds,2,3,True
+13,True,Wolves,39,1,True
+14,False,Brighton,36,4,True
+15,True,Arsenal,3,4,True
+16,False,West Ham,21,3,True
+17,True,Man Utd,1,3,True
+18,False,Chelsea,8,3,True
+19,False,Arsenal,3,5,True
+20,True,Nott'm Forest,17,3,True
+21,False,Crystal Palace,31,3,True
+22,True,Everton,11,3,True
+23,False,Newcastle,4,3,True
+24,True,Brentford,94,3,True
+25,False,Bournemouth,91,4,True
+26,True,Brighton,36,3,True
+27,True,Leeds,2,2,True
+28,False,Wolves,39,2,True
+29,True,Chelsea,8,3,True
+30,False,Man Utd,1,4,True
+31,True,West Ham,21,2,True
+32,False,Nott'm Forest,17,3,True
+33,True,Sunderland,56,2,True
+34,False,Fulham,54,3,True
+35,True,Spurs,6,3,True
+36,False,Burnley,90,2,True
+37,True,Liverpool,14,3,True
+38,False,Man City,43,5,True

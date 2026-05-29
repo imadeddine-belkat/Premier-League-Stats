@@ -1,0 +1,39 @@
+gw,is_home,opponent_name,opponent_code,difficulty,finished
+1,True,Bournemouth,91,3,True
+2,False,Newcastle,4,3,True
+3,True,Arsenal,3,4,True
+4,False,Burnley,90,2,True
+5,True,Everton,11,3,True
+6,False,Crystal Palace,31,3,True
+7,False,Chelsea,8,3,True
+8,True,Man Utd,1,3,True
+9,False,Brentford,94,3,True
+10,True,Aston Villa,7,3,True
+11,False,Man City,43,5,True
+12,True,Nott'm Forest,17,3,True
+13,False,West Ham,21,3,True
+14,True,Sunderland,56,2,True
+15,False,Leeds,2,3,True
+16,True,Brighton,36,3,True
+17,False,Spurs,6,3,True
+18,True,Wolves,39,1,True
+19,True,Leeds,2,2,True
+20,False,Fulham,54,3,True
+21,False,Arsenal,3,5,True
+22,True,Burnley,90,1,True
+23,False,Bournemouth,91,4,True
+24,True,Newcastle,4,3,True
+25,True,Man City,43,4,True
+26,False,Sunderland,56,3,True
+27,False,Nott'm Forest,17,3,True
+28,True,West Ham,21,2,True
+29,False,Wolves,39,2,True
+30,True,Spurs,6,3,True
+31,False,Brighton,36,4,True
+32,True,Fulham,54,3,True
+33,False,Everton,11,3,True
+34,True,Crystal Palace,31,3,True
+35,False,Man Utd,1,4,True
+36,True,Chelsea,8,3,True
+37,False,Aston Villa,7,4,True
+38,True,Brentford,94,3,True
