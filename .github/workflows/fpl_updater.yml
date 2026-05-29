@@ -29,6 +29,7 @@ jobs:
         run: |
           python teams_scraper.py
           python players_scraper.py
+          python teams_gw_stats_scraper.py
 
       - name: Commit and Push Changes
         run: |
