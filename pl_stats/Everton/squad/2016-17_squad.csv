@@ -1,0 +1,35 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+10318,Maarten Stekelenburg,Maarten,Stekelenburg,22.0,Goalkeeper,Right,Netherlands,NL,1982-09-22,Netherlands,43,197,92,2016-07-01,False
+78315,Joel Robles,Joel,Robles,33.0,Goalkeeper,Right,Spain,ES,1990-06-17,Spain,35,195,90,2013-07-10,False
+185056,Mateusz Hewelt,Mateusz,Hewelt,41.0,Goalkeeper,,Poland,PL,1996-09-23,,29,186,78,2016-10-01,False
+153670,Russell Griffiths,Russell,Griffiths,45.0,Goalkeeper,,England,GB-ENG,1996-04-13,,30,188,85,2014-07-01,False
+12745,Leighton Baines,Leighton,Baines,3.0,Defender,,England,GB-ENG,1984-12-11,England,41,170,74,2007-08-07,False
+19159,Ashley Williams,Ashley,Williams,5.0,Defender,,Wales,GB-WLS,1984-08-23,,41,183,77,2016-08-10,False
+7645,Phil Jagielka,Phil,Jagielka,6.0,Defender,,England,GB-ENG,1982-08-17,England,43,180,87,2007-07-04,False
+59949,Seamus Coleman,Seamus,Coleman,23.0,Defender,,Ireland,IE,1988-10-11,Republic of Ireland,37,177,67,2009-02-02,False
+121221,Ramiro Funes Mori,Ramiro,Funes Mori,25.0,Defender,Left,Argentina,AR,1991-03-05,Argentina,35,186,78,2015-09-01,False
+194164,Mason Holgate,Mason,Holgate,30.0,Defender,,England,GB-ENG,1996-10-22,,29,184,63,2015-08-25,False
+80183,Luke Garbutt,Luke,Garbutt,36.0,Defender,,England,GB-ENG,1993-05-21,,33,179,73,2009-07-01,False
+114093,Matthew Pennington,Matthew,Pennington,38.0,Defender,,England,GB-ENG,1994-10-06,,31,185,77,2013-07-01,False
+153673,Jonjoe Kenny,Jonjoe,Kenny,43.0,Defender,,England,GB-ENG,1997-03-15,,29,176,67,2014-07-01,False
+42774,Morgan Schneiderlin,Morgan,Schneiderlin,2.0,Midfielder,,France,FR,1989-11-08,France,36,181,75,2017-01-12,False
+18267,Aiden McGeady,Aiden,McGeady,7.0,Midfielder,,Ireland,IE,1986-04-04,,40,180,72,2014-01-11,False
+88894,Ross Barkley,Ross,Barkley,8.0,Midfielder,,England,GB-ENG,1993-12-05,England,32,189,76,2010-09-01,False
+26901,Kevin Mirallas,Kevin,Mirallas,11.0,Midfielder,Right,Belgium,BE,1987-10-05,,38,182,72,2012-08-19,False
+17349,Aaron Lennon,Aaron,Lennon,12.0,Midfielder,Right,England,GB-ENG,1987-04-16,England,39,165,63,2015-09-01,False
+43250,Tom Cleverley,Tom,Cleverley,15.0,Midfielder,,England,GB-ENG,1989-08-12,England,36,175,67,2015-07-01,False
+50472,James McCarthy,James,McCarthy,16.0,Midfielder,,Ireland,IE,1990-11-12,,35,180,72,2013-09-02,False
+80801,Idrissa Gueye,Idrissa,Gueye,17.0,Midfielder,,Senegal,SN,1989-09-26,,36,174,66,2016-08-02,False
+1632,Gareth Barry,Gareth,Barry,18.0,Midfielder,,England,GB-ENG,1981-02-23,,45,183,78,2014-07-08,False
+87447,Muhamed Besic,Muhamed,Besic,21.0,Midfielder,,Bosnia & Herzegovina,BA,1992-09-10,Germany,33,180,80,2014-07-28,False
+173807,Tom Davies,Tom,Davies,26.0,Midfielder,,England,GB-ENG,1998-06-30,England,27,180,70,2016-04-15,False
+169527,Joe Williams,Joe,Williams,46.0,Midfielder,,England,GB-ENG,1996-12-08,,29,185,80,2014-12-10,False
+153679,Courtney Duffus,Courtney,Duffus,48.0,Midfielder,,Ireland,IE,1995-10-24,,30,188,76,2014-07-01,False
+66749,Romelu Lukaku,Romelu,Lukaku,,Forward,,Belgium,BE,1993-05-13,Belgium,33,190,94,2014-07-30,False
+94924,Gerard Deulofeu,Gerard,Deulofeu,7.0,Forward,Right,Spain,ES,1994-03-13,Spain,32,177,73,2015-07-01,False
+55452,Yannick Bolasie,Yannick,Bolasie,7.0,Forward,,DR Congo,CD,1989-05-24,France,37,188,84,2016-08-15,False
+26921,Arouna Koné,Arouna,Koné,9.0,Forward,Right,Cote d’Ivoire,CI,1983-11-11,Côte d'Ivoire,42,181,78,2013-07-08,False
+148179,Enner Valencia,Enner,Valencia,19.0,Forward,Right,Ecuador,EC,1989-11-04,Ecuador,36,174,74,2016-08-31,True
+113688,Oumar Niasse,Oumar,Niasse,19.0,Forward,,Senegal,SN,1990-04-18,Senegal,36,182,75,2016-02-01,False
+177815,Dominic Calvert-Lewin,Dominic,Calvert-Lewin,29.0,Forward,,England,GB-ENG,1997-03-16,England,29,176,71,2016-10-01,False
+219352,Ademola Lookman,Ademola,Lookman,31.0,Forward,Right,England,GB-ENG,1997-10-20,England,28,174,78,2017-01-05,False

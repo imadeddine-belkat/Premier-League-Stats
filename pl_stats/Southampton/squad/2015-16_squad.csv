@@ -1,0 +1,33 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+40383,Fraser Forster,Fraser,Forster,1,Goalkeeper,,England,GB-ENG,1988-03-17,England,38,201.0,93.0,2014-08-09,False
+3673,Kelvin Davis,Kelvin,Davis,1,Goalkeeper,,England,GB-ENG,1976-09-29,,49,185.0,74.0,2006-07-21,False
+10318,Maarten Stekelenburg,Maarten,Stekelenburg,22,Goalkeeper,Right,Netherlands,NL,1982-09-22,Netherlands,43,197.0,92.0,2015-07-01,True
+102884,Paulo Gazzaniga,Paulo,Gazzaniga,25,Goalkeeper,,Argentina,AR,1992-01-02,,34,196.0,90.0,2012-07-19,False
+58822,Cédric Soares,Cedric Ricardo,Alves Soares,2,Defender,,Portugal,PT,1991-08-31,Germany,34,172.0,67.0,2015-06-18,False
+80447,Maya Yoshida,Maya,Yoshida,3,Defender,,Japan,JP,1988-08-24,Japan,37,189.0,78.0,2012-08-31,False
+84395,Florin Gardos,Florin,Gardos,5,Defender,,Romania,RO,1988-10-29,Romania,37,193.0,84.0,2014-08-14,False
+38580,José Fonte,José Miguel,da Rocha Fonte,6,Defender,,Portugal,PT,1983-12-22,,42,187.0,81.0,2010-01-09,False
+56192,Cuco Martina,Rhu-Endly,Martina,15,Defender,,Curacao,CW,1989-09-25,Netherlands,36,185.0,77.0,2015-07-07,False
+97032,Virgil van Dijk,Virgil,van Dijk,17,Defender,,Netherlands,NL,1991-07-08,,34,193.0,92.0,2015-09-01,False
+40146,Ryan Bertrand,Ryan,Bertrand,21,Defender,,England,GB-ENG,1989-08-05,,36,179.0,85.0,2015-02-01,False
+88900,Jack Stephens,Jack,Stephens,24,Defender,,England,GB-ENG,1994-01-27,England,32,185.0,75.0,2011-07-01,False
+169359,Matt Targett,Matt,Targett,33,Defender,,England,GB-ENG,1995-09-18,,30,183.0,70.0,2013-07-01,False
+85654,Jordy Clasie,Jordy,Clasie,4,Midfielder,,Netherlands,NL,1991-06-27,Netherlands,34,169.0,66.0,2015-07-15,False
+17339,Steven Davis,Steven,Davis,8,Midfielder,,Northern Ireland,GB-NIR,1985-01-01,,41,173.0,70.0,2012-07-22,False
+110979,Sadio Mané,Sadio,Mané,10,Midfielder,Right,Senegal,SN,1992-04-10,Senegal,34,175.0,69.0,2014-09-01,False
+62399,Dusan Tadic,Dusan,Tadic,11,Midfielder,,Serbia,RS,1988-11-20,Serbia,37,181.0,76.0,2014-07-08,False
+54756,Victor Wanyama,Victor,Wanyama,12,Midfielder,,Kenya,KE,1991-06-25,Kenya,34,188.0,76.0,2013-07-11,False
+78056,Oriol Romeu,Oriol,Romeu Vidal,14,Midfielder,Right,Spain,ES,1991-09-24,Spain,34,183.0,83.0,2015-08-12,False
+101178,James Ward-Prowse,James,Ward-Prowse,16,Midfielder,,England,GB-ENG,1994-11-01,,31,173.0,66.0,2011-07-01,False
+153366,Harrison Reed,Harrison,Reed,18,Midfielder,,England,GB-ENG,1995-01-27,,31,181.0,72.0,2013-07-01,False
+78091,Gastón Ramírez,Gastón,Ramírez,23,Midfielder,Left,Uruguay,UY,1990-12-02,Uruguay,35,183.0,77.0,2012-08-31,False
+101179,Lloyd Isgrove,Lloyd,Isgrove,27,Midfielder,,Wales,GB-WLS,1993-01-12,England,33,178.0,72.0,2011-07-01,False
+153373,Sam McQueen,Sam,McQueen,38,Midfielder,,England,GB-ENG,1995-02-06,,31,180.0,70.0,2013-07-01,False
+158544,Jake Hesketh,Jake,Hesketh,42,Midfielder,,England,GB-ENG,1996-03-27,,30,168.0,63.0,2014-12-08,False
+20452,Shane Long,Shane,Long,7,Forward,,Ireland,IE,1987-01-22,Republic of Ireland,39,178.0,70.0,2014-08-14,False
+44683,Jay Rodriguez,Jay,Rodriguez,9,Forward,,England,GB-ENG,1989-07-29,England,36,185.0,80.0,2012-06-10,False
+78356,Charlie Austin,Charlie,Austin,10,Forward,,England,GB-ENG,1989-07-05,,36,188.0,84.0,2016-01-16,False
+17784,Graziano Pellè,Graziano,Pellè,19,Forward,Right,Italy,IT,1985-07-15,Italy,40,193.0,89.0,2014-07-12,False
+80287,Juanmi,Juan Miguel,Jiménez López,20,Forward,Right,Spain,ES,1993-05-20,Spain,33,170.0,63.0,2015-06-16,False
+154050,Olufela Olomola,Olufela,Olomola,32,Forward,,Nigeria,NG,1997-09-05,Nigeria,28,,,2016-03-04,False
+153371,Sam Gallagher,Sam,Gallagher,40,Forward,,England,GB-ENG,1995-09-15,,30,194.0,75.0,2013-07-01,False

@@ -1,0 +1,34 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+11554,Julian Speroni,Julian,Speroni,1,Goalkeeper,,Argentina,AR,1979-05-18,,47,186,87,2002-08-01,False
+58376,Alex McCarthy,Alex,McCarthy,12,Goalkeeper,,England,GB-ENG,1989-12-03,,36,193,79,2015-07-23,False
+20066,Wayne Hennessey,Wayne,Hennessey,13,Goalkeeper,,Wales,GB-WLS,1987-01-24,,39,198,90,2014-01-31,False
+55494,Joel Ward,Joel,Ward,2,Defender,,England,GB-ENG,1989-10-29,,36,180,80,2012-05-29,False
+20145,Adrian Mariappa,Adrian,Mariappa,3,Defender,Right,Jamaica,JM,1986-10-03,England,39,180,78,2013-09-02,False
+15284,Brede Hangeland,Brede,Hangeland,4,Defender,,Norway,NO,1981-06-20,,44,195,85,2014-08-01,False
+15274,Paddy McCarthy,Patrick,McCarthy,5,Defender,,Ireland,IE,1983-05-31,,42,185,79,2008-07-01,False
+19188,Scott Dann,Scott,Dann,6,Defender,,England,GB-ENG,1987-02-14,,39,188,76,2014-01-31,False
+106603,Ezekiel Fryers,Ezekiel,Fryers,19,Defender,,England,GB-ENG,1992-09-09,,33,183,75,2014-09-01,False
+79228,Pape Souaré,Pape,Souaré,23,Defender,,Senegal,SN,1990-06-06,,35,178,69,2015-01-30,False
+7906,Damien Delaney,Damien,Delaney,27,Defender,,Ireland,IE,1981-07-20,,44,191,89,2012-08-31,False
+58786,Martin Kelly,Martin,Kelly,34,Defender,Right,England,GB-ENG,1990-04-27,,36,191,77,2014-08-14,False
+138005,Luke Croll,Luke,Croll,44,Defender,,England,GB-ENG,1995-01-10,England,31,185,76,2015-08-27,False
+27341,Yohan Cabaye,Yohan,Cabaye,7,Midfielder,,France,FR,1986-01-14,France,40,175,71,2015-07-10,False
+55452,Yannick Bolasie,Yannick,Bolasie,10,Midfielder,,DR Congo,CD,1989-05-24,France,37,188,84,2012-08-24,False
+82403,Wilfried Zaha,Wilfried,Zaha,11,Midfielder,,England,GB-ENG,1992-11-10,Côte d'Ivoire,33,180,66,2015-02-02,False
+75773,Lee Chung-yong,Chung-yong,Lee,14,Midfielder,,South Korea,KR,1988-07-02,Korea Republic,37,180,75,2015-02-02,False
+59115,Mile Jedinak,Mile,Jedinak,15,Midfielder,Both,Australia,AU,1984-08-03,Australia,41,189,81,2011-07-11,False
+18805,Joe Ledley,Joe,Ledley,16,Midfielder,,Wales,GB-WLS,1987-01-23,Wales,39,183,73,2014-01-31,False
+50471,James McArthur,James,McArthur,18,Midfielder,,Scotland,GB-SCT,1987-10-07,,38,168,64,2014-09-01,False
+103100,Jonathan Williams,Jonathan,Williams,20,Midfielder,,Wales,GB-WLS,1993-10-09,,32,168,60,2011-07-01,False
+49438,Jordon Mutch,Jordon,Mutch,22,Midfielder,,England,GB-ENG,1991-12-02,,34,175,65,2015-01-29,False
+44343,Bakary Sako,Bakary,Sako,26,Midfielder,,Mali,ML,1988-04-26,France,38,180,76,2015-08-05,False
+221275,Luke Dreher,Luke,Dreher,35,Midfielder,,England,GB-ENG,1998-11-27,,27,184,76,2016-04-20,False
+130103,Hiram Boateng,Hiram,Boateng,38,Midfielder,,England,GB-ENG,1996-01-08,,30,170,70,2012-07-01,False
+138006,Jake Gray,Jake,Gray,41,Midfielder,,England,GB-ENG,1995-12-25,,30,180,70,2014-07-01,False
+19197,Jason Puncheon,Jason,Puncheon,42,Midfielder,,England,GB-ENG,1986-06-26,,39,173,70,2014-01-31,False
+138009,Sullay Kaikai,Sullay,Kaikai,43,Midfielder,,England,GB-ENG,1995-08-26,,30,182,73,2013-07-01,False
+28541,Fraizer Campbell,Fraizer,Campbell,9,Forward,,England,GB-ENG,1987-09-13,,38,172,82,2014-07-25,False
+104547,Dwight Gayle,Dwight,Gayle,16,Forward,,England,GB-ENG,1990-10-20,,35,177,73,2013-07-03,False
+59125,Connor Wickham,Connor,Wickham,21,Forward,,England,GB-ENG,1993-03-31,,33,191,90,2015-08-03,False
+17500,Emmanuel Adebayor,Emmanuel,Adebayor,25,Forward,Right,Togo,TG,1984-02-26,Togo,42,191,82,2016-01-26,False
+15675,Marouane Chamakh,Marouane,Chamakh,29,Forward,,Morocco,MA,1984-01-10,,42,185,70,2013-08-12,False

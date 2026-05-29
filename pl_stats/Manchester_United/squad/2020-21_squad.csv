@@ -1,0 +1,33 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+51940,David de Gea,David,de Gea,1,Goalkeeper,Right,Spain,ES,1990-11-07,Spain,35,192.0,76.0,2011-07-01,False
+6744,Lee Grant,Lee,Grant,13,Goalkeeper,Right,England,GB-ENG,1983-01-27,,43,193.0,83.0,2018-07-03,False
+42899,Sergio Romero,Sergio,Romero,22,Goalkeeper,Right,Argentina,AR,1987-02-22,Argentina,39,192.0,87.0,2015-07-24,False
+172649,Dean Henderson,Dean,Henderson,26,Goalkeeper,Right,England,GB-ENG,1997-03-12,,29,188.0,85.0,2016-02-21,False
+250370,Nathan Bishop,Nathan,Bishop,30,Goalkeeper,,England,GB-ENG,1999-10-15,England,26,185.0,72.0,2021-02-24,False
+184667,Victor Lindelöf,Victor,Lindelöf,2,Defender,Right,Sweden,SE,1994-07-17,Sweden,31,187.0,80.0,2017-07-01,False
+197365,Eric Bailly,Eric,Bailly,3,Defender,Right,Cote d’Ivoire,CI,1994-04-12,Côte d'Ivoire,32,187.0,77.0,2016-07-01,False
+76359,Phil Jones,Phil,Jones,4,Defender,Right,England,GB-ENG,1992-02-21,England,34,180.0,71.0,2011-06-13,False
+95658,Harry Maguire,Harry,Maguire,5,Defender,Right,England,GB-ENG,1993-03-05,England,33,194.0,100.0,2019-08-05,False
+106760,Luke Shaw,Luke,Shaw,23,Defender,Left,England,GB-ENG,1995-07-12,England,30,185.0,75.0,2014-07-01,False
+152590,Alex Telles,Alex Nicolao,Telles,27,Defender,Left,Brazil,BR,1992-12-15,Brazil,33,181.0,71.0,2020-10-05,False
+214590,Aaron Wan-Bissaka,Aaron,Wan-Bissaka,29,Defender,Right,England,GB-ENG,1997-11-26,England,28,183.0,72.0,2019-06-29,False
+232937,Brandon Williams,Brandon,Williams,33,Defender,,England,GB-ENG,2000-09-03,,25,171.0,63.0,2019-09-24,False
+180804,Axel Tuanzebe,Axel,Tuanzebe,38,Defender,Right,England,GB-ENG,1997-11-14,,28,186.0,75.0,2015-10-31,False
+461566,William Fish,William,Fish,48,Defender,,England,GB-ENG,2003-02-17,England,23,,,2021-04-14,False
+74208,Paul Pogba,Paul,Pogba,6,Midfielder,Right,France,FR,1993-03-15,France,33,191.0,84.0,2016-08-09,False
+43670,Juan Mata,Juan,Mata,8,Midfielder,Left,Spain,ES,1988-04-28,Spain,38,170.0,63.0,2014-01-25,False
+101582,Fred,Frederico,Rodrigues de Paula Santos,17,Midfielder,Left,Brazil,BR,1993-03-05,Brazil,33,169.0,64.0,2018-06-21,False
+141746,Bruno Fernandes,Bruno Miguel,Borges Fernandes,18,Midfielder,Right,Portugal,PT,1994-09-08,Portugal,31,179.0,69.0,2020-01-30,False
+200617,Daniel James,Daniel,James,21,Midfielder,Right,Wales,GB-WLS,1997-11-10,England,28,171.0,76.0,2019-06-12,False
+62398,Nemanja Matic,Nemanja,Matic,31,Midfielder,Left,Serbia,RS,1988-08-01,Yugoslavia,37,194.0,85.0,2017-07-31,False
+180184,Donny van de Beek,Donny,van de Beek,34,Midfielder,Right,Netherlands,NL,1997-04-18,Netherlands,29,184.0,76.0,2020-09-02,False
+195851,Scott McTominay,Scott,McTominay,39,Midfielder,Right,Scotland,GB-SCT,1996-12-08,England,29,193.0,88.0,2017-04-29,False
+465527,Hannibal Mejbri,Hannibal,Mejbri,46,Midfielder,,Tunisia,TN,2003-01-21,France,23,,,2020-05-22,False
+432819,Ethan Galbraith,Ethan,Galbraith,54,Midfielder,,Northern Ireland,GB-NIR,2001-05-11,,25,175.0,67.0,2019-11-27,False
+40720,Edinson Cavani,Edinson,Cavani,7,Forward,Right,Uruguay,UY,1987-02-14,Uruguay,39,184.0,71.0,2020-10-05,False
+148225,Anthony Martial,Anthony,Martial,9,Forward,Right,France,FR,1995-12-05,,30,181.0,76.0,2015-09-01,False
+176297,Marcus Rashford,Marcus,Rashford,10,Forward,Right,England,GB-ENG,1997-10-31,England,28,180.0,70.0,2015-07-01,False
+220688,Mason Greenwood,Mason,Greenwood,11,Forward,Both,England,GB-ENG,2001-10-01,England,24,181.0,70.0,2018-07-19,False
+493250,Amad,Amad,Diallo,19,Forward,Left,Cote d’Ivoire,CI,2002-07-11,Côte d'Ivoire,23,173.0,,2021-01-07,False
+449434,Anthony Elanga,Anthony,Elanga,56,Forward,,Sweden,SE,2002-04-27,Sweden,24,,,2020-09-11,False
+472464,Shola Shoretire,Shola,Shoretire,74,Forward,Right,England,GB-ENG,2004-02-02,England,22,,,2021-02-17,False

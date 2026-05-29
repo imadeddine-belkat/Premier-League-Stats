@@ -1,0 +1,43 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+109745,Kepa Arrizabalaga,Kepa,Arrizabalaga,1.0,Goalkeeper,Right,Spain,ES,1994-10-03,Spain,31,189.0,84.0,2018-08-08,False
+20310,Willy Caballero,Willy,Caballero,13.0,Goalkeeper,Right,Argentina,AR,1981-09-28,Argentina,44,186.0,81.0,2017-07-01,False
+209706,Jamie Cumming,Jamie,Cumming,31.0,Goalkeeper,Right,England,GB-ENG,1999-09-04,England,26,186.0,79.0,2018-12-01,False
+200415,Nathan Baxter,Nathan,Baxter,40.0,Goalkeeper,,England,GB-ENG,1998-11-08,England,27,,,2016-07-01,False
+163793,Matt Miazga,Matt,Miazga,,Defender,Right,United States,US,1995-07-19,USA,30,191.0,84.0,2016-01-30,False
+102380,Antonio Rüdiger,Antonio,Rüdiger,2.0,Defender,Right,Germany,DE,1993-03-03,Germany,33,190.0,85.0,2017-07-09,False
+82263,Marcos Alonso,Marcos,Alonso,3.0,Defender,Left,Spain,ES,1990-12-28,Spain,35,188.0,84.0,2016-08-31,False
+135363,Andreas Christensen,Andreas,Christensen,4.0,Defender,Right,Denmark,DK,1996-04-10,Denmark,30,188.0,78.0,2012-07-01,False
+194794,Fikayo Tomori,Fikayo,Tomori,14.0,Defender,Right,England,GB-ENG,1997-12-19,Canada,28,185.0,75.0,2016-05-01,False
+103192,Kurt Zouma,Kurt,Zouma,15.0,Defender,Right,France,FR,1994-10-27,France,31,190.0,96.0,2014-01-31,False
+49013,Victor Moses,Victor,Moses,15.0,Defender,Right,Nigeria,NG,1990-12-12,Nigeria,35,177.0,79.0,2012-08-24,False
+105700,Davide Zappacosta,Davide,Zappacosta,21.0,Defender,Right,Italy,IT,1992-06-11,Italy,33,185.0,70.0,2017-08-31,False
+225796,Reece James,Reece,James,24.0,Defender,Right,England,GB-ENG,1999-12-08,England,26,182.0,82.0,2019-05-15,False
+41328,César Azpilicueta,César,Azpilicueta,28.0,Defender,Right,Spain,ES,1989-08-28,Spain,36,178.0,76.0,2012-08-24,False
+109533,Emerson,Emerson,Palmieri dos Santos,33.0,Defender,Left,Italy,IT,1994-08-03,Brazil,31,176.0,63.0,2018-01-30,False
+180732,Jake Clarke-Salter,Jake,Clarke-Salter,35.0,Defender,Right,England,GB-ENG,1997-09-22,England,28,188.0,70.0,2014-07-01,False
+199598,Ethan Ampadu,Ethan,Ampadu,44.0,Defender,Right,Wales,GB-WLS,2000-09-14,England,25,183.0,78.0,2017-09-01,False
+441302,Ian Maatsen,Ian,Maatsen,63.0,Defender,Left,Netherlands,NL,2002-03-10,Netherlands,24,167.0,57.0,2019-07-01,False
+232787,Conor Gallagher,Conor,Gallagher,,Midfielder,Right,England,GB-ENG,2000-02-06,England,26,182.0,,2019-05-15,False
+85955,Jorginho,Jorge Luiz,Frello Filho,5.0,Midfielder,Both,Italy,IT,1991-12-20,Brazil,34,180.0,65.0,2018-07-14,False
+61603,Daniel Drinkwater,Daniel,Drinkwater,6.0,Midfielder,Right,England,GB-ENG,1990-03-05,England,36,178.0,79.0,2017-08-31,False
+116594,N'Golo Kanté,N'Golo,Kanté,7.0,Midfielder,Right,France,FR,1991-03-29,France,35,168.0,68.0,2016-07-16,False
+88894,Ross Barkley,Ross,Barkley,8.0,Midfielder,Right,England,GB-ENG,1993-12-05,England,32,189.0,76.0,2018-01-05,False
+176413,Christian Pulisic,Christian,Pulisic,10.0,Midfielder,Both,United States,US,1998-09-18,USA,27,172.0,69.0,2019-01-02,False
+126187,Ruben Loftus-Cheek,Ruben,Loftus-Cheek,12.0,Midfielder,Right,England,GB-ENG,1996-01-23,England,30,191.0,88.0,2012-07-01,False
+169102,Tiemoué Bakayoko,Tiemoué,Bakayoko,14.0,Midfielder,Right,France,FR,1994-08-17,France,31,185.0,77.0,2017-07-15,False
+167767,Kenedy,Robert Kenedy,Nunes do Nascimento,16.0,Midfielder,Left,Brazil,BR,1996-02-08,Brazil,30,182.0,77.0,2015-07-27,False
+91651,Mateo Kovacic,Mateo,Kovacic,17.0,Midfielder,Right,Croatia,HR,1994-05-06,Austria,32,178.0,78.0,2019-07-01,False
+184341,Mason Mount,Mason,Mount,19.0,Midfielder,Right,England,GB-ENG,1999-01-10,England,27,178.0,70.0,2019-07-01,False
+243568,Billy Gilmour,Billy,Gilmour,23.0,Midfielder,Right,Scotland,GB-SCT,2001-06-11,,24,166.0,60.0,2019-07-01,False
+126186,Lewis Baker,Lewis,Baker,34.0,Midfielder,Right,England,GB-ENG,1995-04-25,England,31,182.0,72.0,2012-07-01,False
+164570,Mario Pasalic,Mario,Pasalic,39.0,Midfielder,Right,Croatia,HR,1995-02-09,Germany,31,188.0,82.0,2014-07-09,False
+223332,Faustino Anjorin,Faustino,Anjorin,55.0,Midfielder,,England,GB-ENG,2001-11-23,,24,185.0,73.0,2019-09-24,False
+450529,Lewis Bate,Lewis,Bate,64.0,Midfielder,,England,GB-ENG,2002-10-29,,23,,,2020-07-10,False
+173879,Tammy Abraham,Tammy,Abraham,9.0,Forward,Right,England,GB-ENG,1997-10-02,England,28,190.0,80.0,2016-05-01,False
+47431,Willian,Willian,Borges Da Silva,10.0,Forward,Right,Brazil,BR,1988-08-09,Brazil,37,175.0,77.0,2013-08-28,False
+49579,Pedro,Pedro,Rodríguez Ledesma,11.0,Forward,Both,Spain,ES,1987-07-28,Spain,38,169.0,65.0,2015-08-20,False
+44346,Olivier Giroud,Olivier,Giroud,18.0,Forward,Left,France,FR,1986-09-30,France,39,192.0,93.0,2018-01-31,False
+209046,Callum Hudson-Odoi,Callum,Hudson-Odoi,20.0,Forward,Right,England,GB-ENG,2000-11-07,England,25,182.0,76.0,2017-12-19,False
+94245,Michy Batshuayi,Michy,Batshuayi,23.0,Forward,Right,Belgium,BE,1993-10-02,Belgium,32,184.0,74.0,2016-07-03,False
+88482,Álvaro Morata,Álvaro,Morata,29.0,Forward,Right,Spain,ES,1992-10-23,Spain,33,190.0,84.0,2017-07-21,False
+440323,Armando Broja,Armando,Broja,57.0,Forward,Right,Albania,AL,2001-09-10,England,24,191.0,,2020-03-07,False

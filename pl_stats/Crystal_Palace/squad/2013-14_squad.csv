@@ -1,0 +1,45 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+11554,Julian Speroni,Julian,Speroni,1.0,Goalkeeper,,Argentina,AR,1979-05-18,,47,186,87,2002-08-01,False
+20066,Wayne Hennessey,Wayne,Hennessey,13.0,Goalkeeper,,Wales,GB-WLS,1987-01-24,,39,198,90,2014-01-31,False
+9685,Neil Alexander,Neil,Alexander,25.0,Goalkeeper,,Scotland,GB-SCT,1978-03-10,Scotland,48,185,73,2013-08-15,False
+16230,Lewis Price,Lewis,Price,35.0,Goalkeeper,,Wales,GB-WLS,1984-07-19,,41,191,84,2010-07-12,False
+110219,Ross Fitzsimons,Ross,Fitzsimons,40.0,Goalkeeper,,England,GB-ENG,1994-05-28,,32,189,80,2011-07-01,False
+138003,Jerome Binnom-Williams,Jerome,Binnom-Williams,,Defender,Left,England,GB-ENG,1995-03-07,England,31,187,77,2013-07-01,False
+73716,Jack Hunt,Jack,Hunt,,Defender,,England,GB-ENG,1990-12-06,,35,175,71,2013-09-02,False
+18146,Peter Ramage,Peter,Ramage,,Defender,,England,GB-ENG,1983-11-22,,42,185,76,2012-08-07,False
+55494,Joel Ward,Joel,Ward,2.0,Defender,,England,GB-ENG,1989-10-29,,36,188,83,2012-05-29,False
+20145,Adrian Mariappa,Adrian,Mariappa,3.0,Defender,Right,Jamaica,JM,1986-10-03,England,39,180,78,2013-09-02,False
+62023,Jonathan Parr,Jonathan,Parr,4.0,Defender,,Norway,NO,1988-10-21,,37,182,75,2011-07-19,False
+15274,Paddy McCarthy,Patrick,McCarthy,5.0,Defender,,Ireland,IE,1983-05-31,,42,185,79,2008-07-01,False
+19188,Scott Dann,Scott,Dann,6.0,Defender,,England,GB-ENG,1987-02-14,,39,188,76,2014-01-31,False
+1059,Danny Gabbidon,Danny,Gabbidon,19.0,Defender,,Wales,GB-WLS,1979-08-08,,46,178,77,2012-09-19,False
+19635,Dean Moxey,Dean,Moxey,21.0,Defender,,England,GB-ENG,1986-01-14,,40,180,70,2011-01-31,False
+7906,Damien Delaney,Damien,Delaney,27.0,Defender,,Ireland,IE,1981-07-20,,44,191,89,2012-08-31,False
+80276,Alex Wynter,Alex,Wynter,36.0,Defender,,England,GB-ENG,1993-09-15,,32,183,84,2009-07-01,False
+111625,Quade Taylor,Quade,Taylor,42.0,Defender,,England,GB-ENG,1993-12-11,,32,191,70,2011-07-01,False
+114536,Ryan Inniss,Ryan,Inniss,45.0,Defender,,England,GB-ENG,1995-06-05,,30,196,84,2011-07-01,False
+88952,José Campaña,José,Campaña,,Midfielder,Right,Spain,ES,1993-05-31,Spain,32,179,74,2013-07-15,False
+46967,Kagisho Dikgacoi,Kagisho,Dikgacoi,8.0,Midfielder,,South Africa,ZA,1984-11-24,,41,180,76,2011-07-05,False
+55452,Yannick Bolasie,Yannick,Bolasie,10.0,Midfielder,,DR Congo,CD,1989-05-24,France,37,188,84,2012-08-24,False
+86176,Tom Ince,Tom,Ince,11.0,Midfielder,,England,GB-ENG,1992-01-30,England,34,178,66,2014-01-31,True
+53582,Stuart O'Keefe,Stuart,O'Keefe,12.0,Midfielder,,England,GB-ENG,1991-03-04,,35,173,64,2010-08-18,False
+12765,Jerome Thomas,Jerome,Thomas,14.0,Midfielder,,England,GB-ENG,1983-03-23,England,43,178,79,2013-07-01,False
+59115,Mile Jedinak,Mile,Jedinak,15.0,Midfielder,Both,Australia,AU,1984-08-03,Australia,41,189,81,2011-07-11,False
+18805,Joe Ledley,Joe,Ledley,16.0,Midfielder,,Wales,GB-WLS,1987-01-23,Wales,39,183,73,2014-01-31,False
+103100,Jonathan Williams,Jonathan,Williams,20.0,Midfielder,,Wales,GB-WLS,1993-10-09,,32,168,60,2011-07-01,False
+138009,Sullay Kaikai,Sullay,Kaikai,25.0,Midfielder,,England,GB-ENG,1995-08-26,,30,182,73,2013-07-01,False
+59013,Barry Bannan,Barry,Bannan,25.0,Midfielder,,Scotland,GB-SCT,1989-12-01,Scotland,36,170,60,2013-09-02,False
+44302,Adlène Guédioura,Adlène,Guédioura,31.0,Midfielder,,Algeria,DZ,1985-11-12,France,40,186,81,2013-09-02,False
+110700,Kyle De Silva,Kyle,De Silva,35.0,Midfielder,,England,GB-ENG,1993-11-29,,32,170,61,2012-01-06,False
+19527,Owen Garvan,Owen,Garvan,35.0,Midfielder,,Ireland,IE,1988-01-29,,38,183,67,2010-08-03,False
+130103,Hiram Boateng,Hiram,Boateng,38.0,Midfielder,,England,GB-ENG,1996-01-08,,30,170,70,2012-07-01,False
+19197,Jason Puncheon,Jason,Puncheon,42.0,Midfielder,,England,GB-ENG,1986-06-26,,39,173,70,2014-01-31,False
+28145,Jimmy Kébé,Jimmy,Kébé,44.0,Midfielder,,Mali,ML,1984-01-19,,42,187,73,2013-08-31,False
+17955,Stephen Dobbie,Stephen,Dobbie,11.0,Forward,,Scotland,GB-SCT,1982-12-05,,43,173,65,2013-07-01,False
+104547,Dwight Gayle,Dwight,Gayle,16.0,Forward,,England,GB-ENG,1990-10-17,,35,174,78,2013-07-03,False
+20529,Glenn Murray,Glenn,Murray,17.0,Forward,,England,GB-ENG,1983-09-25,,42,183,80,2011-07-01,False
+1409,Aaron Wilbraham,Aaron,Wilbraham,18.0,Forward,,England,GB-ENG,1979-10-21,,46,191,72,2012-07-04,False
+15675,Marouane Chamakh,Marouane,Chamakh,29.0,Forward,,Morocco,MA,1984-01-10,,42,185,70,2013-08-12,False
+18804,Cameron Jerome,Cameron,Jerome,30.0,Forward,,England,GB-ENG,1986-08-14,,39,185,85,2013-09-02,True
+58276,Kwesi Appiah,Kwesi,Appiah,32.0,Forward,,Ghana,GH,1990-08-12,,35,180,80,2012-01-31,False
+96992,Ibra Sekajja,Ibra,Sekajja,33.0,Forward,,Uganda,UG,1992-10-31,Uganda,33,180,70,2010-07-01,False

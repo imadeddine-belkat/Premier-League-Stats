@@ -1,0 +1,33 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+18656,Heurelho Gomes,Heurelho,Gomes,1,Goalkeeper,Right,Brazil,BR,1981-02-15,Brazil,45,191.0,91.0,2014-07-01,False
+48332,Orestis Karnezis,Orestis,Karnezis,30,Goalkeeper,,Greece,GR,1985-07-11,Greece,40,189.0,79.0,2017-08-31,True
+154506,Daniel Bachmann,Daniel,Bachmann,35,Goalkeeper,,Austria,AT,1994-07-09,Austria,31,191.0,81.0,2017-07-01,False
+52940,Daryl Janmaat,Daryl,Janmaat,2,Defender,,Netherlands,NL,1989-07-22,Netherlands,36,185.0,80.0,2016-08-24,False
+52153,Miguel Britos,Miguel,Britos,3,Defender,Left,Uruguay,UY,1985-07-17,Uruguay,40,188.0,82.0,2015-07-20,False
+37742,Younes Kaboul,Younes,Kaboul,4,Defender,,France,FR,1986-01-04,,40,193.0,87.0,2016-08-19,False
+41945,Sebastian Prödl,Sebastian,Prödl,5,Defender,Right,Austria,AT,1987-06-21,Austria,38,194.0,92.0,2015-07-01,False
+20145,Adrian Mariappa,Adrian,Mariappa,6,Defender,Right,Jamaica,JM,1986-10-03,England,39,180.0,78.0,2016-08-30,False
+103127,Molla Wagué,Molla,Wagué,13,Defender,,Mali,ML,1991-02-21,France,35,191.0,87.0,2017-08-31,True
+41338,Craig Cathcart,Craig,Cathcart,15,Defender,,Northern Ireland,GB-NIR,1989-02-06,,37,188.0,73.0,2014-07-01,False
+54484,Kiko Femenía,Francisco,Femenía Far,21,Defender,Right,Spain,ES,1991-02-02,Spain,35,176.0,61.0,2017-07-01,False
+66247,Marvin Zeegelaar,Marvin,Zeegelaar,22,Defender,,Netherlands,NL,1990-08-12,,35,186.0,84.0,2017-08-31,False
+40868,José Holebas,José,Holebas,25,Defender,,Greece,GR,1984-06-27,Germany,41,184.0,77.0,2015-07-01,False
+85624,Christian Kabasele,Christian,Kabasele,27,Defender,Right,Belgium,BE,1991-02-24,Congo DR,35,188.0,86.0,2016-07-01,False
+97296,Tommie Hoban,Tommie,Hoban,31,Defender,,Ireland,IE,1994-01-24,England,32,189.0,84.0,2010-07-01,False
+209420,Joy Mukena,Joy,Mukena,48,Defender,,England,GB-ENG,1999-07-03,England,26,,,2018-02-05,False
+43250,Tom Cleverley,Tom,Cleverley,8,Midfielder,,England,GB-ENG,1989-08-12,England,36,175.0,67.0,2017-07-01,False
+144660,Didier Ndong,Didier,Ndong,12,Midfielder,,Gabon,GA,1994-06-17,,31,179.0,75.0,2018-01-31,True
+89085,Nathaniel Chalobah,Nathaniel,Chalobah,14,Midfielder,,England,GB-ENG,1994-12-12,Sierra Leone,31,187.0,80.0,2017-07-13,False
+121599,Abdoulaye Doucouré,Abdoulaye,Doucouré,16,Midfielder,,France,FR,1993-01-01,,33,184.0,75.0,2016-02-01,False
+108413,Will Hughes,Will,Hughes,19,Midfielder,,England,GB-ENG,1995-04-17,England,31,185.0,74.0,2017-06-25,False
+219002,Dodi Lukebakio,Dodi,Lukebakio Ngandoli,20,Midfielder,Left,Belgium,BE,1997-09-24,Belgium,28,187.0,77.0,2018-01-30,False
+100412,André Carrillo,André,Carrillo,28,Midfielder,Right,Peru,PE,1991-06-14,Peru,34,180.0,75.0,2017-08-24,True
+38439,Etienne Capoue,Etienne,Capoue,29,Midfielder,,France,FR,1988-07-11,,37,189.0,80.0,2015-07-06,False
+61566,Roberto Pereyra,Roberto,Pereyra,37,Midfielder,Both,Argentina,AR,1991-01-07,Argentina,35,182.0,77.0,2016-08-19,False
+179725,Carl Stewart,Carl,Stewart,40,Midfielder,,England,GB-ENG,1997-05-02,England,29,175.0,64.0,2016-12-31,False
+94924,Gerard Deulofeu,Gerard,Deulofeu,7,Forward,Right,Spain,ES,1994-03-13,Spain,32,177.0,73.0,2018-01-29,True
+41725,Troy Deeney,Troy,Deeney,9,Forward,,England,GB-ENG,1988-06-29,,37,183.0,90.0,2010-08-05,False
+212319,Richarlison,Richarlison,de Andrade,11,Forward,,Brazil,BR,1997-05-10,Brazil,29,179.0,71.0,2017-08-08,False
+133801,Jerome Sinclair,Jerome,Sinclair,17,Forward,,England,GB-ENG,1996-09-20,,29,173.0,79.0,2016-07-01,False
+73426,Andre Gray,Andre,Gray,18,Forward,,England,GB-ENG,1991-06-26,,34,178.0,83.0,2017-08-09,False
+20046,Stefano Okaka,Stefano,Okaka,33,Forward,Right,Italy,IT,1989-08-09,Italy,36,186.0,82.0,2016-08-29,False

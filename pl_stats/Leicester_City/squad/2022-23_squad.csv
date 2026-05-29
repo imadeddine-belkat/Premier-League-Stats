@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+436680,Jakub Stolarczyk,Jakub,Stolarczyk,,Goalkeeper,,Poland,PL,2000-12-19,,25,,,2020-09-04,False
+95463,Danny Ward,Danny,Ward,1.0,Goalkeeper,Right,Wales,GB-WLS,1993-06-22,Wales,32,191.0,88.0,2018-07-20,False
+45220,Alex Smithies,Alex,Smithies,12.0,Goalkeeper,Right,England,GB-ENG,1990-03-05,,36,185.0,84.0,2022-08-12,False
+207270,Daniel Iversen,Daniel,Iversen,31.0,Goalkeeper,Right,Denmark,DK,1997-07-19,,28,193.0,80.0,2019-07-15,False
+220627,James Justin,James,Justin,2.0,Defender,Right,England,GB-ENG,1998-02-23,,28,183.0,80.0,2019-06-28,False
+218218,Wout Faes,Wout,Faes,3.0,Defender,Right,Belgium,BE,1998-04-03,Belgium,28,187.0,84.0,2022-09-01,False
+218031,Çaglar Söyüncü,Çaglar,Söyüncü,4.0,Defender,Right,Turkey,TR,1996-05-23,Türkiye,30,185.0,82.0,2018-08-09,False
+40146,Ryan Bertrand,Ryan,Bertrand,5.0,Defender,Left,England,GB-ENG,1989-08-05,,36,179.0,85.0,2021-07-15,False
+37642,Jonny Evans,Jonny,Evans,6.0,Defender,Both,Northern Ireland,GB-NIR,1988-01-03,Northern Ireland,38,188.0,77.0,2018-06-08,False
+194190,Harry Souttar,Harry,Souttar,15.0,Defender,Right,Australia,AU,1998-10-22,,27,198.0,80.0,2023-01-31,False
+481510,Victor Kristiansen,Victor,Kristiansen,16.0,Defender,Left,Denmark,DK,2002-12-16,,23,181.0,,2023-01-20,False
+155569,Daniel Amartey,Daniel,Amartey,18.0,Defender,Right,Ghana,GH,1994-12-21,Ghana,31,186.0,79.0,2016-01-22,False
+111931,Ricardo Pereira,Ricardo Domingos,Barbosa Pereira,21.0,Defender,Right,Portugal,PT,1993-10-06,Portugal,32,175.0,70.0,2018-06-09,False
+93100,Jannik Vestergaard,Jannik,Vestergaard,23.0,Defender,Left,Denmark,DK,1992-08-03,Denmark,33,199.0,98.0,2021-08-13,False
+166477,Timothy Castagne,Timothy,Castagne,27.0,Defender,Right,Belgium,BE,1995-12-05,Belgium,30,185.0,80.0,2020-09-03,False
+244619,Luke Thomas,Luke,Thomas,33.0,Defender,,England,GB-ENG,2001-06-10,England,24,,,2020-07-15,False
+501770,Ben Nelson,Ben,Nelson,45.0,Defender,,England,GB-ENG,2004-03-18,England,22,,,2020-12-02,False
+514284,Joe Wormleighton,Joe,Wormleighton,60.0,Defender,,England,GB-ENG,2003-12-30,England,22,,,2022-07-08,False
+201666,Harvey Barnes,Harvey,Barnes,7.0,Midfielder,Right,England,GB-ENG,1997-12-09,,28,174.0,66.0,2016-07-01,False
+461584,Wanya Marçal-Madivadua,Wanya,Marçal-Madivadua,7.0,Midfielder,Right,Portugal,PT,2002-10-19,,23,181.0,,2021-10-26,False
+166989,Youri Tielemans,Youri,Tielemans,8.0,Midfielder,Both,Belgium,BE,1997-05-07,Belgium,29,176.0,72.0,2019-07-08,False
+172780,James Maddison,James,Maddison,10.0,Midfielder,Right,England,GB-ENG,1996-11-23,England,29,175.0,73.0,2018-06-20,False
+51938,Marc Albrighton,Marc,Albrighton,11.0,Midfielder,Right,England,GB-ENG,1989-11-18,England,36,175.0,74.0,2014-07-01,False
+215413,Kiernan Dewsbury-Hall,Kiernan,Dewsbury-Hall,22.0,Midfielder,,England,GB-ENG,1998-09-06,,27,178.0,,2020-01-24,False
+86881,Nampalys Mendy,Nampalys,Mendy,24.0,Midfielder,Right,Senegal,SN,1992-06-23,,33,167.0,73.0,2016-07-03,False
+203341,Wilfred Ndidi,Wilfred,Ndidi,25.0,Midfielder,Right,Nigeria,NG,1996-12-16,Nigeria,29,183.0,74.0,2017-01-03,False
+106837,Dennis Praet,Dennis,Praet,26.0,Midfielder,Right,Belgium,BE,1994-05-14,Belgium,32,181.0,78.0,2019-08-08,False
+197469,Hamza Choudhury,Hamza,Choudhury,29.0,Midfielder,Right,England,GB-ENG,1997-10-01,,28,178.0,64.0,2017-09-18,False
+232620,Lewis Brunt,Lewis,Brunt,34.0,Midfielder,,England,GB-ENG,2000-11-06,,25,,,2021-12-11,False
+461587,Kasey McAteer,Kasey,McAteer,35.0,Midfielder,,England,GB-ENG,2001-11-22,,24,,,2021-12-01,False
+225902,Boubakary Soumaré,Boubakary,Soumaré,42.0,Midfielder,Right,France,FR,1999-02-27,France,27,188.0,70.0,2021-07-02,False
+519223,Sammy Braybrooke,Sammy,Braybrooke,44.0,Midfielder,,England,GB-ENG,2004-03-12,,22,,,2022-01-07,False
+532534,William Alves,William,Alves,77.0,Midfielder,,England,GB-ENG,2005-05-04,,21,,,2022-01-07,False
+101668,Jamie Vardy,Jamie,Vardy,9.0,Forward,Right,England,GB-ENG,1987-01-11,England,39,179.0,74.0,2012-07-01,False
+173515,Kelechi Iheanacho,Kelechi,Iheanacho,14.0,Forward,Left,Nigeria,NG,1996-10-03,Nigeria,29,185.0,82.0,2017-08-03,False
+168580,Ayoze Pérez,Ayoze,Pérez,17.0,Forward,Right,Spain,ES,1993-07-29,Spain,32,178.0,72.0,2019-07-04,False
+245419,Patson Daka,Patson,Daka,20.0,Forward,Right,Zambia,ZM,1998-10-09,Zambia,27,183.0,71.0,2021-07-01,False
+225295,Tetê,Mateus,Cardoso Lemos Martins,37.0,Forward,Left,Brazil,BR,2000-02-15,Brazil,26,175.0,70.0,2023-01-29,True

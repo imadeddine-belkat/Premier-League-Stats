@@ -1,0 +1,35 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+50264,Declan Rudd,Declan,Rudd,,Goalkeeper,,England,GB-ENG,1991-01-16,,35,191,81,2008-07-01,False
+19236,John Ruddy,John,Ruddy,1.0,Goalkeeper,,England,GB-ENG,1986-10-24,England,39,193,97,2010-07-05,False
+10954,Mark Bunn,Mark,Bunn,13.0,Goalkeeper,,England,GB-ENG,1984-11-16,,41,183,77,2012-08-31,False
+1362,Carlo Nash,Carlo,Nash,20.0,Goalkeeper,,England,GB-ENG,1973-09-13,,52,196,89,2013-07-10,False
+13164,Steven Whittaker,Steven,Whittaker,2.0,Defender,,Scotland,GB-SCT,1984-06-16,,41,185,87,2012-07-22,False
+28654,Martin Olsson,Martin,Olsson,3.0,Defender,,Sweden,SE,1988-05-17,,38,178,81,2013-07-10,False
+19341,Russell Martin,Russell,Martin,5.0,Defender,,Scotland,GB-SCT,1986-01-04,England,40,183,74,2010-01-04,False
+42744,Sebastien Bassong,Sebastien,Bassong,6.0,Defender,,Cameroon,CM,1986-07-09,,39,187,73,2012-08-21,False
+17271,Javier Garrido,Javier,Garrido Behovide,18.0,Defender,Left,Spain,ES,1985-03-15,Spain,41,180,76,2013-07-01,False
+41727,Ryan Bennett,Ryan,Bennett,24.0,Defender,,England,GB-ENG,1990-03-06,,36,188,70,2012-01-31,False
+10594,Joseph Yobo,Joseph,Yobo,26.0,Defender,,Nigeria,NG,1980-09-06,Nigeria,45,188,76,2014-01-30,True
+15864,Michael Turner,Michael,Turner,26.0,Defender,,England,GB-ENG,1983-11-09,,42,193,84,2012-07-27,False
+156849,Adel Gafaiti,Adel,Gafaiti,31.0,Defender,,France,FR,1994-07-16,,31,185,76,2013-07-01,False
+19569,Bradley Johnson,Bradley,Johnson,4.0,Midfielder,,England,GB-ENG,1987-04-28,,39,178,68,2011-07-01,False
+18987,Robert Snodgrass,Robert,Snodgrass,7.0,Midfielder,,Scotland,GB-SCT,1987-09-07,,38,182,82,2012-07-26,False
+38297,Jonny Howson,Jonny,Howson,8.0,Midfielder,,England,GB-ENG,1988-05-21,,38,180,77,2012-01-24,False
+49277,Leroy Fer,Leroy,Fer,10.0,Midfielder,,Netherlands,NL,1990-01-05,Netherlands,36,188,79,2013-07-13,False
+40451,Anthony Pilkington,Anthony,Pilkington,12.0,Midfielder,,Ireland,IE,1988-06-06,England,37,180,76,2011-07-06,False
+28499,Wes Hoolahan,Wes,Hoolahan,14.0,Midfielder,,Ireland,IE,1982-05-20,Republic of Ireland,44,168,71,2008-07-01,False
+21060,Jonás Gutiérrez,Jonás,Gutiérrez,15.0,Midfielder,Right,Argentina,AR,1983-07-05,Argentina,42,183,73,2014-01-13,True
+41262,Elliott Bennett,Elliott,Bennett,17.0,Midfielder,,England,GB-ENG,1988-12-18,,37,175,69,2011-07-01,False
+114243,Jacob Murphy,Jacob,Murphy,22.0,Midfielder,,England,GB-ENG,1995-02-24,,31,179,74,2013-07-01,False
+83283,Nathan Redmond,Nathan,Redmond,22.0,Midfielder,,England,GB-ENG,1994-03-06,,32,173,69,2013-07-04,False
+17812,David Fox,David,Fox,25.0,Midfielder,,England,GB-ENG,1983-12-13,,42,175,77,2010-07-01,False
+18665,Alexander Tettey,Alexander,Tettey,27.0,Midfielder,,Norway,NO,1986-04-04,,40,180,68,2012-08-24,False
+15237,Andrew Surman,Andrew,Surman,29.0,Midfielder,,England,GB-ENG,1986-08-20,South Africa,39,178,73,2010-07-01,False
+114244,Reece Hall-Johnson,Reece,Hall-Johnson,34.0,Midfielder,,England,GB-ENG,1995-05-09,,31,173,67,2013-07-01,False
+156706,Cameron McGeehan,Cameron,McGeehan,36.0,Midfielder,,Northern Ireland,GB-NIR,1995-04-06,,31,180,71,2013-07-01,False
+114245,Josh Murphy,Josh,Murphy,11.0,Forward,,England,GB-ENG,1995-02-24,,31,173,67,2013-07-01,False
+28221,Gary Hooper,Gary,Hooper,11.0,Forward,,England,GB-ENG,1988-01-26,England,38,175,71,2013-07-26,False
+4739,Johan Elmander,Johan,Elmander,16.0,Forward,,Sweden,SE,1981-05-27,,45,188,84,2013-08-21,True
+114242,Jamar Loza,Jamar,Loza,16.0,Forward,,Jamaica,JM,1994-05-10,Jamaica,32,177,71,2013-07-01,False
+19791,Luciano Becchio,Luciano,Becchio,19.0,Forward,Left,Argentina,AR,1983-12-28,Argentina,42,187,86,2013-01-31,False
+50165,Ricky van Wolfswinkel,Ricky,van Wolfswinkel,29.0,Forward,,Netherlands,NL,1989-01-27,Netherlands,37,185,70,2013-07-01,False

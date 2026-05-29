@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+41705,Brad Guzan,Brad,Guzan,1,Goalkeeper,Left,United States,US,1984-09-09,USA,41,193.0,94.0,2008-08-01,False
+79852,Jed Steer,Jed,Steer,13,Goalkeeper,,England,GB-ENG,1992-09-22,,33,188.0,89.0,2013-07-01,False
+10954,Mark Bunn,Mark,Bunn,31,Goalkeeper,,England,GB-ENG,1984-11-16,,41,183.0,77.0,2015-07-09,False
+154935,Bradley Watkins,Bradley,Watkins,41,Goalkeeper,,England,GB-ENG,1994-09-11,,31,188.0,80.0,2015-07-01,False
+52477,Nathan Baker,Nathan,Baker,2,Defender,,England,GB-ENG,1991-04-23,,35,188.0,75.0,2008-07-01,False
+56981,Joe Bennett,Joe,Bennett,3,Defender,,England,GB-ENG,1990-03-28,,36,183.0,74.0,2012-08-31,False
+20492,Micah Richards,Micah,Richards,4,Defender,,England,GB-ENG,1988-06-24,,37,180.0,82.0,2015-07-01,False
+80502,Jores Okore,Jores,Okore,5,Defender,,Denmark,DK,1992-08-11,,33,183.0,80.0,2013-06-13,False
+58845,Ciaran Clark,Ciaran,Clark,6,Defender,,Ireland,IE,1989-09-26,,36,188.0,76.0,2008-12-03,False
+74297,Leandro Bacuna,Leandro,Bacuna,7,Defender,,Curacao,CW,1991-08-21,Netherlands,34,187.0,77.0,2013-06-13,False
+7551,Joleon Lescott,Joleon,Lescott,16,Defender,,England,GB-ENG,1982-08-16,,43,190.0,89.0,2015-09-01,False
+15073,Kieran Richardson,Kieran,Richardson,18,Defender,,England,GB-ENG,1984-10-21,,41,173.0,71.0,2014-07-11,False
+15405,Alan Hutton,Alan,Hutton,21,Defender,,Scotland,GB-SCT,1984-11-30,Scotland,41,185.0,72.0,2011-08-31,False
+115380,Jordan Amavi,Jordan,Amavi,23,Defender,,France,FR,1994-03-09,,32,176.0,70.0,2015-07-18,False
+44354,Aly Cissokho,Aly,Cissokho,28,Defender,Left,France,FR,1987-09-15,France,38,181.0,75.0,2014-08-08,False
+28386,José Ángel Crespo,José Ángel,Crespo,33,Defender,Right,Spain,ES,1987-02-09,Spain,39,183.0,72.0,2015-07-28,False
+178239,Easah Suliman,Easah,Suliman,34,Defender,,England,GB-ENG,1998-01-26,England,28,188.0,80.0,2015-07-01,False
+153374,Niall Mason,Niall,Mason,42,Defender,,England,GB-ENG,1997-01-10,,29,,,2016-02-02,False
+171213,Kevin Toner,Kevin,Toner,46,Defender,,Ireland,IE,1996-07-18,,29,,,2015-07-01,False
+80801,Idrissa Gueye,Idrissa,Gueye,8,Midfielder,,Senegal,SN,1989-09-26,,36,174.0,66.0,2015-07-10,False
+19688,Scott Sinclair,Scott,Sinclair,9,Midfielder,,England,GB-ENG,1989-03-25,,37,175.0,64.0,2015-01-30,False
+60551,Ashley Westwood,Ashley,Westwood,15,Midfielder,,England,GB-ENG,1990-04-01,,36,175.0,67.0,2012-08-31,False
+96740,Jordan Veretout,Jordan,Veretout,17,Midfielder,,France,FR,1993-03-01,,33,177.0,67.0,2015-07-31,False
+77800,Gary Gardner,Gary,Gardner,22,Midfielder,,England,GB-ENG,1992-06-29,,33,188.0,82.0,2009-07-01,False
+42824,Carlos Sánchez,Carlos,Sánchez,24,Midfielder,Right,Colombia,CO,1986-02-06,Colombia,40,182.0,80.0,2014-08-14,False
+88554,Carles Gil,Carles,Gil de Pareja Vicent,25,Midfielder,,Spain,ES,1992-11-22,Spain,33,170.0,63.0,2015-01-13,False
+18737,Charles N'Zogbia,Charles,N'Zogbia,28,Midfielder,,France,FR,1986-05-28,,40,170.0,70.0,2011-07-29,False
+160220,Jordan Lyden,Jordan,Lyden,38,Midfielder,,Australia,AU,1996-01-30,,30,175.0,72.0,2015-12-10,False
+114283,Jack Grealish,Jack,Grealish,40,Midfielder,,England,GB-ENG,1995-09-10,,30,178.0,68.0,2011-07-01,False
+221239,Keinan Davis,Keinan,Davis,45,Midfielder,,England,GB-ENG,1998-02-13,,28,,,2016-02-06,False
+80146,Jordan Ayew,Jordan,Ayew,10,Forward,,Ghana,GH,1991-09-11,France,34,182.0,80.0,2015-07-27,False
+27450,Gabriel Agbonlahor,Gabriel,Agbonlahor,11,Forward,,England,GB-ENG,1986-10-13,,39,178.0,76.0,2004-07-01,False
+49207,Rudy Gestede,Rudy,Gestede,14,Forward,,Benin,BJ,1988-10-10,France,37,193.0,86.0,2015-07-31,False
+51950,Libor Kozák,Libor,Kozák,18,Forward,Right,Czech Republic,CZ,1989-05-30,Czech Republic,36,192.0,84.0,2013-09-02,False
+174597,Andre Green,Andre,Green,19,Forward,,England,GB-ENG,1998-07-26,England,27,,,2015-05-22,False
+159533,Adama Traoré,Adama,Traoré,20,Forward,,Spain,ES,1996-01-25,,30,178.0,72.0,2015-08-14,False
+175944,Rushian Hepburn-Murphy,Rushian,Hepburn-Murphy,29,Forward,,England,GB-ENG,1998-08-28,,27,178.0,,2015-03-14,False
+184478,Corey Taylor,Corey,Blackett-Taylor,35,Forward,,England,GB-ENG,1997-09-23,England,28,170.0,67.0,2015-07-01,False

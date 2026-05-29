@@ -1,0 +1,32 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+41705,Brad Guzan,Brad,Guzan,,Goalkeeper,Left,United States,US,1984-09-09,USA,41,193,94,2016-07-29,False
+19101,Dimitrios Konstantopoulos,Dimitrios,Konstantopoulos,1.0,Goalkeeper,,Greece,GR,1978-11-29,,47,193,90,2013-08-16,False
+91043,Connor Ripley,Connor,Ripley,12.0,Goalkeeper,,England,GB-ENG,1993-02-13,,33,191,96,2010-07-01,False
+51942,Tomás Mejías,Tomas,Mejias Osorio,13.0,Goalkeeper,,Spain,ES,1989-01-30,Spain,37,195,84,2014-07-04,False
+12496,Víctor Valdés,Víctor,Valdés,26.0,Goalkeeper,Right,Spain,ES,1982-01-14,Spain,44,183,78,2016-07-01,False
+54771,Fabio,Fabio Pereira,da Silva,2.0,Defender,,Brazil,BR,1990-07-09,,35,172,65,2016-08-12,False
+40202,George Friend,George,Friend,3.0,Defender,,England,GB-ENG,1987-10-17,,38,188,83,2012-07-30,False
+75880,Daniel Ayala,Daniel,Ayala,4.0,Defender,,Spain,ES,1990-11-07,Spain,35,190,81,2014-01-24,False
+55317,Bernardo Espinosa,Bernardo,Espinosa,5.0,Defender,Right,Colombia,CO,1989-07-11,Colombia,36,192,86,2016-07-01,False
+83312,Ben Gibson,Ben,Gibson,6.0,Defender,,England,GB-ENG,1993-01-15,,33,185,78,2009-07-01,False
+15633,Alex Baptiste,Alex,Baptiste,15.0,Defender,,England,GB-ENG,1986-01-31,,40,180,74,2015-07-07,False
+20399,Antonio Barragán,Antonio,Barragán,17.0,Defender,Right,Spain,ES,1987-06-12,Spain,38,182,76,2016-07-16,False
+169061,Dael Fry,Dael,Fry,20.0,Defender,,England,GB-ENG,1997-08-30,,28,181,72,2015-07-01,False
+101184,Calum Chambers,Calum,Chambers,25.0,Defender,,England,GB-ENG,1995-01-20,,31,182,66,2016-08-30,True
+90263,James Husband,James,Husband,40.0,Defender,,England,GB-ENG,1994-01-03,,32,179,65,2014-07-30,False
+10460,Grant Leadbitter,Grant,Leadbitter,7.0,Midfielder,,England,GB-ENG,1986-01-07,,40,177,79,2012-07-01,False
+59044,Adam Clayton,Adam,Clayton,8.0,Midfielder,,England,GB-ENG,1989-01-14,England,37,175,75,2014-08-13,False
+82428,Marten de Roon,Marten,de Roon,14.0,Midfielder,,Netherlands,NL,1991-03-29,Netherlands,35,185,76,2016-07-04,False
+153601,Carlos de Pena,Carlos,de Pena,16.0,Midfielder,Left,Uruguay,UY,1992-03-11,Uruguay,34,177,74,2015-09-01,False
+44302,Adlène Guédioura,Adlène,Guédioura,17.0,Midfielder,,Algeria,DZ,1985-11-12,France,40,186,81,2017-01-31,False
+12002,Stewart Downing,Stewart,Downing,19.0,Midfielder,,England,GB-ENG,1984-07-22,,41,180,64,2015-07-17,False
+78091,Gastón Ramírez,Gastón,Ramírez,21.0,Midfielder,Left,Uruguay,UY,1990-12-02,Uruguay,35,183,78,2016-07-22,False
+169535,Julien de Sart,Julien,de Sart,23.0,Midfielder,,Belgium,BE,1994-12-23,,31,182,68,2016-02-01,False
+80179,Adam Forshaw,Adam,Forshaw,34.0,Midfielder,,England,GB-ENG,1991-10-08,,34,185,71,2015-01-28,False
+159533,Adama Traoré,Adama,Traoré,37.0,Midfielder,,Spain,ES,1996-01-25,,30,178,72,2016-08-31,False
+20047,Jordan Rhodes,Jordan,Rhodes,9.0,Forward,,Scotland,GB-SCT,1990-02-05,Scotland,36,185,71,2016-02-01,False
+42892,Álvaro Negredo,Álvaro,Negredo,10.0,Forward,Left,Spain,ES,1985-08-20,Spain,40,186,86,2016-07-20,True
+106617,Patrick Bamford,Patrick,Bamford,11.0,Forward,,England,GB-ENG,1993-09-05,,32,185,71,2017-01-18,False
+123125,Viktor Fischer,Viktor,Fischer,11.0,Forward,Right,Denmark,DK,1994-06-09,Denmark,31,182,80,2016-07-01,False
+49464,Cristhian Stuani,Cristhian,Stuani,18.0,Forward,Right,Uruguay,UY,1986-10-12,Uruguay,39,186,76,2015-08-07,False
+49207,Rudy Gestede,Rudy,Gestede,39.0,Forward,,Benin,BJ,1988-10-10,France,37,193,86,2017-01-04,False

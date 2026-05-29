@@ -1,0 +1,40 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+9631,Bradley Jones,Bradley,Jones,1.0,Goalkeeper,Left,Australia,AU,1982-03-19,Australia,44,194,76,2010-07-16,False
+8432,Pepe Reina,Pepe,Reina,25.0,Goalkeeper,Right,Spain,ES,1982-08-31,Spain,43,188,92,2005-07-04,False
+26756,Doni,Donieber Alexander,Marangon,32.0,Goalkeeper,,Brazil,BR,1979-10-22,Brazil,46,194,91,2011-07-15,False
+46506,Péter Gulácsi,Péter,Gulácsi,42.0,Goalkeeper,Right,Hungary,HU,1990-05-06,Hungary,36,191,86,2008-07-01,False
+9047,Glen Johnson,Glen,Johnson,2.0,Defender,,England,GB-ENG,1984-08-23,England,41,182,78,2009-06-22,False
+26725,José Enrique,Jose,Enrique Sanchez Diaz,3.0,Defender,,Spain,ES,1986-01-23,Spain,40,184,76,2011-08-12,False
+21094,Daniel Agger,Daniel,Agger,5.0,Defender,,Denmark,DK,1984-12-12,,41,188,79,2006-01-12,False
+3665,Fábio Aurélio,Fábio,Aurélio Rodrigues,6.0,Defender,,Brazil,BR,1979-09-24,,46,178,75,2006-07-05,False
+78108,Sebastián Coates,Sebastián,Coates,16.0,Defender,Right,Uruguay,UY,1990-10-07,Uruguay,35,196,94,2011-08-31,False
+60490,Danny Wilson,Danny,Wilson,22.0,Defender,Left,Scotland,GB-SCT,1991-12-27,Scotland,34,187,79,2010-07-21,False
+1809,Jamie Carragher,Jamie,Carragher,23.0,Defender,,England,GB-ENG,1978-01-28,,48,185,76,1994-08-01,False
+58786,Martin Kelly,Martin,Kelly,34.0,Defender,Right,England,GB-ENG,1990-04-27,,36,191,77,2008-11-25,False
+26793,Martin Skrtel,Martin,Skrtel,37.0,Defender,Right,Slovakia,SK,1984-12-15,Slovakia,41,191,81,2008-01-11,False
+91979,Jon Flanagan,Jon,Flanagan,38.0,Defender,Right,England,GB-ENG,1993-01-01,England,33,181,79,2010-07-01,False
+89088,Andre Wisdom,Andre,Wisdom,47.0,Defender,Right,England,GB-ENG,1993-05-09,England,33,186,78,2010-07-01,False
+83427,Jack Robinson,Jack,Robinson,49.0,Defender,Left,England,GB-ENG,1993-09-01,England,32,180,67,2009-07-01,False
+111981,Toni Silva,Toni,Brito Silva Sá,,Midfielder,Left,Guinea-Bissau,GW,1993-09-15,Guinea-Bissau,32,182,74,2012-02-01,False
+1814,Steven Gerrard,Steven,Gerrard,8.0,Midfielder,,England,GB-ENG,1980-05-30,England,45,185,82,1998-08-01,False
+2060,Joe Cole,Joe,Cole,10.0,Midfielder,,England,GB-ENG,1981-11-08,,44,175,63,2010-07-19,False
+13308,Maxi Rodríguez,Maximiliano,Rodríguez,11.0,Midfielder,Right,Argentina,AR,1981-01-02,Argentina,45,180,75,2010-01-13,False
+56979,Jordan Henderson,Jordan,Henderson,14.0,Midfielder,Right,England,GB-ENG,1990-06-17,England,35,182,78,2011-06-09,False
+18372,Alberto Aquilani,Alberto,Aquilani,18.0,Midfielder,Right,Italy,IT,1984-07-07,Italy,41,185,81,2009-08-07,False
+4719,Dirk Kuijt,Dirk,Kuijt,18.0,Midfielder,,Netherlands,NL,1980-07-22,Netherlands,45,184,77,2006-08-18,False
+12002,Stewart Downing,Stewart,Downing,19.0,Midfielder,,England,GB-ENG,1984-07-22,,41,180,64,2011-07-15,False
+55548,Jay Spearing,Jay,Spearing,20.0,Midfielder,,England,GB-ENG,1988-11-25,,37,171,71,2008-07-01,False
+43191,Lucas Leiva,Lucas,Pezzini Leiva,21.0,Midfielder,Right,Brazil,BR,1987-01-09,Brazil,39,179,74,2007-07-01,False
+20208,Charlie Adam,Charlie,Adam,26.0,Midfielder,,Scotland,GB-SCT,1985-12-10,,40,185,83,2011-07-07,False
+103953,Suso,Jesús Joaquín,Fernández Sáenz de la Torre,30.0,Midfielder,Left,Spain,ES,1993-11-19,Spain,32,177,70,2011-08-10,False
+50232,Jonjo Shelvey,Jonjo,Shelvey,33.0,Midfielder,Right,England,GB-ENG,1992-02-27,,34,184,80,2010-05-10,False
+94147,Conor Coady,Conor,Coady,35.0,Midfielder,Right,England,GB-ENG,1993-02-25,England,33,185,80,2010-07-01,False
+44562,David Amoo,David,Amoo,46.0,Midfielder,,England,GB-ENG,1991-04-13,England,35,178,77,2007-07-11,False
+109363,João Teixeira,João Carlos,Vilaça Teixeira,53.0,Midfielder,Right,Portugal,PT,1993-01-18,Portugal,33,167,64,2012-02-01,False
+105696,Villyan Bijev,Villyan,Bijev,,Forward,,Bulgaria,BG,1993-01-03,Bulgaria,33,183,75,2011-07-01,False
+39336,Luis Suárez,Luis,Suárez,7.0,Forward,Right,Uruguay,UY,1987-01-24,Uruguay,39,182,86,2011-01-31,False
+40142,Andy Carroll,Andy,Carroll,9.0,Forward,Left,England,GB-ENG,1989-01-06,England,37,193,79,2011-01-31,False
+43016,Dani Pacheco,Daniel,Pacheco Lobato,12.0,Forward,Right,Spain,ES,1991-01-05,Spain,35,170,70,2007-07-01,False
+103955,Raheem Sterling,Raheem,Sterling,31.0,Forward,Both,England,GB-ENG,1994-12-08,Jamaica,31,172,69,2011-06-01,False
+59948,Nathan Eccleston,Nathan,Eccleston,36.0,Forward,,England,GB-ENG,1990-12-30,England,35,177,65,2008-07-01,False
+1231,Craig Bellamy,Craig,Bellamy,39.0,Forward,,Wales,GB-WLS,1979-07-13,,46,175,68,2011-08-31,False

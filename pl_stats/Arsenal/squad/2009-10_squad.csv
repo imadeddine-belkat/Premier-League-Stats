@@ -1,0 +1,55 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+14422,Manuel Almunia,Manuel,Almunia,1.0,Goalkeeper,,Spain,ES,1977-05-19,,49,191.0,86.0,2004-07-14,False
+59936,Wojciech Szczesny,Wojciech,Szczesny,1.0,Goalkeeper,,Poland,PL,1990-04-18,Poland,36,196.0,84.0,2008-07-01,False
+37096,Lukasz Fabianski,Lukasz,Fabianski,21.0,Goalkeeper,,Poland,PL,1985-04-18,,41,190.0,83.0,2007-05-26,False
+20487,Vito Mannone,Vito,Mannone,24.0,Goalkeeper,,Italy,IT,1988-03-02,,38,188.0,80.0,2005-07-04,False
+77818,James Shea,James,Shea,60.0,Goalkeeper,,England,GB-ENG,1991-06-16,,34,180.0,76.0,2009-07-01,False
+45638,Botelho,Pedro Roberto,Silva Botelho,,Defender,Left,Brazil,BR,1989-12-14,Brazil,36,188.0,80.0,2007-07-01,False
+37748,Bacary Sagna,Bacary,Sagna,3.0,Defender,,France,FR,1983-02-14,,43,176.0,72.0,2007-07-12,False
+15943,Thomas Vermaelen,Thomas,Vermaelen,5.0,Defender,,Belgium,BE,1985-11-14,,40,180.0,75.0,2009-06-19,False
+16854,Philippe Senderos,Philippe,Senderos,6.0,Defender,Right,Switzerland,CH,1985-02-14,Switzerland,41,190.0,84.0,2003-07-01,False
+6254,William Gallas,William,Gallas,10.0,Defender,,France,FR,1977-08-17,,48,181.0,69.0,2006-08-31,False
+1851,Mikael Silvestre,Mikael,Silvestre,18.0,Defender,,France,FR,1977-08-09,France,48,184.0,85.0,2008-08-20,False
+19160,Johan Djourou,Johan,Djourou,20.0,Defender,Right,Switzerland,CH,1987-01-18,Côte d'Ivoire,39,191.0,87.0,2004-08-01,False
+17336,Gaël Clichy,Gaël,Clichy,22.0,Defender,,France,FR,1985-07-26,,40,176.0,65.0,2003-08-04,False
+42427,Kieran Gibbs,Kieran,Gibbs,28.0,Defender,,England,GB-ENG,1989-09-26,,36,178.0,70.0,2006-07-01,False
+20488,Armand Traore,Armand,Traore,30.0,Defender,,Senegal,SN,1989-10-08,France,36,185.0,81.0,2005-07-05,False
+1886,Sol Campbell,Sol,Campbell,31.0,Defender,,England,GB-ENG,1974-09-18,,51,188.0,88.0,2010-01-13,False
+59940,Kyle Bartley,Kyle,Bartley,35.0,Defender,,England,GB-ENG,1991-05-22,England,35,185.0,76.0,2007-07-31,False
+59939,Thomas Cruise,Thomas,Cruise,36.0,Defender,,England,GB-ENG,1991-03-09,,35,183.0,81.0,2007-07-31,False
+81089,Cedric Evina,Cedric,Evina,39.0,Defender,,Cameroon,CM,1991-11-16,,34,175.0,71.0,2009-08-01,False
+28225,Kerrea Gilbert,Kerrea,Gilbert,42.0,Defender,,England,GB-ENG,1987-02-28,,39,175.0,71.0,2002-08-01,False
+41243,Gavin Hoyte,Gavin,Hoyte,45.0,Defender,,England,GB-ENG,1990-06-06,,35,180.0,71.0,2006-07-01,False
+66588,Luke Ayling,Luke,Ayling,46.0,Defender,,England,GB-ENG,1991-08-25,England,34,178.0,78.0,2007-07-31,False
+43626,Havard Nordtveit,Havard,Nordtveit,50.0,Defender,Right,Norway,NO,1990-06-21,Norway,35,188.0,85.0,2007-07-04,False
+58833,Rene Steer,Rene,Steer,51.0,Defender,,England,GB-ENG,1990-01-31,,36,,,2008-07-01,False
+40564,Henri Lansbury,Henri,Lansbury,,Midfielder,,England,GB-ENG,1990-10-12,,35,183.0,85.0,2006-07-01,False
+80588,Galindo,Samuel,Galindo Suheiro,,Midfielder,Left,Bolivia,BO,1992-04-18,Bolivia,34,190.0,70.0,2010-01-15,False
+17878,Francesc Fábregas,Francesc,Fábregas,4.0,Midfielder,Right,Spain,ES,1987-05-04,Spain,39,175.0,74.0,2003-07-01,False
+8597,Tomas Rosicky,Tomas,Rosicky,7.0,Midfielder,,Czech Republic,CZ,1980-10-04,,45,178.0,65.0,2006-05-23,False
+28554,Samir Nasri,Samir,Nasri,8.0,Midfielder,,France,FR,1987-06-26,,38,175.0,75.0,2008-07-11,False
+54102,Jack Wilshere,Jack,Wilshere,10.0,Midfielder,,England,GB-ENG,1992-01-01,,34,172.0,68.0,2008-07-01,False
+20467,Theo Walcott,Theo,Walcott,14.0,Midfielder,,England,GB-ENG,1989-03-16,,37,176.0,68.0,2006-01-20,False
+28440,Denilson,Denilson,Pereira Neves,15.0,Midfielder,,Brazil,BR,1988-02-16,,38,182.0,70.0,2006-08-31,False
+41792,Aaron Ramsey,Aaron,Ramsey,16.0,Midfielder,,Wales,GB-WLS,1990-12-26,,35,177.0,70.0,2008-07-01,False
+21091,Alexandre Song,Alexandre,Song,17.0,Midfielder,,Cameroon,CM,1987-09-09,,38,185.0,74.0,2006-07-01,False
+56864,Francis Coquelin,Francis,Coquelin,22.0,Midfielder,Right,France,FR,1991-05-13,France,35,178.0,74.0,2008-09-01,False
+13227,Andrey Arshavin,Andrey,Arshavin,23.0,Midfielder,,Russia,RU,1981-05-29,,45,172.0,69.0,2009-02-03,False
+28566,Vassiriki Abou Diaby,Vassiriki,Abou Diaby,24.0,Midfielder,,France,FR,1986-05-11,,40,192.0,74.0,2006-01-13,False
+56861,Emmanuel Frimpong,Emmanuel,Frimpong,26.0,Midfielder,,Ghana,GH,1992-01-10,Ghana,34,180.0,67.0,2008-08-01,False
+19701,Emmanuel Eboué,Emmanuel,Eboué,27.0,Midfielder,,Cote d’Ivoire,CI,1983-06-04,,42,178.0,72.0,2005-01-09,False
+38519,Fran Mérida,Francisco,Mérida Pérez,32.0,Midfielder,Left,Spain,ES,1990-03-04,Spain,36,173.0,69.0,2006-08-01,False
+45337,Nacer Barazite,Nacer,Barazite,33.0,Midfielder,Right,Netherlands,NL,1990-05-27,Netherlands,36,188.0,86.0,2006-07-01,False
+56865,Jay Emmanuel-Thomas,Jay,Emmanuel-Thomas,41.0,Midfielder,,England,GB-ENG,1990-12-27,,35,185.0,86.0,2008-09-01,False
+66587,Craig Eastmond,Craig,Eastmond,44.0,Midfielder,,England,GB-ENG,1990-12-09,England,35,173.0,75.0,2007-07-31,False
+39975,Mark Randall,Mark,Randall,48.0,Midfielder,,England,GB-ENG,1989-09-28,,36,183.0,81.0,2006-08-01,False
+59937,Conor Henderson,Conor,Henderson,50.0,Midfielder,,Ireland,IE,1991-09-08,,34,185.0,76.0,2008-07-01,False
+38470,Eduardo,Eduardo,da Silva,9.0,Forward,,Croatia,HR,1983-02-25,,43,177.0,72.0,2007-07-02,False
+12297,Robin van Persie,Robin,van Persie,10.0,Forward,Left,Netherlands,NL,1983-08-06,Netherlands,42,183.0,71.0,2004-05-16,False
+38401,Carlos Vela,Carlos,Vela,11.0,Forward,Left,Mexico,MX,1989-03-01,Mexico,37,177.0,71.0,2005-07-01,False
+27697,Nicklas Bendtner,Nicklas,Bendtner,23.0,Forward,Right,Denmark,DK,1988-01-16,Denmark,38,190.0,76.0,2005-07-01,False
+49083,Luke Freeman,Luke,Freeman,41.0,Forward,,England,GB-ENG,1992-03-22,,34,175.0,65.0,2008-01-30,False
+59941,Rhys Murphy,Rhys,Murphy,50.0,Forward,,Ireland,IE,1990-11-06,England,35,182.0,76.0,2008-07-01,False
+39976,Jay Simpson,Jay,Simpson,50.0,Forward,,England,GB-ENG,1988-12-01,,37,180.0,85.0,2006-08-01,False
+66589,Gilles Sunu,Gilles,Sunu,56.0,Forward,,France,FR,1991-03-30,France,35,181.0,75.0,2007-07-31,False
+59942,Sanchez Watt,Herschel,Sanchez Watt,62.0,Forward,,England,GB-ENG,1991-02-14,England,35,177.0,70.0,2007-07-31,False

@@ -1,0 +1,43 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+122074,Marcus Bettinelli,Marcus,Bettinelli,1.0,Goalkeeper,,England,GB-ENG,1992-05-24,,34,194,82,2012-07-01,False
+1827,Mark Schwarzer,Mark,Schwarzer,1.0,Goalkeeper,,Australia,AU,1972-10-06,,53,194,95,2008-07-01,False
+15903,David Stockdale,David,Stockdale,13.0,Goalkeeper,,England,GB-ENG,1985-09-20,,40,191,84,2008-07-01,False
+101489,Csaba Somogyi,Csaba,Somogyi,22.0,Goalkeeper,,Hungary,HU,1985-04-07,,41,190,85,2011-07-08,False
+88734,Neil Etheridge,Neil,Etheridge,38.0,Goalkeeper,,Philippines,PH,1990-02-07,England,36,188,90,2010-07-01,False
+111319,Jesse Joronen,Jesse,Joronen,41.0,Goalkeeper,,Finland,FI,1993-03-21,Finland,33,196,87,2012-07-01,False
+4098,John Arne Riise,John Arne,Riise,3.0,Defender,Left,Norway,NO,1980-09-24,Norway,45,188,77,2011-07-13,False
+16854,Philippe Senderos,Philippe,Senderos,4.0,Defender,Right,Switzerland,CH,1985-02-14,Switzerland,41,190,86,2010-06-08,False
+15284,Brede Hangeland,Brede,Hangeland,5.0,Defender,,Norway,NO,1981-06-20,,44,195,85,2008-01-18,False
+15968,Chris Baird,Chris,Baird,6.0,Defender,,Northern Ireland,GB-NIR,1982-02-25,,44,185,74,2007-07-12,False
+42425,Matthew Briggs,Matthew,Briggs,17.0,Defender,,Guyana,GY,1991-03-06,,35,184,76,2006-07-01,False
+1869,Aaron Hughes,Aaron,Hughes,18.0,Defender,,Northern Ireland,GB-NIR,1979-11-08,,46,183,71,2007-06-27,False
+28313,Stanislav Manolev,Stanislav,Manolev,25.0,Defender,,Bulgaria,BG,1985-12-16,,40,183,72,2013-01-31,True
+82412,Jack Grimmer,Jack,Grimmer,26.0,Defender,,Scotland,GB-SCT,1994-01-25,,32,184,82,2012-07-01,False
+17160,Sascha Riether,Sascha,Riether,27.0,Defender,Right,Germany,DE,1983-03-23,Germany,43,174,70,2012-07-06,True
+78916,Dan Burn,Dan,Burn,33.0,Defender,,England,GB-ENG,1992-05-09,,34,198,87,2011-07-01,False
+77544,Alex Smith,Alex,Smith,40.0,Defender,,England,GB-ENG,1991-10-31,,34,175,54,2009-09-01,False
+11735,Steve Sidwell,Steve,Sidwell,7.0,Midfielder,,England,GB-ENG,1982-12-14,,43,178,70,2011-01-07,False
+81025,Pajtim Kasami,Pajtim,Kasami,8.0,Midfielder,Left,Switzerland,CH,1992-06-02,Macedonia,33,187,70,2011-07-25,False
+42518,Alexander Kacaniklic,Alexander,Kacaniklic,11.0,Midfielder,,Sweden,SE,1991-08-13,,34,181,72,2010-08-31,False
+56861,Emmanuel Frimpong,Emmanuel,Frimpong,12.0,Midfielder,Right,Ghana,GH,1992-01-10,Ghana,34,178,67,2013-01-25,True
+6994,Giorgos Karagounis,Giorgos,Karagounis,14.0,Midfielder,,Greece,GR,1977-03-06,Greece,49,176,74,2012-09-11,False
+15073,Kieran Richardson,Kieran,Richardson,15.0,Midfielder,,England,GB-ENG,1984-10-21,,41,173,71,2012-08-31,False
+1256,Damien Duff,Damien,Duff,16.0,Midfielder,,Ireland,IE,1979-03-02,,47,178,60,2009-08-18,False
+4990,Mahamadou Diarra,Mahamadou,Diarra,19.0,Midfielder,Right,Mali,ML,1981-05-18,Mali,45,182,80,2012-02-27,False
+105086,Kerim Frei,Kerim,Frei,21.0,Midfielder,,Turkey,TR,1993-11-19,Austria,32,172,67,2011-07-01,False
+18427,Ashkan Dejagah,Ashkan,Dejagah,24.0,Midfielder,Both,Iran,IR,1986-07-05,Iran,39,181,77,2012-08-31,False
+18277,Urby Emanuelson,Urby,Emanuelson,28.0,Midfielder,Left,Netherlands,NL,1986-06-16,Netherlands,39,176,68,2013-01-31,True
+2559,Simon Davies,Simon,Davies,29.0,Midfielder,,Wales,GB-WLS,1979-10-23,,46,178,72,2007-01-24,False
+129761,Chris David,Chris,David,30.0,Midfielder,,Netherlands,NL,1995-03-06,Netherlands,31,170,71,2013-01-04,False
+56069,Eyong Enoh,Eyong,Enoh,33.0,Midfielder,,Cameroon,CM,1986-03-23,Cameroon,40,178,70,2013-01-31,True
+99022,Tom Donegan,Tom,Donegan,34.0,Midfielder,,England,GB-ENG,1992-09-15,,33,179,69,2011-07-01,False
+103697,Ryan Williams,Ryan,Williams,39.0,Midfielder,,Australia,AU,1993-10-28,,32,173,76,2012-01-31,False
+112063,Charles Banya,Charles,Banya,42.0,Midfielder,,England,GB-ENG,1993-09-18,,32,170,61,2012-07-01,False
+113992,Josh Pritchard,Josh,Pritchard,49.0,Midfielder,,England,GB-ENG,1992-09-23,,33,175,71,2012-07-01,False
+108238,Richard Peniket,Richard,Peniket,,Forward,,England,GB-ENG,1993-03-04,,33,189,85,2008-07-01,False
+8595,Dimitar Berbatov,Dimitar,Berbatov,9.0,Forward,,Bulgaria,BG,1981-01-30,,45,188,79,2012-08-31,False
+37084,Bryan Ruiz,Bryan,Ruiz,10.0,Forward,Left,Costa Rica,CR,1985-08-18,Costa Rica,40,188,78,2011-08-31,False
+11987,Mladen Petric,Mladen,Petric,10.0,Forward,,Croatia,HR,1981-01-01,,45,184,81,2012-06-28,False
+37334,Hugo Rodallega,Hugo,Rodallega,20.0,Forward,,Colombia,CO,1985-07-25,,40,181,72,2012-07-12,False
+107853,Marcello Trotta,Marcello,Trotta,29.0,Forward,,Italy,IT,1992-09-29,Italy,33,188,85,2011-07-01,False
+102046,Muamer Tankovic,Muamer,Tankovic,43.0,Forward,,Sweden,SE,1995-02-22,Sweden,31,179,74,2011-09-01,False

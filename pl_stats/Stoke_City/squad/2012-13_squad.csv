@@ -1,0 +1,36 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+40349,Asmir Begovic,Asmir,Begovic,1.0,Goalkeeper,,Bosnia & Herzegovina,BA,1987-06-20,Bosnia and Herzegovina,38,199,101,2010-02-01,False
+105666,Jack Butland,Jack,Butland,1.0,Goalkeeper,,England,GB-ENG,1993-03-10,,33,196,95,2013-01-31,False
+1362,Carlo Nash,Carlo,Nash,27.0,Goalkeeper,,England,GB-ENG,1973-09-13,,52,196,89,2010-08-01,False
+1945,Thomas Sørensen,Thomas,Sørensen,29.0,Goalkeeper,,Denmark,DK,1976-06-12,,49,196,89,2008-07-30,False
+131069,Stefan Galinski,Stefan,Galinski,,Defender,,Poland,PL,1994-04-04,England,32,185,78,2012-07-01,False
+12413,Robert Huth,Robert,Huth,4.0,Defender,,Germany,DE,1984-08-18,,41,191,99,2009-08-27,False
+32318,Marc Wilson,Marc,Wilson,12.0,Defender,,Ireland,IE,1987-08-17,Northern Ireland,38,188,80,2010-08-31,False
+37869,Ryan Shawcross,Ryan,Shawcross,17.0,Defender,,England,GB-ENG,1987-10-04,,38,191,76,2008-01-01,False
+50089,Geoff Cameron,Geoff,Cameron,20.0,Defender,Right,United States,US,1985-07-11,USA,40,191,84,2012-08-08,False
+1640,Matt Upson,Matt,Upson,20.0,Defender,,England,GB-ENG,1979-04-18,,47,185,72,2011-08-09,False
+19714,Andy Wilkinson,Andy,Wilkinson,28.0,Defender,,England,GB-ENG,1984-08-06,,41,180,69,2001-08-01,False
+45158,Ryan Shotton,Ryan,Shotton,30.0,Defender,,England,GB-ENG,1988-10-30,,37,191,85,2007-07-01,False
+41587,Maurice Edu,Maurice,Edu,,Midfielder,,United States,US,1986-04-18,USA,40,186,82,2012-08-31,False
+12150,Glenn Whelan,Glenn,Whelan,6.0,Midfielder,,Ireland,IE,1984-01-13,Republic of Ireland,42,180,79,2008-01-31,False
+3658,Jermaine Pennant,Jermaine,Pennant,7.0,Midfielder,,England,GB-ENG,1983-01-15,,43,173,64,2011-01-01,False
+34296,Wilson Palacios,Wilson,Palacios,8.0,Midfielder,,Honduras,HN,1984-07-29,Honduras,41,178,71,2011-08-31,False
+50067,Brek Shea,Dane Brekken,Shea,11.0,Midfielder,,United States,US,1990-02-28,USA,36,191,82,2013-01-31,False
+59305,Jamie Ness,Jamie,Ness,14.0,Midfielder,,Scotland,GB-SCT,1991-03-02,,35,177,70,2012-07-11,False
+49323,Steven N'Zonzi,Steven,N'Zonzi,15.0,Midfielder,Right,France,FR,1988-12-15,France,37,196,75,2012-08-31,False
+20208,Charlie Adam,Charlie,Adam,16.0,Midfielder,,Scotland,GB-SCT,1985-12-10,,40,185,83,2012-08-31,False
+5589,Dean Whitehead,Dean,Whitehead,18.0,Midfielder,,England,GB-ENG,1982-01-21,,44,180,77,2009-07-24,False
+15944,Michael Kightly,Michael,Kightly,21.0,Midfielder,,England,GB-ENG,1986-01-24,,40,173,71,2012-08-09,False
+1679,Rory Delap,Rory,Delap,24.0,Midfielder,,Ireland,IE,1976-07-06,,49,183,74,2006-10-11,False
+2570,Matthew Etherington,Matthew,Etherington,26.0,Midfielder,,England,GB-ENG,1981-08-14,,44,178,67,2009-01-09,False
+67734,Matthew Lund,Matthew,Lund,36.0,Midfielder,,Northern Ireland,GB-NIR,1990-11-21,,35,170,61,2009-07-07,False
+84489,Florent Cuvelier,Florent,Cuvelier,38.0,Midfielder,,Belgium,BE,1992-09-12,,33,182,72,2010-07-08,False
+109968,Michael Clarkson,Michael,Clarkson,41.0,Midfielder,,England,GB-ENG,1993-12-11,,32,180,80,2011-07-01,False
+109966,Lucas Dawson,Lucas,Dawson,44.0,Midfielder,,England,GB-ENG,1993-11-12,,32,186,75,2011-07-01,False
+108819,Ryan Brunt,Ryan,Brunt,,Forward,,England,GB-ENG,1993-05-26,,33,185,75,2011-06-01,False
+18215,Kenwyne Jones,Kenwyne,Jones,9.0,Forward,,Trinidad & Tobago,TT,1984-10-05,,41,188,84,2010-08-11,False
+1795,Michael Owen,Michael,Owen,10.0,Forward,,England,GB-ENG,1979-12-14,,46,173,70,2012-09-03,False
+10370,Mamady Sidibe,Mamady,Sidibe,11.0,Forward,,Mali,ML,1979-12-18,,46,193,77,2002-08-01,False
+12813,Jonathan Walters,Jonathan,Walters,19.0,Forward,,Ireland,IE,1983-09-20,,42,183,79,2010-08-18,False
+3773,Peter Crouch,Peter,Crouch,25.0,Forward,,England,GB-ENG,1981-01-30,,45,201,75,2011-08-31,False
+18804,Cameron Jerome,Cameron,Jerome,33.0,Forward,,England,GB-ENG,1986-08-14,,39,185,85,2011-08-31,False

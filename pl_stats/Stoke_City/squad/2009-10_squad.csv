@@ -1,0 +1,38 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+40349,Asmir Begovic,Asmir,Begovic,1,Goalkeeper,,Bosnia & Herzegovina,BA,1987-06-20,,38,198,83,2010-02-01,False
+3719,Steve Simonsen,Steve,Simonsen,1,Goalkeeper,,England,GB-ENG,1979-04-03,,47,189,79,2004-07-08,False
+1945,Thomas Sørensen,Thomas,Sørensen,29,Goalkeeper,,Denmark,DK,1976-06-12,,49,195,82,2008-07-30,False
+60122,Danzelle St Louis-Hamilton,Danzelle,St Louis-Hamilton,38,Goalkeeper,,England,GB-ENG,1990-05-07,,36,190,82,2008-07-01,False
+76428,Dave Parton,Dave,Parton,43,Goalkeeper,,England,GB-ENG,1992-11-22,,33,185,84,2009-08-26,False
+1852,Andy Griffin,Andy,Griffin,2,Defender,,England,GB-ENG,1979-03-07,,47,173,68,2008-01-11,False
+2399,Danny Higginbotham,Daniel,Higginbotham,3,Defender,,Gibraltar,GI,1978-12-29,England,47,188,78,2008-09-01,False
+12413,Robert Huth,Robert,Huth,4,Defender,,Germany,DE,1984-08-18,,41,191,80,2009-08-27,False
+19393,Danny Collins,Danny,Collins,5,Defender,,Wales,GB-WLS,1980-08-06,,45,185,75,2009-09-01,False
+14158,Ibrahima Sonko,Ibrahima,Sonko,16,Defender,,Senegal,SN,1981-01-22,,45,191,86,2008-08-29,False
+37869,Ryan Shawcross,Ryan,Shawcross,17,Defender,,England,GB-ENG,1987-10-04,,38,191,76,2008-01-01,False
+14909,Andrew Davies,Andrew,Davies,21,Defender,,England,GB-ENG,1984-12-17,,41,192,94,2008-08-19,False
+14055,Abdoulaye Faye,Abdoulaye,Faye,25,Defender,,Senegal,SN,1978-02-26,,48,188,87,2008-08-15,False
+19714,Andy Wilkinson,Andy,Wilkinson,28,Defender,,England,GB-ENG,1984-08-06,,41,180,69,2001-08-01,False
+45158,Ryan Shotton,Ryan,Shotton,30,Defender,,England,GB-ENG,1988-10-30,,37,191,85,2007-06-01,False
+18876,Carl Dickinson,Carl,Dickinson,31,Defender,,England,GB-ENG,1987-03-30,,39,185,76,2004-07-01,False
+78829,Ryan Connor,Ryan,Connor,44,Defender,,England,GB-ENG,1991-12-13,,34,171,68,2009-07-01,False
+12150,Glenn Whelan,Glenn,Whelan,6,Midfielder,,Ireland,IE,1984-01-13,,42,180,79,2008-01-31,False
+10578,Liam Lawrence,Liam,Lawrence,7,Midfielder,,Ireland,IE,1981-12-14,,44,180,71,2006-11-17,False
+18074,Tom Soares,Tom,Soares,8,Midfielder,,England,GB-ENG,1986-07-10,,39,183,72,2008-09-01,False
+14489,Danny Pugh,Danny,Pugh,14,Midfielder,,England,GB-ENG,1982-10-19,,43,183,76,2007-11-02,False
+6769,Salif Diao,Salif,Diao,15,Midfielder,,Senegal,SN,1977-02-10,,49,185,73,2006-10-10,False
+5589,Dean Whitehead,Dean,Whitehead,18,Midfielder,,England,GB-ENG,1982-01-21,,44,180,77,2009-07-24,False
+6285,Amdy Faye,Amdy,Faye,19,Midfielder,,Senegal,SN,1977-03-12,,49,183,78,2008-08-15,False
+11535,Michael Tonge,Michael,Tonge,23,Midfielder,,England,GB-ENG,1983-04-07,,43,183,74,2008-09-01,False
+1679,Rory Delap,Rory,Delap,24,Midfielder,,Ireland,IE,1976-07-06,,49,183,74,2006-10-11,False
+2570,Matthew Etherington,Matthew,Etherington,26,Midfielder,,England,GB-ENG,1981-08-14,,44,178,67,2009-01-09,False
+57310,Diego Arismendi,Diego,Arismendi,32,Midfielder,,Uruguay,UY,1988-01-25,,38,189,77,2009-08-31,False
+67735,Ben Marshall,Ben,Marshall,35,Midfielder,,England,GB-ENG,1991-09-29,England,34,183,73,2009-07-07,False
+67734,Matthew Lund,Matthew,Lund,36,Midfielder,,Northern Ireland,GB-NIR,1990-11-21,,35,170,61,2009-07-07,False
+56242,Nathaniel Wedderburn,Nathaniel,Wedderburn,37,Midfielder,,England,GB-ENG,1991-06-30,,34,185,85,2008-07-01,False
+1938,James Beattie,James,Beattie,9,Forward,Right,England,GB-ENG,1978-02-27,England,48,185,84,2009-01-12,False
+11721,Ricardo Fuller,Ricardo,Fuller,10,Forward,,Jamaica,JM,1979-10-31,,46,191,78,2006-08-31,False
+10370,Mamady Sidibe,Mamady,Sidibe,11,Forward,,Mali,ML,1979-12-18,,46,193,77,2002-08-01,False
+10549,Dave Kitson,Dave,Kitson,12,Forward,,England,GB-ENG,1980-01-21,,46,191,79,2008-07-18,False
+15395,Tuncay,Tuncay,Sanli,20,Forward,,Turkey,TR,1982-01-16,Turkey,44,182,70,2009-08-27,False
+76429,Louis Moult,Louis,Moult,42,Forward,,England,GB-ENG,1992-05-14,,34,183,85,2009-07-01,False

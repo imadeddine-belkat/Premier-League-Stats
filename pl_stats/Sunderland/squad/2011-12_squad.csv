@@ -1,0 +1,44 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+110690,Ben Wilson,Ben,Wilson,,Goalkeeper,,England,GB-ENG,1992-08-09,,33,186,70,2011-07-01,False
+5207,Craig Gordon,Craig,Gordon,1.0,Goalkeeper,,Scotland,GB-SCT,1982-12-31,,43,193,83,2007-08-08,False
+111234,Jordan Pickford,Jordan,Pickford,13.0,Goalkeeper,Left,England,GB-ENG,1994-03-07,England,32,185,82,2011-07-01,False
+20531,Keiren Westwood,Keiren,Westwood,20.0,Goalkeeper,,Ireland,IE,1984-10-23,,41,187,92,2011-07-01,False
+66797,Simon Mignolet,Simon,Mignolet,22.0,Goalkeeper,Right,Belgium,BE,1988-03-06,Belgium,38,193,88,2010-06-17,False
+19478,Trevor Carson,Trevor,Carson,24.0,Goalkeeper,Right,Northern Ireland,GB-NIR,1988-03-05,Northern Ireland,38,185,85,2004-07-01,False
+111573,Liam Bagnall,Liam,Bagnall,,Defender,,Northern Ireland,GB-NIR,1992-05-17,,34,180,74,2011-07-01,False
+55658,Marcos Angeleri,Marcos,Angeleri,,Defender,,Argentina,AR,1983-04-07,Argentina,43,182,76,2010-07-25,False
+17997,Phil Bardsley,Phil,Bardsley,2.0,Defender,Right,Scotland,GB-SCT,1985-06-28,,40,180,74,2008-01-22,False
+1940,Wayne Bridge,Wayne,Bridge,3.0,Defender,,England,GB-ENG,1980-08-05,,45,178,69,2012-01-31,True
+15864,Michael Turner,Michael,Turner,4.0,Defender,,England,GB-ENG,1983-11-09,,42,193,84,2009-08-31,False
+1841,Wes Brown,Wes,Brown,5.0,Defender,,England,GB-ENG,1979-10-13,,46,185,77,2011-07-07,False
+14919,Matthew Kilgallon,Matthew,Kilgallon,12.0,Defender,,England,GB-ENG,1984-01-08,,42,188,81,2010-01-21,False
+3736,John O'Shea,John,O'Shea,16.0,Defender,,Ireland,IE,1981-04-30,,45,191,75,2011-07-07,False
+1131,Titus Bramble,Titus,Bramble,19.0,Defender,,England,GB-ENG,1981-07-31,,44,185,86,2010-07-23,False
+5609,George McCartney,George,McCartney,23.0,Defender,,Northern Ireland,GB-NIR,1981-04-29,,45,180,69,2008-09-01,False
+11248,Sotirios Kyrgiakos,Sotirios,Kyrgiakos,25.0,Defender,Right,Greece,GR,1979-07-23,Greece,46,193,88,2012-01-31,True
+91417,Blair Adams,Blair,Adams,34.0,Defender,,England,GB-ENG,1991-09-08,England,34,180,72,2010-11-01,False
+58614,Michael Liddle,Michael,Liddle,35.0,Defender,,Ireland,IE,1989-12-25,,36,173,68,2008-07-01,False
+97580,Louis Laing,Louis,Laing,40.0,Defender,,England,GB-ENG,1993-03-06,,33,181,76,2010-07-01,False
+108416,John Egan,John,Egan,42.0,Defender,Right,Ireland,IE,1992-10-20,,33,185,75,2011-07-01,False
+28448,Lee Cattermole,Lee,Cattermole,6.0,Midfielder,,England,GB-ENG,1988-03-21,England,38,178,76,2009-08-12,False
+19057,Sebastian Larsson,Sebastian,Larsson,7.0,Midfielder,Right,Sweden,SE,1985-06-06,Sweden,40,178,70,2011-07-01,False
+28468,Craig Gardner,Craig,Gardner,8.0,Midfielder,,England,GB-ENG,1986-11-25,,39,178,76,2011-07-01,False
+15073,Kieran Richardson,Kieran,Richardson,11.0,Midfielder,,England,GB-ENG,1984-10-21,,41,173,71,2007-07-16,False
+58771,Jack Colback,Jack,Colback,14.0,Midfielder,Left,England,GB-ENG,1989-10-24,,36,177,77,2008-11-20,False
+7631,David Vaughan,David,Vaughan,15.0,Midfielder,,Wales,GB-WLS,1983-02-18,,43,171,70,2011-07-08,False
+53371,David Meyler,David,Meyler,18.0,Midfielder,,Ireland,IE,1989-05-29,Republic of Ireland,37,189,81,2008-07-25,False
+63370,James McClean,James,McClean,23.0,Midfielder,,Ireland,IE,1989-04-22,Northern Ireland,37,180,70,2011-08-09,False
+37339,Ahmed El Mohamady,Ahmed Eissa,El Mohamady Abdel Fattah,27.0,Midfielder,Right,Egypt,EG,1987-09-09,Egypt,38,183,75,2011-06-01,False
+34392,Stéphane Sessègnon,Stéphane,Sessègnon,28.0,Midfielder,Right,Benin,BJ,1984-06-01,Benin,41,172,72,2011-01-29,False
+94738,Billy Knott,Billy,Knott,34.0,Midfielder,,England,GB-ENG,1992-11-28,,33,173,71,2010-07-01,False
+78827,Adam Reed,Adam,Reed,37.0,Midfielder,,Philippines,PH,1991-05-08,,35,165,55,2009-07-01,False
+88450,Robbie Weir,Robbie,Weir,37.0,Midfielder,Left,Northern Ireland,GB-NIR,1988-12-09,,37,175,73,2010-07-01,False
+88499,Roarie Deacon,Roarie,Deacon,,Forward,,England,GB-ENG,1991-10-12,,34,170,68,2011-07-01,False
+28541,Fraizer Campbell,Fraizer,Campbell,9.0,Forward,,England,GB-ENG,1987-09-13,,38,172,82,2009-07-11,False
+59125,Connor Wickham,Connor,Wickham,10.0,Forward,Right,England,GB-ENG,1993-03-31,,33,191,90,2011-06-29,False
+86834,Oumare Tounkara,Oumare,Tounkara,21.0,Forward,,France,FR,1990-05-25,,36,187,78,2009-07-01,False
+75996,Jordan Cook,Jordan,Cook,26.0,Forward,,England,GB-ENG,1990-03-20,,36,174,80,2008-08-01,False
+98769,Ji Dong-Won,Dong-Won,Ji,27.0,Forward,Right,South Korea,KR,1991-05-28,Korea Republic,35,188,81,2011-07-01,False
+80061,Ryan Noble,Ryan,Noble,33.0,Forward,,England,GB-ENG,1991-06-11,,34,180,66,2009-07-01,False
+96114,Craig Lynch,Craig,Lynch,38.0,Forward,,England,GB-ENG,1992-03-25,,34,175,64,2010-07-01,False
+27697,Nicklas Bendtner,Nicklas,Bendtner,52.0,Forward,Right,Denmark,DK,1988-01-16,Denmark,38,193,84,2011-08-31,True

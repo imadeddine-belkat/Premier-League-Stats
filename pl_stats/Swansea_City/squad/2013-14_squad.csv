@@ -1,0 +1,45 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+39215,Michel Vorm,Michel,Vorm,1.0,Goalkeeper,,Netherlands,NL,1983-10-20,Netherlands,42,183.0,84.0,2011-08-10,False
+60084,David Cornell,David,Cornell,13.0,Goalkeeper,,Wales,GB-WLS,1991-03-28,,35,180.0,73.0,2008-07-01,False
+5288,Gerhard Tremmel,Gerhard,Tremmel,25.0,Goalkeeper,Right,Germany,DE,1978-11-16,Germany,47,190.0,89.0,2011-08-31,False
+176435,Oliver Davies,Oliver,Davies,42.0,Goalkeeper,,Wales,GB-WLS,1994-12-31,,31,,,2013-07-01,False
+120385,Gregor Zabret,Gregor,Zabret,45.0,Goalkeeper,,Slovenia,SI,1995-08-18,,30,187.0,82.0,2013-07-08,False
+84933,Daniel Alfei,Daniel,Alfei,,Defender,,Wales,GB-WLS,1992-02-23,,34,180.0,77.0,2010-07-01,False
+80789,Jordi Amat,Jordi,Amat,2.0,Defender,Right,Spain,ES,1992-03-21,Spain,34,184.0,78.0,2013-06-27,False
+47390,Neil Taylor,Neil,Taylor,3.0,Defender,,Wales,GB-WLS,1989-02-07,Wales,37,175.0,64.0,2010-06-30,False
+53138,Chico Flores,Jose Manuel,Flores Moreno,4.0,Defender,Right,Spain,ES,1987-03-06,Spain,39,187.0,82.0,2012-07-10,False
+11883,Alan Tate,Alan,Tate,5.0,Defender,,England,GB-ENG,1982-09-02,,43,185.0,85.0,2004-02-06,False
+19159,Ashley Williams,Ashley,Williams,6.0,Defender,,Wales,GB-WLS,1984-08-23,,41,183.0,77.0,2008-03-27,False
+1950,Garry Monk,Garry,Monk,16.0,Defender,,England,GB-ENG,1979-03-06,,47,183.0,81.0,2004-01-01,False
+39221,Dwight Tiendalli,Dwight,Tiendalli,19.0,Defender,,Netherlands,NL,1985-10-21,,40,180.0,69.0,2013-08-28,False
+42996,Angel Rangel,Angel,Rangel,22.0,Defender,,Spain,ES,1982-10-28,,43,188.0,84.0,2007-06-29,False
+80598,Darnel Situ,Darnel,Situ-Buyente,23.0,Defender,,France,FR,1992-03-18,,34,187.0,77.0,2011-08-31,False
+59940,Kyle Bartley,Kyle,Bartley,27.0,Defender,,England,GB-ENG,1991-05-22,England,35,185.0,76.0,2012-08-16,False
+73983,Curtis Obeng,Curtis,Obeng,28.0,Defender,,England,GB-ENG,1989-02-14,,37,173.0,67.0,2012-01-31,False
+73459,Jazz Richards,Ashley Darel Jazz,Richards,29.0,Defender,,Wales,GB-WLS,1991-04-12,,35,185.0,78.0,2009-07-01,False
+115556,Ben Davies,Ben,Davies,33.0,Defender,,Wales,GB-WLS,1993-04-24,,33,181.0,76.0,2012-04-24,False
+179184,Scott Tancock,Scott,Tancock,37.0,Defender,,Wales,GB-WLS,1993-12-29,,32,185.0,75.0,2012-07-01,False
+108012,Jernade Meade,Jernade,Meade,48.0,Defender,Left,England,GB-ENG,1992-10-25,England,33,160.0,70.0,2013-07-16,False
+76542,Ki Sung-yueng,Sung-yueng,Ki,4.0,Midfielder,,South Korea,KR,1989-01-24,Korea Republic,37,187.0,79.0,2012-08-24,False
+15114,Leon Britton,Leon,Britton,7.0,Midfielder,,England,GB-ENG,1982-09-16,,43,168.0,64.0,2011-01-20,False
+50232,Jonjo Shelvey,Jonjo,Shelvey,8.0,Midfielder,,England,GB-ENG,1992-02-27,,34,184.0,80.0,2013-07-03,False
+28690,Pablo Hernández,Pablo,Hernández Domínguez,11.0,Midfielder,Right,Spain,ES,1985-04-11,Spain,41,173.0,64.0,2012-08-31,False
+21083,Nathan Dyer,Nathan,Dyer,12.0,Midfielder,,England,GB-ENG,1987-11-29,,38,165.0,60.0,2009-07-01,False
+18681,Roland Lamah,Roland,Lamah,14.0,Midfielder,Left,Belgium,BE,1987-12-31,Côte d'Ivoire,38,180.0,71.0,2013-01-15,True
+11829,Wayne Routledge,Wayne,Routledge,15.0,Midfielder,,England,GB-ENG,1985-01-07,,41,170.0,64.0,2011-08-04,False
+39204,Jonathan de Guzmán,Jonathan,de Guzmán,20.0,Midfielder,Right,Netherlands,NL,1987-09-13,Canada,38,173.0,75.0,2013-07-01,True
+86989,José Cañas,José Alberto,Cañas Ruiz-Herrera,21.0,Midfielder,Right,Spain,ES,1987-05-27,Spain,39,177.0,71.0,2013-07-01,False
+89238,Álex Pozuelo,Alejandro,Pozuelo Melero,24.0,Midfielder,Both,Spain,ES,1991-09-20,Spain,34,170.0,63.0,2013-07-02,False
+184400,Josh Sheehan,Joshua,Sheehan,30.0,Midfielder,,Wales,GB-WLS,1995-03-30,Wales,31,184.0,75.0,2013-07-01,False
+82055,Lee Lucas,Lee,Lucas,31.0,Midfielder,,Wales,GB-WLS,1992-06-10,Wales,33,180.0,74.0,2009-06-01,False
+115557,Gwion Edwards,Gwion,Edwards,38.0,Midfielder,,Wales,GB-WLS,1993-03-01,,33,175.0,76.0,2011-07-01,False
+148420,Adam King,Adam,King,53.0,Midfielder,,Scotland,GB-SCT,1995-10-11,,30,180.0,75.0,2014-01-28,False
+96305,Jay Fulton,Jay,Fulton,56.0,Midfielder,,Scotland,GB-SCT,1994-04-04,England,32,178.0,68.0,2014-01-31,False
+54322,Michu,Miguel,Perez Cuesta,,Forward,Right,Spain,ES,1986-03-21,Spain,40,191.0,76.0,2012-07-20,False
+57001,Wilfried Bony,Wilfried,Bony,10.0,Forward,,Cote d’Ivoire,CI,1988-12-10,Côte d'Ivoire,37,182.0,88.0,2013-07-11,False
+14166,Leroy Lita,Leroy,Lita,18.0,Forward,,England,GB-ENG,1984-12-28,,41,170.0,75.0,2011-07-29,False
+89046,Álvaro Vázquez,Álvaro,Vázquez,26.0,Forward,Right,Spain,ES,1991-04-27,Spain,35,182.0,78.0,2013-09-02,True
+113694,James Loveridge,James,Loveridge,36.0,Forward,,Wales,GB-WLS,1994-05-16,,32,188.0,85.0,2012-07-01,False
+89505,Rory Donnelly,Ruaridhri,Donnelly,41.0,Forward,,Northern Ireland,GB-NIR,1992-02-18,,34,188.0,81.0,2012-01-10,False
+38328,David N'Gog,David,N'Gog,54.0,Forward,,France,FR,1989-04-01,France,37,190.0,76.0,2014-01-27,False
+39270,Marvin Emnes,Marvin,Emnes,57.0,Forward,,Netherlands,NL,1988-05-27,,38,180.0,66.0,2014-01-31,True

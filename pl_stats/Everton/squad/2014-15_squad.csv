@@ -1,0 +1,43 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+78315,Joel Robles,Joel,Robles,1,Goalkeeper,Right,Spain,ES,1990-06-17,Spain,35,195.0,90.0,2013-07-10,False
+15337,Tim Howard,Tim,Howard,24,Goalkeeper,Right,United States,US,1979-03-06,USA,47,187.0,88.0,2007-01-14,False
+179100,Jindrich Stanek,Jindrich,Stanek,36,Goalkeeper,,Czech Republic,CZ,1996-04-27,,30,192.0,84.0,2014-08-14,False
+153670,Russell Griffiths,Russell,Griffiths,45,Goalkeeper,,England,GB-ENG,1996-04-13,,30,,,2014-07-01,False
+9007,Tony Hibbert,Tony,Hibbert,2,Defender,,England,GB-ENG,1981-02-20,,45,175.0,71.0,2000-07-01,False
+12745,Leighton Baines,Leighton,Baines,3,Defender,,England,GB-ENG,1984-12-11,England,41,170.0,74.0,2007-08-07,False
+97299,John Stones,John,Stones,5,Defender,,England,GB-ENG,1994-05-28,England,32,188.0,70.0,2013-01-31,False
+7645,Phil Jagielka,Phil,Jagielka,6,Defender,,England,GB-ENG,1982-08-17,England,43,183.0,83.0,2007-07-04,False
+6219,Sylvain Distin,Sylvain,Distin,15,Defender,,France,FR,1977-12-16,,48,193.0,87.0,2009-08-27,False
+77762,Bryan Oviedo,Bryan,Oviedo,20,Defender,Left,Costa Rica,CR,1990-02-18,Costa Rica,36,172.0,69.0,2012-08-31,False
+59949,Seamus Coleman,Seamus,Coleman,23,Defender,,Ireland,IE,1988-10-11,Republic of Ireland,37,178.0,67.0,2009-02-02,False
+149468,Tyias Browning,Tyias,Browning,27,Defender,,England,GB-ENG,1994-05-27,,32,181.0,76.0,2012-07-01,False
+80183,Luke Garbutt,Luke,Garbutt,29,Defender,,England,GB-ENG,1993-05-21,,33,179.0,73.0,2009-07-01,False
+43035,Antolin Alcaraz,Antolin,Alcaraz,30,Defender,,Paraguay,PY,1982-07-30,,43,184.0,80.0,2013-07-09,False
+108824,Brendan Galloway,Brendan,Galloway,32,Defender,,England,GB-ENG,1996-03-17,,30,188.0,87.0,2014-08-02,False
+114093,Matthew Pennington,Matthew,Pennington,38,Defender,,England,GB-ENG,1994-10-06,,31,185.0,77.0,2013-07-01,False
+153673,Jonjoe Kenny,Jonjoe,Kenny,43,Defender,,England,GB-ENG,1997-03-15,,29,176.0,67.0,2014-07-01,False
+153671,Gethin Jones,Gethin,Jones,50,Defender,,Wales,GB-WLS,1995-10-13,Australia,30,178.0,74.0,2014-07-01,False
+27707,Darron Gibson,Darron,Gibson,4,Midfielder,,Ireland,IE,1987-10-25,,38,183.0,90.0,2012-01-13,False
+18267,Aiden McGeady,Aiden,McGeady,7,Midfielder,,Ireland,IE,1986-04-04,,40,178.0,72.0,2014-01-11,False
+88894,Ross Barkley,Ross,Barkley,8,Midfielder,,England,GB-ENG,1993-12-05,England,32,189.0,76.0,2010-09-01,False
+26901,Kevin Mirallas,Kevin,Mirallas,11,Midfielder,,Belgium,BE,1987-10-05,Belgium,38,179.0,68.0,2012-08-19,False
+50472,James McCarthy,James,McCarthy,16,Midfielder,,Ireland,IE,1990-11-12,,35,180.0,72.0,2013-09-02,False
+1632,Gareth Barry,Gareth,Barry,18,Midfielder,,England,GB-ENG,1981-02-23,,45,183.0,78.0,2014-07-08,False
+104953,Christian Atsu,Christian,Atsu,19,Midfielder,Left,Ghana,GH,1992-01-10,Ghana,34,172.0,68.0,2014-08-13,True
+87447,Muhamed Besic,Muhamed,Besic,21,Midfielder,,Bosnia & Herzegovina,BA,1992-09-10,Germany,33,180.0,80.0,2014-07-28,False
+8378,Leon Osman,Leon,Osman,21,Midfielder,,England,GB-ENG,1981-05-17,,45,173.0,67.0,2000-07-01,False
+7525,Steven Pienaar,Steven,Pienaar,22,Midfielder,,South Africa,ZA,1982-03-17,South Africa,44,173.0,69.0,2012-07-31,False
+17349,Aaron Lennon,Aaron,Lennon,25,Midfielder,,England,GB-ENG,1987-04-16,,39,165.0,63.0,2015-02-02,True
+171270,Kieran Dowell,Kieran,Dowell,28,Midfielder,,England,GB-ENG,1997-10-10,,28,175.0,70.0,2014-12-10,False
+153723,John Lundstram,John,Lundstram,33,Midfielder,,England,GB-ENG,1994-02-18,,32,181.0,74.0,2012-07-01,False
+153724,Conor Grant,Conor,Grant,39,Midfielder,,England,GB-ENG,1995-04-18,,31,176.0,80.0,2014-07-01,False
+153675,Ryan Ledson,Ryan,Ledson,42,Midfielder,,England,GB-ENG,1997-08-19,,28,175.0,69.0,2014-04-25,False
+169527,Joe Williams,Joe,Williams,46,Midfielder,,England,GB-ENG,1996-12-08,,29,,,2014-12-10,False
+115596,Francisco Júnior,Francisco Santos,da Silva Junior,55,Midfielder,,Portugal,PT,1992-01-18,Guinea-Bissau,34,173.0,65.0,2012-07-01,False
+26921,Arouna Koné,Arouna,Koné,9,Forward,Right,Cote d’Ivoire,CI,1983-11-11,Côte d'Ivoire,42,182.0,78.0,2013-07-08,False
+66749,Romelu Lukaku,Romelu,Lukaku,10,Forward,,Belgium,BE,1993-05-13,Belgium,33,190.0,94.0,2014-07-30,False
+18981,Steven Naismith,Steven,Naismith,14,Forward,,Scotland,GB-SCT,1986-09-14,,39,178.0,72.0,2012-07-22,False
+80181,Conor McAleny,Conor,McAleny,35,Forward,,England,GB-ENG,1992-08-12,,33,172.0,66.0,2009-07-01,False
+112138,Sam Byrne,Sam,Byrne,40,Forward,,Ireland,IE,1995-07-23,,30,184.0,75.0,2014-07-18,False
+153678,Chris Long,Chris,Long,41,Forward,,England,GB-ENG,1995-02-25,,31,169.0,77.0,2013-07-01,False
+153679,Courtney Duffus,Courtney,Duffus,48,Forward,,England,GB-ENG,1995-10-24,,30,170.0,76.0,2015-02-18,False

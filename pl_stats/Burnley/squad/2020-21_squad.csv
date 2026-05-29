@@ -1,0 +1,30 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+98747,Nick Pope,Nick,Pope,1,Goalkeeper,Right,England,GB-ENG,1992-04-19,England,34,191.0,76.0,2016-07-19,False
+220037,Bailey Peacock-Farrell,Bailey,Peacock-Farrell,15,Goalkeeper,Left,Northern Ireland,GB-NIR,1996-10-29,,29,193.0,73.0,2019-08-02,False
+168399,Will Norris,Will,Norris,25,Goalkeeper,Right,England,GB-ENG,1993-08-12,,32,195.0,74.0,2020-08-14,False
+68983,Matthew Lowton,Matthew,Lowton,2,Defender,Right,England,GB-ENG,1989-06-09,,36,180.0,78.0,2015-06-22,False
+103914,Charlie Taylor,Charlie,Taylor,3,Defender,Left,England,GB-ENG,1993-09-18,England,32,176.0,70.0,2017-07-06,False
+17761,James Tarkowski,James,Tarkowski,5,Defender,Right,England,GB-ENG,1992-11-19,,33,185.0,81.0,2016-02-01,False
+51927,Ben Mee,Ben,Mee,6,Defender,Left,England,GB-ENG,1989-09-21,,36,180.0,74.0,2012-07-01,False
+39487,Erik Pieters,Erik,Pieters,23,Defender,Left,Netherlands,NL,1988-08-07,,37,183.0,84.0,2019-07-08,False
+17997,Phil Bardsley,Phil,Bardsley,26,Defender,Right,Scotland,GB-SCT,1985-06-28,,40,180.0,74.0,2017-07-25,False
+41674,Kevin Long,Kevin,Long,28,Defender,Right,Ireland,IE,1990-08-18,,35,188.0,83.0,2010-01-01,False
+184259,Richard Nartey,Richard,Nartey,31,Defender,,England,GB-ENG,1998-09-06,,27,184.0,84.0,2021-01-08,False
+218023,Jimmy Dunne,Jimmy,Dunne,34,Defender,,Ireland,IE,1997-10-19,Republic of Ireland,28,183.0,75.0,2019-07-01,False
+195471,Anthony Driscoll-Glennon,Anthony,Driscoll-Glennon,45,Defender,Left,England,GB-ENG,1999-11-26,England,26,181.0,,2018-07-01,False
+40145,Jack Cork,Jack,Cork,4,Midfielder,Right,England,GB-ENG,1989-06-25,,36,183.0,70.0,2017-07-11,False
+60586,Jóhann Gudmundsson,Jóhann,Gudmundsson,7,Midfielder,Left,Iceland,IS,1990-10-27,Iceland,35,186.0,78.0,2016-07-19,False
+172782,Josh Brownhill,Josh,Brownhill,8,Midfielder,,England,GB-ENG,1995-12-19,,30,180.0,69.0,2020-01-30,False
+433154,Dwight McNeil,Dwight,McNeil,11,Midfielder,Left,England,GB-ENG,1999-11-22,,26,183.0,68.0,2018-05-12,False
+90517,Robbie Brady,Robbie,Brady,12,Midfielder,Left,Ireland,IE,1992-01-14,Republic of Ireland,34,176.0,71.0,2017-01-31,False
+40845,Dale Stephens,Dale,Stephens,16,Midfielder,Right,England,GB-ENG,1989-06-12,England,36,169.0,71.0,2020-09-24,False
+60551,Ashley Westwood,Ashley,Westwood,18,Midfielder,Right,England,GB-ENG,1990-04-01,,36,175.0,80.0,2017-01-31,False
+465299,Anthony Mancini,Anthony,Mancini,35,Midfielder,,France,FR,2001-04-06,,25,180.0,,2020-12-26,False
+461096,Lewis Richardson,Lewis,Richardson,38,Midfielder,,England,GB-ENG,2003-02-07,,23,,,2019-08-27,False
+217401,Josh Benson,Josh,Benson,41,Midfielder,Right,England,GB-ENG,1999-12-05,England,26,,,2019-01-27,False
+60689,Chris Wood,Chris,Wood,9,Forward,Right,New Zealand,NZ,1991-12-07,New Zealand,34,191.0,81.0,2017-08-21,False
+44699,Ashley Barnes,Ashley,Barnes,10,Forward,Right,England,GB-ENG,1989-10-30,England,36,186.0,77.0,2014-01-10,False
+44683,Jay Rodriguez,Jay,Rodriguez,19,Forward,Right,England,GB-ENG,1989-07-29,,36,185.0,84.0,2019-07-09,False
+81183,Matej Vydra,Matej,Vydra,27,Forward,Right,Czech Republic,CZ,1992-05-01,Czech Republic,34,180.0,71.0,2018-08-07,False
+461450,Max Thompson,Max,Thompson,33,Forward,,England,GB-ENG,2002-02-09,,24,,,2020-06-21,False
+430367,Joel Mumbongo,Joel,Mumbongo,46,Forward,,Sweden,SE,1999-01-09,,27,,,2020-07-17,False

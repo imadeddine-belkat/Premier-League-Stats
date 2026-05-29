@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+110690,Ben Wilson,Ben,Wilson,,Goalkeeper,,England,GB-ENG,1992-08-09,,33,186,70,2011-07-01,False
+111234,Jordan Pickford,Jordan,Pickford,13.0,Goalkeeper,,England,GB-ENG,1994-03-07,,32,185,77,2011-07-01,False
+20531,Keiren Westwood,Keiren,Westwood,20.0,Goalkeeper,,Ireland,IE,1984-10-23,,41,187,92,2011-07-01,False
+66797,Simon Mignolet,Simon,Mignolet,22.0,Goalkeeper,,Belgium,BE,1988-03-06,Belgium,38,193,87,2010-06-17,False
+17997,Phil Bardsley,Phil,Bardsley,2.0,Defender,,Scotland,GB-SCT,1985-06-28,,40,180,74,2008-01-22,False
+38290,Danny Rose,Danny,Rose,3.0,Defender,,England,GB-ENG,1990-07-02,,35,173,72,2012-08-31,True
+1841,Wes Brown,Wes,Brown,5.0,Defender,,England,GB-ENG,1979-10-13,,46,185,77,2011-07-07,False
+14919,Matthew Kilgallon,Matthew,Kilgallon,12.0,Defender,,England,GB-ENG,1984-01-08,,42,188,81,2010-01-21,False
+3736,John O'Shea,John,O'Shea,16.0,Defender,,Ireland,IE,1981-04-30,,45,191,75,2011-07-07,False
+43901,Kader Mangane,Kader,Mangane,18.0,Defender,,Senegal,SN,1983-03-23,,43,193,90,2013-01-14,True
+1131,Titus Bramble,Titus,Bramble,19.0,Defender,,England,GB-ENG,1981-07-31,,44,185,86,2010-07-23,False
+17468,Carlos Cuellar,Carlos Javier,Cuéllar Jiménez,24.0,Defender,,Spain,ES,1981-08-23,Spain,44,190,84,2012-07-02,False
+113994,Liam Marrs,Liam,Marrs,29.0,Defender,,England,GB-ENG,1992-11-26,,33,175,72,2012-07-01,False
+111352,David Ferguson,David,Ferguson,35.0,Defender,,England,GB-ENG,1994-06-07,,31,178,76,2012-07-01,False
+107541,Scott Harrison,Scott,Harrison,36.0,Defender,,England,GB-ENG,1993-09-03,,32,183,78,2012-10-24,False
+97580,Louis Laing,Louis,Laing,40.0,Defender,,England,GB-ENG,1993-03-06,,33,181,76,2010-07-01,False
+108416,John Egan,John,Egan,42.0,Defender,,Ireland,IE,1992-10-20,,33,185,75,2011-07-01,False
+49688,Alfred N'Diaye,Alfred,N'Diaye,,Midfielder,Right,Senegal,SN,1990-03-06,France,36,187,82,2013-01-09,False
+28448,Lee Cattermole,Lee,Cattermole,6.0,Midfielder,,England,GB-ENG,1988-03-21,,38,178,76,2009-08-12,False
+19057,Sebastian Larsson,Sebastian,Larsson,7.0,Midfielder,,Sweden,SE,1985-06-06,,40,178,70,2011-07-01,False
+28468,Craig Gardner,Craig,Gardner,8.0,Midfielder,,England,GB-ENG,1986-11-25,,39,178,76,2011-07-01,False
+19959,Adam Johnson,Adam,Johnson,11.0,Midfielder,,England,GB-ENG,1987-07-14,,38,175,63,2012-08-24,False
+58771,Jack Colback,Jack,Colback,14.0,Midfielder,,England,GB-ENG,1989-10-24,,36,177,77,2008-11-20,False
+7631,David Vaughan,David,Vaughan,15.0,Midfielder,,Wales,GB-WLS,1983-02-18,,43,171,70,2011-07-08,False
+63370,James McClean,James,McClean,23.0,Midfielder,,Ireland,IE,1989-04-22,Northern Ireland,37,180,70,2011-08-09,False
+37339,Ahmed El Mohamady,Ahmed Eissa,El Mohamady Abdel Fattah,27.0,Midfielder,,Egypt,EG,1987-09-09,Egypt,38,182,75,2011-06-01,False
+34392,Stéphane Sessegnon,Stéphane,Sessegnon,28.0,Midfielder,,Benin,BJ,1984-06-01,,41,172,72,2011-01-29,False
+113999,Jordan Laidler,Jordan,Laidler,32.0,Midfielder,,England,GB-ENG,1995-07-01,,30,169,69,2012-07-01,False
+94738,Billy Knott,Billy,Knott,34.0,Midfielder,,England,GB-ENG,1992-11-28,,33,173,71,2010-07-01,False
+94863,Adam Mitchell,Adam,Mitchell,37.0,Midfielder,,England,GB-ENG,1993-10-18,England,32,173,73,2012-07-01,False
+78827,Adam Reed,Adam,Reed,37.0,Midfielder,,England,GB-ENG,1991-05-08,,35,165,55,2009-07-01,False
+59125,Connor Wickham,Connor,Wickham,10.0,Forward,,England,GB-ENG,1993-03-31,,33,191,90,2011-06-29,False
+15398,Danny Graham,Daniel,Graham,19.0,Forward,,England,GB-ENG,1985-08-12,,40,183,87,2013-01-31,False
+18953,Steven Fletcher,Steven,Fletcher,26.0,Forward,,Scotland,GB-SCT,1987-03-26,,39,186,76,2012-08-24,False
+98769,Dong-Won Ji,Dong-Won,Ji,27.0,Forward,Right,South Korea,KR,1991-05-28,Korea Republic,35,188,81,2011-07-01,False
+80061,Ryan Noble,Ryan,Noble,33.0,Forward,,England,GB-ENG,1991-06-11,,34,180,66,2009-07-01,False
+96114,Craig Lynch,Craig,Lynch,38.0,Forward,,England,GB-ENG,1992-03-25,,34,175,64,2010-07-01,False
+114312,Mikael Mandron,Mikael,Mandron,38.0,Forward,,France,FR,1994-10-11,,31,191,82,2012-07-01,False

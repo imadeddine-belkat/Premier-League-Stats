@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+58376,Alex McCarthy,Alex,McCarthy,1,Goalkeeper,Right,England,GB-ENG,1989-12-03,,36,193.0,79.0,2016-08-01,False
+107265,Angus Gunn,Angus,Gunn,28,Goalkeeper,Right,England,GB-ENG,1996-01-22,,30,196.0,77.0,2018-07-10,False
+198044,Harry Lewis,Harry,Lewis,41,Goalkeeper,,England,GB-ENG,1997-12-20,,28,191.0,77.0,2016-07-30,False
+40383,Fraser Forster,Fraser,Forster,44,Goalkeeper,Right,England,GB-ENG,1988-03-17,England,38,201.0,93.0,2014-08-09,False
+58822,Cédric Soares,Cédric Ricardo,Alves Soares,2,Defender,Right,Portugal,PT,1991-08-31,Germany,34,172.0,67.0,2015-06-18,False
+80447,Maya Yoshida,Maya,Yoshida,3,Defender,Right,Japan,JP,1988-08-24,Japan,37,189.0,78.0,2012-08-31,False
+93100,Jannik Vestergaard,Jannik,Vestergaard,4,Defender,Left,Denmark,DK,1992-08-03,Denmark,33,199.0,96.0,2018-07-13,False
+88900,Jack Stephens,Jack,Stephens,5,Defender,Right,England,GB-ENG,1994-01-27,England,32,185.0,75.0,2011-07-01,False
+167075,Wesley Hoedt,Wesley,Hoedt,6,Defender,Left,Netherlands,NL,1994-03-06,Netherlands,32,188.0,77.0,2017-08-22,False
+40146,Ryan Bertrand,Ryan,Bertrand,21,Defender,Left,England,GB-ENG,1989-08-05,,36,179.0,85.0,2015-02-01,False
+232797,Kayne Ramsay,Kayne,Ramsay,31,Defender,Right,England,GB-ENG,2000-10-10,,25,,,2018-12-21,False
+176706,Alfie Jones,Alfie,Jones,32,Defender,,England,GB-ENG,1997-10-07,England,28,,,2016-07-30,False
+169359,Matt Targett,Matt,Targett,33,Defender,Left,England,GB-ENG,1995-09-18,,30,183.0,70.0,2013-07-01,False
+171771,Jan Bednarek,Jan,Bednarek,35,Defender,Right,Poland,PL,1996-04-12,Poland,30,189.0,77.0,2017-07-01,False
+213482,Yan Valery,Yan,Valery,43,Defender,Right,France,FR,1999-02-22,,27,180.0,85.0,2016-07-30,False
+153373,Sam McQueen,Sam,McQueen,45,Defender,Left,England,GB-ENG,1995-02-06,,31,180.0,70.0,2013-07-01,False
+85654,Jordy Clasie,Jordy,Clasie,4,Midfielder,Both,Netherlands,NL,1991-06-27,Netherlands,34,169.0,66.0,2015-07-15,False
+17339,Steven Davis,Steven,Davis,8,Midfielder,,Northern Ireland,GB-NIR,1985-01-01,,41,173.0,70.0,2012-07-22,False
+96787,Mohamed Elyounoussi,Mohamed,Elyounoussi,11,Midfielder,Right,Norway,NO,1994-08-04,Morocco,31,178.0,70.0,2018-06-29,False
+78056,Oriol Romeu,Oriol,Romeu Vidal,14,Midfielder,Right,Spain,ES,1991-09-24,Spain,34,183.0,83.0,2015-08-12,False
+101178,James Ward-Prowse,James,Ward-Prowse,16,Midfielder,Right,England,GB-ENG,1994-11-01,England,31,173.0,66.0,2011-07-01,False
+91047,Stuart Armstrong,Stuart,Armstrong,17,Midfielder,Right,Scotland,GB-SCT,1992-03-30,Scotland,34,183.0,75.0,2018-06-26,False
+151086,Mario Lemina,Mario,Lemina,18,Midfielder,Right,Gabon,GA,1993-09-01,Gabon,32,184.0,85.0,2017-08-08,False
+128198,Sofiane Boufal,Sofiane,Boufal,19,Midfielder,Right,Morocco,MA,1993-09-17,France,32,170.0,60.0,2016-08-29,False
+153366,Harrison Reed,Harrison,Reed,20,Midfielder,Right,England,GB-ENG,1995-01-27,,31,181.0,72.0,2013-07-01,False
+83283,Nathan Redmond,Nathan,Redmond,22,Midfielder,Right,England,GB-ENG,1994-03-06,,32,173.0,69.0,2016-06-25,False
+132015,Pierre-Emile Højbjerg,Pierre-Emile,Højbjerg,23,Midfielder,Right,Denmark,DK,1995-08-05,Denmark,30,185.0,84.0,2016-07-11,False
+193109,Callum Slattery,Callum,Slattery,30,Midfielder,Right,England,GB-ENG,1999-02-08,England,27,175.0,,2018-07-01,False
+153379,Josh Sims,Joshua,Sims,39,Midfielder,Right,England,GB-ENG,1997-03-28,,29,174.0,67.0,2013-07-01,False
+158544,Jake Hesketh,Jake,Hesketh,42,Midfielder,Right,England,GB-ENG,1996-03-27,,30,168.0,63.0,2014-12-08,False
+204481,Tyreke Johnson,Tyreke,Johnson,51,Midfielder,Left,England,GB-ENG,1998-11-03,England,27,,,2018-12-15,False
+20452,Shane Long,Shane,Long,7,Forward,Right,Ireland,IE,1987-01-22,Republic of Ireland,39,178.0,81.0,2014-08-14,False
+84939,Danny Ings,Danny,Ings,9,Forward,Right,England,GB-ENG,1992-07-23,,33,178.0,73.0,2018-08-09,False
+78356,Charlie Austin,Charlie,Austin,10,Forward,Right,England,GB-ENG,1989-07-05,,36,188.0,84.0,2016-01-16,False
+153371,Sam Gallagher,Sam,Gallagher,15,Forward,,England,GB-ENG,1995-09-15,,30,194.0,75.0,2013-07-01,False
+220598,Michael Obafemi,Michael,Obafemi,20,Forward,Right,Ireland,IE,2000-07-06,Republic of Ireland,25,169.0,71.0,2018-01-20,False
+98914,Guido Carrillo,Guido,Carrillo,25,Forward,Right,Argentina,AR,1991-05-25,Argentina,35,191.0,87.0,2018-01-25,False
+169556,Marcus Barnes,Marcus,Barnes,65,Forward,Left,England,GB-ENG,1996-12-01,England,29,185.0,72.0,2019-01-04,False

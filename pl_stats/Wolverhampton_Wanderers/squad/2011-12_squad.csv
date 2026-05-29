@@ -1,0 +1,45 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+20066,Wayne Hennessey,Wayne,Hennessey,1.0,Goalkeeper,Right,Wales,GB-WLS,1987-01-24,Wales,39,198,90,2002-08-01,False
+17687,Carl Ikeme,Carl,Ikeme,1.0,Goalkeeper,,Nigeria,NG,1986-06-08,,39,188,86,2003-07-01,False
+115567,Aaron McCarey,Aaron,McCarey,13.0,Goalkeeper,,Ireland,IE,1992-01-14,,34,185,93,2011-07-01,False
+38251,Dorus de Vries,Dorus,de Vries,31.0,Goalkeeper,Right,Netherlands,NL,1980-12-29,Netherlands Antilles,45,180,76,2011-07-01,False
+8358,Roger Johnson,Roger,Johnson,,Defender,,England,GB-ENG,1983-04-28,,43,191,70,2011-07-13,False
+87835,Matt Doherty,Matt,Doherty,2.0,Defender,Right,Ireland,IE,1992-01-16,Republic of Ireland,34,185,80,2010-08-19,False
+19084,George Elokobi,George,Elokobi,3.0,Defender,,Cameroon,CM,1986-01-31,,40,185,84,2008-01-31,False
+18832,Richard Stearman,Richard,Stearman,5.0,Defender,Right,England,GB-ENG,1987-08-19,England,38,191,73,2008-07-01,False
+1989,Jody Craddock,Jody,Craddock,6.0,Defender,,England,GB-ENG,1975-07-25,,50,185,78,2003-07-31,False
+77610,Danny Batth,Danny,Batth,6.0,Defender,Right,England,GB-ENG,1990-09-21,England,35,191,82,2009-07-01,False
+19008,Christophe Berra,Christophe,Berra,16.0,Defender,,Scotland,GB-SCT,1985-01-31,,41,186,81,2009-02-02,False
+44528,Steven Mouyokolo,Steven,Mouyokolo,21.0,Defender,,France,FR,1987-01-24,,39,190,86,2010-06-18,False
+42744,Sebastien Bassong,Sebastien,Bassong,21.0,Defender,,Cameroon,CM,1986-07-09,,39,187,73,2012-01-31,True
+95300,Jamie Reckord,Jamie,Reckord,22.0,Defender,,England,GB-ENG,1992-03-09,,34,178,75,2010-07-01,False
+92178,Ethan Ebanks-Landell,Ethan,Ebanks-Landell,23.0,Defender,,England,GB-ENG,1992-12-16,,33,188,86,2010-07-01,False
+37847,Ronald Zubar,Ronald,Zubar,23.0,Defender,,Guadeloupe,GP,1985-09-20,Guadeloupe,40,186,84,2009-07-03,False
+115560,Michael Ihiekwe,Michael,Ihiekwe,24.0,Defender,,England,GB-ENG,1992-11-20,England,33,185,80,2011-07-01,False
+14947,Kevin Foley,Kevin,Foley,32.0,Defender,,Ireland,IE,1984-11-01,,41,175,70,2007-08-14,False
+28568,Jamie O'Hara,Jamie,O'Hara,,Midfielder,,England,GB-ENG,1986-09-25,,39,180,72,2011-07-01,False
+40616,Stephen Ward,Stephen,Ward,,Midfielder,,Ireland,IE,1985-08-20,,40,184,82,2007-01-01,False
+105190,Anthony Forde,Anthony,Forde,,Midfielder,,Ireland,IE,1993-11-16,,32,186,76,2011-07-01,False
+16236,David Edwards,David,Edwards,4.0,Midfielder,Right,Wales,GB-WLS,1986-02-03,England,40,183,78,2008-01-10,False
+15944,Michael Kightly,Michael,Kightly,7.0,Midfielder,,England,GB-ENG,1986-01-24,,40,173,71,2007-01-01,False
+78774,David Davis,David,Davis,8.0,Midfielder,,England,GB-ENG,1991-02-20,,35,173,77,2009-07-01,False
+10561,Karl Henry,Karl,Henry,8.0,Midfielder,,England,GB-ENG,1982-11-26,England,43,183,76,2006-08-02,False
+7635,Stephen Hunt,Stephen,Hunt,12.0,Midfielder,,Ireland,IE,1981-08-01,,44,175,79,2010-07-01,False
+18818,Matthew Jarvis,Matthew,Jarvis,17.0,Midfielder,,England,GB-ENG,1986-05-22,,40,173,70,2007-06-20,False
+114041,Jack Price,Jack,Price,19.0,Midfielder,Right,England,GB-ENG,1992-12-19,,33,170,67,2011-07-01,False
+40660,Adam Hammill,Adam,Hammill,19.0,Midfielder,,England,GB-ENG,1988-01-25,,38,180,73,2011-01-20,False
+41208,Nenad Milijas,Nenad,Milijas,20.0,Midfielder,Left,Serbia,RS,1983-04-30,Yugoslavia,43,185,81,2009-06-14,False
+40231,Eggert Jónsson,Eggert,Jónsson,22.0,Midfielder,Right,Iceland,IS,1988-08-18,Iceland,37,188,81,2012-01-01,False
+44302,Adlène Guédioura,Adlène,Guédioura,34.0,Midfielder,Right,Algeria,DZ,1985-11-12,France,40,186,81,2010-01-25,False
+113950,Louis Harris,Louis,Harris,38.0,Midfielder,,England,GB-ENG,1992-12-07,,33,183,79,2011-07-01,False
+76360,Nathaniel Méndez-Laing,Nathaniel,Méndez-Laing,44.0,Midfielder,Right,Guatemala,GT,1992-04-15,England,34,180,77,2009-08-01,False
+83701,Johnny Gorman,Johnny,Gorman,46.0,Midfielder,,Northern Ireland,GB-NIR,1992-10-26,,33,175,70,2012-03-23,False
+57544,Leigh Griffiths,Leigh,Griffiths,9.0,Forward,,Scotland,GB-SCT,1990-08-20,Scotland,35,180,76,2011-01-31,False
+19557,Sylvan Ebanks-Blake,Sylvan,Ebanks-Blake,9.0,Forward,,England,GB-ENG,1986-03-29,,40,178,84,2008-01-10,False
+18953,Steven Fletcher,Steven,Fletcher,10.0,Forward,,Scotland,GB-SCT,1987-03-26,,39,186,76,2010-06-04,False
+87157,Jake Cassidy,Jake,Cassidy,16.0,Forward,,Wales,GB-WLS,1993-02-09,,33,178,71,2010-08-17,False
+20450,Kevin Doyle,Kevin,Doyle,16.0,Forward,,Ireland,IE,1983-09-18,,42,180,79,2009-07-01,False
+40399,Sam Vokes,Sam,Vokes,18.0,Forward,,Wales,GB-WLS,1989-10-21,,36,186,90,2008-05-31,False
+109641,Liam McAlinden,Liam,McAlinden,20.0,Forward,,Ireland,IE,1993-09-26,Northern Ireland,32,185,74,2011-07-01,False
+80996,Sam Winnall,Sam,Winnall,37.0,Forward,,England,GB-ENG,1991-01-19,England,35,175,71,2010-07-01,False
+57126,Ashley Hemmings,Ashley,Hemmings,40.0,Forward,,England,GB-ENG,1991-03-03,,35,170,72,2008-07-01,False

@@ -1,0 +1,48 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+474803,Eddie Beach,Eddie,Beach,,Goalkeeper,Right,Wales,GB-WLS,2003-10-09,England,22,196.0,72.0,2022-12-05,False
+215059,Robert Sánchez,Robert,Sánchez,1.0,Goalkeeper,Left,Spain,ES,1997-11-18,Spain,28,197.0,90.0,2023-08-05,False
+508479,Filip Jørgensen,Filip,Jørgensen,12.0,Goalkeeper,Right,Denmark,DK,2002-04-16,Sweden,24,192.0,85.0,2024-07-30,False
+122074,Marcus Bettinelli,Marcus,Bettinelli,13.0,Goalkeeper,Right,England,GB-ENG,1992-05-24,England,34,193.0,82.0,2021-07-28,False
+549939,Mike Penders,Mike,Penders,39.0,Goalkeeper,Left,Belgium,BE,2005-07-31,Belgium,20,200.0,95.0,2024-08-27,False
+518892,Ted Curd,Ted,Curd,43.0,Goalkeeper,Right,England,GB-ENG,2006-02-14,,20,190.0,,2024-01-01,False
+471798,Gaga Slonina,Gaga,Slonina,44.0,Goalkeeper,Right,United States,US,2004-05-15,USA,22,193.0,88.0,2022-08-02,False
+482158,Lucas Bergström,Lucas,Bergström,47.0,Goalkeeper,Right,Finland,FI,2002-09-05,Finland,23,205.0,82.0,2021-07-27,False
+461188,Bashir Humphreys,Bashir,Humphreys,,Defender,Left,England,GB-ENG,2003-03-15,England,23,187.0,79.0,2022-12-05,False
+179268,Marc Cucurella,Marc,Cucurella,3.0,Defender,Left,Spain,ES,1998-07-22,Spain,27,174.0,66.0,2022-08-05,False
+109646,Tosin Adarabioyo,Tosin,Adarabioyo,4.0,Defender,Right,England,GB-ENG,1997-09-24,England,28,196.0,80.0,2024-07-01,False
+242880,Benoît Badiashile,Benoît,Badiashile,5.0,Defender,Left,France,FR,2001-03-26,France,25,194.0,75.0,2023-01-05,False
+460028,Levi Colwill,Levi,Colwill,6.0,Defender,Left,England,GB-ENG,2003-02-26,England,23,187.0,83.0,2022-07-01,False
+180736,Trevoh Chalobah,Trevoh,Chalobah,23.0,Defender,Right,England,GB-ENG,1999-07-05,Sierra Leone,26,190.0,75.0,2018-02-16,False
+225796,Reece James,Reece,James,24.0,Defender,Right,England,GB-ENG,1999-12-08,England,26,182.0,82.0,2019-05-15,False
+482609,Malo Gusto,Malo,Gusto,27.0,Defender,Right,France,FR,2003-05-19,France,23,179.0,67.0,2023-01-28,False
+444463,Wesley Fofana,Wesley,Fofana,29.0,Defender,Right,France,FR,2000-12-17,France,25,190.0,84.0,2022-08-31,False
+622758,Aarón Anselmino,Aarón,Anselmino,30.0,Defender,Right,Argentina,AR,2005-04-29,Argentina,21,186.0,83.0,2024-08-08,False
+577016,Josh Acheampong,Josh,Acheampong,34.0,Defender,Right,England,GB-ENG,2006-05-05,England,20,184.0,75.0,2024-03-10,False
+518889,Richard Olise,Richard,Olise,49.0,Defender,Right,England,GB-ENG,2004-09-09,England,21,173.0,60.0,2024-12-11,False
+551986,Harrison Murray-Campbell,Harrison,Murray-Campbell,59.0,Defender,Right,England,GB-ENG,2006-08-04,England,19,186.0,75.0,2024-02-27,False
+536238,Ishé Samuels-Smith,Ishé,Samuels-Smith,62.0,Defender,Left,England,GB-ENG,2006-06-05,England,19,186.0,,2023-08-28,False
+550610,Kaiden Wilson,Kaiden,Wilson,63.0,Defender,Right,England,GB-ENG,2005-09-02,England,20,191.0,80.0,2024-12-11,False
+591382,Genesis Antwi,Genesis,Antwi,64.0,Defender,Right,Sweden,SE,2007-05-11,Sweden,19,,,2025-02-08,False
+465920,Mykhailo Mudryk,Mykhailo,Mudryk,,Midfielder,Right,Ukraine,UA,2001-01-05,Ukraine,25,175.0,61.0,2023-01-15,False
+609640,Mathis Amougou,Mathis,Amougou,,Midfielder,Right,France,FR,2006-01-18,France,20,177.0,65.0,2025-02-03,False
+448047,Enzo Fernández,Enzo,Fernández,8.0,Midfielder,Right,Argentina,AR,2001-01-17,Argentina,25,178.0,76.0,2023-01-31,False
+244851,Cole Palmer,Cole,Palmer,10.0,Midfielder,Left,England,GB-ENG,2002-05-06,England,24,189.0,76.0,2023-09-01,False
+532605,Andrey Santos,Andrey,Nascimento dos Santos,17.0,Midfielder,Right,Brazil,BR,2004-05-03,Brazil,22,180.0,75.0,2023-01-07,False
+215413,Kiernan Dewsbury-Hall,Kiernan,Dewsbury-Hall,22.0,Midfielder,Left,England,GB-ENG,1998-09-06,England,27,178.0,80.0,2024-07-02,False
+486672,Moisés Caicedo,Moisés,Caicedo,25.0,Midfielder,Right,Ecuador,EC,2001-11-02,Ecuador,24,178.0,73.0,2023-08-14,False
+559963,Kiano Dyer,Kiano,Dyer,33.0,Midfielder,Right,England,GB-ENG,2006-11-21,England,19,178.0,65.0,2024-04-15,False
+549068,Omari Kellyman,Omari,Kellyman,37.0,Midfielder,Left,England,GB-ENG,2005-09-15,England,20,191.0,78.0,2024-06-29,False
+514356,Roméo Lavia,Roméo,Lavia,45.0,Midfielder,Right,Belgium,BE,2004-01-06,Belgium,22,181.0,76.0,2023-08-18,False
+547692,Samuel Rak-Sakyi,Samuel,Rak-Sakyi,51.0,Midfielder,Left,England,GB-ENG,2005-03-27,England,21,178.0,73.0,2024-10-23,False
+611912,Landon Emenalo,Landon,Emenalo,72.0,Midfielder,Left,England,GB-ENG,2008-01-18,USA,18,177.0,,2025-04-01,False
+611921,Reggie Walsh,Reggie,Walsh,81.0,Midfielder,,England,GB-ENG,2008-10-20,,17,,,2025-03-12,False
+520295,David Datro Fofana,David Datro,Fofana,,Forward,Right,Cote d’Ivoire,CI,2002-12-22,Côte d'Ivoire,23,181.0,76.0,2023-01-01,False
+247632,Pedro Neto,Pedro,Lomba Neto,7.0,Forward,Left,Portugal,PT,2000-03-09,Portugal,26,174.0,62.0,2024-08-11,False
+248857,Noni Madueke,Noni,Madueke,11.0,Forward,Left,England,GB-ENG,2002-03-10,England,24,182.0,75.0,2023-01-20,False
+517052,Nicolas Jackson,Nicolas,Jackson,15.0,Forward,Right,Senegal,SN,2001-06-20,Gambia,24,186.0,78.0,2023-07-01,False
+213198,Christopher Nkunku,Christopher,Nkunku,18.0,Forward,Right,France,FR,1997-11-14,France,28,178.0,68.0,2023-07-01,False
+209243,Jadon Sancho,Jadon,Sancho,19.0,Forward,Right,England,GB-ENG,2000-03-25,England,26,180.0,76.0,2024-08-30,True
+550615,Tyrique George,Tyrique,George,32.0,Forward,Right,England,GB-ENG,2006-02-04,England,20,181.0,75.0,2024-04-15,False
+499309,Marc Guiu,Marc,Guiu,38.0,Forward,Left,Spain,ES,2006-01-04,Spain,20,187.0,82.0,2024-07-01,False
+555853,Ato Ampah,Ato,Ampah,55.0,Forward,Right,England,GB-ENG,2006-04-22,Ghana,20,176.0,70.0,2024-12-11,False
+567119,Shumaira Mheuka,Shumaira,Mheuka,76.0,Forward,Right,England,GB-ENG,2007-10-20,England,18,182.0,75.0,2024-10-23,False

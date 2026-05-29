@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+15749,Joe Hart,Joe,Hart,,Goalkeeper,,England,GB-ENG,1987-04-19,England,39,196,91,2006-07-01,False
+33148,Claudio Bravo,Claudio,Bravo,1.0,Goalkeeper,Right,Chile,CL,1983-04-13,Chile,43,184,80,2016-08-25,False
+20310,Willy Caballero,Willy,Caballero,13.0,Goalkeeper,Right,Argentina,AR,1981-09-28,Argentina,44,186,80,2014-07-08,False
+107265,Angus Gunn,Angus,Gunn,54.0,Goalkeeper,,England,GB-ENG,1996-01-22,,30,196,77,2016-07-01,False
+37748,Bacary Sagna,Bacary,Sagna,3.0,Defender,Right,France,FR,1983-02-14,France,43,176,72,2014-07-01,False
+17476,Vincent Kompany,Vincent,Kompany,4.0,Defender,,Belgium,BE,1986-04-10,Belgium,40,193,85,2008-08-22,False
+20658,Pablo Zabaleta,Pablo,Zabaleta,5.0,Defender,Right,Argentina,AR,1985-01-16,Argentina,41,176,74,2008-08-31,False
+97299,John Stones,John,Stones,5.0,Defender,,England,GB-ENG,1994-05-28,England,32,188,70,2016-08-09,False
+42593,Aleksandar Kolarov,Aleksandar,Kolarov,11.0,Defender,Left,Serbia,RS,1985-11-10,Serbia,40,187,83,2010-07-24,False
+57112,Eliaquim Mangala,Eliaquim,Mangala,15.0,Defender,Both,France,FR,1991-02-13,France,35,188,84,2014-08-11,False
+17336,Gaël Clichy,Gaël,Clichy,22.0,Defender,,France,FR,1985-07-26,,40,176,65,2011-07-04,False
+109646,Tosin Adarabioyo,Oluwatosin,Adarabioyo,24.0,Defender,,England,GB-ENG,1997-09-24,,28,196,80,2015-07-01,False
+160729,Jason Denayer,Jason,Denayer,28.0,Defender,,Belgium,BE,1995-06-28,Belgium,30,184,70,2014-07-01,False
+57410,Nicolás Otamendi,Nicolás,Otamendi,30.0,Defender,Right,Argentina,AR,1988-02-12,Argentina,38,183,81,2015-08-20,False
+74471,Aaron Mooy,Aaron,Mooy,,Midfielder,Right,Australia,AU,1990-09-15,Australia,35,174,68,2016-07-01,False
+52538,Fernando,Fernando Francisco,Reges,6.0,Midfielder,Right,Brazil,BR,1987-07-25,Brazil,38,183,76,2014-07-01,False
+59859,Ilkay Gündogan,Ilkay,Gündogan,8.0,Midfielder,Right,Germany,DE,1990-10-24,Germany,35,180,80,2016-07-01,False
+28554,Samir Nasri,Samir,Nasri,11.0,Midfielder,,France,FR,1987-06-26,,38,175,75,2011-08-24,False
+17740,Jesús Navas,Jesús,Navas,15.0,Midfielder,Right,Spain,ES,1985-11-21,Spain,40,172,60,2013-07-01,False
+61366,Kevin De Bruyne,Kevin,De Bruyne,17.0,Midfielder,Right,Belgium,BE,1991-06-28,Belgium,34,181,68,2015-08-30,False
+41823,Fabian Delph,Fabian,Delph,18.0,Midfielder,,England,GB-ENG,1989-11-21,,36,174,60,2015-07-17,False
+182156,Leroy Sané,Leroy,Sané,19.0,Midfielder,Left,Germany,DE,1996-01-11,Germany,30,183,75,2016-08-02,False
+20664,David Silva,David,Silva,21.0,Midfielder,,Spain,ES,1986-01-08,Spain,40,173,67,2010-07-01,False
+27789,Fernandinho,Fernando,Luiz Rosa,25.0,Midfielder,Right,Brazil,BR,1985-05-04,Brazil,41,179,67,2013-07-01,False
+124165,Patrick Roberts,Patrick,Roberts,27.0,Midfielder,,England,GB-ENG,1997-02-05,,29,167,58,2015-07-19,False
+206325,Oleksandr Zinchenko,Oleksandr,Zinchenko,35.0,Midfielder,,Ukraine,UA,1996-12-15,Ukraine,29,175,64,2016-06-04,False
+14664,Yaya Touré,Gnegneri Yaya,Touré,42.0,Midfielder,,Cote d’Ivoire,CI,1983-05-13,Côte d'Ivoire,43,188,90,2010-07-02,False
+216183,Brahim Diaz,Brahim,Diaz,55.0,Midfielder,,Spain,ES,1999-08-03,,26,170,68,2016-09-20,False
+178871,Aleix García,Aleix,García,75.0,Midfielder,Right,Spain,ES,1997-06-28,Spain,28,173,68,2016-02-06,False
+166507,Marlos Moreno,Marlos,Moreno,,Forward,Right,Colombia,CO,1996-09-20,Colombia,29,171,66,2016-08-06,False
+112994,Rubén Sobrino,Rubén,Sobrino,,Forward,Right,Spain,ES,1992-06-01,Spain,33,185,73,2015-08-28,False
+103955,Raheem Sterling,Raheem,Sterling,7.0,Forward,,England,GB-ENG,1994-12-08,Jamaica,31,170,69,2015-07-14,False
+86173,Nolito,Manuel,Agudo Durán,9.0,Forward,Right,Spain,ES,1986-10-15,Spain,39,175,65,2016-07-01,False
+37572,Sergio Agüero,Sergio,Agüero,10.0,Forward,Both,Argentina,AR,1988-06-02,Argentina,37,173,70,2011-07-27,False
+57001,Wilfried Bony,Wilfried,Bony,14.0,Forward,,Cote d’Ivoire,CI,1988-12-10,Côte d'Ivoire,37,182,88,2015-01-14,False
+205651,Gabriel Jesus,Gabriel Fernando,de Jesus,33.0,Forward,Right,Brazil,BR,1997-04-03,Brazil,29,175,73,2016-08-03,False
+209244,Phil Foden,Phil,Foden,47.0,Forward,,England,GB-ENG,2000-05-28,England,26,171,70,2016-12-05,False
+173515,Kelechi Iheanacho,Kelechi,Iheanacho,72.0,Forward,Left,Nigeria,NG,1996-10-03,Nigeria,29,185,82,2014-07-01,False

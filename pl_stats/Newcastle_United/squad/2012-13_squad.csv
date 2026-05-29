@@ -1,0 +1,42 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+20480,Tim Krul,Tim,Krul,,Goalkeeper,,Netherlands,NL,1988-04-03,Netherlands,38,188,84,2006-06-01,False
+19838,Robert Elliot,Robert,Elliot,1.0,Goalkeeper,,Ireland,IE,1986-04-30,,40,190,94,2011-08-31,False
+106256,Jak Alnwick,Jak,Alnwick,31.0,Goalkeeper,,England,GB-ENG,1993-06-17,England,32,188,82,2012-08-01,False
+1881,Steve Harper,Steve,Harper,37.0,Goalkeeper,,England,GB-ENG,1975-03-14,,51,185,83,1993-07-05,False
+7933,Fabricio Coloccini,Fabricio,Coloccini,2.0,Defender,Right,Argentina,AR,1982-01-22,Argentina,44,183,63,2008-08-15,False
+106618,Paul Dummett,Paul,Dummett,3.0,Defender,,Wales,GB-WLS,1991-09-26,,34,183,82,2011-07-01,False
+55604,Davide Santon,Davide,Santon,3.0,Defender,Right,Italy,IT,1991-01-02,Italy,35,187,77,2011-08-30,False
+14775,Ryan Taylor,Ryan,Taylor,4.0,Defender,,England,GB-ENG,1984-08-19,,41,173,75,2009-02-02,False
+40725,Danny Simpson,Danny,Simpson,5.0,Defender,,England,GB-ENG,1987-01-04,,39,176,80,2010-01-20,False
+11378,Mike Williamson,Michael,Williamson,6.0,Defender,,England,GB-ENG,1983-11-08,,42,191,84,2010-01-27,False
+44488,Mapou Yanga-Mbiwa,Mapou,Yanga-Mbiwa,13.0,Defender,,France,FR,1989-05-15,Central African Republic,37,184,77,2013-01-22,False
+18846,James Perch,James,Perch,14.0,Defender,,England,GB-ENG,1985-09-28,,40,180,72,2010-07-05,False
+92170,Massadio Haidara,Massadio,Haidara,25.0,Defender,,France,FR,1992-12-02,,33,181,76,2013-01-24,False
+27334,Mathieu Debuchy,Mathieu,Debuchy,26.0,Defender,,France,FR,1985-07-28,France,40,177,76,2013-01-04,False
+17974,Steven Taylor,Steven,Taylor,27.0,Defender,,England,GB-ENG,1986-01-23,,40,188,81,2002-07-01,False
+77816,James Tavernier,James,Tavernier,34.0,Defender,,England,GB-ENG,1991-10-31,England,34,182,75,2009-07-01,False
+149465,Remie Streete,Remie,Streete,34.0,Defender,,England,GB-ENG,1994-11-02,,31,187,83,2012-07-01,False
+61944,Shane Ferguson,Shane,Ferguson,34.0,Defender,,Northern Ireland,GB-NIR,1991-07-12,Northern Ireland,34,178,73,2009-07-01,False
+124584,Curtis Good,Curtis,Good,38.0,Defender,,Australia,AU,1993-03-23,Australia,33,187,85,2012-07-01,False
+120721,Kevin Mbabu,Kevin,Mbabu,43.0,Defender,Right,Switzerland,CH,1995-04-19,Switzerland,31,184,80,2013-01-31,False
+87112,Gael Bigirimana,Gael,Bigirimana,,Midfielder,,Burundi,BI,1993-10-22,Burundi,32,173,68,2012-07-06,False
+27341,Yohan Cabaye,Yohan,Cabaye,4.0,Midfielder,,France,FR,1986-01-14,France,40,174,71,2011-06-11,False
+45268,Moussa Sissoko,Moussa,Sissoko,7.0,Midfielder,,France,FR,1989-08-16,France,36,187,83,2013-01-25,False
+40799,Vurnon Anita,Vurnon,Anita,8.0,Midfielder,Right,Netherlands,NL,1989-04-04,Netherlands Antilles,37,168,63,2012-08-16,False
+38429,Gabriel Obertan,Gabriel,Obertan,14.0,Midfielder,,France,FR,1989-02-26,France,37,186,79,2011-08-09,False
+40387,Dan Gosling,Dan,Gosling,15.0,Midfielder,,England,GB-ENG,1990-02-01,,36,183,79,2010-07-22,False
+86158,Romain Amalfitano,Romain,Amalfitano,17.0,Midfielder,,France,FR,1989-08-27,,36,175,72,2012-07-01,False
+21060,Jonás Gutiérrez,Jonás,Gutiérrez,18.0,Midfielder,Right,Argentina,AR,1983-07-05,Argentina,42,183,73,2008-07-02,False
+42727,Yoan Gouffran,Yoan,Gouffran,20.0,Midfielder,,France,FR,1986-05-25,,40,176,76,2013-01-23,False
+59304,Haris Vuckic,Haris,Vuckic,23.0,Midfielder,,Slovenia,SI,1992-08-21,Slovenia,33,186,83,2009-01-16,False
+28301,Cheick Tioté,Cheick,Tiote,24.0,Midfielder,,Cote d’Ivoire,CI,1986-06-21,Côte d'Ivoire,39,175,76,2010-08-27,False
+18753,Hatem Ben Arfa,Hatem,Ben Arfa,26.0,Midfielder,,France,FR,1987-03-07,,39,178,65,2011-01-08,False
+98746,Mehdi Abeid,Mehdi,Abeid,30.0,Midfielder,,Algeria,DZ,1992-08-06,France,33,178,77,2011-07-01,False
+37939,Sylvain Marveaux,Sylvain,Marveaux,31.0,Midfielder,,France,FR,1986-04-15,,40,172,66,2011-06-18,False
+97612,Sammy Ameobi,Sammy,Ameobi,34.0,Midfielder,,England,GB-ENG,1992-05-01,,34,190,66,2010-07-01,False
+59787,Bradden Inman,Bradden,Inman,38.0,Midfielder,,Australia,AU,1991-12-10,Australia,34,185,79,2009-01-27,False
+93625,Michael Richardson,Michael,Richardson,40.0,Midfielder,,England,GB-ENG,1992-03-17,,34,186,71,2010-07-01,False
+149487,Conor Newton,Conor,Newton,41.0,Midfielder,,England,GB-ENG,1991-10-17,,34,181,70,2012-07-01,False
+42758,Papiss Demba Cissé,Papiss Demba,Cissé,9.0,Forward,,Senegal,SN,1985-06-03,Senegal,40,183,73,2012-01-17,False
+6240,Shola Ameobi,Foluwashola,Ameobi,23.0,Forward,Right,Nigeria,NG,1981-10-12,Nigeria,44,190,92,2000-07-01,False
+132931,Adam Campbell,Adam,Campbell,35.0,Forward,,England,GB-ENG,1995-01-01,,31,170,62,2012-07-01,False

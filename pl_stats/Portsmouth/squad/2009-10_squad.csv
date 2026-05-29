@@ -1,0 +1,41 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+1590,David James,David,James,1.0,Goalkeeper,,England,GB-ENG,1970-08-01,,55,196.0,88.0,2006-08-11,False
+7718,Jamie Ashdown,Jamie,Ashdown,1.0,Goalkeeper,,England,GB-ENG,1980-11-30,,45,178.0,79.0,2004-06-26,False
+82200,Liam O'Brien,Liam,O'Brien,31.0,Goalkeeper,,England,GB-ENG,1991-11-30,,34,185.0,79.0,2010-03-14,False
+80405,Luke Wilkinson,Luke,Wilkinson,,Defender,,England,GB-ENG,1991-12-02,,34,188.0,74.0,2009-07-01,False
+55494,Joel Ward,Joel,Ward,2.0,Defender,,England,GB-ENG,1989-10-29,,36,180.0,80.0,2009-06-01,False
+15268,Ricardo Rocha,Ricardo,Rocha,3.0,Defender,,Portugal,PT,1978-10-03,,47,183.0,80.0,2010-02-03,False
+3642,Hermann Hreidarsson,Hermann,Hreidarsson,6.0,Defender,,Iceland,IS,1974-07-11,,51,191.0,82.0,2007-05-25,False
+1553,Steve Finnan,Steve,Finnan,16.0,Defender,,Ireland,IE,1976-04-20,,50,178.0,73.0,2009-07-31,False
+18679,Anthony Vanden Borre,Anthony,Vanden Borre,18.0,Defender,Left,Belgium,BE,1987-10-24,Congo DR,38,185.0,78.0,2009-08-13,True
+16037,Tal Ben Haim,Tal,Ben Haim,26.0,Defender,,Israel,IL,1982-03-31,,44,183.0,74.0,2009-08-31,False
+34569,Nadir Belhadj,Nadir,Belhadj,39.0,Defender,Left,Algeria,DZ,1982-06-18,France,43,175.0,67.0,2009-01-07,False
+76358,James Hurst,James,Hurst,43.0,Defender,,England,GB-ENG,1992-01-31,,34,183.0,77.0,2009-08-01,False
+77817,Lennard Sowah,Lennard,Sowah,46.0,Defender,,Germany,DE,1992-08-23,Germany,33,185.0,80.0,2009-09-20,False
+18148,Chris Clark,Chris,Clark,,Midfielder,,England,GB-ENG,1984-06-09,,41,,,2002-08-01,False
+84489,Florent Cuvelier,Florent,Cuvelier,,Midfielder,,Belgium,BE,1992-09-12,,33,182.0,72.0,2009-07-01,False
+12864,Aaron Mokoena,Aaron,Mokoena,4.0,Midfielder,,South Africa,ZA,1980-11-25,,45,183.0,78.0,2009-05-23,False
+28568,Jamie O'Hara,Jamie,O'Hara,5.0,Midfielder,,England,GB-ENG,1986-09-25,,39,180.0,72.0,2010-01-29,True
+56983,Matt Ritchie,Matt,Ritchie,5.0,Midfielder,,England,GB-ENG,1989-09-10,,36,173.0,70.0,2009-06-01,False
+32318,Marc Wilson,Marc,Wilson,6.0,Midfielder,,Ireland,IE,1987-08-17,Northern Ireland,38,188.0,80.0,2007-06-01,False
+1532,Hayden Mullins,Hayden,Mullins,8.0,Midfielder,,England,GB-ENG,1979-03-27,,47,183.0,67.0,2009-01-26,False
+11980,Papa Bouba Diop,Papa Bouba,Diop,8.0,Midfielder,,Senegal,SN,1978-01-28,Senegal,48,193.0,93.0,2007-08-31,False
+1188,Michael Brown,Michael,Brown,11.0,Midfielder,,England,GB-ENG,1977-01-25,,49,175.0,76.0,2009-08-27,False
+13000,John Utaka,John,Utaka,17.0,Midfielder,,Nigeria,NG,1982-01-08,,44,180.0,82.0,2007-07-11,False
+3046,Richard Hughes,Richard,Hughes,22.0,Midfielder,,Scotland,GB-SCT,1979-06-25,,46,175.0,82.0,2002-06-06,False
+20360,Kevin-Prince Boateng,Kevin-Prince,Boateng,23.0,Midfielder,Both,Ghana,GH,1987-03-06,Germany,39,185.0,86.0,2009-08-28,False
+82937,Nadir Ciftci,Nadir,Ciftci,24.0,Midfielder,,Netherlands,NL,1992-02-12,,34,188.0,77.0,2009-07-01,False
+37752,Hassan Yebda,Hassan,Yebda,32.0,Midfielder,Right,Algeria,DZ,1984-05-14,France,42,187.0,77.0,2009-09-01,True
+6991,Angelos Basinas,Angelos,Basinas,33.0,Midfielder,,Greece,GR,1976-01-03,,50,180.0,69.0,2009-02-02,False
+76749,Tom Kilbey,Tom,Kilbey,36.0,Midfielder,,England,GB-ENG,1990-10-22,,35,191.0,86.0,2009-07-01,False
+76593,Marlon Pack,Marlon,Pack,38.0,Midfielder,,England,GB-ENG,1991-03-25,,35,188.0,76.0,2009-07-01,False
+44028,Paris Cowan-Hall,Paris,Cowan-Hall,,Forward,,England,GB-ENG,1990-02-10,,36,185.0,77.0,2007-07-05,False
+54761,Omar Koroma,Omar,Koroma,,Forward,,Gambia,GM,1989-10-22,,36,178.0,69.0,2008-07-01,False
+10445,Frédéric Piquionne,Frédéric,Piquionne,9.0,Forward,,France,FR,1978-12-08,,47,188.0,77.0,2009-08-05,True
+8420,Danny Webber,Danny,Webber,9.0,Forward,,England,GB-ENG,1981-12-28,,44,178.0,71.0,2009-09-10,False
+12744,David Nugent,David,Nugent,10.0,Forward,,England,GB-ENG,1985-05-02,,41,180.0,76.0,2007-07-11,False
+2019,Tommy Smith,Tommy,Smith,21.0,Forward,,England,GB-ENG,1980-05-22,,46,175.0,71.0,2009-08-27,False
+6362,Aruna Dindane,Aruna,Dindane,24.0,Forward,,Cote d’Ivoire,CI,1980-11-26,,45,174.0,72.0,2009-08-28,True
+1648,Kanu,Nwankwo,Kanu,27.0,Forward,,Nigeria,NG,1976-08-01,,49,197.0,80.0,2006-08-10,False
+49467,Danijel Subotic,Danijel,Subotic,34.0,Forward,,Switzerland,CH,1989-01-31,,37,189.0,84.0,2008-01-08,False
+78828,Gael N'Lundulu,Gael,N'Lundulu,37.0,Forward,,France,FR,1992-04-29,,34,182.0,78.0,2009-07-01,False

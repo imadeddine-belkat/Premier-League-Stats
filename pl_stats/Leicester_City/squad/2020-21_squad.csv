@@ -1,0 +1,35 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+17745,Kasper Schmeichel,Kasper,Schmeichel,1,Goalkeeper,Right,Denmark,DK,1986-11-05,Denmark,39,189.0,89.0,2011-06-27,False
+95463,Danny Ward,Danny,Ward,12,Goalkeeper,Right,Wales,GB-WLS,1993-06-22,,32,191.0,88.0,2018-07-20,False
+11974,Eldin Jakupovic,Eldin,Jakupovic,35,Goalkeeper,Right,Switzerland,CH,1984-10-02,,41,191.0,85.0,2017-07-19,False
+436680,Jakub Stolarczyk,Jakub,Stolarczyk,51,Goalkeeper,,Poland,PL,2000-12-19,,25,,,2020-09-04,False
+220627,James Justin,James,Justin,2,Defender,Right,England,GB-ENG,1998-02-23,,28,183.0,80.0,2019-06-28,False
+444463,Wesley Fofana,Wesley,Fofana,3,Defender,,France,FR,2000-12-17,France,25,190.0,,2020-10-02,False
+218031,Çaglar Söyüncü,Çaglar,Söyüncü,4,Defender,Right,Turkey,TR,1996-05-23,Turkey,30,185.0,82.0,2018-08-09,False
+15033,Wes Morgan,Wes,Morgan,5,Defender,Right,Jamaica,JM,1984-01-21,England,42,186.0,101.0,2012-01-30,False
+37642,Jonny Evans,Jonny,Evans,6,Defender,Right,Northern Ireland,GB-NIR,1988-01-03,Northern Ireland,38,188.0,77.0,2018-06-08,False
+155569,Daniel Amartey,Daniel,Amartey,18,Defender,Right,Ghana,GH,1994-12-21,,31,186.0,79.0,2016-01-22,False
+111931,Ricardo Pereira,Ricardo Domingos,Barbosa Pereira,21,Defender,Right,Portugal,PT,1993-10-06,Portugal,32,175.0,70.0,2018-06-09,False
+166477,Timothy Castagne,Timothy,Castagne,27,Defender,Right,Belgium,BE,1995-12-05,Belgium,30,185.0,80.0,2020-09-03,False
+37402,Christian Fuchs,Christian,Fuchs,28,Defender,Left,Austria,AT,1986-04-07,Austria,40,187.0,89.0,2015-07-01,False
+244619,Luke Thomas,Luke,Thomas,33,Defender,,England,GB-ENG,2001-06-10,England,24,,,2020-07-15,False
+232229,Vontae Daley-Campbell,Vontae,Daley-Campbell,46,Defender,,England,GB-ENG,2001-04-02,,25,,,2019-07-19,False
+501770,Ben Nelson,Ben,Nelson,59,Defender,,England,GB-ENG,2004-03-18,England,22,,,2020-12-02,False
+166989,Youri Tielemans,Youri,Tielemans,8,Midfielder,Right,Belgium,BE,1997-05-07,Belgium,29,176.0,72.0,2019-07-08,False
+172780,James Maddison,James,Maddison,10,Midfielder,Right,England,GB-ENG,1996-11-23,,29,175.0,73.0,2018-06-20,False
+51938,Marc Albrighton,Marc,Albrighton,11,Midfielder,Right,England,GB-ENG,1989-11-18,England,36,175.0,74.0,2014-07-01,False
+201666,Harvey Barnes,Harvey,Barnes,15,Midfielder,Right,England,GB-ENG,1997-12-09,,28,174.0,66.0,2016-07-01,False
+228798,Cengiz Ünder,Cengiz,Ünder,19,Midfielder,Left,Turkey,TR,1997-07-14,Turkey,28,173.0,66.0,2020-09-20,True
+197469,Hamza Choudhury,Hamza,Choudhury,20,Midfielder,Right,England,GB-ENG,1997-10-01,,28,178.0,64.0,2017-09-18,False
+86881,Nampalys Mendy,Nampalys,Mendy,24,Midfielder,Right,Senegal,SN,1992-06-23,,33,167.0,73.0,2016-07-03,False
+203341,Wilfred Ndidi,Wilfred,Ndidi,25,Midfielder,Right,Nigeria,NG,1996-12-16,Nigeria,29,183.0,74.0,2017-01-03,False
+106837,Dennis Praet,Dennis,Praet,26,Midfielder,Right,Belgium,BE,1994-05-14,Belgium,32,181.0,78.0,2019-08-08,False
+461561,Ethan Fitzhugh,Ethan,Fitzhugh,37,Midfielder,,England,GB-ENG,2002-11-27,,23,,,2019-07-15,False
+232881,Thakgalo Leshabela,Thakgalo,Leshabela,38,Midfielder,,South Africa,ZA,1999-09-18,South Africa,26,175.0,72.0,2018-11-26,False
+421796,Sidnei Tavares,Sidnei Wilson Vieira David,Tavares,50,Midfielder,,Portugal,PT,2001-09-29,,24,,,2019-07-22,False
+447373,Shane Flynn,Shane,Flynn,53,Midfielder,,Ireland,IE,2001-10-14,Republic of Ireland,24,,,2020-12-02,False
+513789,Thanawat Suengchitthawon,Thanawat,Suengchitthawon,64,Midfielder,,Thailand,TH,2000-01-08,Thailand,26,,,2021-04-02,False
+461585,Tawanda Maswanhise,Tawanda,Maswanhise,65,Midfielder,,England,GB-ENG,2002-11-20,,23,,,2021-05-10,False
+101668,Jamie Vardy,Jamie,Vardy,9,Forward,Right,England,GB-ENG,1987-01-11,England,39,179.0,74.0,2012-07-01,False
+173515,Kelechi Iheanacho,Kelechi,Iheanacho,14,Forward,Left,Nigeria,NG,1996-10-03,Nigeria,29,185.0,82.0,2017-08-03,False
+168580,Ayoze Pérez,Ayoze,Pérez,17,Forward,Right,Spain,ES,1993-07-29,Spain,32,178.0,72.0,2019-07-04,False

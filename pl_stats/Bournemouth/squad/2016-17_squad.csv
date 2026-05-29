@@ -1,0 +1,38 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+18726,Artur Boruc,Artur,Boruc,1.0,Goalkeeper,Right,Poland,PL,1980-02-20,Poland,46,193.0,87.0,2015-07-01,False
+225321,Aaron Ramsdale,Aaron,Ramsdale,12.0,Goalkeeper,,England,GB-ENG,1998-05-14,,28,188.0,77.0,2017-01-31,False
+61302,Ryan Allsop,Ryan,Allsop,21.0,Goalkeeper,,England,GB-ENG,1992-06-17,,33,189.0,80.0,2013-01-18,False
+15885,Adam Federici,Adam,Federici,32.0,Goalkeeper,,Australia,AU,1985-01-31,Australia,41,188.0,90.0,2015-07-01,False
+200369,Jordan Holmes,Jordan,Holmes,45.0,Goalkeeper,,Australia,AU,1997-05-08,,29,188.0,75.0,2016-05-15,False
+32318,Marc Wilson,Marc,Wilson,,Defender,,Ireland,IE,1987-08-17,Northern Ireland,38,188.0,80.0,2016-08-15,False
+15149,Simon Francis,Simon,Francis,2.0,Defender,,England,GB-ENG,1985-02-16,,41,183.0,90.0,2012-01-06,False
+56917,Steve Cook,Steve,Cook,3.0,Defender,,England,GB-ENG,1991-04-19,,35,185.0,82.0,2012-01-03,False
+41320,Charlie Daniels,Charlie,Daniels,11.0,Defender,,England,GB-ENG,1986-09-07,,39,178.0,75.0,2012-01-03,False
+120447,Brad Smith,Bradley,Smith,14.0,Defender,,Australia,AU,1994-04-09,Australia,32,178.0,70.0,2016-07-27,False
+54469,Adam Smith,Adam,Smith,15.0,Defender,,England,GB-ENG,1991-04-29,,35,180.0,78.0,2014-01-28,False
+149484,Tyrone Mings,Tyrone,Mings,26.0,Defender,,England,GB-ENG,1993-03-13,,33,191.0,77.0,2015-06-26,False
+37342,Rhoys Wiggins,Rhoys,Wiggins,29.0,Defender,,Wales,GB-WLS,1987-11-04,England,38,173.0,72.0,2016-02-01,False
+227290,Corey Jordan,Corey,Jordan,37.0,Defender,,England,GB-ENG,1999-03-04,,27,185.0,80.0,2016-05-16,False
+167789,Baily Cargill,Baily,Cargill,38.0,Defender,,England,GB-ENG,1995-07-05,,30,189.0,87.0,2013-07-01,False
+231845,Ollie Harfield,Ollie,Harfield,40.0,Defender,,England,GB-ENG,1998-01-09,,28,178.0,78.0,2016-07-01,False
+222434,Jack Simpson,Jack,Simpson,42.0,Defender,,England,GB-ENG,1997-01-08,,29,178.0,83.0,2015-07-01,False
+224946,Matt Worthington,Matthew,Worthington,,Midfielder,,England,GB-ENG,1997-12-18,,28,,,2017-05-20,False
+40387,Dan Gosling,Dan,Gosling,4.0,Midfielder,,England,GB-ENG,1990-02-01,,36,183.0,79.0,2014-07-01,False
+15237,Andrew Surman,Andrew,Surman,6.0,Midfielder,,England,GB-ENG,1986-08-20,South Africa,39,178.0,73.0,2014-09-01,False
+20037,Marc Pugh,Marc,Pugh,7.0,Midfielder,,England,GB-ENG,1987-04-02,,39,180.0,72.0,2010-07-01,False
+48615,Harry Arter,Harry,Arter,8.0,Midfielder,,Ireland,IE,1989-12-28,,36,176.0,70.0,2010-07-01,False
+155408,Lewis Cook,Lewis,Cook,16.0,Midfielder,,England,GB-ENG,1997-02-03,,29,175.0,71.0,2016-07-08,False
+56872,Junior Stanislas,Junior,Stanislas,19.0,Midfielder,,England,GB-ENG,1989-11-26,,36,183.0,76.0,2014-07-01,False
+122342,Emerson Hyndman,Emerson,Hyndman,22.0,Midfielder,,United States,US,1996-04-09,,30,170.0,61.0,2016-07-01,False
+90105,Ryan Fraser,Ryan,Fraser,24.0,Midfielder,,Scotland,GB-SCT,1994-02-24,Scotland,32,163.0,70.0,2016-08-20,False
+54102,Jack Wilshere,Jack,Wilshere,32.0,Midfielder,,England,GB-ENG,1992-01-01,England,34,172.0,68.0,2016-08-31,True
+103912,Jordon Ibe,Jordon,Ibe,33.0,Midfielder,,England,GB-ENG,1995-12-08,,30,176.0,81.0,2016-07-14,False
+200370,Matt Butcher,Matt,Butcher,36.0,Midfielder,,England,GB-ENG,1997-05-14,,29,178.0,83.0,2015-07-01,False
+231847,Keelan O'Connell,Keelan,O'Connell,52.0,Midfielder,,England,GB-ENG,1999-11-30,,26,,,2016-09-19,False
+217331,Sam Surridge,Sam,Surridge,,Forward,,England,GB-ENG,1998-07-28,,27,191.0,77.0,2015-07-01,False
+88498,Benik Afobe,Benik,Afobe,9.0,Forward,,DR Congo,CD,1993-02-12,England,33,183.0,78.0,2016-01-10,False
+59741,Max Gradel,Max,Gradel,10.0,Forward,Right,Cote d’Ivoire,CI,1987-11-30,Côte d'Ivoire,38,177.0,70.0,2015-08-04,False
+75115,Callum Wilson,Callum,Wilson,13.0,Forward,,England,GB-ENG,1992-02-27,,34,180.0,66.0,2014-07-06,False
+78007,Joshua King,Joshua,King,17.0,Forward,,Norway,NO,1992-01-15,Norway,34,180.0,74.0,2015-07-01,False
+21246,Lewis Grabban,Lewis,Grabban,28.0,Forward,,England,GB-ENG,1988-01-12,,38,183.0,78.0,2016-01-11,False
+178304,Lys Mousset,Lys,Mousset,31.0,Forward,,France,FR,1996-02-08,France,30,184.0,80.0,2016-07-01,False

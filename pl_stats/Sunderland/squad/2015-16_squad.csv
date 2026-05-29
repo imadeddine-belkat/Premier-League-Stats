@@ -1,0 +1,41 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+20487,Vito Mannone,Vito,Mannone,1.0,Goalkeeper,,Italy,IT,1988-03-02,,38,188,80,2013-07-03,False
+111234,Jordan Pickford,Jordan,Pickford,13.0,Goalkeeper,,England,GB-ENG,1994-03-07,,32,185,77,2011-07-01,False
+168717,Max Stryjek,Maksymilian,Stryjek,32.0,Goalkeeper,,Poland,PL,1996-07-18,,29,188,81,2014-07-01,False
+1881,Steve Harper,Steve,Harper,33.0,Goalkeeper,,England,GB-ENG,1975-03-14,,51,185,83,2016-01-22,False
+88372,Santiago Vergini,Santiago,Vergini,,Defender,Right,Argentina,AR,1988-08-03,Argentina,37,191,83,2014-08-07,False
+11467,Billy Jones,Billy,Jones,2.0,Defender,,England,GB-ENG,1987-03-24,,39,183,77,2014-07-01,False
+74230,Patrick van Aanholt,Patrick,van Aanholt,3.0,Defender,,Netherlands,NL,1990-08-29,Netherlands,35,177,74,2014-07-25,False
+37742,Younes Kaboul,Younes,Kaboul,4.0,Defender,,France,FR,1986-01-04,,40,182,75,2015-07-16,False
+1841,Wes Brown,Wes,Brown,5.0,Defender,,England,GB-ENG,1979-10-13,,46,185,77,2011-07-07,False
+60794,Adam Matthews,Adam,Matthews,12.0,Defender,,Wales,GB-WLS,1992-01-13,Wales,34,178,71,2015-07-03,False
+19701,Emmanuel Eboué,Emmanuel,Eboue,14.0,Defender,,Cote d’Ivoire,CI,1983-06-04,,42,178,72,2016-03-09,False
+3736,John O'Shea,John,O'Shea,16.0,Defender,,Ireland,IE,1981-04-30,,45,191,75,2011-07-07,False
+45076,Lamine Koné,Lamine,Koné,23.0,Defender,,Cote d’Ivoire,CI,1989-02-01,,37,186,83,2016-01-27,False
+151119,DeAndre Yedlin,DeAndre,Yedlin,24.0,Defender,Right,United States,US,1993-07-09,USA,32,173,73,2015-09-01,True
+154560,Tom Beadling,Thomas,Beadling,31.0,Defender,,Australia,AU,1996-01-16,,30,185,80,2014-07-01,False
+154558,Thomas Robson,Thomas,Robson,34.0,Defender,,England,GB-ENG,1995-09-11,,30,178,75,2014-11-08,False
+170851,Josh Robson,Josh,Robson,45.0,Defender,,England,GB-ENG,1998-02-03,,28,180,73,2015-08-25,False
+88601,Charalampos Mavrias,Charalampos,Mavrias,,Midfielder,Right,Greece,GR,1994-02-21,Greece,32,178,78,2013-08-22,False
+50023,Jordi Gómez,Jordi,Gomez Garcia-Penche,,Midfielder,,Spain,ES,1985-05-24,,41,178,74,2014-07-01,False
+55641,Emanuele Giaccherini,Emanuele,Giaccherini,,Midfielder,Right,Italy,IT,1985-05-05,Italy,41,167,60,2013-07-16,False
+49836,Liam Bridcutt,Liam,Bridcutt,,Midfielder,,Scotland,GB-SCT,1989-05-08,England,37,175,73,2014-01-31,False
+28448,Lee Cattermole,Lee,Cattermole,6.0,Midfielder,,England,GB-ENG,1988-03-21,,38,178,76,2009-08-12,False
+19057,Sebastian Larsson,Sebastian,Larsson,7.0,Midfielder,,Sweden,SE,1985-06-06,,40,178,70,2011-07-01,False
+49384,Jack Rodwell,Jack,Rodwell,8.0,Midfielder,,England,GB-ENG,1991-03-11,,35,188,80,2014-08-05,False
+60165,Wahbi Khazri,Wahbi,Khazri,10.0,Midfielder,,Tunisia,TN,1991-02-08,France,35,182,76,2016-01-30,False
+52154,Ola Toivonen,Ola,Toivonen,20.0,Midfielder,,Sweden,SE,1986-07-03,,39,191,75,2015-08-28,True
+49396,Yann M'Vila,Yann,M'Vila,21.0,Midfielder,,France,FR,1990-06-29,France,35,182,80,2015-08-06,True
+57736,Jan Kirchhoff,Jan,Kirchhoff,27.0,Midfielder,Right,Germany,DE,1990-10-01,Germany,35,195,90,2016-01-07,False
+49853,William Buckley,William,Buckley,30.0,Midfielder,,England,GB-ENG,1989-11-21,,36,183,82,2014-08-14,False
+170852,Rees Greenwood,Rees,Greenwood,37.0,Midfielder,,England,GB-ENG,1996-12-10,,29,173,68,2016-05-13,False
+114000,George Honeyman,George,Honeyman,39.0,Midfielder,,England,GB-ENG,1994-09-08,,31,173,72,2014-07-01,False
+149016,Lynden Gooch,Lynden,Gooch,46.0,Midfielder,,United States,US,1995-12-24,,30,173,69,2015-08-25,False
+114312,Mikael Mandron,Mikael,Mandron,,Forward,,France,FR,1994-10-11,,31,191,82,2016-03-04,False
+77454,Fabio Borini,Fabio,Borini,9.0,Forward,Right,Italy,IT,1991-03-29,Italy,35,178,73,2015-08-31,False
+48337,Dame N'Doye,Dame,N'Doye,10.0,Forward,Right,Senegal,SN,1985-02-21,Senegal,41,186,81,2016-01-14,True
+115854,Duncan Watmore,Duncan,Watmore,14.0,Forward,,England,GB-ENG,1994-03-08,,32,175,72,2013-07-01,False
+39187,Jeremain Lens,Jeremain,Lens,17.0,Forward,,Netherlands,NL,1987-11-24,Netherlands,38,178,80,2015-07-15,False
+7958,Jermain Defoe,Jermain,Defoe,18.0,Forward,,England,GB-ENG,1982-10-07,England,43,171,65,2015-01-16,False
+15398,Danny Graham,Daniel,Graham,19.0,Forward,,England,GB-ENG,1985-08-12,,40,183,87,2013-01-31,False
+18953,Steven Fletcher,Steven,Fletcher,26.0,Forward,,Scotland,GB-SCT,1987-03-26,,39,186,76,2012-08-24,False

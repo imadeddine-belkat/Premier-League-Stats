@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+39215,Michel Vorm,Michel,Vorm,1.0,Goalkeeper,,Netherlands,NL,1983-10-20,Netherlands,42,183,84,2011-08-10,False
+60084,David Cornell,David,Cornell,13.0,Goalkeeper,Right,Wales,GB-WLS,1991-03-28,,35,180,73,2008-07-01,False
+18042,José Moreira,José Filipe,da Silva Moreira,21.0,Goalkeeper,,Portugal,PT,1982-03-20,Portugal,44,185,83,2011-07-01,False
+5288,Gerhard Tremmel,Gerhard,Tremmel,25.0,Goalkeeper,Right,Germany,DE,1978-11-16,Germany,47,190,89,2011-08-31,False
+84933,Daniel Alfei,Daniel,Alfei,,Defender,,Wales,GB-WLS,1992-02-23,,34,180,77,2010-07-01,False
+47390,Neil Taylor,Neil,Taylor,3.0,Defender,Left,Wales,GB-WLS,1989-02-07,Wales,37,176,64,2010-06-30,False
+68815,Steven Caulker,Steven,Caulker,4.0,Defender,Right,Sierra Leone,SL,1991-12-29,England,34,191,76,2011-07-01,True
+11883,Alan Tate,Alan,Tate,5.0,Defender,,England,GB-ENG,1982-09-02,,43,185,85,2004-02-06,False
+19159,Ashley Williams,Ashley,Williams,6.0,Defender,,Wales,GB-WLS,1984-08-23,,41,183,77,2008-03-27,False
+1950,Garry Monk,Garry,Monk,16.0,Defender,,England,GB-ENG,1979-03-06,,47,183,81,2004-07-01,False
+51511,Federico Bessone,Federico,Bessone,21.0,Defender,,Argentina,AR,1984-01-23,,42,179,72,2011-08-31,False
+42996,Angel Rangel,Angel,Rangel,22.0,Defender,,Spain,ES,1982-11-28,,43,188,84,2007-06-29,False
+80598,Darnel Situ,Darnel,Situ-Buyente,23.0,Defender,,France,FR,1992-03-18,,34,187,77,2011-08-31,False
+73983,Curtis Obeng,Curtis,Obeng,28.0,Defender,,England,GB-ENG,1989-02-14,,37,173,67,2012-01-31,False
+73459,Jazz Richards,Jazz,Richards,29.0,Defender,,Wales,GB-WLS,1991-04-12,,35,185,78,2009-07-01,False
+115556,Ben Davies,Ben,Davies,33.0,Defender,Left,Wales,GB-WLS,1993-04-24,Wales,33,181,77,2012-04-24,False
+84930,Joe Walsh,Joe,Walsh,34.0,Defender,,Wales,GB-WLS,1992-05-13,,34,180,81,2010-07-01,False
+39016,Ferrie Bodde,Ferrie,Bodde,6.0,Midfielder,,Netherlands,NL,1982-05-05,,44,178,73,2007-07-22,False
+15114,Leon Britton,Leon,Britton,7.0,Midfielder,,England,GB-ENG,1982-09-16,,43,168,64,2011-01-20,False
+20589,Andrea Orlandi,Andrea,Orlandi,8.0,Midfielder,Left,Spain,ES,1984-08-03,Spain,41,180,78,2007-09-21,False
+19688,Scott Sinclair,Scott,Sinclair,11.0,Midfielder,,England,GB-ENG,1989-03-25,,37,175,64,2010-08-09,False
+21083,Nathan Dyer,Nathan,Dyer,12.0,Midfielder,,England,GB-ENG,1987-11-29,,38,165,60,2009-07-01,False
+11829,Wayne Routledge,Wayne,Routledge,15.0,Midfielder,,England,GB-ENG,1985-01-07,,41,170,64,2011-08-04,False
+88821,Josh McEachran,Josh,McEachran,17.0,Midfielder,,England,GB-ENG,1993-03-01,England,33,178,66,2012-01-18,True
+40555,Joe Allen,Joe,Allen,24.0,Midfielder,Right,Wales,GB-WLS,1990-03-14,Wales,36,170,62,2007-01-06,False
+39217,Kemy Agustien,Germaine Hesus,Agustien,26.0,Midfielder,,Curacao,CW,1986-08-20,Netherlands Antilles,39,175,75,2010-10-07,False
+1936,Mark Gower,Mark,Gower,27.0,Midfielder,,England,GB-ENG,1978-10-05,,47,180,75,2008-07-01,False
+18854,Scott Donnelly,Scott,Donnelly,30.0,Midfielder,,England,GB-ENG,1987-12-25,,38,173,74,2010-07-01,False
+82055,Lee Lucas,Lee,Lucas,31.0,Midfielder,,Wales,GB-WLS,1992-06-10,Wales,33,180,74,2009-06-01,False
+115557,Gwion Edwards,Gwion,Edwards,38.0,Midfielder,,Wales,GB-WLS,1993-03-01,,33,175,76,2011-07-01,False
+113693,Kurtis March,Kurtis,March,39.0,Midfielder,,Wales,GB-WLS,1993-04-30,,33,175,71,2011-07-01,False
+55422,Gylfi Sigurdsson,Gylfi,Sigurdsson,42.0,Midfielder,Right,Iceland,IS,1989-09-08,Iceland,36,186,79,2012-01-02,True
+15398,Danny Graham,Daniel,Graham,10.0,Forward,,England,GB-ENG,1985-08-12,,40,183,87,2011-06-07,False
+17955,Stephen Dobbie,Stephen,Dobbie,14.0,Forward,,Scotland,GB-SCT,1982-12-05,Scotland,43,178,65,2009-05-25,False
+14166,Leroy Lita,Leroy,Lita,18.0,Forward,,England,GB-ENG,1984-12-28,,41,170,75,2011-07-29,False
+15428,Luke Moore,Luke,Moore,19.0,Forward,,England,GB-ENG,1986-02-13,England,40,176,76,2011-01-07,False
+73463,Casey Thomas,Casey,Thomas,36.0,Forward,,Wales,GB-WLS,1990-11-14,,35,179,76,2009-07-01,False
+89505,Rory Donnelly,Rory,Donnelly,41.0,Forward,,Northern Ireland,GB-NIR,1992-02-18,,34,188,81,2012-01-10,False

@@ -1,0 +1,36 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+432927,Daniel Langley,Daniel,Langley,,Goalkeeper,,England,GB-ENG,2000-12-28,,25,,,2020-09-10,False
+67089,Martin Dúbravka,Martin,Dúbravka,1.0,Goalkeeper,Right,Slovakia,SK,1989-01-15,Slovakia,37,190.0,83.0,2018-07-01,False
+59735,Karl Darlow,Karl,Darlow,26.0,Goalkeeper,Right,England,GB-ENG,1990-10-08,,35,190.0,88.0,2014-08-04,False
+155503,Freddie Woodman,Freddie,Woodman,27.0,Goalkeeper,Right,England,GB-ENG,1997-03-04,England,29,188.0,83.0,2013-08-01,False
+81441,Mark Gillespie,Mark,Gillespie,29.0,Goalkeeper,,England,GB-ENG,1992-03-27,England,34,192.0,83.0,2020-07-27,False
+77794,Kieran Trippier,Kieran,Trippier,2.0,Defender,Right,England,GB-ENG,1990-09-19,England,35,178.0,71.0,2022-01-07,False
+58845,Ciaran Clark,Ciaran,Clark,2.0,Defender,Left,Ireland,IE,1989-09-26,,36,185.0,88.0,2016-08-03,False
+106618,Paul Dummett,Paul,Dummett,3.0,Defender,Left,Wales,GB-WLS,1991-09-26,,34,183.0,82.0,2011-07-01,False
+119471,Fabian Schär,Fabian,Schär,5.0,Defender,Right,Switzerland,CH,1991-12-20,Switzerland,34,186.0,84.0,2018-07-26,False
+101148,Jamaal Lascelles,Jamaal,Lascelles,6.0,Defender,Right,England,GB-ENG,1993-11-11,,32,188.0,89.0,2014-08-04,False
+194799,Jamal Lewis,Jamal,Lewis,12.0,Defender,Left,Northern Ireland,GB-NIR,1998-01-25,England,28,178.0,70.0,2020-09-09,False
+169359,Matt Targett,Matt,Targett,13.0,Defender,Left,England,GB-ENG,1995-09-18,,30,183.0,70.0,2022-01-31,True
+111773,Emil Krafth,Emil,Krafth,17.0,Defender,Right,Sweden,SE,1994-08-02,Sweden,31,184.0,83.0,2019-08-08,False
+57145,Federico Fernández,Federico,Fernández,18.0,Defender,Right,Argentina,AR,1989-02-21,Argentina,37,190.0,83.0,2018-08-09,False
+109528,Javier Manquillo,Javier,Manquillo,19.0,Defender,Right,Spain,ES,1994-05-05,Spain,32,178.0,76.0,2017-07-21,False
+78916,Dan Burn,Dan,Burn,33.0,Defender,Left,England,GB-ENG,1992-05-09,England,34,198.0,87.0,2022-01-31,False
+232977,Kelland Watts,Kelland,Watts,35.0,Defender,Left,England,GB-ENG,1999-11-03,England,26,192.0,,2019-05-11,False
+90105,Ryan Fraser,Ryan,Fraser,,Midfielder,Right,Scotland,GB-SCT,1994-02-24,Scotland,32,163.0,70.0,2020-09-07,False
+83314,Jeff Hendrick,Jeff,Hendrick,,Midfielder,Right,Ireland,IE,1992-01-31,Republic of Ireland,34,185.0,79.0,2020-08-24,False
+153127,Isaac Hayden,Isaac,Hayden,,Midfielder,Right,England,GB-ENG,1995-03-22,,31,185.0,79.0,2016-07-11,False
+50232,Jonjo Shelvey,Jonjo,Shelvey,8.0,Midfielder,Right,England,GB-ENG,1992-02-27,,34,184.0,80.0,2016-01-12,False
+56983,Matt Ritchie,Matt,Ritchie,11.0,Midfielder,Left,Scotland,GB-SCT,1989-09-10,England,36,172.0,76.0,2016-07-01,False
+114243,Jacob Murphy,Jacob,Murphy,23.0,Midfielder,Right,England,GB-ENG,1995-02-24,,31,179.0,74.0,2017-07-19,False
+179018,Miguel Almirón,Miguel,Almirón,24.0,Midfielder,Left,Paraguay,PY,1994-02-10,Paraguay,32,174.0,70.0,2019-01-31,False
+223175,Matty Longstaff,Matthew,Longstaff,27.0,Midfielder,Right,England,GB-ENG,2000-03-21,England,26,,,2019-07-17,False
+200089,Joe Willock,Joe,Willock,28.0,Midfielder,Right,England,GB-ENG,1999-08-20,,26,179.0,71.0,2021-08-13,False
+215379,Elliot Anderson,Elliot,Anderson,32.0,Midfielder,Right,Scotland,GB-SCT,2002-11-06,England,23,179.0,,2020-09-29,False
+180135,Sean Longstaff,Sean,Longstaff,36.0,Midfielder,Right,England,GB-ENG,1997-10-30,England,28,180.0,65.0,2018-08-09,False
+208706,Bruno Guimarães,Bruno,Guimarães Rodriguez Moura,39.0,Midfielder,Right,Brazil,BR,1997-11-16,Brazil,28,182.0,74.0,2022-01-30,False
+461508,Lucas De Bolle,Lucas,De Bolle,50.0,Midfielder,,Scotland,GB-SCT,2002-10-22,England,23,,,2022-02-12,False
+180974,Joelinton,Joelinton Cássio,Apolinário de Lira,7.0,Forward,Right,Brazil,BR,1996-08-14,Brazil,29,186.0,81.0,2019-07-24,False
+75115,Callum Wilson,Callum,Wilson,9.0,Forward,Both,England,GB-ENG,1992-02-27,England,34,180.0,66.0,2020-09-07,False
+170137,Allan Saint-Maximin,Allan,Saint-Maximin,10.0,Forward,Right,France,FR,1997-03-12,France,29,173.0,67.0,2019-08-02,False
+60689,Chris Wood,Chris,Wood,20.0,Forward,Right,New Zealand,NZ,1991-12-07,New Zealand,34,191.0,81.0,2022-01-13,False
+104547,Dwight Gayle,Dwight,Gayle,34.0,Forward,Right,England,GB-ENG,1989-10-17,England,36,174.0,78.0,2016-07-01,False

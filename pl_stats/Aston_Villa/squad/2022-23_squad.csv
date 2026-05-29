@@ -1,0 +1,41 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+98980,Emiliano Martínez,Emiliano,Martínez,1.0,Goalkeeper,Right,Argentina,AR,1992-09-02,Argentina,33,195.0,88.0,2020-09-16,False
+79852,Jed Steer,Jed,Steer,12.0,Goalkeeper,Left,England,GB-ENG,1992-09-23,,33,183.0,80.0,2013-07-01,False
+111782,Robin Olsen,Robin,Olsen,25.0,Goalkeeper,Right,Sweden,SE,1990-01-08,Sweden,36,198.0,89.0,2022-06-10,False
+248164,Viljami Sinisalo,Viljami,Sinisalo,38.0,Goalkeeper,,Finland,FI,2001-10-11,Finland,24,196.0,76.0,2021-08-23,False
+462381,Filip Marschall,Filip,Marschall,42.0,Goalkeeper,Right,England,GB-ENG,2003-04-24,,23,195.0,87.0,2021-12-13,False
+516159,Oliwier Zych,Oliwier,Zych,48.0,Goalkeeper,,Poland,PL,2004-06-28,,21,193.0,,2021-01-07,False
+481283,James Wright,James,Wright,64.0,Goalkeeper,,England,GB-ENG,2004-12-02,,21,,,2023-03-31,False
+199796,Matty Cash,Matty,Cash,2.0,Defender,Right,Poland,PL,1997-08-07,England,28,185.0,79.0,2020-09-03,False
+165659,Diego Carlos,Diego Carlos,Santos Silva,3.0,Defender,Right,Brazil,BR,1993-03-15,Brazil,33,186.0,79.0,2022-06-10,False
+199798,Ezri Konsa,Ezri,Konsa,4.0,Defender,Right,England,GB-ENG,1997-10-23,England,28,183.0,77.0,2019-07-11,False
+149484,Tyrone Mings,Tyrone,Mings,5.0,Defender,Left,England,GB-ENG,1993-03-13,,33,196.0,77.0,2019-07-08,False
+106468,Álex Moreno,Álex,Moreno,15.0,Defender,Left,Spain,ES,1993-06-08,Spain,32,179.0,68.0,2023-01-11,False
+101184,Calum Chambers,Calum,Chambers,16.0,Defender,Right,England,GB-ENG,1995-01-20,,31,182.0,66.0,2022-01-27,False
+18892,Ashley Young,Ashley,Young,18.0,Defender,Both,England,GB-ENG,1985-07-09,England,40,175.0,65.0,2021-07-01,False
+101188,Lucas Digne,Lucas,Digne,27.0,Defender,Left,France,FR,1993-07-20,France,32,178.0,74.0,2022-01-13,False
+123354,Kortney Hause,Kortney,Hause,30.0,Defender,Left,England,GB-ENG,1995-07-16,,30,191.0,77.0,2019-07-01,False
+514287,Sil Swinkels,Sil,Swinkels,50.0,Defender,,Netherlands,NL,2004-01-06,,22,190.0,,2021-01-07,False
+479641,Sebastian Revan,Sebastian,Revan,56.0,Defender,,England,GB-ENG,2003-07-14,,22,181.0,,2023-01-20,False
+122775,Morgan Sanson,Morgan,Sanson,,Midfielder,Right,France,FR,1994-08-18,France,31,180.0,73.0,2021-01-26,False
+230046,Douglas Luiz,Douglas Luiz,Soares de Paulo,6.0,Midfielder,Right,Brazil,BR,1998-05-09,Brazil,28,175.0,66.0,2019-07-25,False
+122806,John McGinn,John,McGinn,7.0,Midfielder,Left,Scotland,GB-SCT,1994-10-18,,31,178.0,68.0,2018-08-08,False
+195546,Emiliano Buendía,Emiliano,Buendía,10.0,Midfielder,Right,Argentina,AR,1996-12-25,Argentina,29,172.0,72.0,2021-06-10,False
+184704,Marvelous Nakamba,Marvelous,Nakamba,19.0,Midfielder,Left,Zimbabwe,ZW,1994-01-19,Zimbabwe,32,178.0,71.0,2019-08-01,False
+84583,Philippe Coutinho,Philippe,Coutinho Correia,23.0,Midfielder,Right,Brazil,BR,1992-06-12,Brazil,33,172.0,68.0,2022-06-10,False
+481624,Jaden Philogene,Jaden,Philogene,32.0,Midfielder,Right,England,GB-ENG,2002-02-08,,24,181.0,,2021-03-05,False
+151589,Leander Dendoncker,Leander,Dendoncker,32.0,Midfielder,Right,Belgium,BE,1995-04-15,Belgium,31,188.0,83.0,2022-09-01,False
+447715,Aaron Ramsey,Aaron,Ramsey,40.0,Midfielder,,England,GB-ENG,2003-01-21,England,23,,,2021-08-23,False
+232653,Jacob Ramsey,Jacob,Ramsey,41.0,Midfielder,Right,England,GB-ENG,2001-05-28,England,25,180.0,,2019-02-12,False
+226944,Boubacar Kamara,Boubacar,Kamara,44.0,Midfielder,Right,France,FR,1999-11-23,France,26,184.0,68.0,2022-06-11,False
+490094,Tim Iroegbunam,Tim,Iroegbunam,47.0,Midfielder,,England,GB-ENG,2003-06-30,,22,,,2021-12-04,False
+515599,Tommi O'Reilly,Tommi,O'Reilly,58.0,Midfielder,,England,GB-ENG,2003-12-15,,22,,,2022-02-25,False
+534836,Travis Patterson,Travis,Patterson,66.0,Midfielder,,England,GB-ENG,2005-10-06,England,20,,,2023-04-14,False
+537403,Kadan Young,Kadan,Young,72.0,Midfielder,,England,GB-ENG,2006-01-19,,20,176.0,,2022-12-10,False
+213345,Wesley,Wesley,Moraes Ferreira da Silva,9.0,Forward,Right,Brazil,BR,1996-11-24,Brazil,29,191.0,93.0,2019-06-13,False
+110504,Bertrand Traoré,Bertrand,Traoré,9.0,Forward,Left,Burkina Faso,BF,1995-09-06,Burkina Faso,30,181.0,73.0,2020-09-19,False
+178301,Ollie Watkins,Ollie,Watkins,11.0,Forward,Right,England,GB-ENG,1995-12-30,England,30,180.0,70.0,2020-09-09,False
+476344,Jhon Durán,Jhon,Durán,22.0,Forward,Left,Colombia,CO,2003-12-13,Colombia,22,185.0,73.0,2023-01-23,False
+215711,Leon Bailey,Leon,Bailey,31.0,Forward,Left,Jamaica,JM,1997-08-09,Jamaica,28,178.0,77.0,2021-08-04,False
+433979,Cameron Archer,Cameron,Archer,35.0,Forward,Right,England,GB-ENG,2001-12-09,England,24,181.0,72.0,2019-08-26,False
+221239,Keinan Davis,Keinan,Davis,39.0,Forward,Right,England,GB-ENG,1998-02-13,England,28,191.0,68.0,2016-02-06,False

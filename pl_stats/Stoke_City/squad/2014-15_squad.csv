@@ -1,0 +1,30 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+105666,Jack Butland,Jack,Butland,1,Goalkeeper,,England,GB-ENG,1993-03-10,,33,192,95,2013-01-31,False
+40349,Asmir Begovic,Asmir,Begovic,1,Goalkeeper,,Bosnia & Herzegovina,BA,1987-06-20,Bosnia and Herzegovina,38,198,83,2010-02-01,False
+1945,Thomas Sørensen,Thomas,Sørensen,29,Goalkeeper,,Denmark,DK,1976-06-12,,49,195,82,2008-07-30,False
+154506,Daniel Bachmann,Daniel,Bachmann,35,Goalkeeper,,Austria,AT,1994-07-09,,31,191,81,2013-07-01,False
+17997,Phil Bardsley,Phil,Bardsley,2,Defender,,Scotland,GB-SCT,1985-06-28,,40,180,74,2014-07-01,False
+39487,Erik Pieters,Erik,Pieters,3,Defender,,Netherlands,NL,1988-08-07,,37,184,84,2013-07-01,False
+12413,Robert Huth,Robert,Huth,4,Defender,,Germany,DE,1984-08-18,,41,191,80,2009-08-27,False
+61595,Marc Muniesa,Marc,Muniesa,5,Defender,Left,Spain,ES,1992-03-27,Spain,34,179,72,2013-07-02,False
+32318,Marc Wilson,Marc,Wilson,12,Defender,,Ireland,IE,1987-08-17,Northern Ireland,38,188,80,2010-08-31,False
+37869,Ryan Shawcross,Ryan,Shawcross,17,Defender,,England,GB-ENG,1987-10-04,,38,191,76,2008-01-01,False
+50089,Geoff Cameron,Geoff,Cameron,20,Defender,Right,United States,US,1985-07-11,USA,40,191,84,2012-08-08,False
+155706,Dionatan Teixeira,Dionatan do Nascimento,Teixeira,23,Defender,,Slovakia,SK,1992-07-24,Brazil,33,193,78,2014-07-01,False
+69960,Philipp Wollscheid,Philipp,Wollscheid,26,Defender,Right,Germany,DE,1989-03-06,Germany,37,194,88,2015-01-07,False
+19714,Andy Wilkinson,Andy,Wilkinson,28,Defender,,England,GB-ENG,1984-08-06,,41,180,69,2001-08-01,False
+12150,Glenn Whelan,Glenn,Whelan,6,Midfielder,,Ireland,IE,1984-01-13,Republic of Ireland,42,180,79,2008-01-31,False
+20481,Stephen Ireland,Stephen,Ireland,7,Midfielder,,Ireland,IE,1986-08-22,,39,176,68,2014-01-14,False
+34296,Wilson Palacios,Wilson,Palacios,8,Midfielder,,Honduras,HN,1984-07-29,Honduras,41,178,71,2011-08-31,False
+49013,Victor Moses,Victor,Moses,13,Midfielder,Both,Nigeria,NG,1990-12-12,Nigeria,35,177,75,2014-08-16,True
+59305,Jamie Ness,Jamie,Ness,14,Midfielder,,Scotland,GB-SCT,1991-03-02,,35,177,70,2012-07-11,False
+49323,Steven N'Zonzi,Steven,N'Zonzi,15,Midfielder,,France,FR,1988-12-15,France,37,190,75,2012-08-31,False
+20208,Charlie Adam,Charlie,Adam,16,Midfielder,,Scotland,GB-SCT,1985-12-10,,40,185,83,2012-08-31,False
+11735,Steve Sidwell,Steve,Sidwell,21,Midfielder,,England,GB-ENG,1982-12-14,,43,178,70,2014-07-01,False
+160901,Oliver Shenton,Oliver,Shenton,34,Midfielder,,England,GB-ENG,1997-11-06,,28,186,77,2014-07-01,False
+26900,Peter Odemwingie,Peter,Odemwingie,9,Forward,,Nigeria,NG,1981-07-15,Uzbekistan,44,182,75,2014-01-28,False
+41464,Marko Arnautovic,Marko,Arnautovic,10,Forward,Right,Austria,AT,1989-04-19,Austria,37,192,83,2013-09-02,False
+61858,Mame Biram Diouf,Mame Biram,Diouf,18,Forward,Right,Senegal,SN,1987-12-16,Senegal,38,185,79,2014-07-01,False
+12813,Jonathan Walters,Jonathan,Walters,19,Forward,,Ireland,IE,1983-09-20,,42,183,79,2010-08-18,False
+3773,Peter Crouch,Peter,Crouch,25,Forward,,England,GB-ENG,1981-01-30,,45,201,75,2011-08-31,False
+40276,Bojan,Bojan,Krkic,27,Forward,Right,Spain,ES,1990-08-28,Spain,35,170,65,2014-07-22,False

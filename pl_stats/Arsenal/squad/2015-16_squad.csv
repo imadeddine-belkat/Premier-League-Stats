@@ -1,0 +1,41 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+59936,Wojciech Szczesny,Wojciech,Szczesny,1,Goalkeeper,,Poland,PL,1990-04-18,Poland,36,196,84.0,2008-07-01,False
+48844,David Ospina,David,Ospina,13,Goalkeeper,Right,Colombia,CO,1988-08-31,Colombia,37,183,80.0,2014-07-28,False
+98980,Emiliano Martinez,Damian Emiliano,Martinez,26,Goalkeeper,,Argentina,AR,1992-09-02,,33,183,89.0,2011-07-01,False
+11334,Petr Cech,Petr,Cech,33,Goalkeeper,,Czech Republic,CZ,1982-05-20,,44,196,90.0,2015-07-02,False
+113534,Matt Macey,Matt,Macey,54,Goalkeeper,,England,GB-ENG,1994-09-09,,31,198,81.0,2014-07-01,False
+27334,Mathieu Debuchy,Mathieu,Debuchy,2,Defender,,France,FR,1985-07-28,France,40,177,76.0,2014-07-17,False
+42427,Kieran Gibbs,Kieran,Gibbs,3,Defender,,England,GB-ENG,1989-09-26,,36,178,70.0,2006-07-01,False
+17127,Per Mertesacker,Per,Mertesacker,4,Defender,Right,Germany,DE,1984-09-29,Germany,41,198,90.0,2011-08-31,False
+158074,Gabriel,Gabriel Armando,de Abreu,5,Defender,Right,Brazil,BR,1990-11-26,,35,185,72.0,2015-01-28,False
+51507,Laurent Koscielny,Laurent,Koscielny,6,Defender,,France,FR,1985-09-10,France,40,186,75.0,2010-07-07,False
+38411,Nacho Monreal,Nacho,Monreal,18,Defender,Left,Spain,ES,1986-02-26,Spain,40,178,72.0,2013-01-31,False
+101184,Calum Chambers,Calum,Chambers,21,Defender,,England,GB-ENG,1995-01-20,,31,183,66.0,2014-07-28,False
+98745,Héctor Bellerín,Héctor,Bellerín,24,Defender,,Spain,ES,1995-03-19,,31,177,74.0,2012-07-01,False
+80254,Carl Jenkinson,Carl,Jenkinson,25,Defender,,England,GB-ENG,1992-02-08,England,34,185,77.0,2011-06-09,False
+8597,Tomas Rosicky,Tomas,Rosicky,7,Midfielder,,Czech Republic,CZ,1980-10-04,,45,178,65.0,2006-07-01,False
+8758,Mikel Arteta,Mikel,Arteta,8,Midfielder,,Spain,ES,1982-03-26,,44,183,64.0,2011-08-31,False
+41792,Aaron Ramsey,Aaron,Ramsey,8,Midfielder,,Wales,GB-WLS,1990-12-26,,35,178,76.0,2008-07-01,False
+54102,Jack Wilshere,Jack,Wilshere,10,Midfielder,,England,GB-ENG,1992-01-01,England,34,172,68.0,2008-07-01,False
+37605,Mesut Özil,Mesut,Özil,11,Midfielder,Left,Germany,DE,1988-10-15,Germany,37,183,76.0,2013-09-02,False
+81880,Alex Oxlade-Chamberlain,Alex,Oxlade-Chamberlain,15,Midfielder,,England,GB-ENG,1993-08-15,England,32,180,70.0,2011-08-08,False
+153133,Alex Iwobi,Alex,Iwobi,17,Midfielder,,Nigeria,NG,1996-05-03,Nigeria,30,180,75.0,2013-07-01,False
+19524,Santiago Cazorla,Santiago,Cazorla,19,Midfielder,Both,Spain,ES,1984-12-13,Spain,41,168,66.0,2012-08-07,False
+18155,Mathieu Flamini,Mathieu,Flamini,20,Midfielder,Right,France,FR,1984-03-07,France,42,178,67.0,2013-08-29,False
+133798,Serge Gnabry,Serge,Gnabry,27,Midfielder,Right,Germany,DE,1995-07-14,Germany,30,173,73.0,2012-07-01,False
+208987,Jeff Reine-Adelaide,Jeff,Reine-Adelaide,31,Midfielder,,France,FR,1998-01-17,France,28,184,75.0,2015-07-01,False
+56864,Francis Coquelin,Francis,Coquelin,34,Midfielder,Right,France,FR,1991-05-13,France,35,178,74.0,2008-09-01,False
+153256,Mohamed Elneny,Mohamed,Elneny,35,Midfielder,,Egypt,EG,1992-07-11,,33,180,70.0,2016-01-14,False
+202041,Ismael Bennacer,Ismael,Bennacer,36,Midfielder,,Algeria,DZ,1997-12-01,France,28,175,70.0,2015-10-26,False
+195482,Krystian Bielik,Krystian,Bielik,37,Midfielder,,Poland,PL,1998-01-04,Poland,28,188,78.0,2015-07-06,False
+158870,Gedion Zelalem,Gedion,Zelalem,40,Midfielder,,United States,US,1997-01-26,Ethiopia,29,180,70.0,2013-07-20,False
+173803,Ben Sheaf,Ben,Sheaf,65,Midfielder,,England,GB-ENG,1998-02-05,,28,185,64.0,2015-07-01,False
+154047,Chris Willock,Chris,Willock,68,Midfielder,,England,GB-ENG,1998-01-31,,28,180,75.0,2015-07-01,False
+154043,Ainsley Maitland-Niles,Ainsley,Maitland-Niles,70,Midfielder,,England,GB-ENG,1997-08-29,,28,177,,2014-12-05,False
+37265,Alexis Sánchez,Alexis,Sánchez,7,Forward,Both,Chile,CL,1988-12-19,Chile,37,168,62.0,2014-07-10,False
+44346,Olivier Giroud,Olivier,Giroud,12,Forward,Left,France,FR,1986-09-30,France,39,192,88.0,2012-07-01,False
+20467,Theo Walcott,Theo,Walcott,14,Forward,,England,GB-ENG,1989-03-16,,37,176,68.0,2006-01-20,False
+80711,Yaya Sanogo,Yaya,Sanogo,22,Forward,,France,FR,1993-01-27,France,33,191,74.0,2013-07-01,False
+50175,Danny Welbeck,Danny,Welbeck,23,Forward,,England,GB-ENG,1990-11-26,England,35,185,73.0,2014-09-01,False
+99127,Joel Campbell,Joel,Campbell,28,Forward,Left,Costa Rica,CR,1992-06-26,Costa Rica,33,178,71.0,2011-08-19,False
+147675,Chuba Akpom,Chuba,Akpom,32,Forward,,England,GB-ENG,1995-10-09,,30,183,70.0,2012-07-01,False

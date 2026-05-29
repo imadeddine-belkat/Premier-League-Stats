@@ -1,0 +1,38 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+154561,David Raya,David,Raya,22.0,Goalkeeper,Right,Spain,ES,1995-09-15,Spain,30,183.0,80.0,2024-07-04,False
+69752,Neto,Norberto,Murara Neto,32.0,Goalkeeper,Right,Brazil,BR,1989-07-19,Brazil,36,190.0,84.0,2024-08-30,True
+551221,Tommy Setford,Tommy,Setford,36.0,Goalkeeper,Right,England,GB-ENG,2006-03-13,Netherlands,20,185.0,76.0,2024-07-24,False
+553747,Alexei Rojas,Alexei,Rojas,62.0,Goalkeeper,Right,Colombia,CO,2005-09-28,England,20,186.0,77.0,2024-07-24,False
+616059,Jack Porter,Jack,Porter,92.0,Goalkeeper,Right,England,GB-ENG,2008-07-15,England,17,187.0,75.0,2024-09-18,False
+437626,Nuno Tavares,Nuno Albertino,Varela Tavares,,Defender,Left,Portugal,PT,2000-01-26,Portugal,26,183.0,75.0,2021-07-10,False
+462424,William Saliba,William,Saliba,2.0,Defender,Right,France,FR,2001-03-24,France,25,192.0,92.0,2019-07-25,False
+192895,Kieran Tierney,Kieran,Tierney,3.0,Defender,Left,Scotland,GB-SCT,1997-06-05,Scotland,28,178.0,70.0,2019-08-08,False
+198869,Ben White,Ben,White,4.0,Defender,Right,England,GB-ENG,1997-10-08,England,28,186.0,76.0,2021-07-30,False
+226597,Gabriel Magalhães,Gabriel,dos Santos Magalhães,6.0,Defender,Left,Brazil,BR,1997-12-19,Brazil,28,190.0,78.0,2020-09-01,False
+445122,Jurriën Timber,Jurriën,Timber,12.0,Defender,Right,Netherlands,NL,2001-06-17,Netherlands,24,179.0,79.0,2023-07-14,False
+440854,Jakub Kiwior,Jakub,Kiwior,15.0,Defender,Left,Poland,PL,2000-02-15,Poland,26,189.0,75.0,2023-01-23,False
+206325,Oleksandr Zinchenko,Oleksandr,Zinchenko,17.0,Defender,Left,Ukraine,UA,1996-12-15,Ukraine,29,175.0,64.0,2022-07-22,False
+223723,Takehiro Tomiyasu,Takehiro,Tomiyasu,18.0,Defender,Both,Japan,JP,1998-11-05,Japan,27,187.0,84.0,2021-08-31,False
+466075,Riccardo Calafiori,Riccardo,Calafiori,33.0,Defender,Left,Italy,IT,2002-05-19,Italy,24,188.0,86.0,2024-07-29,False
+499167,Josh Nichols,Josh,Nichols,51.0,Defender,Right,England,GB-ENG,2006-07-26,England,19,165.0,56.0,2024-07-24,False
+554192,Michal Rosiak,Michal,Rosiak,63.0,Defender,Right,Poland,PL,2005-10-12,Poland,20,180.0,,2024-07-24,False
+563324,Brayden Clarke,Brayden,Clarke,74.0,Defender,,Wales,GB-WLS,2007-07-03,England,18,,,2025-05-02,False
+167199,Thomas Partey,Thomas,Partey,5.0,Midfielder,Right,Ghana,GH,1993-06-13,Ghana,32,185.0,77.0,2020-10-05,False
+184029,Martin Ødegaard,Martin,Ødegaard,8.0,Midfielder,Left,Norway,NO,1998-12-17,Norway,27,178.0,68.0,2021-08-20,False
+85955,Jorginho,Jorge Luiz,Frello Filho,20.0,Midfielder,Right,Italy,IT,1991-12-20,Brazil,34,180.0,65.0,2023-01-31,False
+195384,Mikel Merino,Mikel,Merino,23.0,Midfielder,Left,Spain,ES,1996-06-22,Spain,29,189.0,83.0,2024-08-27,False
+204480,Declan Rice,Declan,Rice,41.0,Midfielder,Right,England,GB-ENG,1999-01-14,England,27,188.0,84.0,2023-07-15,False
+538182,Jimi Gower,Jimi,Gower,44.0,Midfielder,Right,England,GB-ENG,2004-10-01,England,21,,,2024-07-24,False
+514307,Jack Henry-Francis,Jack,Henry-Francis,45.0,Midfielder,,Ireland,IE,2003-09-23,England,22,181.0,,2021-07-12,False
+499169,Myles Lewis-Skelly,Myles,Lewis-Skelly,49.0,Midfielder,Left,England,GB-ENG,2006-09-26,England,19,178.0,72.0,2022-12-04,False
+499175,Ethan Nwaneri,Ethan,Nwaneri,53.0,Midfielder,Left,England,GB-ENG,2007-03-21,England,19,176.0,70.0,2022-09-17,False
+498046,Salah-Eddine Oulad M'hand,Salah-Eddine,Oulad M'hand,56.0,Midfielder,Right,Netherlands,NL,2003-08-20,Netherlands,22,177.0,70.0,2021-10-25,False
+223340,Bukayo Saka,Bukayo,Saka,7.0,Forward,Left,England,GB-ENG,2001-09-05,England,24,178.0,72.0,2018-11-28,False
+205651,Gabriel Jesus,Gabriel Fernando,de Jesus,9.0,Forward,Right,Brazil,BR,1997-04-03,Brazil,29,175.0,73.0,2022-07-04,False
+444145,Gabriel Martinelli,Gabriel Teodoro,Martinelli Silva,11.0,Forward,Right,Brazil,BR,2001-06-18,Brazil,24,178.0,75.0,2019-07-15,False
+116216,Leandro Trossard,Leandro,Trossard,19.0,Forward,Right,Belgium,BE,1994-12-04,Belgium,31,172.0,61.0,2023-01-20,False
+479683,Marquinhos,Marcus Vinicius,Oliveira Alencar,27.0,Forward,Left,Brazil,BR,2003-04-07,Brazil,23,175.0,85.0,2022-06-13,False
+219847,Kai Havertz,Kai,Havertz,29.0,Forward,Left,Germany,DE,1999-06-11,Germany,26,193.0,83.0,2023-06-28,False
+103955,Raheem Sterling,Raheem,Sterling,30.0,Forward,Both,England,GB-ENG,1994-12-08,Jamaica,31,172.0,69.0,2024-08-30,True
+461025,Nathan Butler-Oyedeji,Nathan,Butler-Oyedeji,37.0,Forward,Right,England,GB-ENG,2003-01-04,England,23,177.0,74.0,2024-09-18,False
+588796,Ismeal Kabia,Ismeal,Kabia,46.0,Forward,Right,Netherlands,NL,2005-12-10,Netherlands,20,175.0,70.0,2024-09-14,False

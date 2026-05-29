@@ -1,0 +1,44 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+432987,Vítezslav Jaros,Vítezslav,Jaros,,Goalkeeper,Right,Czech Republic,CZ,2001-07-23,,24,,,2019-07-10,False
+116535,Alisson,Alisson Ramsés,Becker,1.0,Goalkeeper,Right,Brazil,BR,1992-10-02,Brazil,33,193.0,91.0,2018-07-19,False
+60706,Adrián,Adrián,San Miguel del Castillo,13.0,Goalkeeper,Right,Spain,ES,1987-01-03,Spain,39,190.0,80.0,2019-08-05,False
+200720,Caoimhín Kelleher,Caoimhín,Kelleher,62.0,Goalkeeper,Right,Ireland,IE,1998-11-23,Republic of Ireland,27,188.0,74.0,2016-08-06,False
+464353,Harvey Davies,Harvey,Davies,95.0,Goalkeeper,,England,GB-ENG,2003-09-03,England,22,,,2021-03-09,False
+518199,Fabian Mrozek,Fabian,Mrozek,96.0,Goalkeeper,,Poland,PL,2003-09-28,Poland,22,,,2022-07-11,False
+443629,Marcelo Pitaluga,Marcelo,de Araújo Pitaluga Filho,97.0,Goalkeeper,,Brazil,BR,2002-12-20,Brazil,23,192.0,77.0,2021-07-01,False
+171287,Joe Gomez,Joe,Gomez,2.0,Defender,Right,England,GB-ENG,1997-05-23,,29,188.0,77.0,2015-06-20,False
+97032,Virgil van Dijk,Virgil,van Dijk,4.0,Defender,Right,Netherlands,NL,1991-07-08,Netherlands,34,195.0,92.0,2018-01-01,False
+204716,Ibrahima Konaté,Ibrahima,Konaté,5.0,Defender,Right,France,FR,1999-05-25,France,27,194.0,95.0,2021-07-01,False
+214285,Konstantinos Tsimikas,Konstantinos,Tsimikas,21.0,Defender,Left,Greece,GR,1996-05-12,Greece,30,179.0,77.0,2020-08-10,False
+489580,Calvin Ramsay,Calvin,Ramsay,22.0,Defender,Right,Scotland,GB-SCT,2003-07-31,,22,177.0,68.0,2022-06-19,False
+122798,Andrew Robertson,Andrew,Robertson,26.0,Defender,Left,Scotland,GB-SCT,1994-03-11,Scotland,32,178.0,64.0,2017-07-21,False
+60914,Joël Matip,Joël,Matip,32.0,Defender,Right,Cameroon,CM,1991-08-08,Germany,34,195.0,90.0,2016-07-01,False
+219937,Rhys Williams,Rhys,Williams,46.0,Defender,Right,England,GB-ENG,2001-02-03,England,25,195.0,82.0,2020-09-23,False
+197464,Nathaniel Phillips,Nathaniel,Phillips,47.0,Defender,Right,England,GB-ENG,1997-03-21,England,29,190.0,84.0,2018-07-01,False
+169187,Trent Alexander-Arnold,Trent,Alexander-Arnold,66.0,Defender,Right,England,GB-ENG,1998-10-07,England,27,175.0,72.0,2015-07-01,False
+444765,Sepp van den Berg,Sepp,van den Berg,72.0,Defender,Right,Netherlands,NL,2001-12-20,Netherlands,24,189.0,74.0,2019-06-27,False
+441428,Jarell Quansah,Jarell,Quansah,78.0,Defender,,England,GB-ENG,2003-01-29,England,23,,,2021-12-18,False
+492777,Conor Bradley,Conor,Bradley,84.0,Defender,,Northern Ireland,GB-NIR,2003-07-09,Northern Ireland,22,180.0,64.0,2021-07-22,False
+462491,Luke Chambers,Luke,Chambers,88.0,Defender,,England,GB-ENG,2004-06-24,,21,,,2022-07-11,False
+116643,Fabinho,Fábio Henrique,Tavares,3.0,Midfielder,Right,Brazil,BR,1993-10-23,Brazil,32,188.0,78.0,2018-07-01,False
+61558,Thiago Alcântara,Thiago,Alcântara do Nascimento,6.0,Midfielder,Right,Spain,ES,1991-04-11,Italy,35,174.0,70.0,2020-09-18,False
+15157,James Milner,James,Milner,7.0,Midfielder,Right,England,GB-ENG,1986-01-04,England,40,175.0,70.0,2015-07-01,False
+175592,Naby Keïta,Naby,Keïta,8.0,Midfielder,Right,Guinea,GN,1995-02-10,Guinea,31,172.0,64.0,2018-07-01,False
+56979,Jordan Henderson,Jordan,Henderson,14.0,Midfielder,Right,England,GB-ENG,1990-06-17,England,35,182.0,78.0,2011-06-09,False
+81880,Alex Oxlade-Chamberlain,Alex,Oxlade-Chamberlain,15.0,Midfielder,Right,England,GB-ENG,1993-08-15,England,32,180.0,70.0,2017-08-31,False
+206915,Curtis Jones,Curtis,Jones,17.0,Midfielder,Right,England,GB-ENG,2001-01-30,England,25,185.0,75.0,2018-04-06,False
+444884,Harvey Elliott,Harvey,Elliott,19.0,Midfielder,Left,England,GB-ENG,2003-04-04,England,23,170.0,64.0,2019-07-28,False
+244858,Fábio Carvalho,Fábio Leandro,Freitas Gouveia Carvalho,28.0,Midfielder,Right,Portugal,PT,2002-08-30,Portugal,23,170.0,62.0,2022-07-01,False
+204043,Arthur,Arthur Henrique,Ramos de Oliveira Melo,29.0,Midfielder,Right,Brazil,BR,1996-08-12,Brazil,29,171.0,73.0,2022-09-01,True
+491970,Bobby Clark,Bobby,Clark,42.0,Midfielder,,England,GB-ENG,2005-02-07,,21,178.0,,2022-07-11,False
+535928,Stefan Bajcetic,Stefan,Bajcetic,43.0,Midfielder,,Spain,ES,2004-10-22,Spain,21,185.0,77.0,2022-07-11,False
+440148,Tyler Morton,Tyler,Morton,80.0,Midfielder,,England,GB-ENG,2002-10-31,England,23,,,2021-07-22,False
+515481,Melkamu Frauendorf,Melkamu,Frauendorf,94.0,Midfielder,Right,Germany,DE,2004-01-12,Ethiopia,22,,,2022-01-09,False
+244731,Luis Díaz,Luis,Díaz,7.0,Forward,Right,Colombia,CO,1997-01-13,Colombia,29,178.0,65.0,2022-01-30,False
+92217,Roberto Firmino,Roberto Firmino,Barbosa de Oliveira,9.0,Forward,Right,Brazil,BR,1991-10-02,Brazil,34,181.0,76.0,2015-07-01,False
+447203,Darwin Núñez,Darwin,Núñez,9.0,Forward,Right,Uruguay,UY,1999-06-24,Uruguay,26,187.0,81.0,2022-06-14,False
+118748,Mohamed Salah,Mohamed,Salah Hamed Mahrous Ghaly,11.0,Forward,Left,Egypt,EG,1992-06-15,Egypt,33,175.0,71.0,2017-07-01,False
+243298,Cody Gakpo,Cody,Gakpo,18.0,Forward,Right,Netherlands,NL,1999-05-07,Netherlands,27,193.0,76.0,2023-01-01,False
+194634,Diogo Jota,Diogo José,Teixeira da Silva,20.0,Forward,Both,Portugal,PT,1996-12-04,Portugal,29,178.0,68.0,2020-09-19,False
+496208,Ben Doak,Ben,Doak,50.0,Forward,,Scotland,GB-SCT,2005-11-11,,20,,,2022-11-08,False
+461609,Layton Stewart,Layton,Stewart,81.0,Forward,,England,GB-ENG,2002-09-03,,23,,,2019-12-16,False

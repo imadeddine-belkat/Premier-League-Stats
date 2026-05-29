@@ -1,0 +1,31 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+201595,Lucas Perri,Lucas Estella,Perri,1,Goalkeeper,Right,Brazil,BR,1997-12-10,Brazil,28,197.0,98.0,2025-07-26,False
+437495,Illan Meslier,Illan,Meslier,16,Goalkeeper,Right,France,FR,2000-03-02,France,26,197.0,74.0,2020-07-27,False
+97846,Alex Cairns,Alex,Cairns,21,Goalkeeper,Right,England,GB-ENG,1993-01-04,England,33,183.0,72.0,2024-07-08,False
+59735,Karl Darlow,Karl,Darlow,26,Goalkeeper,Right,Wales,GB-WLS,1990-10-08,England,35,190.0,88.0,2023-07-29,False
+226182,Jayden Bogle,Jayden,Bogle,2,Defender,Right,England,GB-ENG,2000-07-27,England,25,178.0,69.0,2024-07-20,False
+243526,Gabriel Gudmundsson,Gabriel,Gudmundsson,3,Defender,Left,Sweden,SE,1999-04-29,Sweden,27,180.0,74.0,2025-07-08,False
+199598,Ethan Ampadu,Ethan,Ampadu,4,Defender,Right,Wales,GB-WLS,2000-09-14,England,25,182.0,78.0,2023-07-19,False
+222694,Pascal Struijk,Pascal,Struijk,5,Defender,Left,Netherlands,NL,1999-08-11,Netherlands,26,190.0,79.0,2018-04-12,False
+214225,Joe Rodon,Joe,Rodon,6,Defender,Right,Wales,GB-WLS,1997-10-22,Wales,28,193.0,88.0,2024-07-02,False
+434752,Jaka Bijol,Jaka,Bijol,15,Defender,Right,Slovenia,SI,1999-02-05,Slovenia,27,190.0,85.0,2025-06-23,False
+437738,Sebastiaan Bornauw,Sebastiaan,Bornauw,23,Defender,Right,Belgium,BE,1999-03-22,Belgium,27,191.0,81.0,2025-07-01,False
+220627,James Justin,James,Justin,24,Defender,Right,England,GB-ENG,1998-02-23,England,28,183.0,80.0,2025-08-25,False
+113564,Sam Byram,Sam,Byram,25,Defender,Right,England,GB-ENG,1993-09-16,England,32,180.0,72.0,2023-08-05,False
+643970,Jayden Lienou,Jayden,Lienou,65,Defender,Left,Wales,GB-WLS,2008-04-08,England,18,,,2026-05-10,False
+200617,Daniel James,Daniel,James,7,Midfielder,Right,Wales,GB-WLS,1997-11-10,England,28,171.0,63.0,2021-08-31,False
+180135,Sean Longstaff,Sean,Longstaff,8,Midfielder,Right,England,GB-ENG,1997-10-30,England,28,180.0,65.0,2025-07-18,False
+427637,Brenden Aaronson,Brenden,Aaronson,11,Midfielder,Right,United States,US,2000-10-22,USA,25,177.0,68.0,2022-07-01,False
+466525,Anton Stach,Anton,Stach,18,Midfielder,Both,Germany,DE,1998-11-15,Germany,27,193.0,86.0,2025-07-22,False
+248056,Ao Tanaka,Ao,Tanaka,22,Midfielder,Right,Japan,JP,1998-09-10,Japan,27,180.0,75.0,2024-08-30,False
+536916,Facundo Buonanotte,Facundo,Buonanotte,40,Midfielder,Left,Argentina,AR,2004-12-23,Argentina,21,174.0,66.0,2026-01-15,True
+565863,Sam Chambers,Sam,Chambers,42,Midfielder,Right,Scotland,GB-SCT,2007-08-18,England,18,176.0,68.0,2024-08-22,False
+486520,Ilia Gruev,Ilia,Gruev,44,Midfielder,Left,Bulgaria,BG,2000-05-06,Bulgaria,26,185.0,72.0,2023-08-31,False
+577978,Rhys Chadwick,Rhys,Chadwick,47,Midfielder,,England,GB-ENG,2007-02-19,England,19,,,2025-07-18,False
+536119,Charlie Crew,Charlie,Crew,50,Midfielder,Right,Wales,GB-WLS,2006-06-15,Wales,19,185.0,70.0,2024-03-28,False
+592740,Alfie Cresswell,Alfie,Cresswell,51,Midfielder,,England,GB-ENG,2007-07-15,England,18,,,2026-05-16,False
+177815,Dominic Calvert-Lewin,Dominic,Calvert-Lewin,9,Forward,Right,England,GB-ENG,1997-03-16,England,29,187.0,71.0,2025-08-15,False
+235826,Joël Piroe,Joël,Piroe,10,Forward,Left,Suriname,SR,1999-08-02,Netherlands,26,181.0,74.0,2023-08-24,False
+174594,Lukas Nmecha,Lukas,Nmecha,14,Forward,Right,Germany,DE,1998-12-14,Germany,27,185.0,80.0,2025-07-01,False
+435997,Noah Okafor,Noah,Okafor,19,Forward,Right,Switzerland,CH,2000-05-24,Switzerland,26,185.0,85.0,2025-08-21,False
+492859,Wilfried Gnonto,Wilfried,Gnonto,29,Forward,Right,Italy,IT,2003-11-05,Italy,22,172.0,65.0,2022-09-01,False

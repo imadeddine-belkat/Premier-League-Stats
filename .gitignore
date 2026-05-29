@@ -20,3 +20,11 @@ Thumbs.db
 
 # Environment variables (if you ever use API keys later)
 .env
+
+stats_scrapper.py
+fpl_organizer.py
+stats_organizer.py
+squad_scraper.py
+player_stats_scraper.py
+
+cache

@@ -1,0 +1,43 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+155529,Marek Rodák,Marek,Rodák,1.0,Goalkeeper,Right,Slovakia,SK,1996-12-13,Slovakia,29,194.0,81.0,2014-07-01,False
+80201,Bernd Leno,Bernd,Leno,17.0,Goalkeeper,Right,Germany,DE,1992-03-04,Germany,34,189.0,82.0,2022-08-02,False
+235449,George Wickens,George,Wickens,40.0,Goalkeeper,,England,GB-ENG,2001-11-08,,24,183.0,,2023-03-05,False
+109434,Terence Kongolo,Terence,Kongolo,,Defender,Left,Netherlands,NL,1994-02-14,Switzerland,32,188.0,70.0,2020-10-16,False
+167074,Kenny Tete,Kenny,Tete,2.0,Defender,Right,Netherlands,NL,1995-10-09,Netherlands,30,180.0,71.0,2020-09-10,False
+89068,Layvin Kurzawa,Layvin,Kurzawa,3.0,Defender,Left,France,FR,1992-09-04,France,33,182.0,74.0,2022-09-01,True
+109646,Tosin Adarabioyo,Tosin,Adarabioyo,4.0,Defender,Right,England,GB-ENG,1997-09-24,,28,196.0,80.0,2020-10-05,False
+61933,Shane Duffy,Shane,Duffy,5.0,Defender,Right,Ireland,IE,1992-01-01,Northern Ireland,34,193.0,76.0,2023-01-31,False
+58822,Cédric Soares,Cédric Ricardo,Alves Soares,12.0,Defender,Right,Portugal,PT,1991-08-31,Germany,34,172.0,67.0,2023-01-31,True
+82514,Tim Ream,Tim,Ream,13.0,Defender,Left,United States,US,1987-10-05,USA,38,183.0,80.0,2015-08-20,False
+101105,Joe Bryan,Joe,Bryan,23.0,Defender,Left,England,GB-ENG,1993-09-17,,32,170.0,72.0,2018-08-09,False
+120721,Kevin Mbabu,Kevin,Mbabu,27.0,Defender,Right,Switzerland,CH,1995-04-19,Switzerland,31,184.0,83.0,2022-07-27,False
+219924,Issa Diop,Issa,Diop,31.0,Defender,Right,France,FR,1997-01-09,France,29,194.0,92.0,2022-08-10,False
+169528,Antonee Robinson,Antonee,Robinson,33.0,Defender,Left,United States,US,1997-08-08,England,28,183.0,70.0,2020-08-20,False
+478227,Stefan Parkes,Stefan,Parkes,39.0,Defender,,England,GB-ENG,2004-03-28,England,22,,,2022-09-30,False
+461467,Luciano D'Auria-Henry,Luciano,D'Auria-Henry,41.0,Defender,,England,GB-ENG,2002-11-11,,23,,,2022-08-22,False
+547673,Charlie Robinson,Charlie,Robinson,42.0,Defender,,England,GB-ENG,2004-09-19,England,21,,,2022-08-22,False
+208998,Steven Sessegnon,Steven,Sessegnon,43.0,Defender,,England,GB-ENG,2000-05-18,England,26,175.0,,2017-08-01,False
+83543,Anthony Knockaert,Anthony,Knockaert,,Midfielder,Left,France,FR,1991-11-20,,34,172.0,69.0,2020-07-27,False
+153366,Harrison Reed,Harrison,Reed,6.0,Midfielder,Right,England,GB-ENG,1995-01-27,,31,181.0,72.0,2020-08-30,False
+92259,Neeskens Kebano,Neeskens,Kebano,7.0,Midfielder,Right,DR Congo,CD,1992-03-10,France,34,170.0,65.0,2016-08-26,False
+153682,Harry Wilson,Harry,Wilson,8.0,Midfielder,Left,Wales,GB-WLS,1997-03-22,Wales,29,173.0,63.0,2021-07-24,False
+76357,Tom Cairney,Tom,Cairney,10.0,Midfielder,Left,Scotland,GB-SCT,1991-01-20,England,35,185.0,84.0,2015-07-07,False
+156689,Andreas Pereira,Andreas Hugo,Hoelgebaum Pereira,18.0,Midfielder,Right,Brazil,BR,1996-01-01,Belgium,30,178.0,71.0,2022-07-11,False
+200617,Dan James,Dan,James,21.0,Midfielder,Right,Wales,GB-WLS,1997-11-10,England,28,171.0,63.0,2022-09-01,True
+154296,João Palhinha,João Maria,Lobo Alves Palhinha Gonçalves,26.0,Midfielder,Right,Portugal,PT,1995-07-09,Portugal,30,190.0,84.0,2022-07-04,False
+212314,Sasa Lukic,Sasa,Lukic,28.0,Midfielder,Right,Serbia,RS,1996-08-13,Serbia,29,183.0,76.0,2023-01-31,False
+432931,Tyrese Francois,Tyrese,Francois,35.0,Midfielder,,Australia,AU,2000-07-16,Australia,25,173.0,60.0,2018-07-01,False
+515024,Luke Harris,Luke,Harris,38.0,Midfielder,Right,Wales,GB-WLS,2005-03-04,England,21,177.0,,2022-08-05,False
+511504,Kristian Sekularac,Kristian,Sekularac,45.0,Midfielder,,Switzerland,CH,2003-12-07,Switzerland,22,,,2022-08-22,False
+515023,Matthew Dibley-Dias,Matthew,Dibley-Dias,49.0,Midfielder,,England,GB-ENG,2003-10-29,New Zealand,22,,,2023-05-07,False
+166324,Ivan Cavaleiro,Ivan Ricardo,Neves Abreu Cavaleiro,,Forward,,Portugal,PT,1993-10-18,,32,175.0,73.0,2020-01-07,False
+128389,Aleksandar Mitrovic,Aleksandar,Mitrovic,9.0,Forward,Right,Serbia,RS,1994-09-16,Serbia,31,189.0,89.0,2018-07-30,False
+235674,Manor Solomon,Manor,Solomon,11.0,Forward,Both,Israel,IL,1999-07-24,,26,170.0,66.0,2022-07-25,True
+96994,Bobby De Cordova-Reid,Bobby,De Cordova-Reid,14.0,Forward,Right,Jamaica,JM,1993-02-02,England,33,170.0,68.0,2020-01-24,False
+244042,Rodrigo Muniz,Rodrigo,Muniz Carvalho,19.0,Forward,,Brazil,BR,2001-05-04,,25,178.0,67.0,2021-08-20,False
+47431,Willian,Willian,Borges da Silva,20.0,Forward,Right,Brazil,BR,1988-08-09,Brazil,37,175.0,77.0,2022-09-01,False
+245824,Carlos Vinícius,Carlos Vinícius,Alves Morais,30.0,Forward,Left,Brazil,BR,1995-03-25,Brazil,31,190.0,86.0,2022-09-01,False
+588006,Callum McFarlane,Callum,McFarlane,34.0,Forward,,England,GB-ENG,2003-09-08,,22,,,2023-01-06,False
+247664,Terry Ablade,Terry,Ablade,37.0,Forward,,Finland,FI,2001-10-12,Ghana,24,,,2022-08-19,False
+573062,Martial Godo,Martial,Godo,47.0,Forward,,England,GB-ENG,2003-03-14,,23,,,2022-08-22,False
+490146,Jay Stansfield,Jay,Stansfield,65.0,Forward,,England,GB-ENG,2002-11-24,,23,,,2020-01-03,False

@@ -1,0 +1,34 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+451302,Altay Bayindir,Altay,Bayindir,1,Goalkeeper,Right,Turkey,TR,1998-04-14,Türkiye,28,198.0,88.0,2023-09-01,False
+21205,Tom Heaton,Tom,Heaton,22,Goalkeeper,Right,England,GB-ENG,1986-04-15,England,40,188.0,85.0,2021-07-02,False
+465247,Senne Lammens,Senne,Lammens,31,Goalkeeper,Right,Belgium,BE,2002-07-07,Belgium,23,193.0,70.0,2025-09-01,False
+216051,Diogo Dalot,José Diogo,Dalot Teixeira,2,Defender,Right,Portugal,PT,1999-03-18,Portugal,27,184.0,78.0,2018-06-08,False
+230001,Noussair Mazraoui,Noussair,Mazraoui,3,Defender,Right,Morocco,MA,1997-11-14,Netherlands,28,183.0,63.0,2024-08-13,False
+209365,Matthijs de Ligt,Matthijs,de Ligt,4,Defender,Right,Netherlands,NL,1999-08-12,Netherlands,26,187.0,89.0,2024-08-13,False
+95658,Harry Maguire,Harry,Maguire,5,Defender,Right,England,GB-ENG,1993-03-05,England,33,194.0,90.0,2019-08-05,False
+221820,Lisandro Martínez,Lisandro,Martínez,6,Defender,Left,Argentina,AR,1998-01-18,Argentina,28,175.0,77.0,2022-07-17,False
+222690,Tyrell Malacia,Tyrell,Malacia,12,Defender,Left,Netherlands,NL,1999-08-17,Netherlands,26,170.0,67.0,2022-07-05,False
+596777,Patrick Dorgu,Patrick,Dorgu,13,Defender,Left,Denmark,DK,2004-10-26,Denmark,21,185.0,68.0,2025-02-02,False
+550864,Leny Yoro,Leny,Yoro,15,Defender,Right,France,FR,2005-11-13,France,20,190.0,83.0,2024-07-19,False
+106760,Luke Shaw,Luke,Shaw,23,Defender,Left,England,GB-ENG,1995-07-12,England,30,178.0,80.0,2014-07-01,False
+606745,Ayden Heaven,Ayden,Heaven,26,Defender,Left,England,GB-ENG,2006-09-22,England,19,189.0,77.0,2025-02-01,False
+547676,Tyler Fredricson,Tyler,Fredricson,33,Defender,Right,England,GB-ENG,2005-02-23,England,21,184.0,70.0,2022-09-07,False
+661712,Diego León,Diego,León,35,Defender,Left,Paraguay,PY,2007-04-03,Paraguay,19,177.0,82.0,2025-07-05,False
+576637,Godwill Kukonki,Godwill,Kukonki,72,Defender,Left,England,GB-ENG,2008-02-06,England,18,196.0,85.0,2024-12-03,False
+184341,Mason Mount,Mason,Mount,7,Midfielder,Right,England,GB-ENG,1999-01-10,England,27,181.0,76.0,2023-07-05,False
+141746,Bruno Fernandes,Bruno Miguel,Borges Fernandes,8,Midfielder,Right,Portugal,PT,1994-09-08,Portugal,31,180.0,66.0,2020-01-30,False
+61256,Casemiro,Carlos Henrique,Casimiro,18,Midfielder,Right,Brazil,BR,1992-02-23,Brazil,34,185.0,84.0,2022-08-22,False
+232112,Manuel Ugarte,Manuel,Ugarte,25,Midfielder,Right,Uruguay,UY,2001-04-11,Uruguay,25,182.0,77.0,2024-08-30,False
+516895,Kobbie Mainoo,Kobbie,Mainoo,37,Midfielder,Right,England,GB-ENG,2005-04-19,England,21,184.0,72.0,2022-10-15,False
+547037,Jack Fletcher,Jack,Fletcher,38,Midfielder,Left,England,GB-ENG,2007-03-19,England,19,180.0,78.0,2024-07-12,False
+519913,Tyler Fletcher,Tyler,Fletcher,39,Midfielder,Right,Scotland,GB-SCT,2007-03-19,England,19,,,2025-05-26,False
+559684,Jack Moorhouse,Jack,Moorhouse,48,Midfielder,Both,Ireland,IE,2005-11-29,England,20,184.0,70.0,2025-02-15,False
+576634,Jim Thwaites,Jim,Thwaites,77,Midfielder,Left,England,GB-ENG,2007-12-20,,18,,,2025-05-26,False
+430871,Matheus Cunha,Matheus,Santos Carneiro da Cunha,10,Forward,Right,Brazil,BR,1999-05-27,Brazil,27,183.0,76.0,2025-06-01,False
+458249,Joshua Zirkzee,Joshua,Zirkzee,11,Forward,Right,Netherlands,NL,2001-05-22,Netherlands,25,193.0,84.0,2024-07-17,False
+493250,Amad Diallo,Amad,Diallo,16,Forward,Left,Cote d’Ivoire,CI,2002-07-11,Côte d'Ivoire,23,173.0,72.0,2021-01-07,False
+446008,Bryan Mbeumo,Bryan,Mbeumo,19,Forward,Left,Cameroon,CM,1999-08-07,France,26,173.0,64.0,2025-07-21,False
+485711,Benjamin Sesko,Benjamin,Sesko,30,Forward,Right,Slovenia,SI,2003-05-31,Slovenia,22,195.0,85.0,2025-08-09,False
+596047,Chido Obi,Chido,Obi,32,Forward,Right,Denmark,DK,2007-11-29,Denmark,18,188.0,68.0,2025-02-15,False
+576628,Shea Lacey,Shea,Lacey,61,Forward,Left,England,GB-ENG,2007-04-14,England,19,167.0,,2025-05-26,False
+576620,Bendito Mantato,Bendito,Mantato,70,Forward,Left,England,GB-ENG,2008-01-25,England,18,180.0,,2025-04-30,False

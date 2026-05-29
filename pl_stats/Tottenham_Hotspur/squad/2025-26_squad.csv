@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+184254,Guglielmo Vicario,Guglielmo,Vicario,1,Goalkeeper,Right,Italy,IT,1996-10-07,Italy,29,194.0,83.0,2023-07-01,False
+485055,Antonín Kinsky,Antonín,Kinsky,31,Goalkeeper,Right,Czech Republic,CZ,2003-03-13,Czechia,23,190.0,83.0,2025-01-05,False
+214572,Brandon Austin,Brandon,Austin,40,Goalkeeper,Right,England,GB-ENG,1999-01-08,England,27,188.0,82.0,2017-07-22,False
+536108,Luca Gunter,Luca,Gunter,46,Goalkeeper,,England,GB-ENG,2005-03-23,England,21,,,2025-07-25,False
+493125,Radu Dragusin,Radu,Dragusin,3,Defender,Right,Romania,RO,2002-02-03,Romania,24,191.0,85.0,2024-01-11,False
+135720,Kevin Danso,Kevin,Danso,4,Defender,Right,Austria,AT,1998-09-19,Austria,27,190.0,85.0,2025-07-01,False
+487053,Destiny Udogie,Destiny,Udogie,13,Defender,Left,Italy,IT,2002-11-28,Italy,23,186.0,73.0,2022-08-16,False
+221632,Cristian Romero,Cristian,Romero,17,Defender,Right,Argentina,AR,1998-04-27,Argentina,28,185.0,78.0,2022-08-30,False
+441164,Pedro Porro,Pedro,Porro,23,Defender,Right,Spain,ES,1999-09-13,Spain,26,173.0,69.0,2023-07-01,False
+232859,Djed Spence,Djed,Spence,24,Defender,Right,England,GB-ENG,2000-08-09,England,25,185.0,71.0,2022-07-19,False
+115556,Ben Davies,Ben,Davies,33,Defender,Left,Wales,GB-WLS,1993-04-24,Wales,33,181.0,77.0,2014-07-23,False
+491279,Micky van de Ven,Micky,van de Ven,37,Defender,Left,Netherlands,NL,2001-04-19,Netherlands,25,193.0,81.0,2023-08-08,False
+616221,Souza,João Victor,de Souza Menezes,38,Defender,,Brazil,BR,2006-06-16,Brazil,19,178.0,67.0,2026-01-22,False
+611920,Malachi Hardy,Malachi,Hardy,66,Defender,Right,England,GB-ENG,2008-03-10,England,18,192.0,79.0,2024-11-22,False
+640419,Jun'ai Byfield,Jun'ai,Byfield,67,Defender,Right,England,GB-ENG,2008-12-06,England,17,188.0,,2025-07-25,False
+499716,James Rowswell,James,Rowswell,76,Defender,Right,England,GB-ENG,2006-07-13,England,19,188.0,,2025-07-25,False
+154296,João Palhinha,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,6,Midfielder,Right,Portugal,PT,1995-07-09,Portugal,30,190.0,84.0,2025-08-03,True
+493362,Xavi Simons,Xavi,Simons,7,Midfielder,Right,Netherlands,NL,2003-04-21,Netherlands,23,179.0,58.0,2025-08-29,False
+227127,Yves Bissouma,Yves,Bissouma,8,Midfielder,Right,Mali,ML,1996-08-30,Côte d'Ivoire,29,182.0,80.0,2022-06-17,False
+172780,James Maddison,James,Maddison,10,Midfielder,Right,England,GB-ENG,1996-11-23,England,29,175.0,73.0,2023-06-28,False
+547701,Archie Gray,Archie,Gray,14,Midfielder,Right,England,GB-ENG,2006-03-12,England,20,187.0,70.0,2024-07-02,False
+570526,Lucas Bergvall,Lucas,Bergvall,15,Midfielder,Right,Sweden,SE,2006-02-02,Sweden,20,187.0,74.0,2024-07-01,False
+460842,Mohammed Kudus,Mohammed,Kudus,20,Midfielder,Left,Ghana,GH,2000-08-02,Ghana,25,177.0,70.0,2025-07-10,False
+445044,Dejan Kulusevski,Dejan,Kulusevski,21,Midfielder,Left,Sweden,SE,2000-04-25,Sweden,26,186.0,80.0,2023-07-01,False
+232787,Conor Gallagher,Conor,Gallagher,22,Midfielder,Right,England,GB-ENG,2000-02-06,England,26,183.0,77.0,2026-01-14,False
+482442,Pape Matar Sarr,Pape Matar,Sarr,29,Midfielder,Right,Senegal,SN,2002-09-14,Senegal,23,185.0,70.0,2021-08-27,False
+202993,Rodrigo Bentancur,Rodrigo,Bentancur,30,Midfielder,Right,Uruguay,UY,1997-06-25,Uruguay,28,187.0,72.0,2022-01-31,False
+499726,Callum Olusesi,Callum,Olusesi,52,Midfielder,Right,England,GB-ENG,2007-03-11,England,19,175.0,65.0,2024-11-06,False
+536134,Rio Kyerematen,Rio,Kyerematen,57,Midfielder,Right,England,GB-ENG,2005-06-09,England,20,174.0,68.0,2024-05-21,False
+611917,Lucá Williams-Barnett,Lucá,Williams-Barnett,68,Midfielder,Both,England,GB-ENG,2008-10-01,England,17,179.0,,2025-07-25,False
+680832,Tye Hall,Tye,Hall,89,Midfielder,Right,England,GB-ENG,2007-10-01,England,18,183.0,,2026-01-27,False
+212319,Richarlison,Richarlison,de Andrade,9,Forward,Right,Brazil,BR,1997-05-10,Brazil,29,184.0,83.0,2022-07-01,False
+511499,Mathys Tel,Mathys,Tel,11,Forward,Right,France,FR,2005-04-27,France,21,183.0,77.0,2025-07-01,False
+154566,Dominic Solanke,Dominic,Solanke,19,Forward,Right,England,GB-ENG,1997-09-14,England,28,187.0,80.0,2024-08-10,False
+550839,Wilson Odobert,Wilson,Odobert,28,Forward,Right,France,FR,2004-11-28,France,21,182.0,76.0,2024-08-16,False
+247693,Randal Kolo Muani,Randal,Kolo Muani,39,Forward,Right,France,FR,1998-12-05,France,27,187.0,73.0,2025-09-01,True
+647429,Tynan Thompson,Tynan,Thompson,54,Forward,,England,GB-ENG,2008-04-17,England,18,,,2025-07-25,False
+613232,James Wilson,James,Wilson,79,Forward,Right,Scotland,GB-SCT,2007-03-06,Scotland,19,,,2026-02-21,False

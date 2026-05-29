@@ -1,0 +1,53 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+40349,Asmir Begovic,Asmir,Begovic,1.0,Goalkeeper,,Bosnia & Herzegovina,BA,1987-06-20,Bosnia and Herzegovina,38,198.0,83.0,2015-07-13,False
+60772,Thibaut Courtois,Thibaut,Courtois,13.0,Goalkeeper,Right,Belgium,BE,1992-05-11,Belgium,34,199.0,91.0,2011-07-21,False
+108132,Jamal Blackman,Jamal,Blackman,27.0,Goalkeeper,,England,GB-ENG,1993-10-27,,32,199.0,92.0,2010-07-01,False
+7445,Marco Amelia,Marco,Amelia,32.0,Goalkeeper,Right,Italy,IT,1982-04-02,Italy,44,190.0,90.0,2015-10-08,False
+68250,Matej Delac,Matej,Delac,40.0,Goalkeeper,,Croatia,HR,1992-08-20,,33,190.0,80.0,2010-07-01,False
+80935,Papy Djilobodji,Papy,Djilobodji,,Defender,Left,Senegal,SN,1988-12-01,Senegal,37,193.0,82.0,2015-09-01,False
+112991,Kenneth Omeruo,Kenneth,Omeruo,,Defender,Right,Nigeria,NG,1993-10-17,Nigeria,32,168.0,67.0,2013-07-01,False
+41135,Branislav Ivanovic,Branislav,Ivanovic,2.0,Defender,Right,Serbia,RS,1984-02-22,Yugoslavia,42,185.0,91.0,2008-01-16,False
+103192,Kurt Zouma,Kurt,Zouma,5.0,Defender,,France,FR,1994-10-27,,31,190.0,92.0,2014-01-31,False
+126184,Nathan Aké,Nathan,Aké,6.0,Defender,,Netherlands,NL,1995-02-18,,31,180.0,75.0,2012-07-01,False
+118335,Abdul Rahman Baba,Abdul Rahman,Baba,6.0,Defender,Left,Ghana,GH,1994-07-02,Ghana,31,179.0,70.0,2015-08-16,False
+163793,Matt Miazga,Matt,Miazga,20.0,Defender,Right,United States,US,1995-07-19,USA,30,191.0,84.0,2016-01-30,False
+19419,Gary Cahill,Gary,Cahill,24.0,Defender,,England,GB-ENG,1985-12-19,England,40,193.0,86.0,2012-01-16,False
+1718,John Terry,John,Terry,26.0,Defender,,England,GB-ENG,1980-12-07,,45,187.0,90.0,1997-07-01,False
+41328,César Azpilicueta,César,Azpilicueta,28.0,Defender,,Spain,ES,1989-08-28,,36,178.0,75.0,2012-08-24,False
+84482,Tomas Kalas,Tomas,Kalas,29.0,Defender,Right,Czech Republic,CZ,1993-05-15,Czech Republic,33,182.0,73.0,2010-07-07,False
+84915,Michael Hector,Michael,Hector,30.0,Defender,Right,Jamaica,JM,1992-07-19,England,33,193.0,82.0,2015-09-01,False
+194794,Fikayo Tomori,Fikayo,Tomori,33.0,Defender,Right,England,GB-ENG,1997-12-19,Canada,28,185.0,75.0,2016-05-01,False
+159506,Ola Aina,Ola,Aina,34.0,Defender,,England,GB-ENG,1996-10-08,,29,175.0,65.0,2014-07-01,False
+180732,Jake Clarke-Salter,Jake,Clarke-Salter,37.0,Defender,,England,GB-ENG,1997-09-22,,28,188.0,,2014-07-01,False
+82660,Marco van Ginkel,Marco,van Ginkel,,Midfielder,,Netherlands,NL,1992-12-01,,33,186.0,82.0,2013-07-05,False
+41450,Marko Marin,Marko,Marin,,Midfielder,,Germany,DE,1989-03-13,Bosnia and Herzegovina,37,170.0,64.0,2012-07-01,False
+172986,Nathan,Nathan Allan,de Souza,,Midfielder,,Brazil,BR,1996-03-13,Brazil,30,178.0,71.0,2015-07-01,False
+104953,Christian Atsu,Christian,Atsu,,Midfielder,Left,Ghana,GH,1992-01-10,Ghana,34,172.0,68.0,2013-08-31,False
+164570,Mario Pasalic,Mario,Pasalic,,Midfielder,,Croatia,HR,1995-02-09,Germany,31,188.0,82.0,2014-07-09,False
+126186,Lewis Baker,Lewis,Baker,,Midfielder,,England,GB-ENG,1995-04-25,England,31,182.0,72.0,2012-07-01,False
+17878,Cesc Fàbregas,Cesc,Fàbregas,4.0,Midfielder,Right,Spain,ES,1987-05-04,Spain,39,175.0,74.0,2014-06-12,False
+61262,Oscar,Oscar,dos Santos Emboaba Junior,8.0,Midfielder,Right,Brazil,BR,1991-09-09,Brazil,34,179.0,67.0,2012-07-25,False
+42786,Eden Hazard,Eden,Hazard,10.0,Midfielder,,Belgium,BE,1991-01-07,Belgium,35,173.0,74.0,2012-07-01,False
+28495,John Obi Mikel,John Obi,Mikel,12.0,Midfielder,,Nigeria,NG,1987-04-22,Nigeria,39,188.0,83.0,2006-07-19,False
+126187,Ruben Loftus-Cheek,Ruben,Loftus-Cheek,14.0,Midfielder,,England,GB-ENG,1996-01-23,,30,191.0,83.0,2012-07-01,False
+110504,Bertrand Traoré,Bertrand,Traore,14.0,Midfielder,,Burkina Faso,BF,1995-09-06,Burkina Faso,30,177.0,72.0,2013-07-01,False
+49013,Victor Moses,Victor,Moses,15.0,Midfielder,Both,Nigeria,NG,1990-12-12,Nigeria,35,177.0,75.0,2012-08-24,False
+66733,Juan Cuadrado,Juan,Cuadrado,17.0,Midfielder,Right,Colombia,CO,1988-05-26,Colombia,38,178.0,71.0,2015-02-02,False
+118748,Mohamed Salah,Mohamed,Salah,17.0,Midfielder,,Egypt,EG,1992-06-15,,33,175.0,72.0,2014-01-26,False
+62398,Nemanja Matic,Nemanja,Matic,21.0,Midfielder,,Serbia,RS,1988-08-01,Serbia,37,194.0,84.0,2014-01-15,False
+47431,Willian,Willian,Borges Da Silva,22.0,Midfielder,Right,Brazil,BR,1988-08-09,Brazil,37,175.0,75.0,2013-08-28,False
+89085,Nathaniel Chalobah,Nathaniel,Chalobah,29.0,Midfielder,,England,GB-ENG,1994-12-12,,31,185.0,75.0,2010-07-01,False
+160190,Kasey Palmer,Kasey,Palmer,38.0,Midfielder,,England,GB-ENG,1996-11-09,,29,175.0,70.0,2016-04-09,False
+135421,Charlie Colkett,Charlie,Colkett,41.0,Midfielder,,England,GB-ENG,1996-09-04,,29,,,2015-05-28,False
+171162,Charly Musonda,Charly,Musonda,44.0,Midfielder,,Belgium,BE,1996-10-15,,29,173.0,66.0,2014-07-01,False
+106617,Patrick Bamford,Patrick,Bamford,,Forward,,England,GB-ENG,1993-09-05,,32,185.0,71.0,2012-01-31,False
+140941,Stipe Perica,Stipe,Perica,,Forward,,Croatia,HR,1995-07-07,Croatia,30,192.0,76.0,2013-07-29,False
+48847,Falcao,Radamel Falcao,García Zárate,9.0,Forward,,Colombia,CO,1986-02-10,Colombia,40,177.0,72.0,2015-07-01,True
+49579,Pedro,Pedro,Rodríguez Ledesma,11.0,Forward,Both,Spain,ES,1987-07-28,Spain,38,167.0,62.0,2015-08-20,False
+45215,Alexandre Pato,Alexandre Rodrigues,Da Silva,11.0,Forward,Right,Brazil,BR,1989-09-02,Brazil,36,180.0,72.0,2016-01-29,True
+167767,Kenedy,Robert Kenedy,Nunes do Nascimento,16.0,Forward,,Brazil,BR,1996-02-08,,30,182.0,77.0,2015-07-27,False
+38419,Loïc Remy,Loïc,Remy,18.0,Forward,,France,FR,1987-01-02,France,39,185.0,80.0,2014-08-31,False
+18507,Diego Costa,Diego,Da Silva Costa,19.0,Forward,Both,Spain,ES,1988-10-07,Brazil,37,188.0,85.0,2014-07-15,False
+173879,Tammy Abraham,Tammy,Abraham,32.0,Forward,,England,GB-ENG,1997-10-02,England,28,190.0,,2016-05-01,False
+112516,Isaiah Brown,Isaiah,Brown,37.0,Forward,,England,GB-ENG,1997-01-07,England,29,182.0,70.0,2014-07-01,False
+154566,Dominic Solanke,Dominic,Solanke,41.0,Forward,,England,GB-ENG,1997-09-14,England,28,185.0,75.0,2014-07-15,False

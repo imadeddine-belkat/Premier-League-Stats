@@ -1,0 +1,40 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+18726,Artur Boruc,Artur,Boruc,1.0,Goalkeeper,Right,Poland,PL,1980-02-20,Poland,46.0,193.0,89.0,2015-07-01,False
+61302,Ryan Allsop,Ryan,Allsop,21.0,Goalkeeper,,England,GB-ENG,1992-06-17,,33.0,186.0,87.0,2013-01-18,False
+15885,Adam Federici,Adam,Federici,23.0,Goalkeeper,,Australia,AU,1985-01-31,Australia,41.0,188.0,90.0,2015-07-01,False
+200369,Jordan Holmes,Jordan,Holmes,45.0,Goalkeeper,,Australia,AU,1997-05-08,,29.0,188.0,75.0,2016-05-15,False
+15149,Simon Francis,Simon,Francis,2.0,Defender,,England,GB-ENG,1985-02-16,,41.0,183.0,79.0,2012-01-06,False
+56917,Steve Cook,Steve,Cook,3.0,Defender,,England,GB-ENG,1991-04-19,,35.0,185.0,83.0,2012-01-03,False
+28378,Tommy Elphick,Tommy,Elphick,5.0,Defender,,England,GB-ENG,1987-09-07,,38.0,180.0,73.0,2012-08-11,False
+41320,Charlie Daniels,Charlie,Daniels,11.0,Defender,,England,GB-ENG,1986-09-07,,39.0,175.0,75.0,2012-01-03,False
+54469,Adam Smith,Adam,Smith,15.0,Defender,,England,GB-ENG,1991-04-29,,35.0,178.0,74.0,2014-01-28,False
+6219,Sylvain Distin,Sylvain,Distin,25.0,Defender,,France,FR,1977-12-16,,48.0,193.0,87.0,2015-07-01,False
+149484,Tyrone Mings,Tyrone,Mings,26.0,Defender,,England,GB-ENG,1993-03-13,,33.0,191.0,77.0,2015-06-26,False
+37342,Rhoys Wiggins,Rhoys,Wiggins,29.0,Defender,,Wales,GB-WLS,1987-11-04,England,38.0,173.0,72.0,2016-02-01,False
+227290,Corey Jordan,Corey,Jordan,37.0,Defender,,England,GB-ENG,1999-03-04,,27.0,,,2016-05-16,False
+222434,Jack Simpson,Jack,Simpson,42.0,Defender,,England,GB-ENG,Unknown,,,,,2015-07-01,False
+192286,Callum Buckley,Callum,Buckley,43.0,Defender,,England,GB-ENG,1996-01-12,,30.0,175.0,76.0,2014-07-01,False
+200374,Jordan Lee,Jordan,Lee,47.0,Defender,,England,GB-ENG,1996-12-31,,29.0,178.0,80.0,2015-07-01,False
+40387,Dan Gosling,Dan,Gosling,4.0,Midfielder,,England,GB-ENG,1990-02-01,,36.0,178.0,71.0,2014-07-01,False
+15237,Andrew Surman,Andrew,Surman,6.0,Midfielder,,England,GB-ENG,1986-08-20,South Africa,39.0,180.0,73.0,2014-09-01,False
+20037,Marc Pugh,Marc,Pugh,7.0,Midfielder,,England,GB-ENG,1987-04-02,,39.0,180.0,72.0,2010-07-01,False
+48615,Harry Arter,Harry,Arter,8.0,Midfielder,,Ireland,IE,1989-12-28,,36.0,175.0,73.0,2010-07-01,False
+20669,Shaun MacDonald,Shaun,MacDonald,16.0,Midfielder,,Wales,GB-WLS,1988-06-17,,37.0,185.0,76.0,2011-08-25,False
+56872,Junior Stanislas,Junior,Stanislas,19.0,Midfielder,,England,GB-ENG,1989-11-26,,36.0,180.0,79.0,2014-07-01,False
+56983,Matt Ritchie,Matt,Ritchie,30.0,Midfielder,,Scotland,GB-SCT,1989-09-10,England,36.0,173.0,70.0,2013-01-30,False
+80498,Eunan O'Kane,Eunan,O'Kane,32.0,Midfielder,,Ireland,IE,1990-07-10,Northern Ireland,35.0,173.0,69.0,2012-07-26,False
+106530,Josh Carmichael,Josh,Carmichael,35.0,Midfielder,,Scotland,GB-SCT,1994-09-27,,31.0,183.0,77.0,2011-07-01,False
+115838,Josh Wakefield,Josh,Wakefield,48.0,Midfielder,,England,GB-ENG,1993-11-06,,32.0,180.0,72.0,2011-07-01,False
+126468,Tokelo Rantie,Tokelo,Rantie,,Forward,,South Africa,ZA,1990-09-08,,35.0,172.0,68.0,2013-09-02,False
+88498,Benik Afobe,Benik,Afobe,9.0,Forward,,DR Congo,CD,1993-02-12,England,33.0,183.0,79.0,2016-01-10,False
+59741,Max Gradel,Max,Gradel,10.0,Forward,,Cote d’Ivoire,CI,1987-11-30,Côte d'Ivoire,38.0,175.0,69.0,2015-08-04,False
+93538,Juan Iturbe,Juan,Iturbe,12.0,Forward,Both,Paraguay,PY,1993-06-04,Argentina,32.0,169.0,62.0,2016-01-04,True
+75115,Callum Wilson,Callum,Wilson,13.0,Forward,,England,GB-ENG,1992-02-27,,34.0,180.0,66.0,2014-07-06,False
+78007,Joshua King,Joshua,King,17.0,Forward,,Norway,NO,1992-01-15,Norway,34.0,185.0,83.0,2015-07-01,False
+20963,Lee Tomlin,Lee,Tomlin,24.0,Forward,,England,GB-ENG,1989-01-12,,37.0,180.0,74.0,2015-08-04,False
+20529,Glenn Murray,Glenn,Murray,27.0,Forward,,England,GB-ENG,1983-09-25,,42.0,183.0,80.0,2015-09-01,False
+21246,Lewis Grabban,Lewis,Grabban,28.0,Forward,,England,GB-ENG,1988-01-12,,38.0,183.0,71.0,2016-01-11,False
+78154,Jayden Stockley,Jayden,Stockley,29.0,Forward,,England,GB-ENG,1993-09-15,,32.0,188.0,79.0,2009-07-01,False
+200370,Matt Butcher,Matt,Butcher,36.0,Forward,,England,GB-ENG,1997-05-14,,29.0,178.0,83.0,2015-07-01,False
+217331,Sam Surridge,Sam,Surridge,44.0,Forward,,England,GB-ENG,Unknown,,,,,2015-07-01,False
+214578,Jordan Green,Jordan,Green,46.0,Forward,,England,GB-ENG,1995-02-22,England,31.0,,,2015-07-01,False

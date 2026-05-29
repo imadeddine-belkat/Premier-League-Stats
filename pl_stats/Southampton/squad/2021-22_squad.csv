@@ -1,0 +1,37 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+58376,Alex McCarthy,Alex,McCarthy,1.0,Goalkeeper,Right,England,GB-ENG,1989-12-03,England,36,193.0,79.0,2016-08-01,False
+20310,Willy Caballero,Willy,Caballero,13.0,Goalkeeper,Right,Argentina,AR,1981-09-28,Argentina,44,186.0,81.0,2021-12-06,False
+233462,Jack Bycroft,Jack,Bycroft,30.0,Goalkeeper,,England,GB-ENG,2001-09-21,England,24,184.0,71.0,2019-07-22,False
+198044,Harry Lewis,Harry,Lewis,41.0,Goalkeeper,,England,GB-ENG,1997-12-20,,28,191.0,77.0,2016-07-30,False
+40383,Fraser Forster,Fraser,Forster,44.0,Goalkeeper,Right,England,GB-ENG,1988-03-17,England,38,201.0,93.0,2014-08-09,False
+158534,Kyle Walker-Peters,Kyle,Walker-Peters,2.0,Defender,Right,England,GB-ENG,1997-04-13,England,29,173.0,62.0,2020-08-11,False
+212721,Lyanco,Lyanco Evangelista,Silveira Neves Vojnovic,4.0,Defender,Right,Brazil,BR,1997-02-01,Brazil,29,187.0,85.0,2021-08-25,False
+88900,Jack Stephens,Jack,Stephens,5.0,Defender,Right,England,GB-ENG,1994-01-27,England,32,185.0,75.0,2011-07-01,False
+244560,Romain Perraud,Romain,Perraud,15.0,Defender,Left,France,FR,1997-09-22,France,28,173.0,68.0,2021-07-02,False
+491551,Thierry Small,Thierry,Small,16.0,Defender,,England,GB-ENG,2004-08-01,,21,,,2021-08-24,False
+441191,Tino Livramento,Tino,Livramento,21.0,Defender,Right,England,GB-ENG,2002-11-12,England,23,182.0,,2021-08-02,False
+450527,Mohammed Salisu,Mohammed,Salisu,22.0,Defender,Left,Ghana,GH,1999-04-17,Ghana,27,191.0,82.0,2020-08-12,False
+214470,Jake Vokins,Jake,Vokins,29.0,Defender,Left,England,GB-ENG,2000-03-17,England,26,180.0,,2019-07-22,False
+232797,Kayne Ramsay,Kayne,Ramsay,31.0,Defender,Right,England,GB-ENG,2000-10-10,,25,,,2018-12-21,False
+171771,Jan Bednarek,Jan,Bednarek,35.0,Defender,Right,Poland,PL,1996-04-12,Poland,30,189.0,84.0,2017-07-01,False
+248853,Dynel Simeu,Dynel,Simeu,38.0,Defender,Right,England,GB-ENG,2002-03-13,,24,186.0,83.0,2021-12-25,False
+213482,Yan Valery,Yan,Valery,43.0,Defender,Right,Tunisia,TN,1999-02-22,,27,180.0,85.0,2016-07-30,False
+203389,Nathan Tella,Nathan,Tella,,Midfielder,Right,England,GB-ENG,1999-07-05,England,26,173.0,70.0,2020-06-18,False
+78056,Oriol Romeu,Oriol,Romeu,6.0,Midfielder,Right,Spain,ES,1991-09-24,Spain,34,183.0,83.0,2015-08-12,False
+101178,James Ward-Prowse,James,Ward-Prowse,8.0,Midfielder,Right,England,GB-ENG,1994-11-01,England,31,173.0,66.0,2011-07-01,False
+83283,Nathan Redmond,Nathan,Redmond,11.0,Midfielder,Right,England,GB-ENG,1994-03-06,,32,173.0,69.0,2016-06-25,False
+214466,Will Smallbone,Will,Smallbone,16.0,Midfielder,Right,Ireland,IE,2000-02-21,England,26,183.0,,2019-07-22,False
+91047,Stuart Armstrong,Stuart,Armstrong,17.0,Midfielder,Right,Scotland,GB-SCT,1992-03-30,Scotland,34,183.0,75.0,2018-06-26,False
+431131,Moussa Djenepo,Moussa,Djenepo,19.0,Midfielder,Right,Mali,ML,1998-06-15,Mali,27,177.0,65.0,2019-07-01,False
+96787,Mohamed Elyounoussi,Mohamed,Elyounoussi,24.0,Midfielder,Right,Norway,NO,1994-08-04,Morocco,31,178.0,70.0,2018-06-29,False
+240143,Ibrahima Diallo,Ibrahima,Diallo,27.0,Midfielder,Left,France,FR,1999-03-08,,27,179.0,68.0,2020-10-04,False
+496661,Tyler Dibling,Tyler,Dibling,45.0,Midfielder,,England,GB-ENG,2006-03-12,England,20,,,2022-05-06,False
+447372,Ryan Finnigan,Ryan,Finnigan,50.0,Midfielder,,England,GB-ENG,2003-09-23,,22,,,2021-01-18,False
+445896,Kgaogelo Chauke,Kgaogelo,Chauke,72.0,Midfielder,,England,GB-ENG,2003-01-08,,23,,,2021-01-03,False
+20452,Shane Long,Shane,Long,7.0,Forward,Right,Ireland,IE,1987-01-22,Republic of Ireland,39,178.0,81.0,2014-08-14,False
+155511,Adam Armstrong,Adam,Armstrong,9.0,Forward,Right,England,GB-ENG,1997-02-10,England,29,172.0,69.0,2021-08-10,False
+200439,Ché Adams,Ché,Adams,10.0,Forward,Right,Scotland,GB-SCT,1996-07-13,England,29,175.0,70.0,2019-07-01,False
+440323,Armando Broja,Armando,Broja,18.0,Forward,Right,Albania,AL,2001-09-10,England,24,191.0,83.0,2021-08-10,True
+20467,Theo Walcott,Theo,Walcott,32.0,Forward,Right,England,GB-ENG,1989-03-16,England,37,176.0,68.0,2021-07-01,False
+200088,Daniel Nlundulu,Daniel,Nlundulu,40.0,Forward,Right,England,GB-ENG,1999-02-05,England,27,185.0,,2019-07-22,False
+487849,Kazeem Olaigbe,Kazeem,Olaigbe,53.0,Forward,Right,Belgium,BE,2003-01-02,Nigeria,23,,,2022-01-07,False

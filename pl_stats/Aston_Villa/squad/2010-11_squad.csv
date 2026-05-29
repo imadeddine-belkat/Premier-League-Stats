@@ -1,0 +1,38 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+1803,Brad Friedel,Brad,Friedel,1.0,Goalkeeper,,United States,US,1971-05-18,,55,191,92,2008-07-26,False
+41705,Brad Guzan,Brad,Guzan,1.0,Goalkeeper,Left,United States,US,1984-09-09,USA,41,193,94,2008-08-01,False
+1218,Andy Marshall,Andy,Marshall,33.0,Goalkeeper,,England,GB-ENG,1975-04-14,,51,188,86,2009-08-12,False
+52476,Elliot Parish,Elliot,Parish,43.0,Goalkeeper,,England,GB-ENG,1990-05-20,,36,188,83,2008-07-01,False
+52477,Nathan Baker,Nathan,Baker,2.0,Defender,,England,GB-ENG,1991-04-23,,35,188,75,2008-07-01,False
+1930,Luke Young,Luke,Young,2.0,Defender,,England,GB-ENG,1979-07-19,,46,183,77,2008-08-08,False
+13310,Stephen Warnock,Stephen,Warnock,3.0,Defender,,England,GB-ENG,1981-12-12,England,44,175,75,2009-08-27,False
+1764,Richard Dunne,Richard,Dunne,5.0,Defender,,Ireland,IE,1979-09-21,,46,188,89,2009-09-01,False
+8380,James Collins,James,Collins,6.0,Defender,,Wales,GB-WLS,1983-08-23,,42,188,83,2009-09-01,False
+58845,Ciaran Clark,Ciaran,Clark,6.0,Defender,Left,Ireland,IE,1989-09-26,,36,185,88,2008-12-03,False
+6808,Habib Beye,Habib,Beye,23.0,Defender,,Senegal,SN,1977-10-19,,48,183,79,2009-08-07,False
+17468,Carlos Cuellar,Carlos Javier,Cuéllar Jiménez,24.0,Defender,,Spain,ES,1981-08-23,Spain,44,190,84,2008-08-12,False
+45139,Eric Lichaj,Eric,Lichaj,30.0,Defender,,United States,US,1988-11-17,USA,37,175,70,2007-08-01,False
+45262,Shane Lowry,Shane,Lowry,34.0,Defender,Left,Australia,AU,1989-06-12,Australia,36,185,88,2007-07-01,False
+58621,Kyle Walker,Kyle,Walker,36.0,Defender,Right,England,GB-ENG,1990-05-28,England,36,178,80,2011-01-06,True
+25555,Moustapha Salifou,Moustapha,Salifou,,Midfielder,,Togo,TG,1983-06-01,,42,180,70,2007-08-31,False
+49493,Chris Herd,Chris,Herd,,Midfielder,,Australia,AU,1989-04-04,Australia,37,173,76,2007-07-01,False
+12002,Stewart Downing,Stewart,Downing,6.0,Midfielder,,England,GB-ENG,1984-07-22,,41,180,64,2009-07-16,False
+18892,Ashley Young,Ashley,Young,7.0,Midfielder,Both,England,GB-ENG,1985-07-09,England,40,175,65,2007-01-23,False
+3884,Robert Pirès,Robert,Pirès,8.0,Midfielder,,France,FR,1973-10-29,,52,187,80,2010-11-18,False
+51938,Marc Albrighton,Marc,Albrighton,12.0,Midfielder,Right,England,GB-ENG,1989-11-18,England,36,175,74,2008-07-01,False
+37368,Michael Bradley,Michael,Bradley,13.0,Midfielder,Right,United States,US,1987-07-31,USA,38,185,87,2011-01-31,True
+41823,Fabian Delph,Fabian,Delph,16.0,Midfielder,Left,England,GB-ENG,1989-11-21,England,36,174,60,2009-08-05,False
+15154,Jean Makoun,Jean,Makoun,17.0,Midfielder,,Cameroon,CM,1983-05-29,Cameroon,43,173,65,2011-01-15,False
+2160,Stiliyan Petrov,Stiliyan,Petrov,19.0,Midfielder,,Bulgaria,BG,1979-07-05,,46,183,69,2006-08-30,False
+14668,Nigel Reo-Coker,Nigel,Reo-Coker,20.0,Midfielder,,England,GB-ENG,1984-05-14,England,42,176,78,2007-07-05,False
+77800,Gary Gardner,Gary,Gardner,25.0,Midfielder,Right,England,GB-ENG,1992-06-29,England,33,186,82,2009-07-01,False
+39954,Isaiah Osbourne,Isaiah,Osbourne,27.0,Midfielder,,England,GB-ENG,1987-11-05,,38,188,79,2006-07-01,False
+79619,Jonathan Hogg,Jonathan,Hogg,28.0,Midfielder,,England,GB-ENG,1988-12-06,,37,170,67,2009-06-01,False
+90590,Daniel Johnson,Daniel,Johnson,36.0,Midfielder,Left,Jamaica,JM,1992-10-08,Jamaica,33,174,67,2010-07-01,False
+20481,Stephen Ireland,Stephen,Ireland,40.0,Midfielder,,Ireland,IE,1986-08-22,,39,173,67,2010-08-18,False
+59013,Barry Bannan,Barry,Bannan,42.0,Midfielder,,Scotland,GB-SCT,1989-12-01,Scotland,36,170,60,2008-07-01,False
+80979,Andreas Weimann,Andreas,Weimann,10.0,Forward,,Austria,AT,1991-08-05,Austria,34,179,76,2009-06-01,False
+27450,Gabriel Agbonlahor,Gabriel,Agbonlahor,11.0,Forward,,England,GB-ENG,1986-10-13,,39,180,76,2004-07-01,False
+1765,Emile Heskey,Emile,Heskey,18.0,Forward,,England,GB-ENG,1978-01-11,,48,188,82,2009-01-23,False
+10738,Darren Bent,Darren,Bent,19.0,Forward,,England,GB-ENG,1984-02-06,,42,180,73,2011-01-18,False
+51484,Nathan Delfouneso,Nathan,Delfouneso,38.0,Forward,,England,GB-ENG,1991-02-02,,35,186,69,2008-07-01,False

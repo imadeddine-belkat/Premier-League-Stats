@@ -1,0 +1,33 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+17745,Kasper Schmeichel,Kasper,Schmeichel,1.0,Goalkeeper,,Denmark,DK,1986-11-05,,39,189,84,2011-06-27,False
+38038,Ben Hamer,Ben,Hamer,12.0,Goalkeeper,,England,GB-ENG,1987-11-20,,38,193,78,2014-07-01,False
+1827,Mark Schwarzer,Mark,Schwarzer,32.0,Goalkeeper,,Australia,AU,1972-10-06,,53,194,95,2015-01-06,False
+114315,Jonny Maddison,Jonathan,Maddison,41.0,Goalkeeper,,England,GB-ENG,1994-09-04,,31,187,76,2015-08-15,False
+46695,Ritchie de Laet,Ritchie,de Laet,,Defender,,Belgium,BE,1988-11-28,,37,186,77,2012-07-01,False
+1413,Paul Konchesky,Paul,Konchesky,3.0,Defender,,England,GB-ENG,1981-05-15,,45,178,69,2011-07-13,False
+172850,Ben Chilwell,Ben,Chilwell,3.0,Defender,,England,GB-ENG,1996-12-21,,29,178,76,2015-07-01,False
+15033,Wes Morgan,Wes,Morgan,5.0,Defender,Right,Jamaica,JM,1984-01-21,England,42,185,93,2012-01-30,False
+12413,Robert Huth,Robert,Huth,6.0,Defender,,Germany,DE,1984-08-18,,41,191,80,2015-06-24,False
+40725,Danny Simpson,Danny,Simpson,17.0,Defender,,England,GB-ENG,1987-01-04,,39,178,74,2014-08-30,False
+86857,Liam Moore,Liam,Moore,18.0,Defender,,England,GB-ENG,1993-01-31,,33,185,86,2010-07-01,False
+37388,Marcin Wasilewski,Marcin,Wasilewski,27.0,Defender,,Poland,PL,1980-06-09,,45,186,88,2013-09-17,False
+37402,Christian Fuchs,Christian,Fuchs,28.0,Defender,Left,Austria,AT,1986-04-07,Austria,40,186,86,2015-07-01,False
+41321,Yohan Benalouane,Yohan,Benalouane,29.0,Defender,Right,Tunisia,TN,1987-03-28,France,39,180,74,2015-08-03,False
+61603,Daniel Drinkwater,Daniel,Drinkwater,4.0,Midfielder,,England,GB-ENG,1990-03-05,,36,178,70,2012-01-19,False
+11848,Dean Hammond,Dean,Hammond,7.0,Midfielder,,England,GB-ENG,1983-03-07,,43,183,74,2013-08-31,False
+61604,Matthew James,Matthew,James,8.0,Midfielder,,England,GB-ENG,1991-07-22,,34,183,76,2012-07-01,False
+13152,Andy King,Andy,King,10.0,Midfielder,,Wales,GB-WLS,1988-10-29,,37,183,75,2007-07-01,False
+51938,Marc Albrighton,Marc,Albrighton,11.0,Midfielder,,England,GB-ENG,1989-11-18,England,36,175,67,2014-07-01,False
+155569,Daniel Amartey,Daniel,Amartey,13.0,Midfielder,,Ghana,GH,1994-12-21,,31,182,76,2016-01-22,False
+116594,N'Golo Kanté,N'Golo,Kanté,14.0,Midfielder,,France,FR,1991-03-29,,35,169,68,2015-08-03,False
+86417,Jeffrey Schlupp,Jeffrey,Schlupp,15.0,Midfielder,,Ghana,GH,1992-12-23,Germany,33,178,72,2010-07-01,False
+172632,Demarai Gray,Demarai,Gray,22.0,Midfielder,,England,GB-ENG,1996-06-28,,29,179,66,2016-01-04,False
+21083,Nathan Dyer,Nathan,Dyer,24.0,Midfielder,,England,GB-ENG,1987-11-29,,38,165,60,2015-09-01,True
+103025,Riyad Mahrez,Riyad,Mahrez,26.0,Midfielder,,Algeria,DZ,1991-02-21,France,35,179,61,2014-01-11,False
+40772,Gökhan Inler,Gökhan,Inler,33.0,Midfielder,Right,Switzerland,CH,1984-06-27,Switzerland,41,183,79,2015-08-19,False
+179132,Andre Olukanmi,Andre,Olukanmi,39.0,Midfielder,,England,GB-ENG,1997-12-01,,28,183,69,2015-07-01,False
+101668,Jamie Vardy,Jamie,Vardy,9.0,Forward,,England,GB-ENG,1987-01-11,,39,178,76,2012-07-01,False
+154968,Tom Lawrence,Tom,Lawrence,16.0,Forward,,Wales,GB-WLS,1994-01-13,,32,175,75,2014-09-01,False
+78412,Shinji Okazaki,Shinji,Okazaki,20.0,Forward,Right,Japan,JP,1986-04-16,Japan,40,174,76,2015-07-01,False
+54316,Leonardo Ulloa,Leonardo,Ulloa,23.0,Forward,Right,Argentina,AR,1986-07-26,Argentina,39,190,80,2014-07-22,False
+167867,Joseph Dodoo,Joseph,Dodoo,36.0,Forward,,England,GB-ENG,1995-06-29,,30,183,70,2012-07-01,False

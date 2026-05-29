@@ -1,0 +1,34 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+32259,Darren Randolph,Darren,Randolph,1,Goalkeeper,,Ireland,IE,1987-05-12,,39,188.0,98.0,2015-07-01,False
+60706,Adrián,Adrián,San Miguel del Castillo,13,Goalkeeper,,Spain,ES,1987-01-03,Spain,39,190.0,80.0,2013-07-01,False
+82257,Raphael Spiegel,Raphael,Spiegel,34,Goalkeeper,,Switzerland,CH,1992-12-19,,33,197.0,89.0,2012-07-23,False
+172565,Sam Howes,Samuel,Howes,46,Goalkeeper,,England,GB-ENG,1997-11-10,,28,,,2016-01-29,False
+48717,Winston Reid,Winston,Reid,2,Defender,,New Zealand,NZ,1988-07-03,,37,190.0,87.0,2010-08-05,False
+55459,Aaron Cresswell,Aaron,Cresswell,3,Defender,,England,GB-ENG,1989-12-15,,36,170.0,66.0,2014-07-03,False
+49413,James Tomkins,James,Tomkins,5,Defender,,England,GB-ENG,1989-03-29,,37,191.0,74.0,2007-12-01,False
+19575,Joey O'Brien,Joey,O'Brien,17,Defender,,Ireland,IE,1986-02-17,,40,180.0,70.0,2011-07-30,False
+8380,James Collins,James,Collins,19,Defender,,Wales,GB-WLS,1983-08-23,,42,188.0,83.0,2012-08-01,False
+40669,Angelo Ogbonna,Angelo,Ogbonna,21,Defender,Left,Italy,IT,1988-05-23,Italy,38,191.0,86.0,2015-07-10,False
+113564,Sam Byram,Sam,Byram,22,Defender,,England,GB-ENG,1993-09-16,,32,180.0,72.0,2016-01-20,False
+88812,Doneil Henry,Doneil,Henry,25,Defender,,Canada,CA,1993-04-20,Canada,33,188.0,82.0,2015-01-03,False
+156658,Reece Burke,Reece,Burke,32,Defender,,England,GB-ENG,1996-09-02,,29,189.0,81.0,2013-07-01,False
+97046,Stephen Hendrie,Stephen,Hendrie,33,Defender,,Scotland,GB-SCT,1995-01-08,,31,178.0,70.0,2015-07-01,False
+173792,Reece Oxford,Reece,Oxford,35,Defender,,England,GB-ENG,1998-12-16,England,27,178.0,71.0,2014-08-25,False
+156336,Lewis Page,Lewis,Page,37,Defender,,England,GB-ENG,1996-05-20,,30,178.0,73.0,2014-07-01,False
+21091,Alexandre Song,Alexandre,Song,4,Midfielder,,Cameroon,CM,1987-09-09,Cameroon,38,185.0,74.0,2015-08-31,True
+55037,Cheikhou Kouyaté,Cheikhou,Kouyaté,8,Midfielder,,Senegal,SN,1989-12-21,,36,189.0,83.0,2014-07-01,False
+59779,Pedro Obiang,Pedro,Obiang,14,Midfielder,Mostly Right,Spain,ES,1992-03-27,Spain,34,185.0,75.0,2015-07-01,False
+18073,Mark Noble,Mark,Noble,16,Midfielder,,England,GB-ENG,1987-05-08,,39,180.0,70.0,2003-07-01,False
+49013,Victor Moses,Victor,Moses,20,Midfielder,Both,Nigeria,NG,1990-12-12,Nigeria,35,177.0,75.0,2015-09-01,True
+37901,Dimitri Payet,Dimitri,Payet,27,Midfielder,,France,FR,1987-03-29,,39,175.0,77.0,2015-07-01,False
+86934,Manuel Lanzini,Manuel,Lanzini,28,Midfielder,Right,Argentina,AR,1993-02-15,Argentina,33,167.0,59.0,2015-07-21,True
+57531,Michail Antonio,Michail,Antonio,30,Midfielder,,England,GB-ENG,1990-03-28,,36,180.0,82.0,2015-09-01,False
+172567,Josh Cullen,Josh,Cullen,39,Midfielder,,Ireland,IE,1996-04-07,England,30,175.0,70.0,2014-07-01,False
+111055,Martin Samuelsen,Martin,Samuelsen,42,Midfielder,,Norway,NO,1997-04-17,,29,189.0,72.0,2015-06-20,False
+154040,George Dobson,George,Dobson,44,Midfielder,,England,GB-ENG,1997-11-15,,28,,,2016-03-02,False
+195859,Marcus Browne,Marcus,Browne,52,Midfielder,,England,GB-ENG,1997-12-18,,28,,,2016-02-13,False
+40142,Andy Carroll,Andy,Carroll,9,Forward,,England,GB-ENG,1989-01-06,England,37,193.0,79.0,2013-07-01,False
+148179,Enner Valencia,Enner,Valencia,11,Forward,Right,Ecuador,EC,1989-11-04,Ecuador,36,174.0,74.0,2014-07-17,False
+73889,Diafra Sakho,Diafra,Sakho,15,Forward,,Senegal,SN,1989-12-24,,36,184.0,79.0,2014-08-14,False
+85388,Emmanuel Emenike,Emmanuel,Emenike,29,Forward,Right,Nigeria,NG,1987-05-10,Nigeria,39,182.0,82.0,2016-01-31,True
+160585,Djair Parfitt-Williams,Djair,Parfitt-Williams,40,Forward,,United States,US,1996-10-01,,29,168.0,64.0,2015-07-02,False

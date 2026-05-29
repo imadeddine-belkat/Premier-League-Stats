@@ -1,0 +1,32 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+489639,Bart Verbruggen,Bart,Verbruggen,1,Goalkeeper,Right,Netherlands,NL,2002-08-18,Netherlands,23,193.0,66.0,2023-07-03,False
+49262,Jason Steele,Jason,Steele,23,Goalkeeper,Right,England,GB-ENG,1990-08-18,England,35,188.0,79.0,2018-07-01,False
+209288,Tom McGill,Tom,McGill,38,Goalkeeper,Right,Canada,CA,2000-03-25,Canada,26,185.0,80.0,2021-02-02,False
+627550,Nils Ramming,Nils,Ramming,62,Goalkeeper,Both,Sweden,SE,2007-03-28,England,19,190.0,80.0,2025-10-28,False
+223434,Igor Julio,Igor Julio,dos Santos de Paulo,3,Defender,Left,Brazil,BR,1998-02-07,Brazil,28,185.0,85.0,2023-07-26,False
+110735,Adam Webster,Adam,Webster,4,Defender,Right,England,GB-ENG,1995-01-04,England,31,191.0,75.0,2019-08-03,False
+83299,Lewis Dunk,Lewis,Dunk,5,Defender,Right,England,GB-ENG,1991-11-21,England,34,192.0,88.0,2009-07-01,False
+469142,Jan Paul van Hecke,Jan Paul,van Hecke,6,Defender,Right,Netherlands,NL,2000-06-08,Netherlands,25,189.0,79.0,2020-09-10,False
+204120,Olivier Boscagli,Olivier,Boscagli,21,Defender,Left,France,FR,1997-11-18,,28,181.0,68.0,2025-07-02,False
+231416,Ferdi Kadioglu,Ferdi,Kadioglu,24,Defender,Right,Turkey,TR,1999-10-07,Netherlands,26,174.0,68.0,2024-08-27,False
+465730,Maxim De Cuyper,Maxim,De Cuyper,29,Defender,Left,Belgium,BE,2000-12-22,Belgium,25,182.0,72.0,2025-07-05,False
+111478,Joël Veltman,Joël,Veltman,34,Defender,Right,Netherlands,NL,1992-01-15,Netherlands,34,184.0,75.0,2020-07-29,False
+547720,Charlie Tasker,Charlie,Tasker,51,Defender,Right,England,GB-ENG,2006-02-24,England,20,185.0,,2025-03-28,False
+604988,Freddie Simmonds,Freddie,Simmonds,71,Defender,Right,England,GB-ENG,2008-03-09,England,18,189.0,,2024-07-01,False
+109345,Solly March,Solly,March,7,Midfielder,Left,England,GB-ENG,1994-07-20,England,31,180.0,88.0,2012-07-01,False
+532529,Jack Hinshelwood,Jack,Hinshelwood,13,Midfielder,Right,England,GB-ENG,2005-04-11,England,21,181.0,76.0,2022-12-30,False
+535301,Carlos Baleba,Carlos,Baleba,17,Midfielder,Left,Cameroon,CM,2004-01-03,Cameroon,22,179.0,73.0,2023-08-29,False
+15157,James Milner,James,Milner,20,Midfielder,Right,England,GB-ENG,1986-01-04,England,40,175.0,70.0,2023-07-01,False
+451340,Kaoru Mitoma,Kaoru,Mitoma,22,Midfielder,Right,Japan,JP,1997-05-20,Japan,29,178.0,73.0,2021-08-09,False
+514254,Diego Gómez,Diego,Gómez,25,Midfielder,Right,Paraguay,PY,2003-03-27,Paraguay,23,183.0,77.0,2025-01-01,False
+509416,Yasin Ayari,Yasin,Ayari,26,Midfielder,Right,Sweden,SE,2003-10-06,Sweden,22,172.0,65.0,2023-01-30,False
+467779,Mats Wieffer,Mats,Wieffer,27,Midfielder,Right,Netherlands,NL,1999-11-16,Netherlands,26,188.0,78.0,2024-07-06,False
+60307,Pascal Groß,Pascal,Groß,30,Midfielder,Right,Germany,DE,1991-06-15,Germany,34,181.0,78.0,2026-01-02,False
+219249,Matt O'Riley,Matt,O'Riley,33,Midfielder,Left,Denmark,DK,2000-11-21,England,25,187.0,77.0,2024-08-26,False
+597320,Harry Howell,Harry,Howell,53,Midfielder,Left,England,GB-ENG,2008-04-20,England,18,180.0,,2025-04-11,False
+608181,Stefanos Tzimas,Stefanos,Tzimas,9,Forward,Both,Greece,GR,2006-01-06,Greece,20,186.0,77.0,2025-02-03,False
+463067,Georginio Rutter,Georginio,Rutter,10,Forward,Left,France,FR,2002-04-20,France,24,182.0,83.0,2024-08-19,False
+592031,Yankuba Minteh,Yankuba,Minteh,11,Forward,Left,Gambia,GM,2004-07-22,Gambia,21,180.0,65.0,2024-07-01,False
+50175,Danny Welbeck,Danny,Welbeck,18,Forward,Right,England,GB-ENG,1990-11-26,England,35,185.0,73.0,2020-10-18,False
+647850,Charalampos Kostoulas,Charalampos,Kostoulas,19,Forward,Right,Greece,GR,2007-05-30,Greece,18,185.0,,2025-07-01,False
+556637,Nehemiah Oriola,Nehemiah,Oriola,58,Forward,Right,England,GB-ENG,2007-06-11,England,18,,,2025-10-17,False

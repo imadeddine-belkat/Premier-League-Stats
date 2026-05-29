@@ -1,0 +1,35 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+18656,Heurelho Gomes,Heurelho,Gomes,1.0,Goalkeeper,Right,Brazil,BR,1981-02-15,Brazil,45,191,91,2014-07-01,False
+26719,Rene Gilmartin,Rene,Gilmartin,13.0,Goalkeeper,,Ireland,IE,1987-05-31,,38,196,85,2014-08-25,False
+56827,Costel Pantilimon,Costel,Pantilimon,30.0,Goalkeeper,,Romania,RO,1987-02-01,,39,203,96,2016-01-19,False
+57187,Giedrius Arlauskis,Giedrius,Arlauskis,34.0,Goalkeeper,Left,Lithuania,LT,1987-12-01,Lithuania,38,184,80,2015-07-01,False
+39942,Daniel Pudil,Daniel,Pudil,,Defender,Left,Czech Republic,CZ,1985-09-27,Czech Republic,40,185,81,2013-07-05,False
+47645,Juanfran,Juan Francisco,Moreno Fuertes,,Defender,Right,Spain,ES,1988-09-11,Spain,37,179,72,2015-07-01,False
+67527,Nyom,Allan-Roméo,Nyom,2.0,Defender,Right,Cameroon,CM,1988-05-10,France,38,189,81,2015-07-14,False
+52153,Miguel Britos,Miguel,Britos,3.0,Defender,Left,Uruguay,UY,1985-07-17,Uruguay,40,188,82,2015-07-20,False
+52800,Gabriele Angella,Gabriele,Angella,4.0,Defender,Right,Italy,IT,1989-04-28,Italy,37,189,79,2013-07-19,False
+41945,Sebastian Prödl,Sebastian,Prödl,5.0,Defender,Right,Austria,AT,1987-06-21,Austria,38,194,92,2015-07-01,False
+49864,Joel Ekstrand,Joel,Ekstrand,6.0,Defender,Right,Sweden,SE,1989-02-04,Sweden,37,188,77,2013-07-24,False
+98780,Juan Carlos Paredes,Juan Carlos,Paredes,14.0,Defender,Right,Ecuador,EC,1987-07-08,Ecuador,38,174,72,2014-07-16,False
+41338,Craig Cathcart,Craig,Cathcart,15.0,Defender,,Northern Ireland,GB-NIR,1989-02-06,,37,188,73,2014-07-01,False
+126184,Nathan Aké,Nathan,Aké,16.0,Defender,,Netherlands,NL,1995-02-18,,31,180,75,2015-08-14,True
+73698,Miguel Layún,Miguel,Layún,19.0,Defender,Right,Mexico,MX,1988-06-25,Mexico,37,178,70,2015-01-09,False
+40868,José Holebas,José,Holebas,25.0,Defender,,Greece,GR,1984-06-27,Germany,41,184,77,2015-07-01,False
+149786,Essaïd Belkalem,Essaïd,Belkalem,27.0,Defender,,Algeria,DZ,1989-01-01,Algeria,37,190,90,2014-02-03,False
+97296,Tommie Hoban,Tommie,Hoban,31.0,Defender,,Ireland,IE,1994-01-24,England,32,189,84,2010-07-01,False
+28160,Mario Suárez,Mario,Suárez,,Midfielder,Right,Spain,ES,1987-02-24,Spain,39,188,80,2016-01-30,False
+17441,Jurado,José Manuel,Jurado Marín,7.0,Midfielder,Both,Spain,ES,1986-06-29,Spain,39,176,72,2015-07-22,False
+44604,Nordin Amrabat,Nordin,Amrabat,7.0,Midfielder,Right,Morocco,MA,1987-03-31,Netherlands,39,178,77,2016-01-18,False
+21123,Valon Behrami,Valon,Behrami,11.0,Midfielder,Right,Switzerland,CH,1985-04-19,Kosovo,41,185,78,2015-07-11,False
+121599,Abdoulaye Doucouré,Abdoulaye,Doucouré,16.0,Midfielder,,France,FR,1993-01-01,,33,183,75,2016-02-01,False
+44302,Adlène Guédioura,Adlène,Guédioura,17.0,Midfielder,,Algeria,DZ,1985-11-12,France,40,183,74,2015-09-01,False
+19342,Ikechi Anya,Ikechi,Anya,21.0,Midfielder,Right,Scotland,GB-SCT,1988-01-03,Scotland,38,168,58,2013-07-22,False
+41926,Almen Abdi,Almen,Abdi,22.0,Midfielder,Right,Switzerland,CH,1986-10-21,Kosovo,39,180,72,2013-07-19,False
+16045,Ben Watson,Ben,Watson,23.0,Midfielder,,England,GB-ENG,1985-07-09,,40,178,68,2015-01-23,False
+38439,Etienne Capoue,Etienne,Capoue,29.0,Midfielder,,France,FR,1988-07-11,,37,189,80,2015-07-06,False
+194401,Adalberto Peñaranda,Adalberto,Peñaranda,,Forward,Right,Venezuela,VE,1997-05-31,Venezuela,28,185,79,2016-02-01,False
+41725,Troy Deeney,Troy,Deeney,9.0,Forward,,England,GB-ENG,1988-06-29,,37,180,76,2010-08-05,False
+179620,Obbi Oularé,Mamadou Obbi,Oularé,10.0,Forward,,Belgium,BE,1996-01-08,,30,194,94,2015-09-01,False
+81183,Matej Vydra,Matej,Vydra,20.0,Forward,,Czech Republic,CZ,1992-05-01,Czech Republic,34,180,71,2014-07-01,False
+88935,Steven Berghuis,Steven,Berghuis,20.0,Forward,,Netherlands,NL,1991-12-19,Netherlands,34,183,72,2015-07-27,False
+58498,Odion Ighalo,Odion,Ighalo,24.0,Forward,Right,Nigeria,NG,1989-06-16,Nigeria,36,188,70,2014-10-25,False

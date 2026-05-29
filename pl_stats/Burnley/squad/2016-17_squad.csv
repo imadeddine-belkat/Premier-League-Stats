@@ -1,0 +1,32 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+21205,Tom Heaton,Tom,Heaton,1.0,Goalkeeper,,England,GB-ENG,1986-04-15,,40,188,85,2013-07-01,False
+1801,Paul Robinson,Paul,Robinson,17.0,Goalkeeper,,England,GB-ENG,1979-10-15,,46,193,90,2016-01-26,False
+98747,Nick Pope,Nick,Pope,29.0,Goalkeeper,,England,GB-ENG,1992-04-19,,34,191,76,2016-07-19,False
+68983,Matthew Lowton,Matthew,Lowton,2.0,Defender,,England,GB-ENG,1989-06-09,,36,180,78,2015-06-22,False
+91979,Jon Flanagan,Jon,Flanagan,4.0,Defender,,England,GB-ENG,1993-01-01,England,33,181,79,2016-08-05,True
+17761,James Tarkowski,James,Tarkowski,5.0,Defender,,England,GB-ENG,1992-11-19,,33,185,81,2016-02-01,False
+106611,Michael Keane,Michael,Keane,5.0,Defender,,England,GB-ENG,1993-01-11,,33,191,82,2015-01-08,False
+51927,Ben Mee,Ben,Mee,6.0,Defender,,England,GB-ENG,1989-09-21,,36,180,74,2012-07-01,False
+40616,Stephen Ward,Stephen,Ward,23.0,Defender,,Ireland,IE,1985-08-20,,40,184,82,2014-08-15,False
+85017,Tendayi Darikwa,Tendayi,Darikwa,27.0,Defender,,England,GB-ENG,1991-12-13,,34,187,77,2015-07-30,False
+41674,Kevin Long,Kevin,Long,28.0,Defender,,Ireland,IE,1990-08-18,,35,188,83,2010-01-01,False
+124125,Tom Anderson,Tom,Anderson,34.0,Defender,,England,GB-ENG,1993-09-02,,32,193,83,2011-07-01,False
+182620,Ntumba Massanka,Ntumba,Massanka,,Midfielder,,England,GB-ENG,1996-11-30,,29,191,85,2014-07-01,False
+15982,Dean Marney,Dean,Marney,8.0,Midfielder,,England,GB-ENG,1984-01-31,,42,183,72,2010-07-01,False
+15944,Michael Kightly,Michael,Kightly,11.0,Midfielder,,England,GB-ENG,1986-01-24,,40,173,71,2014-07-01,False
+90517,Robbie Brady,Robbie,Brady,12.0,Midfielder,,Ireland,IE,1992-01-14,Republic of Ireland,34,176,71,2017-01-31,False
+83314,Jeff Hendrick,Jeff,Hendrick,13.0,Midfielder,,Ireland,IE,1992-01-31,Republic of Ireland,34,185,79,2016-08-31,False
+39847,Steven Defour,Steven,Defour,16.0,Midfielder,Right,Belgium,BE,1988-04-15,Belgium,38,173,65,2016-08-16,False
+60586,Johann Berg Gudmundsson,Johann,Berg Gudmundsson,17.0,Midfielder,Left,Iceland,IS,1990-10-27,Iceland,35,186,78,2016-07-19,False
+60551,Ashley Westwood,Ashley,Westwood,18.0,Midfielder,,England,GB-ENG,1990-04-01,,36,175,80,2017-01-31,False
+15276,Joey Barton,Joey,Barton,19.0,Midfielder,,England,GB-ENG,1982-09-02,,43,172,70,2017-01-02,False
+95508,Fredrik Ulvestad,Fredrik,Ulvestad,20.0,Midfielder,Right,Norway,NO,1992-06-17,Norway,33,183,83,2015-03-10,False
+28244,George Boyd,George,Boyd,21.0,Midfielder,,Scotland,GB-SCT,1985-10-02,,40,186,79,2014-09-01,False
+39158,Scott Arfield,Scott,Arfield,37.0,Midfielder,,Canada,CA,1988-11-01,,37,178,70,2013-07-19,False
+234483,Aiden O'Neill,Aiden,O'Neill,41.0,Midfielder,,Australia,AU,1998-07-04,Australia,27,178,70,2016-08-20,False
+151103,Brad Jackson,Brad,Jackson,43.0,Midfielder,,England,GB-ENG,1996-10-20,,29,175,70,2015-08-01,False
+73426,Andre Gray,Andre,Gray,7.0,Forward,,England,GB-ENG,1991-06-26,,34,178,83,2015-08-21,False
+40399,Sam Vokes,Sam,Vokes,9.0,Forward,,Wales,GB-WLS,1989-10-21,,36,186,90,2012-07-31,False
+44699,Ashley Barnes,Ashley,Barnes,10.0,Forward,,Austria,AT,1989-10-30,England,36,186,77,2014-01-10,False
+153678,Chris Long,Chris,Long,24.0,Forward,,England,GB-ENG,1995-02-25,,31,180,77,2015-07-28,False
+207725,Daniel Agyei,Daniel,Agyei,32.0,Forward,,England,GB-ENG,1997-06-01,,28,183,77,2015-07-29,False

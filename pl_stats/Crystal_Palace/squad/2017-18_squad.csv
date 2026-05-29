@@ -1,0 +1,36 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+11554,Julian Speroni,Julian,Speroni,1,Goalkeeper,,Argentina,AR,1979-05-18,,47,186.0,87.0,2002-08-01,False
+20066,Wayne Hennessey,Wayne,Hennessey,13,Goalkeeper,,Wales,GB-WLS,1987-01-24,,39,198.0,90.0,2014-01-31,False
+51917,Diego Cavalieri,Diego,Cavalieri,16,Goalkeeper,Left,Brazil,BR,1982-12-01,Brazil,43,189.0,86.0,2018-03-02,False
+199806,Dion Henry,Dion,Henry,30,Goalkeeper,,England,GB-ENG,1997-09-12,,28,180.0,65.0,2017-10-13,False
+55494,Joel Ward,Joel,Ward,2,Defender,,England,GB-ENG,1989-10-29,,36,188.0,83.0,2012-05-29,False
+74230,Patrick van Aanholt,Patrick,van Aanholt,3,Defender,Left,Netherlands,NL,1990-08-29,Netherlands,35,176.0,74.0,2017-01-30,False
+49413,James Tomkins,James,Tomkins,5,Defender,,England,GB-ENG,1989-03-29,,37,192.0,74.0,2016-06-05,False
+19188,Scott Dann,Scott,Dann,6,Defender,,England,GB-ENG,1987-02-14,,39,188.0,76.0,2014-01-31,False
+40784,Mamadou Sakho,Mamadou,Sakho,12,Defender,Left,France,FR,1990-02-13,France,36,187.0,83.0,2017-08-31,False
+86417,Jeffrey Schlupp,Jeffrey,Schlupp,15,Defender,Left,Ghana,GH,1992-12-23,Germany,33,178.0,72.0,2017-01-13,False
+79228,Pape Souaré,Pape,Souaré,23,Defender,Left,Senegal,SN,1990-06-06,,35,178.0,69.0,2015-01-30,False
+201084,Timothy Fosu-Mensah,Timothy,Fosu-Mensah,24,Defender,Right,Netherlands,NL,1998-01-02,,28,190.0,78.0,2017-08-10,True
+7906,Damien Delaney,Damien,Delaney,27,Defender,,Ireland,IE,1981-07-20,,44,191.0,89.0,2012-08-31,False
+214590,Aaron Wan-Bissaka,Aaron,Wan-Bissaka,29,Defender,,England,GB-ENG,1997-11-26,,28,183.0,72.0,2016-12-13,False
+185478,Jaroslaw Jach,Jaroslaw,Jach,33,Defender,Left,Poland,PL,1994-02-17,Poland,32,192.0,78.0,2018-01-23,False
+58786,Martin Kelly,Martin,Kelly,34,Defender,Right,England,GB-ENG,1990-04-27,,36,191.0,77.0,2014-08-14,False
+114536,Ryan Inniss,Ryan,Inniss,45,Defender,,England,GB-ENG,1995-06-05,,30,196.0,84.0,2011-07-01,False
+66975,Luka Milivojevic,Luka,Milivojevic,4,Midfielder,Right,Serbia,RS,1991-04-07,Yugoslavia,35,186.0,80.0,2017-01-31,False
+27341,Yohan Cabaye,Yohan,Cabaye,7,Midfielder,,France,FR,1986-01-14,France,40,174.0,71.0,2015-07-10,False
+126187,Ruben Loftus-Cheek,Ruben,Loftus-Cheek,8,Midfielder,Right,England,GB-ENG,1996-01-23,England,30,191.0,88.0,2017-07-12,True
+60252,Andros Townsend,Andros,Townsend,10,Midfielder,Left,England,GB-ENG,1991-07-16,England,34,181.0,77.0,2016-07-01,False
+75773,Lee Chung-yong,Chung-yong,Lee,14,Midfielder,Right,South Korea,KR,1988-07-02,Korea Republic,37,180.0,69.0,2015-02-02,False
+50471,James McArthur,James,McArthur,18,Midfielder,,Scotland,GB-SCT,1987-10-07,,38,178.0,75.0,2014-09-01,False
+218112,Jason Eyenga Lokilo,Jason,Eyenga Lokilo,28,Midfielder,,DR Congo,CD,1998-09-17,,27,,,2017-08-11,False
+163776,Erdal Rakip,Erdal,Rakip,31,Midfielder,,Sweden,SE,1996-02-13,Sweden,30,180.0,72.0,2018-01-22,True
+209043,Nya Kirby,Nya,Kirby,36,Midfielder,,England,GB-ENG,2000-01-31,,26,174.0,,2017-07-18,False
+19197,Jason Puncheon,Jason,Puncheon,42,Midfielder,,England,GB-ENG,1986-06-18,,39,173.0,70.0,2014-01-31,False
+173954,Jairo Riedewald,Jairo,Riedewald,44,Midfielder,Left,Netherlands,NL,1996-09-09,Netherlands,29,182.0,79.0,2017-07-24,False
+143877,Alexander Sørloth,Alexander,Sørloth,9,Forward,Right,Norway,NO,1995-12-05,Norway,30,193.0,90.0,2018-01-31,False
+82403,Wilfried Zaha,Wilfried,Zaha,11,Forward,,Cote d’Ivoire,CI,1992-11-10,Côte d'Ivoire,33,180.0,66.0,2015-02-02,False
+54861,Christian Benteke,Christian,Benteke,17,Forward,Right,Belgium,BE,1990-12-03,Congo DR,35,190.0,83.0,2016-08-20,False
+59125,Connor Wickham,Connor,Wickham,21,Forward,,England,GB-ENG,1993-03-31,,33,191.0,90.0,2015-08-03,False
+44343,Bakary Sako,Bakary,Sako,26,Forward,Left,Mali,ML,1988-04-26,France,38,183.0,85.0,2015-08-05,False
+221245,Levi Lumeka,Levi,Lumeka,32,Forward,,England,GB-ENG,1998-09-05,,27,,,2017-09-09,False
+432705,James Daly,James,Daly,37,Forward,Left,England,GB-ENG,2000-01-12,,26,,,2018-04-06,False

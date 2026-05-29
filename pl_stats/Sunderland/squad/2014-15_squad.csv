@@ -1,0 +1,35 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+20487,Vito Mannone,Vito,Mannone,1.0,Goalkeeper,,Italy,IT,1988-03-02,,38,188,80,2013-07-03,False
+56827,Costel Pantilimon,Costel,Pantilimon,1.0,Goalkeeper,,Romania,RO,1987-02-01,,39,203,96,2014-07-01,False
+111234,Jordan Pickford,Jordan,Pickford,13.0,Goalkeeper,,England,GB-ENG,1994-03-07,,32,185,77,2011-07-01,False
+168717,Max Stryjek,Maksymilian,Stryjek,32.0,Goalkeeper,,Poland,PL,1996-07-18,,29,188,81,2014-07-01,False
+114305,Joel Dixon,Joel,Dixon,48.0,Goalkeeper,,England,GB-ENG,1993-12-09,,32,193,76,2013-07-01,False
+88372,Santiago Vergini,Santiago,Vergini,,Defender,Right,Argentina,AR,1988-08-03,Argentina,37,191,83,2014-08-07,False
+52828,Valentin Roberge,Valentin,Roberge,,Defender,Both,France,FR,1987-06-09,,38,189,73,2013-07-01,False
+11467,Billy Jones,Billy,Jones,2.0,Defender,,England,GB-ENG,1987-03-24,,39,183,77,2014-07-01,False
+74230,Patrick van Aanholt,Patrick,van Aanholt,3.0,Defender,,Netherlands,NL,1990-08-29,Netherlands,35,177,74,2014-07-25,False
+1841,Wes Brown,Wes,Brown,5.0,Defender,,England,GB-ENG,1979-10-13,,46,185,77,2011-07-07,False
+6734,Anthony Réveillere,Anthony,Réveillere,15.0,Defender,Right,France,FR,1979-11-10,France,46,181,76,2014-10-23,False
+3736,John O'Shea,John,O'Shea,16.0,Defender,,Ireland,IE,1981-04-30,,45,191,75,2011-07-07,False
+78108,Sebastián Coates,Sebastián,Coates,22.0,Defender,Right,Uruguay,UY,1990-10-07,Uruguay,35,196,85,2014-09-01,True
+154560,Tom Beadling,Thomas,Beadling,31.0,Defender,,Australia,AU,1996-01-16,,30,185,80,2014-07-01,False
+154558,Thomas Robson,Thomas,Robson,34.0,Defender,,England,GB-ENG,1995-09-11,,30,178,75,2014-11-08,False
+50023,Jordi Gómez,Jordi,Gomez Garcia-Penche,,Midfielder,,Spain,ES,1985-05-24,,41,178,74,2014-07-01,False
+88601,Charalampos Mavrias,Charalampos,Mavrias,,Midfielder,Right,Greece,GR,1994-02-21,Greece,32,178,78,2013-08-22,False
+55641,Emanuele Giaccherini,Emanuele,Giaccherini,,Midfielder,Right,Italy,IT,1985-05-05,Italy,41,167,60,2013-07-16,False
+86444,Ricardo Álvarez,Ricardo,Álvarez,,Midfielder,Left,Argentina,AR,1988-04-12,Argentina,38,188,73,2014-09-01,True
+49836,Liam Bridcutt,Liam,Bridcutt,,Midfielder,,Scotland,GB-SCT,1989-05-08,England,37,175,73,2014-01-31,False
+28448,Lee Cattermole,Lee,Cattermole,6.0,Midfielder,,England,GB-ENG,1988-03-21,,38,178,76,2009-08-12,False
+19057,Sebastian Larsson,Sebastian,Larsson,7.0,Midfielder,,Sweden,SE,1985-06-06,,40,178,70,2011-07-01,False
+49384,Jack Rodwell,Jack,Rodwell,8.0,Midfielder,,England,GB-ENG,1991-03-11,,35,188,80,2014-08-05,False
+19959,Adam Johnson,Adam,Johnson,11.0,Midfielder,,England,GB-ENG,1987-07-14,,38,175,63,2012-08-24,False
+112467,El-Hadji Ba,El-Hadji,Ba,22.0,Midfielder,,France,FR,1993-03-05,,33,183,70,2013-07-10,False
+49853,William Buckley,William,Buckley,30.0,Midfielder,,England,GB-ENG,1989-11-21,,36,183,82,2014-08-14,False
+114000,George Honeyman,George,Honeyman,39.0,Midfielder,,England,GB-ENG,1994-09-08,,31,173,72,2014-07-01,False
+149015,Martin Smith,Martin,Smith,40.0,Midfielder,,England,GB-ENG,1995-10-02,England,30,178,70,2014-07-01,False
+114311,Liam Agnew,Liam,Agnew,42.0,Midfielder,,England,GB-ENG,1995-04-11,,31,178,72,2013-07-01,False
+59125,Connor Wickham,Connor,Wickham,10.0,Forward,,England,GB-ENG,1993-03-31,,33,191,90,2011-06-29,False
+115854,Duncan Watmore,Duncan,Watmore,14.0,Forward,,England,GB-ENG,1994-03-08,,32,175,72,2013-07-01,False
+7958,Jermain Defoe,Jermain,Defoe,18.0,Forward,,England,GB-ENG,1982-10-07,England,43,171,65,2015-01-16,False
+15398,Danny Graham,Daniel,Graham,19.0,Forward,,England,GB-ENG,1985-08-12,,40,183,87,2013-01-31,False
+18953,Steven Fletcher,Steven,Fletcher,26.0,Forward,,Scotland,GB-SCT,1987-03-26,,39,186,76,2012-08-24,False

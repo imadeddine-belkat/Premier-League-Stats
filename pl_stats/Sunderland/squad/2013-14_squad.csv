@@ -1,0 +1,43 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+20487,Vito Mannone,Vito,Mannone,1.0,Goalkeeper,,Italy,IT,1988-03-02,,38,188,77,2013-07-03,False
+111234,Jordan Pickford,Jordan,Pickford,13.0,Goalkeeper,,England,GB-ENG,1994-03-07,,32,185,77,2011-07-01,False
+20531,Keiren Westwood,Keiren,Westwood,20.0,Goalkeeper,,Ireland,IE,1984-10-23,,41,187,92,2011-07-01,False
+37196,Oscar Ustari,Oscar,Ustari,32.0,Goalkeeper,Right,Argentina,AR,1986-07-03,Argentina,39,184,82,2014-01-21,False
+114305,Joel Dixon,Joel,Dixon,48.0,Goalkeeper,,England,GB-ENG,1993-12-09,England,32,193,76,2013-07-01,False
+52828,Valentin Roberge,Valentin,Roberge,,Defender,Both,France,FR,1987-06-09,,38,189,73,2013-07-01,False
+17997,Phil Bardsley,Phil,Bardsley,2.0,Defender,,Scotland,GB-SCT,1985-06-28,,40,180,74,2008-01-22,False
+11958,Andrea Dossena,Andrea,Dossena,3.0,Defender,Right,Italy,IT,1981-09-11,Italy,44,181,77,2013-09-02,True
+1841,Wes Brown,Wes,Brown,5.0,Defender,,England,GB-ENG,1979-10-13,,46,185,77,2011-07-07,False
+51955,Ondrej Celustka,Ondrej,Celustka,12.0,Defender,Right,Czech Republic,CZ,1989-06-18,Czech Republic,36,186,82,2013-08-12,True
+3736,John O'Shea,John,O'Shea,16.0,Defender,,Ireland,IE,1981-04-30,,45,191,75,2011-07-07,False
+39453,Modibo Diakité,Modibo,Diakité,21.0,Defender,,France,FR,1987-03-02,France,39,192,84,2013-07-01,False
+17468,Carlos Cuellar,Carlos Javier,Cuéllar Jiménez,24.0,Defender,,Spain,ES,1981-08-23,Spain,44,190,84,2012-07-02,False
+88372,Santiago Vergini,Santiago,Vergini,27.0,Defender,Right,Argentina,AR,1988-08-03,Argentina,37,191,83,2014-01-20,True
+82263,Marcos Alonso,Marcos,Alonso,28.0,Defender,Left,Spain,ES,1990-12-28,Spain,35,188,84,2013-12-30,True
+111352,David Ferguson,David,Ferguson,35.0,Defender,,England,GB-ENG,1994-06-07,,31,178,76,2012-07-01,False
+107541,Scott Harrison,Scott,Harrison,36.0,Defender,,England,GB-ENG,1993-09-03,,32,183,78,2012-10-24,False
+97580,Louis Laing,Louis,Laing,40.0,Defender,,England,GB-ENG,1993-03-06,,33,181,76,2010-07-01,False
+88601,Charalampos Mavrias,Charalampos,Mavrias,,Midfielder,Right,Greece,GR,1994-02-21,Greece,32,178,78,2013-08-22,False
+55641,Emanuele Giaccherini,Emanuele,Giaccherini,,Midfielder,Right,Italy,IT,1985-05-05,Italy,41,167,60,2013-07-16,False
+49836,Liam Bridcutt,Liam,Bridcutt,,Midfielder,,Scotland,GB-SCT,1989-05-08,England,37,175,73,2014-01-31,False
+49688,Alfred N'Diaye,Alfred,N'Diaye,,Midfielder,Right,Senegal,SN,1990-03-06,France,36,187,82,2013-01-09,False
+76542,Ki Sung-yueng,Sung-yueng,Ki,4.0,Midfielder,,South Korea,KR,1989-01-24,Korea Republic,37,187,79,2013-08-31,True
+28448,Lee Cattermole,Lee,Cattermole,6.0,Midfielder,,England,GB-ENG,1988-03-21,,38,178,76,2009-08-12,False
+19057,Sebastian Larsson,Sebastian,Larsson,7.0,Midfielder,,Sweden,SE,1985-06-06,,40,178,70,2011-07-01,False
+28468,Craig Gardner,Craig,Gardner,8.0,Midfielder,,England,GB-ENG,1986-11-25,,39,178,76,2011-07-01,False
+19959,Adam Johnson,Adam,Johnson,11.0,Midfielder,,England,GB-ENG,1987-07-14,,38,175,63,2012-08-24,False
+43570,Cabral,Tavares Varela,Adilson Cabral,12.0,Midfielder,,Cape Verde,CV,1988-10-22,,37,178,75,2013-07-01,False
+58771,Jack Colback,Jack,Colback,14.0,Midfielder,,England,GB-ENG,1989-10-24,,36,177,77,2008-11-20,False
+7631,David Vaughan,David,Vaughan,15.0,Midfielder,,Wales,GB-WLS,1983-02-18,,43,171,70,2011-07-08,False
+112467,El-Hadji Ba,El-Hadji,Ba,22.0,Midfielder,,France,FR,1993-03-05,,33,183,70,2013-07-10,False
+94738,Billy Knott,Billy,Knott,34.0,Midfielder,,England,GB-ENG,1992-11-28,,33,173,71,2010-07-01,False
+114311,Liam Agnew,Liam,Agnew,42.0,Midfielder,,England,GB-ENG,1995-04-11,,31,178,72,2013-07-01,False
+59125,Connor Wickham,Connor,Wickham,10.0,Forward,,England,GB-ENG,1993-03-31,,33,191,90,2011-06-29,False
+115854,Duncan Watmore,Duncan,Watmore,14.0,Forward,,England,GB-ENG,1994-03-08,,32,175,72,2013-07-01,False
+41574,Jozy Altidore,Jozy,Altidore,17.0,Forward,Right,United States,US,1989-11-06,USA,36,185,79,2013-07-10,False
+15398,Danny Graham,Daniel,Graham,19.0,Forward,,England,GB-ENG,1985-08-12,,40,183,87,2013-01-31,False
+106300,David Moberg-Karlsson,David,Moberg-Karlsson,19.0,Forward,Left,Sweden,SE,1994-03-20,Sweden,32,179,75,2013-07-01,False
+18953,Steven Fletcher,Steven,Fletcher,26.0,Forward,,Scotland,GB-SCT,1987-03-26,,39,186,76,2012-08-24,False
+52856,Ignacio Scocco,Ignacio,Scocco,30.0,Forward,Both,Argentina,AR,1985-05-29,Argentina,41,176,71,2014-01-30,False
+77454,Fabio Borini,Fabio,Borini,31.0,Forward,Right,Italy,IT,1991-03-29,Italy,35,180,73,2013-09-02,True
+114312,Mikael Mandron,Mikael,Mandron,38.0,Forward,,France,FR,1994-10-11,,31,191,82,2012-07-01,False

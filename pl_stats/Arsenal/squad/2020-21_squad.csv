@@ -1,0 +1,33 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+80201,Bernd Leno,Bernd,Leno,1.0,Goalkeeper,Right,Germany,DE,1992-03-04,Germany,34,190.0,83.0,2018-06-19,False
+115918,Rúnar Alex Rúnarsson,Rúnar Alex,Rúnarsson,13.0,Goalkeeper,Right,Iceland,IS,1995-02-18,Iceland,31,186.0,76.0,2020-09-21,False
+131897,Mat Ryan,Mat,Ryan,33.0,Goalkeeper,Right,Australia,AU,1992-04-08,Australia,34,184.0,82.0,2021-01-22,True
+463748,Karl Hein,Karl,Hein,44.0,Goalkeeper,Right,Estonia,EE,2002-04-13,Estonia,24,193.0,,2020-10-28,False
+233009,James Hillson,James,Hillson,45.0,Goalkeeper,,England,GB-ENG,2001-01-14,,25,,,2021-04-14,False
+220682,Arthur Okonkwo,Arthur,Okonkwo,53.0,Goalkeeper,,England,GB-ENG,2001-09-09,England,24,,,2021-03-18,False
+463789,Joel Lopez Salguero,Joel,Lopez Salguero,,Defender,,Spain,ES,2002-03-31,,24,,,2021-04-07,False
+98745,Héctor Bellerín,Héctor,Bellerín,2.0,Defender,Right,Spain,ES,1995-03-19,Spain,31,178.0,74.0,2012-07-01,False
+192895,Kieran Tierney,Kieran,Tierney,3.0,Defender,Left,Scotland,GB-SCT,1997-06-05,Scotland,28,178.0,70.0,2019-08-08,False
+226597,Gabriel Magalhães,Gabriel,dos Santos Magalhães,6.0,Defender,Left,Brazil,BR,1997-12-19,Brazil,28,190.0,78.0,2020-09-01,False
+156074,Rob Holding,Rob,Holding,16.0,Defender,Right,England,GB-ENG,1995-09-20,England,30,189.0,75.0,2016-07-22,False
+58822,Cédric Soares,Cédric Ricardo,Alves Soares,17.0,Defender,Right,Portugal,PT,1991-08-31,Germany,34,172.0,67.0,2020-07-28,False
+101184,Calum Chambers,Calum,Chambers,21.0,Defender,Right,England,GB-ENG,1995-01-20,,31,182.0,66.0,2014-07-28,False
+92371,Pablo Marí,Pablo,Marí,22.0,Defender,Left,Spain,ES,1993-08-31,Spain,32,193.0,87.0,2020-07-28,False
+41270,David Luiz,David,Luiz Moreira Marinho,23.0,Defender,Right,Brazil,BR,1987-04-22,Brazil,39,189.0,84.0,2019-08-08,False
+223340,Bukayo Saka,Bukayo,Saka,7.0,Midfielder,Left,England,GB-ENG,2001-09-05,England,24,178.0,65.0,2018-11-28,False
+182539,Dani Ceballos,Dani,Ceballos,8.0,Midfielder,Right,Spain,ES,1996-08-07,Spain,29,179.0,70.0,2020-09-04,True
+184029,Martin Ødegaard,Martin,Ødegaard,11.0,Midfielder,Left,Norway,NO,1998-12-17,Norway,27,178.0,68.0,2021-01-27,True
+167199,Thomas Partey,Thomas,Partey,18.0,Midfielder,Right,Ghana,GH,1993-06-13,Ghana,32,185.0,77.0,2020-10-05,False
+153256,Mohamed Elneny,Mohamed Naser,El Sayed Elneny,25.0,Midfielder,Right,Egypt,EG,1992-07-11,Egypt,33,180.0,70.0,2016-01-14,False
+209289,Emile Smith Rowe,Emile,Smith Rowe,32.0,Midfielder,Right,England,GB-ENG,2000-07-28,England,25,182.0,79.0,2018-07-13,False
+84450,Granit Xhaka,Granit,Xhaka,34.0,Midfielder,Left,Switzerland,CH,1992-09-27,Switzerland,33,185.0,82.0,2016-07-01,False
+235425,Ben Cottrell,Ben,Cottrell,41.0,Midfielder,,England,GB-ENG,2001-10-31,,24,,,2020-08-24,False
+439482,Miguel Azeez,Miguel,Azeez,66.0,Midfielder,,England,GB-ENG,2002-09-20,,23,,,2020-08-24,False
+59966,Alexandre Lacazette,Alexandre,Lacazette,9.0,Forward,Right,France,FR,1991-05-28,France,35,175.0,73.0,2017-07-05,False
+47431,Willian,Willian,Borges Da Silva,12.0,Forward,Right,Brazil,BR,1988-08-09,Brazil,37,175.0,77.0,2020-08-14,False
+54694,Pierre-Emerick Aubameyang,Pierre-Emerick,Aubameyang,14.0,Forward,Right,Gabon,GA,1989-06-18,France,36,187.0,80.0,2018-01-31,False
+195735,Nicolas Pépé,Nicolas,Pépé,19.0,Forward,Left,Cote d’Ivoire,CI,1995-05-29,France,31,183.0,73.0,2019-08-01,False
+200641,Reiss Nelson,Reiss,Nelson,24.0,Forward,Right,England,GB-ENG,1999-12-10,,26,175.0,71.0,2017-07-12,False
+205533,Eddie Nketiah,Eddie,Nketiah,30.0,Forward,Right,England,GB-ENG,1999-05-30,England,26,175.0,72.0,2017-07-12,False
+444145,Gabriel Martinelli,Gabriel Teodoro,Martinelli Silva,35.0,Forward,Right,Brazil,BR,2001-06-18,Brazil,24,180.0,75.0,2019-07-15,False
+232223,Folarin Balogun,Folarin,Balogun,38.0,Forward,,England,GB-ENG,2001-07-03,USA,24,178.0,66.0,2019-09-23,False

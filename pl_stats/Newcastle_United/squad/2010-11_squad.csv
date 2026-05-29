@@ -1,0 +1,45 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+20480,Tim Krul,Tim,Krul,,Goalkeeper,Left,Netherlands,NL,1988-04-03,Netherlands,38,188,84,2006-06-01,False
+40383,Fraser Forster,Fraser,Forster,21.0,Goalkeeper,Right,England,GB-ENG,1988-03-17,England,38,201,93,2006-08-01,False
+73439,Ole Söderberg,Ole,Söderberg,33.0,Goalkeeper,Right,Sweden,SE,1990-07-20,Sweden,35,194,94,2009-07-01,False
+1881,Steve Harper,Steve,Harper,37.0,Goalkeeper,,England,GB-ENG,1975-03-14,,51,185,83,1993-07-05,False
+92781,Matthew Grieve,Matthew,Grieve,,Defender,,England,GB-ENG,1990-11-08,,35,180,77,2010-07-01,False
+7933,Fabricio Coloccini,Fabricio,Coloccini,2.0,Defender,Right,Argentina,AR,1982-01-22,Argentina,44,183,63,2008-08-15,False
+26725,José Enrique,Jose,Enrique Sanchez Diaz,3.0,Defender,,Spain,ES,1986-01-23,Spain,40,184,76,2007-08-05,False
+14775,Ryan Taylor,Ryan,Taylor,4.0,Defender,,England,GB-ENG,1984-08-19,,41,173,75,2009-02-02,False
+40725,Danny Simpson,Danny,Simpson,5.0,Defender,,England,GB-ENG,1987-01-04,,39,176,80,2010-01-20,False
+1886,Sol Campbell,Sol,Campbell,5.0,Defender,,England,GB-ENG,1974-09-18,,51,188,88,2010-07-28,False
+11378,Mike Williamson,Mike,Williamson,6.0,Defender,,England,GB-ENG,1983-11-08,,42,191,84,2010-01-27,False
+18846,James Perch,James,Perch,14.0,Defender,,England,GB-ENG,1985-09-28,,40,180,72,2010-07-05,False
+17974,Steven Taylor,Steven,Taylor,27.0,Defender,Right,England,GB-ENG,1986-01-23,,40,188,91,2002-07-01,False
+77816,James Tavernier,James,Tavernier,34.0,Defender,Right,England,GB-ENG,1991-10-31,England,34,182,75,2009-07-01,False
+61944,Shane Ferguson,Shane,Ferguson,34.0,Defender,Left,Northern Ireland,GB-NIR,1991-07-12,Northern Ireland,34,178,73,2009-07-01,False
+46367,Ben Tozer,Ben,Tozer,35.0,Defender,,England,GB-ENG,1990-03-01,,36,185,81,2008-01-07,False
+49697,Tamás Kádár,Tamás,Kádár,45.0,Defender,,Hungary,HU,1990-03-14,,36,188,79,2008-01-21,False
+95861,Patrick McLaughlin,Patrick,McLaughlin,,Midfielder,,Northern Ireland,GB-NIR,1991-01-14,,35,185,84,2009-07-01,False
+149278,Marcus Maddison,Marcus,Maddison,,Midfielder,,England,GB-ENG,1993-09-26,England,32,180,71,2009-07-01,False
+5306,Kevin Nolan,Kevin,Nolan,4.0,Midfielder,,England,GB-ENG,1982-06-24,,43,183,85,2009-01-30,False
+15276,Joey Barton,Joey,Barton,7.0,Midfielder,,England,GB-ENG,1982-09-02,,43,172,70,2007-06-14,False
+37639,Danny Guthrie,Danny,Guthrie,8.0,Midfielder,Right,England,GB-ENG,1987-04-18,England,39,176,72,2008-07-11,False
+20481,Stephen Ireland,Stephen,Ireland,10.0,Midfielder,,Ireland,IE,1986-08-22,,39,173,67,2011-01-31,True
+11829,Wayne Routledge,Wayne,Routledge,10.0,Midfielder,,England,GB-ENG,1985-01-07,,41,170,64,2010-01-26,False
+40387,Dan Gosling,Dan,Gosling,15.0,Midfielder,Right,England,GB-ENG,1990-02-01,,36,183,79,2010-07-22,False
+999,Alan Smith,Alan,Smith,17.0,Midfielder,,England,GB-ENG,1980-10-28,,45,178,78,2007-08-03,False
+21060,Jonás Gutiérrez,Jonás,Gutiérrez,18.0,Midfielder,Right,Argentina,AR,1983-07-05,Argentina,42,184,73,2008-07-02,False
+59304,Haris Vuckic,Haris,Vuckic,23.0,Midfielder,Both,Slovenia,SI,1992-08-21,Slovenia,33,186,78,2009-01-16,False
+28301,Cheick Tioté,Cheick,Tiote,24.0,Midfielder,,Cote d’Ivoire,CI,1986-06-21,Côte d'Ivoire,39,175,76,2010-08-27,False
+40545,Kazenga LuaLua,Kazenga,LuaLua,25.0,Midfielder,Right,DR Congo,CD,1990-12-10,,35,180,76,2006-08-01,False
+18753,Hatem Ben Arfa,Hatem,Ben Arfa,26.0,Midfielder,Left,France,FR,1987-03-07,France,39,178,65,2011-01-08,False
+97612,Sammy Ameobi,Sammy,Ameobi,34.0,Midfielder,,England,GB-ENG,1992-05-01,,34,190,66,2010-07-01,False
+59787,Bradden Inman,Bradden,Inman,38.0,Midfielder,,Australia,AU,1991-12-10,Australia,34,185,79,2009-01-27,False
+93625,Michael Richardson,Michael,Richardson,40.0,Midfielder,,England,GB-ENG,1992-03-17,,34,186,71,2010-07-01,False
+92813,Phil Airey,Phil,Airey,,Forward,,England,GB-ENG,1991-11-14,,34,181,66,2010-07-01,False
+148642,JJ Hooper,Jonathan,Hooper,,Forward,,England,GB-ENG,1993-10-09,England,32,185,82,2010-07-01,False
+4454,Peter Løvenkrands,Peter,Lovenkrands,11.0,Forward,,Denmark,DK,1980-01-29,,46,183,63,2009-01-23,False
+16005,Leon Best,Leon,Best,20.0,Forward,,Ireland,IE,1986-09-19,,39,185,76,2010-02-01,False
+6240,Shola Ameobi,Foluwashola,Ameobi,23.0,Forward,Right,Nigeria,NG,1981-10-12,Nigeria,44,190,92,2000-07-01,False
+56239,Nile Ranger,Nile,Ranger,30.0,Forward,,England,GB-ENG,1991-04-11,,35,187,78,2008-08-07,False
+20085,Xisco,Francisco,Jiménez Tejada,32.0,Forward,Right,Spain,ES,1986-06-26,Spain,39,190,84,2008-09-01,False
+54402,Ryan Donaldson,Ryan,Donaldson,32.0,Forward,,England,GB-ENG,1991-05-01,,35,183,94,2008-07-01,False
+63078,Jóan Símun Edmundsson,Jóan Símun,Edmundsson,39.0,Forward,Left,Faroe Islands,FO,1991-07-26,Faroe Islands,34,185,83,2011-01-01,False
+7799,Shefki Kuqi,Shefki,Kuqi,42.0,Forward,,Finland,FI,1976-11-10,Kosovo,49,191,89,2011-02-10,False

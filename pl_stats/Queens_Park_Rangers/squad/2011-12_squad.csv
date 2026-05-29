@@ -1,0 +1,50 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+3119,Paddy Kenny,Paddy,Kenny,1.0,Goalkeeper,,Ireland,IE,1978-05-17,,48,185,90,2010-07-01,False
+10589,Brian Murphy,Brian,Murphy,21.0,Goalkeeper,Right,Ireland,IE,1983-05-07,Republic of Ireland,43,185,83,2011-08-10,False
+4202,Radek Cerny,Radek,Cerny,24.0,Goalkeeper,,Czech Republic,CZ,1974-02-18,,52,191,85,2008-07-01,False
+73446,Elvijs Putnins,Elvijs,Putnins,43.0,Goalkeeper,,Latvia,LV,1991-06-12,,34,188,78,2009-07-01,False
+108559,Taylor Parmenter,Taylor,Parmenter,,Defender,,England,GB-ENG,1992-09-09,,33,178,73,2010-07-01,False
+92790,Michael Harriman,Michael,Harriman,,Defender,,Ireland,IE,1992-10-23,,33,168,65,2010-07-01,False
+27698,Matthew Connolly,Matthew,Connolly,,Defender,,England,GB-ENG,1987-09-24,,38,188,84,2008-01-02,False
+15272,Gary Borrowdale,Gary,Borrowdale,,Defender,,England,GB-ENG,1985-07-16,,40,183,76,2008-11-27,False
+20488,Armand Traore,Armand,Traore,3.0,Defender,,Senegal,SN,1989-10-08,France,36,185,81,2011-08-30,False
+19053,Nedum Onuoha,Nedum,Onuoha,5.0,Defender,,England,GB-ENG,1986-11-12,Nigeria,39,183,94,2012-01-26,False
+12674,Fitz Hall,Fitz,Hall,5.0,Defender,,England,GB-ENG,1980-12-20,,45,193,82,2008-01-04,False
+1059,Danny Gabbidon,Danny,Gabbidon,6.0,Defender,,Wales,GB-WLS,1979-08-08,,46,178,77,2011-07-25,False
+1216,Clint Hill,Clint,Hill,6.0,Defender,,England,GB-ENG,1978-10-19,,47,183,73,2010-07-01,False
+53238,Bruno Perone,Bruno,Caldini Perone,15.0,Defender,Right,Brazil,BR,1987-07-06,Brazil,38,191,87,2011-08-14,True
+1930,Luke Young,Luke,Young,21.0,Defender,,England,GB-ENG,1979-07-19,,46,183,77,2011-08-27,False
+18146,Peter Ramage,Peter,Ramage,27.0,Defender,,England,GB-ENG,1983-11-22,,42,185,76,2008-07-01,False
+87117,Max Ehmer,Max,Ehmer,28.0,Defender,,Germany,DE,1992-02-03,,34,188,70,2010-07-01,False
+5539,Danny Shittu,Danny,Shittu,28.0,Defender,,Nigeria,NG,1980-09-02,,45,191,96,2011-01-27,False
+19740,Taye Ismaila Taiwo,Taye Ismaila,Taiwo,34.0,Defender,Left,Nigeria,NG,1985-04-16,Nigeria,41,182,87,2012-01-23,True
+13898,Anton Ferdinand,Anton,Ferdinand,35.0,Defender,,England,GB-ENG,1985-02-18,,41,183,78,2011-08-31,False
+7664,Lee Cook,Lee,Cook,,Midfielder,,England,GB-ENG,1982-08-03,,43,175,70,2009-01-14,False
+80442,Samba Diakité,Samba,Diakité,,Midfielder,,Mali,ML,1989-01-24,France,37,185,74,2012-01-29,True
+49281,Angelo Balanta,Angelo,Balanta,,Midfielder,,Colombia,CO,1990-07-01,,35,179,75,2007-12-01,False
+91128,Bruno Andrade,Bruno Miguel,Carvalho Andrade,,Midfielder,,Portugal,PT,1993-10-02,,32,175,74,2010-07-01,False
+1420,Shaun Derry,Shaun,Derry,4.0,Midfielder,,England,GB-ENG,1977-12-06,,48,183,82,2010-06-22,False
+15276,Joey Barton,Joey,Barton,8.0,Midfielder,,England,GB-ENG,1982-09-02,,43,172,70,2011-08-26,False
+1212,Shaun Wright-Phillips,Shaun,Wright-Phillips,11.0,Midfielder,,England,GB-ENG,1981-10-25,,44,168,64,2011-08-31,False
+19196,Jamie Mackie,Jamie,Mackie,12.0,Midfielder,,Scotland,GB-SCT,1985-09-22,,40,173,71,2010-05-18,False
+18586,Ákos Buzsáky,Ákos,Buzsáky,14.0,Midfielder,,Hungary,HU,1982-05-07,,44,180,74,2007-10-30,False
+92789,Michael Doughty,Michael,Doughty,16.0,Midfielder,,England,GB-ENG,1992-11-20,,33,185,80,2010-07-01,False
+1840,Kieron Dyer,Kieron,Dyer,18.0,Midfielder,,England,GB-ENG,1978-12-29,,47,173,65,2011-07-13,False
+67731,Alejandro Faurlin,Alejandro,Faurlin,18.0,Midfielder,Left,Argentina,AR,1986-08-09,Argentina,39,185,79,2009-07-07,False
+2019,Tommy Smith,Tommy,Smith,21.0,Midfielder,,England,GB-ENG,1980-05-22,,46,175,71,2010-08-31,False
+19946,Hogan Ephraim,Hogan,Ephraim,22.0,Midfielder,,England,GB-ENG,1988-03-31,,38,175,70,2008-01-02,False
+39765,Adel Taarabt,Adel,Taarabt,27.0,Midfielder,Right,Morocco,MA,1989-05-24,Morocco,37,178,72,2010-08-05,False
+105186,Jordan Gibbons,Jordan,Gibbons,43.0,Midfielder,,England,GB-ENG,1993-11-18,England,32,179,74,2011-07-01,False
+167892,Petros Skapetis,Petros,Skapetis,,Forward,,Australia,AU,1995-01-13,,31,177,80,2012-03-07,False
+10550,Rowan Vine,Rowan,Vine,,Forward,,England,GB-ENG,1982-09-21,,43,185,75,2008-01-08,False
+6286,Djibril Cissé,Djibril,Cissé,9.0,Forward,Right,France,FR,1981-08-12,France,44,183,83,2012-01-31,False
+5730,Patrick Agyemang,Patrick,Agyemang,19.0,Forward,,Ghana,GH,1980-09-29,,45,185,89,2008-01-03,False
+3731,Heidar Helguson,Heidar,Helguson,22.0,Forward,,Iceland,IS,1977-08-22,,48,178,78,2008-11-20,False
+4570,Bobby Zamora,Bobby,Zamora,25.0,Forward,,England,GB-ENG,1981-01-16,,45,185,75,2012-01-31,False
+103328,Tom Hitchcock,Tom,Hitchcock,29.0,Forward,,England,GB-ENG,1992-10-01,,33,178,71,2012-03-01,False
+59970,Federico Macheda,Federico,Macheda,33.0,Forward,Right,Italy,IT,1991-08-22,Italy,34,185,77,2012-01-01,True
+5692,Robert Hulse,Robert,Hulse,34.0,Forward,,England,GB-ENG,1979-10-25,,46,185,78,2010-08-31,False
+93797,Mo Shariff,Abdalla Mohamed,Shariff,34.0,Forward,,England,GB-ENG,1993-03-05,,33,177,64,2011-07-01,False
+4255,Jay Bothroyd,Jay,Bothroyd,37.0,Forward,Right,England,GB-ENG,1982-05-07,,44,191,82,2011-07-13,False
+19645,DJ Campbell,Dudley,Campbell,39.0,Forward,,England,GB-ENG,1981-11-12,,44,178,72,2011-08-04,False
+90815,Troy Hewitt,Troy,Hewitt,45.0,Forward,,England,GB-ENG,1990-02-10,,36,183,79,2011-08-18,False

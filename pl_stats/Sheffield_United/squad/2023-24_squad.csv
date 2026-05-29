@@ -1,0 +1,44 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+173268,Ivo Grbic,Ivo,Grbic,13.0,Goalkeeper,Right,Croatia,HR,1996-01-18,Croatia,30,195.0,83.0,2024-01-26,False
+102549,Adam Davies,Adam,Davies,17.0,Goalkeeper,Right,Wales,GB-WLS,1992-07-17,Germany,33,185.0,75.0,2022-01-25,False
+82143,Wes Foderingham,Wes,Foderingham,18.0,Goalkeeper,Left,England,GB-ENG,1991-01-14,England,35,185.0,75.0,2020-07-27,False
+538206,Jordan Amissah,Jordan,Amissah,37.0,Goalkeeper,Right,Ghana,GH,2001-08-02,Germany,24,197.0,,2022-07-29,False
+82691,George Baldock,George,Baldock,2.0,Defender,Right,Greece,GR,1993-03-09,England,33,178.0,71.0,2017-06-13,False
+155197,Max Lowe,Max,Lowe,3.0,Defender,Left,England,GB-ENG,1997-05-11,England,29,175.0,74.0,2020-09-07,False
+201410,Auston Trusty,Auston,Trusty,5.0,Defender,Left,United States,US,1998-08-12,USA,27,191.0,84.0,2023-08-03,False
+40386,Chris Basham,Chris,Basham,6.0,Defender,Right,England,GB-ENG,1988-07-20,England,37,190.0,80.0,2014-07-01,False
+108416,John Egan,John,Egan,12.0,Defender,Right,Ireland,IE,1992-10-20,Republic of Ireland,33,185.0,75.0,2018-07-19,False
+233821,Anel Ahmedhodzic,Anel,Ahmedhodzic,15.0,Defender,Right,Bosnia & Herzegovina,BA,1999-03-26,Sweden,27,195.0,84.0,2022-07-06,False
+83427,Jack Robinson,Jack,Robinson,19.0,Defender,Left,England,GB-ENG,1993-09-01,England,32,180.0,67.0,2020-01-21,False
+226182,Jayden Bogle,Jayden,Bogle,20.0,Defender,Right,England,GB-ENG,2000-07-27,England,25,178.0,69.0,2020-09-07,False
+432990,Yasser Larouci,Yasser,Larouci,27.0,Defender,Left,Algeria,DZ,2001-01-01,Algeria,25,176.0,68.0,2023-07-17,True
+549344,Sam Curtis,Sam,Curtis,29.0,Defender,,Ireland,IE,2005-12-01,Republic of Ireland,20,,,2024-02-24,False
+194164,Mason Holgate,Mason,Holgate,30.0,Defender,Right,Jamaica,JM,1996-10-22,England,29,184.0,63.0,2024-02-01,True
+443211,Rhys Norrington-Davies,Rhys,Norrington-Davies,33.0,Defender,Left,Wales,GB-WLS,1999-04-22,Saudi Arabia,27,181.0,68.0,2018-01-01,False
+471848,Femi Seriki,Femi,Seriki,38.0,Defender,Right,England,GB-ENG,2002-04-28,England,24,183.0,,2021-05-18,False
+601496,Jili Buyabu,Jili,Buyabu,40.0,Defender,Both,England,GB-ENG,2003-08-09,England,22,182.0,,2022-10-21,False
+576453,Evan Easton,Evan,Easton,43.0,Defender,,Scotland,GB-SCT,2005-01-14,Scotland,21,,,2024-01-01,False
+616094,Dovydas Sasnauskas,Dovydas,Sasnauskas,46.0,Defender,,Lithuania,LT,2007-02-16,Lithuania,19,,,2024-02-24,False
+532372,Oliver Arblaster,Oliver,Arblaster,4.0,Midfielder,Right,England,GB-ENG,2004-05-05,England,22,175.0,65.0,2022-03-11,False
+196100,Gustavo Hamer,Gustavo,Hamer,8.0,Midfielder,Right,Netherlands,NL,1997-06-24,Brazil,28,169.0,61.0,2023-08-12,False
+79934,Oliver Norwood,Oliver,Norwood,16.0,Midfielder,Right,Northern Ireland,GB-NIR,1991-04-12,England,35,180.0,75.0,2019-01-04,False
+424001,Vinicius Souza,Vinicius,de Souza Costa,21.0,Midfielder,Right,Brazil,BR,1999-06-17,Brazil,26,187.0,80.0,2023-08-09,False
+173807,Tom Davies,Tom,Davies,22.0,Midfielder,Right,England,GB-ENG,1998-06-30,England,27,180.0,70.0,2023-08-16,False
+167878,Ben Osborn,Ben,Osborn,23.0,Midfielder,Left,England,GB-ENG,1994-08-05,England,31,176.0,75.0,2019-07-26,False
+504198,Anis Ben Slimane,Anis,Ben Slimane,25.0,Midfielder,Both,Tunisia,TN,2001-03-16,Denmark,25,188.0,86.0,2023-07-13,False
+432714,James McAtee,James,McAtee,28.0,Midfielder,Left,England,GB-ENG,2002-10-18,England,23,180.0,72.0,2023-09-01,True
+476938,Ismaila Coulibaly,Ismaila,Coulibaly,29.0,Midfielder,Right,Mali,ML,2000-12-25,Mali,25,183.0,68.0,2020-09-07,False
+538210,Andre Brooks,Andre,Brooks,35.0,Midfielder,Left,England,GB-ENG,2003-08-20,England,22,180.0,,2022-09-12,False
+552425,Sydie Peck,Sydie,Peck,42.0,Midfielder,Right,England,GB-ENG,2004-09-13,England,21,173.0,65.0,2023-12-08,False
+591538,Owen Hampson,Owen,Hampson,44.0,Midfielder,Right,Wales,GB-WLS,2004-11-17,England,21,,,2024-04-23,False
+487836,Antwoine Hackford,Antwoine,Hackford,,Forward,Right,England,GB-ENG,2004-03-20,England,22,177.0,,2023-08-11,False
+195473,Rhian Brewster,Rhian,Brewster,7.0,Forward,Right,England,GB-ENG,2000-04-01,England,26,180.0,75.0,2020-10-02,False
+169432,Oliver McBurnie,Oliver,McBurnie,9.0,Forward,Right,Scotland,GB-SCT,1996-06-04,England,29,188.0,79.0,2019-08-02,False
+433979,Cameron Archer,Cameron,Archer,10.0,Forward,Right,England,GB-ENG,2001-12-09,England,24,181.0,72.0,2023-08-27,False
+204814,Ben Brereton,Ben,Brereton,11.0,Forward,Right,Chile,CL,1999-04-18,England,27,185.0,80.0,2024-01-05,True
+523957,Bénie Traoré,Bénie,Traoré,11.0,Forward,Right,Cote d’Ivoire,CI,2002-11-30,Côte d'Ivoire,23,172.0,68.0,2023-07-18,False
+538207,William Osula,William,Osula,32.0,Forward,Right,Denmark,DK,2003-08-04,Denmark,22,180.0,81.0,2021-05-22,False
+532377,Louie Marsh,Louie,Marsh,34.0,Forward,,England,GB-ENG,2004-07-02,England,21,176.0,65.0,2024-04-26,False
+523700,Daniel Jebbison,Daniel,Jebbison,36.0,Forward,Left,Canada,CA,2003-07-11,Canada,22,190.0,69.0,2021-05-08,False
+585472,Ryan Oné,Ryan,Oné,39.0,Forward,Right,Scotland,GB-SCT,2006-06-26,Scotland,19,,,2023-10-20,False
+591539,Billy Blacker,Billy,Blacker,41.0,Forward,,England,GB-ENG,2006-05-25,,20,,,2024-02-17,False

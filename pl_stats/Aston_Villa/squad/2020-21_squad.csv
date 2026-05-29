@@ -1,0 +1,46 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+21205,Tom Heaton,Tom,Heaton,1,Goalkeeper,Right,England,GB-ENG,1986-04-15,,40,188.0,85.0,2019-08-01,False
+79852,Jed Steer,Jed,Steer,12,Goalkeeper,Left,England,GB-ENG,1992-09-23,,33,183.0,80.0,2013-07-01,False
+98980,Emiliano Martínez,Emiliano,Martínez,26,Goalkeeper,Right,Argentina,AR,1992-09-02,Argentina,33,195.0,88.0,2020-09-16,False
+468456,Akos Onodi,Akos,Onodi,51,Goalkeeper,,Hungary,HU,2001-09-02,,24,,,2021-01-07,False
+516159,Oliwer Zych,Oliwer,Zych,75,Goalkeeper,,Poland,PL,2004-06-28,,21,,,2021-01-07,False
+199796,Matthew Cash,Matthew,Cash,2,Defender,,England,GB-ENG,1997-08-07,,28,185.0,,2020-09-03,False
+47390,Neil Taylor,Neil,Taylor,3,Defender,Left,Wales,GB-WLS,1989-02-07,Wales,37,176.0,64.0,2017-01-31,False
+199798,Ezri Konsa Ngoyo,Ezri,Konsa Ngoyo,4,Defender,Right,England,GB-ENG,1997-10-23,England,28,183.0,77.0,2019-07-11,False
+149484,Tyrone Mings,Tyrone,Mings,5,Defender,Left,England,GB-ENG,1993-03-13,,33,196.0,77.0,2019-07-08,False
+169359,Matt Targett,Matt,Targett,18,Defender,Left,England,GB-ENG,1995-09-18,,30,183.0,70.0,2019-07-01,False
+108156,Björn Engels,Björn,Engels,22,Defender,Right,Belgium,BE,1994-09-15,,31,193.0,83.0,2019-07-16,False
+37339,Ahmed El Mohamady,Ahmed Eissa,El Mohamady Abdel Fattah,27,Defender,Right,Egypt,EG,1987-09-09,Egypt,38,183.0,75.0,2017-07-19,False
+123354,Kortney Hause,Kortney,Hause,30,Defender,Left,England,GB-ENG,1995-07-16,,30,191.0,77.0,2019-07-01,False
+209695,Jake Walker,Jake,Walker,46,Defender,,England,GB-ENG,2000-11-03,England,25,,,2021-01-07,False
+514287,Sil Swinkels,Sil,Swinkels,72,Defender,,Netherlands,NL,2004-01-06,,22,,,2021-01-07,False
+502977,Frankie Ealing,Frankie,Ealing,74,Defender,,England,GB-ENG,2004-07-14,,21,,,2021-01-07,False
+230046,Douglas Luiz,Douglas Luiz,Soares de Paulo,6,Midfielder,Right,Brazil,BR,1998-05-09,Brazil,28,175.0,66.0,2019-07-25,False
+122806,John McGinn,John,McGinn,7,Midfielder,Left,Scotland,GB-SCT,1994-10-18,,31,178.0,68.0,2018-08-08,False
+40564,Henri Lansbury,Henri,Lansbury,8,Midfielder,Right,England,GB-ENG,1990-10-12,,35,183.0,78.0,2017-01-20,False
+114283,Jack Grealish,Jack,Grealish,10,Midfielder,Right,England,GB-ENG,1995-09-10,,30,175.0,68.0,2011-07-01,False
+148508,Trézéguet,Mahmoud Ahmed Ibrahim,Hassan,17,Midfielder,Both,Egypt,EG,1994-10-01,Egypt,31,180.0,71.0,2019-07-24,False
+184704,Marvelous Nakamba,Marvelous,Nakamba,19,Midfielder,Left,Zimbabwe,ZW,1994-01-19,Zimbabwe,32,178.0,71.0,2019-08-01,False
+88894,Ross Barkley,Ross,Barkley,20,Midfielder,Right,England,GB-ENG,1993-12-05,England,32,189.0,76.0,2020-09-30,True
+193488,Anwar El Ghazi,Anwar,El Ghazi,21,Midfielder,Right,Netherlands,NL,1995-05-03,Netherlands,31,188.0,90.0,2019-07-01,False
+122775,Morgan Sanson,Morgan,Sanson,25,Midfielder,Right,France,FR,1994-08-18,France,31,180.0,73.0,2021-01-26,False
+232653,Jacob Ramsey,Jacob,Ramsey,41,Midfielder,Right,England,GB-ENG,2001-05-28,,25,,,2019-02-12,False
+209694,Callum Rowe,Callum,Rowe,47,Midfielder,,England,GB-ENG,1999-09-02,England,26,,,2021-01-07,False
+248855,Harrison Sohna,Harrison,Sohna,50,Midfielder,,England,GB-ENG,2002-07-01,,23,,,2021-01-07,False
+481624,Jaden Philogene-Bidace,Jaden,Philogene-Bidace,52,Midfielder,,England,GB-ENG,2002-02-08,,24,,,2021-03-05,False
+487835,Benjamin Chrisene,Benjamin,Chrisene,57,Midfielder,,England,GB-ENG,2004-01-12,England,22,,,2021-01-07,False
+478912,Carney Chukwuemeka,Carney,Chukwuemeka,60,Midfielder,,England,GB-ENG,2003-10-20,,22,,,2021-02-20,False
+465390,Kaine Hayden,Kaine,Hayden,62,Midfielder,,England,GB-ENG,2002-10-23,,23,,,2020-07-15,False
+490117,Arjan Raikhy,Arjan,Raikhy,67,Midfielder,,England,GB-ENG,2002-10-20,,23,,,2021-01-07,False
+475495,Brad Young,Brad,Young,68,Midfielder,,England,GB-ENG,2003-01-06,,23,,,2021-01-07,False
+515597,Lamar Bogarde,Lamar,Bogarde,70,Midfielder,,Netherlands,NL,2004-01-05,,22,,,2021-01-07,False
+432713,Hayden Lindley,Hayden,Lindley,71,Midfielder,,England,GB-ENG,2002-09-02,,23,,,2021-01-07,False
+500279,Edward Rowe,Edward,Rowe,73,Midfielder,,England,GB-ENG,2003-10-17,,22,,,2021-01-07,False
+514292,Taylor Jay-Hart,Taylor,Jay-Hart,76,Midfielder,,England,GB-ENG,2003-12-18,,22,179.0,69.0,2021-01-07,False
+213345,Wesley,Wesley,Moraes Ferreira da Silva,9,Forward,Right,Brazil,BR,1996-11-26,Brazil,29,191.0,93.0,2019-06-13,False
+178301,Ollie Watkins,Ollie,Watkins,11,Forward,Right,England,GB-ENG,1995-12-30,England,30,180.0,70.0,2020-09-09,False
+110504,Bertrand Traoré,Bertrand,Traoré,15,Forward,Left,Burkina Faso,BF,1995-09-06,Burkina Faso,30,181.0,73.0,2020-09-19,False
+232616,Mungo Bridge,Mungo,Bridge,37,Forward,,England,GB-ENG,2000-09-12,,25,,,2021-01-07,False
+221239,Keinan Davis,Keinan,Davis,39,Forward,Right,England,GB-ENG,1998-02-13,England,28,191.0,68.0,2016-02-06,False
+232654,Michael Tait,Michael,Tait,45,Forward,,England,GB-ENG,2001-01-29,,25,,,2021-01-07,False
+465387,Louie Barry,Louie,Barry,61,Forward,,England,GB-ENG,2003-06-21,,22,,,2021-01-07,False

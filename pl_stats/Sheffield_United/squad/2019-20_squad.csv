@@ -1,0 +1,32 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+172649,Dean Henderson,Dean,Henderson,1,Goalkeeper,Right,England,GB-ENG,1997-03-12,,29,188.0,85.0,2019-07-26,True
+213280,Jake Eastwood,Jake,Eastwood,13,Goalkeeper,,England,GB-ENG,1996-10-03,,29,193.0,83.0,2017-07-01,False
+194126,Michael Verrips,Michael,Verrips,21,Goalkeeper,Right,Netherlands,NL,1996-12-03,Netherlands,29,195.0,93.0,2019-08-08,False
+74854,Simon Moore,Simon,Moore,25,Goalkeeper,Right,England,GB-ENG,1990-05-19,England,36,191.0,83.0,2016-08-19,False
+82691,George Baldock,George,Baldock,2,Defender,Right,England,GB-ENG,1993-03-09,England,33,178.0,71.0,2017-06-13,False
+63426,Enda Stevens,Enda,Stevens,3,Defender,Left,Ireland,IE,1990-07-09,,35,183.0,78.0,2017-07-01,False
+146610,Jack O'Connell,Jack,O'Connell,5,Defender,Left,England,GB-ENG,1994-03-29,England,32,190.0,85.0,2016-07-08,False
+40386,Chris Basham,Chris,Basham,6,Defender,Right,England,GB-ENG,1988-07-20,,37,190.0,80.0,2014-07-01,False
+108416,John Egan,John,Egan,12,Defender,Right,Ireland,IE,1992-10-20,,33,185.0,75.0,2018-07-19,False
+7645,Phil Jagielka,Phil,Jagielka,15,Defender,Right,England,GB-ENG,1982-08-17,England,43,180.0,87.0,2019-07-04,False
+87121,Kieron Freeman,Kieron,Freeman,18,Defender,Right,Wales,GB-WLS,1992-03-21,England,34,178.0,79.0,2015-01-23,False
+83427,Jack Robinson,Jack,Robinson,19,Defender,,England,GB-ENG,1993-09-01,England,32,168.0,64.0,2020-01-21,False
+109638,Kean Bryan,Kean,Bryan,29,Defender,Left,England,GB-ENG,1996-11-01,England,29,185.0,72.0,2018-08-02,False
+443211,Rhys Norrington-Davies,Rhys,Norrington-Davies,37,Defender,,Wales,GB-WLS,1999-04-22,,27,181.0,76.0,2018-01-01,False
+47247,John Fleck,John,Fleck,4,Midfielder,Left,Scotland,GB-SCT,1991-08-24,Scotland,34,170.0,72.0,2016-07-08,False
+153723,John Lundstram,John,Lundstram,7,Midfielder,Right,England,GB-ENG,1994-02-18,,32,181.0,74.0,2017-07-26,False
+207189,Sander Berge,Sander,Berge,8,Midfielder,Right,Norway,NO,1998-02-14,Norway,28,195.0,96.0,2020-01-30,False
+49083,Luke Freeman,Luke,Freeman,8,Midfielder,Left,England,GB-ENG,1992-03-22,England,34,181.0,64.0,2019-07-03,False
+90518,Ravel Morrison,Ravel,Morrison,14,Midfielder,Right,England,GB-ENG,1993-02-02,England,33,175.0,71.0,2019-07-16,False
+79934,Oliver Norwood,Oliver,Norwood,16,Midfielder,Right,Northern Ireland,GB-NIR,1991-04-12,,35,180.0,75.0,2019-01-04,False
+167878,Ben Osborn,Ben,Osborn,23,Midfielder,Left,England,GB-ENG,1994-08-05,,31,176.0,75.0,2019-07-26,False
+49384,Jack Rodwell,Jack,Rodwell,26,Midfielder,,England,GB-ENG,1991-03-11,,35,188.0,80.0,2020-01-03,False
+243413,Regan Slater,Regan,Slater,28,Midfielder,,England,GB-ENG,1999-09-11,,26,173.0,,2016-11-08,False
+169432,Oliver McBurnie,Oliver,McBurnie,9,Forward,Right,Scotland,GB-SCT,1996-06-04,England,29,188.0,79.0,2019-08-02,False
+18867,Billy Sharp,Billy,Sharp,10,Forward,Right,England,GB-ENG,1986-02-05,,40,175.0,70.0,2015-07-29,False
+171975,Callum Robinson,Callum,Robinson,11,Forward,Right,Ireland,IE,1995-02-02,,31,178.0,75.0,2019-07-12,False
+178304,Lys Mousset,Lys,Mousset,11,Forward,Right,France,FR,1996-02-08,France,30,184.0,80.0,2019-07-21,False
+27436,David McGoldrick,David,McGoldrick,17,Forward,Right,Ireland,IE,1987-11-29,,38,183.0,74.0,2018-07-24,False
+18440,Leon Clarke,Leon,Clarke,24,Forward,Right,England,GB-ENG,1985-02-10,,41,188.0,95.0,2016-07-27,False
+147612,Richairo Zivkovic,Richairo,Zivkovic,30,Forward,Right,Netherlands,NL,1996-09-05,Netherlands,29,187.0,73.0,2020-01-31,True
+199620,David Parkhouse,David,Parkhouse,35,Forward,,Northern Ireland,GB-NIR,1999-01-24,,27,,,2018-07-01,False

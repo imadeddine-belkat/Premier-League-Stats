@@ -1,0 +1,44 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+60706,Adrián,Adrián,San Miguel del Castillo,13.0,Goalkeeper,,Spain,ES,1987-01-03,Spain,39,190,80,2013-07-01,False
+1344,Jussi Jääskeläinen,Jussi,Jääskeläinen,22.0,Goalkeeper,,Finland,FI,1975-04-19,,51,191,81,2012-07-01,False
+42525,Stephen Henderson,Stephen,Henderson,25.0,Goalkeeper,,Ireland,IE,1988-05-02,,38,188,87,2012-07-01,False
+82257,Raphael Spiegel,Raphael,Spiegel,34.0,Goalkeeper,,Switzerland,CH,1992-12-19,Switzerland,33,197,89,2012-07-23,False
+51933,Jordan Spence,Jordan,Spence,,Defender,,England,GB-ENG,1990-05-24,,36,189,72,2008-07-01,False
+48717,Winston Reid,Winston,Reid,2.0,Defender,,New Zealand,NZ,1988-07-03,,37,190,87,2010-08-05,False
+5609,George McCartney,George,McCartney,3.0,Defender,,Northern Ireland,GB-NIR,1981-04-29,,45,180,69,2012-07-01,False
+49413,James Tomkins,James,Tomkins,5.0,Defender,,England,GB-ENG,1989-03-29,,37,192,74,2007-12-01,False
+50369,Pablo Armero,Pablo,Armero,8.0,Defender,Left,Colombia,CO,1986-11-02,Colombia,39,174,81,2014-01-31,True
+19575,Joey O'Brien,Joey,O'Brien,17.0,Defender,,Ireland,IE,1986-02-17,,40,180,70,2011-07-30,False
+8380,James Collins,James,Collins,19.0,Defender,,Wales,GB-WLS,1983-08-23,,42,188,83,2012-08-01,False
+10356,Guy Demel,Guy,Demel,20.0,Defender,,Cote d’Ivoire,CI,1981-06-13,,44,188,88,2011-08-31,False
+8358,Roger Johnson,Roger,Johnson,28.0,Defender,,England,GB-ENG,1983-04-28,,43,191,70,2014-01-06,True
+156658,Reece Burke,Reece,Burke,32.0,Defender,,England,GB-ENG,1996-09-02,,29,189,81,2013-07-01,False
+108411,Dan Potts,Daniel,Potts,33.0,Defender,,England,GB-ENG,1994-04-13,,32,172,70,2011-07-01,False
+110140,Callum Driver,Callum,Driver,39.0,Defender,,England,GB-ENG,1992-10-23,,33,174,72,2011-07-01,False
+137951,Leo Chambers,Leo,Chambers,54.0,Defender,,England,GB-ENG,1995-08-05,,30,186,83,2012-07-01,False
+8742,Alou Diarra,Alou,Diarra,,Midfielder,,France,FR,1981-07-15,France,44,190,79,2012-08-09,False
+146445,Blair Turgott,Blair,Turgott,,Midfielder,,England,GB-ENG,1994-05-22,,32,183,65,2012-07-01,False
+129028,Matthias Fanimo,Matthias,Fanimo,,Midfielder,,England,GB-ENG,1994-01-28,,32,173,71,2012-07-01,False
+95322,Danny Whitehead,Danny,Whitehead,,Midfielder,,England,GB-ENG,1993-10-23,,32,179,69,2013-07-01,False
+93666,Abdul Razak,Abdul,Razak,,Midfielder,Right,Cote d’Ivoire,CI,1992-11-11,Côte d'Ivoire,33,180,76,2014-01-30,False
+5306,Kevin Nolan,Kevin,Nolan,4.0,Midfielder,,England,GB-ENG,1982-06-24,,43,183,85,2011-06-16,False
+18818,Matthew Jarvis,Matthew,Jarvis,7.0,Midfielder,,England,GB-ENG,1986-05-22,,40,173,70,2012-08-24,False
+49414,Jack Collison,Jack,Collison,10.0,Midfielder,,Wales,GB-WLS,1988-10-02,,37,183,75,2007-07-01,False
+12002,Stewart Downing,Stewart,Downing,11.0,Midfielder,,England,GB-ENG,1984-07-22,,41,180,64,2013-08-13,False
+3289,Matthew Taylor,Matthew,Taylor,14.0,Midfielder,,England,GB-ENG,1981-11-27,,44,178,73,2011-07-23,False
+90518,Ravel Morrison,Ravel,Morrison,14.0,Midfielder,,England,GB-ENG,1993-02-02,England,33,175,71,2012-01-31,False
+18073,Mark Noble,Mark,Noble,16.0,Midfielder,,England,GB-ENG,1987-05-08,,39,180,70,2003-07-01,False
+28147,Mohamed Diamé,Mohamed,Diamé,21.0,Midfielder,,Senegal,SN,1987-06-14,,38,184,86,2012-07-01,False
+2060,Joe Cole,Joe,Cole,26.0,Midfielder,,England,GB-ENG,1981-11-08,,44,175,63,2013-01-04,False
+105320,George Moncur,George,Moncur,34.0,Midfielder,,England,GB-ENG,1993-08-18,,32,176,63,2011-07-01,False
+88534,Sebastian Lletget,Sebastian,Lletget,41.0,Midfielder,,United States,US,1992-09-03,,33,178,69,2012-07-01,False
+28573,Antonio Nocerino,Antonio,Nocerino,47.0,Midfielder,Right,Italy,IT,1985-04-09,Italy,41,175,74,2014-01-25,True
+108415,Jaanai Gordon,Jaanai,Gordon,,Forward,,England,GB-ENG,1995-12-07,,30,178,65,2014-01-01,False
+93557,Paul McCallum,Paul,McCallum,,Forward,,England,GB-ENG,1993-07-28,,32,191,63,2010-07-01,False
+40142,Andy Carroll,Andy,Carroll,9.0,Forward,,England,GB-ENG,1989-01-06,England,37,193,79,2013-07-01,False
+17353,Ricardo Vaz Tê,Ricardo Jorge,Vaz Tê,12.0,Forward,,Portugal,PT,1986-10-01,,39,189,80,2012-01-31,False
+42954,Modibo Maiga,Modibo,Maiga,20.0,Forward,,Mali,ML,1987-09-03,Mali,38,185,76,2012-07-18,False
+12799,Carlton Cole,Carlton,Cole,24.0,Forward,,England,GB-ENG,1983-10-12,,42,191,84,2013-10-12,False
+149485,Elliot Lee,Elliot,Lee,36.0,Forward,,England,GB-ENG,1994-12-16,,31,180,72,2012-07-01,False
+149794,Sean Maguire,Sean,Maguire,42.0,Forward,,Ireland,IE,1994-05-01,,32,174,72,2012-07-01,False
+14731,Marco Borriello,Marco,Borriello,46.0,Forward,Left,Italy,IT,1982-06-18,Italy,43,180,73,2014-01-25,True

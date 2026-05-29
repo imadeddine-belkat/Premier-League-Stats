@@ -1,0 +1,31 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+457569,Djordje Petrovic,Djordje,Petrovic,1,Goalkeeper,Right,Serbia,RS,1999-10-08,Serbia,26,194.0,89.0,2025-07-16,False
+40383,Fraser Forster,Fraser,Forster,17,Goalkeeper,Right,England,GB-ENG,1988-03-17,England,38,201.0,93.0,2026-01-02,False
+436416,Christos Mandas,Christos,Mandas,29,Goalkeeper,Right,Greece,GR,2001-09-17,Greece,24,189.0,83.0,2026-01-27,True
+494521,Adrien Truffert,Adrien,Truffert,3,Defender,Left,France,FR,2001-11-20,Belgium,24,176.0,72.0,2025-06-16,False
+221466,Marcos Senesi,Marcos,Senesi,5,Defender,Left,Argentina,AR,1997-05-10,Argentina,29,185.0,78.0,2022-08-08,False
+575901,Julio Soler,Julio,Soler,6,Defender,Left,Argentina,AR,2005-02-16,Paraguay,21,175.0,67.0,2025-01-07,False
+54469,Adam Smith,Adam,Smith,15,Defender,Right,England,GB-ENG,1991-04-29,England,35,180.0,78.0,2014-01-28,False
+242882,Bafodé Diakité,Bafodé,Diakité,18,Defender,Right,France,FR,2001-01-06,France,25,185.0,74.0,2025-08-13,False
+551483,Álex Jiménez,Álex,Jiménez,20,Defender,Right,Spain,ES,2005-05-08,Spain,21,177.0,73.0,2025-09-01,True
+463981,James Hill,James,Hill,23,Defender,Right,England,GB-ENG,2002-01-10,England,24,184.0,73.0,2022-01-05,False
+518906,Owen Bevan,Owen,Bevan,35,Defender,Right,Wales,GB-WLS,2003-10-26,England,22,186.0,,2022-08-22,False
+620487,Veljko Milosavljevic,Veljko,Milosavljevic,44,Defender,Right,Serbia,RS,2007-06-28,Serbia,18,192.0,,2025-09-01,False
+541462,Matai Akinmboni,Matai,Akinmboni,45,Defender,Left,United States,US,2006-10-17,USA,19,191.0,77.0,2025-01-03,False
+155408,Lewis Cook,Lewis,Cook,4,Midfielder,Right,England,GB-ENG,1997-02-03,England,29,175.0,71.0,2016-07-08,False
+111317,David Brooks,David,Brooks,7,Midfielder,Left,Wales,GB-WLS,1997-07-08,England,28,173.0,62.0,2018-07-01,False
+503139,Alex Scott,Alex,Scott,8,Midfielder,Right,England,GB-ENG,2003-08-21,England,22,178.0,68.0,2023-08-10,False
+158499,Ryan Christie,Ryan,Christie,10,Midfielder,Left,Scotland,GB-SCT,1995-02-22,Scotland,31,178.0,70.0,2021-08-31,False
+200785,Tyler Adams,Tyler,Adams,12,Midfielder,Right,United States,US,1999-02-14,USA,27,175.0,72.0,2023-08-20,False
+201658,Marcus Tavernier,Marcus,Tavernier,16,Midfielder,Left,England,GB-ENG,1999-03-22,England,27,178.0,70.0,2022-08-01,False
+614574,Alex Tóth,Alex,Tóth,27,Midfielder,Right,Hungary,HU,2005-10-23,Hungary,20,181.0,,2026-01-20,False
+678552,Malcom DaCosta,Malcom,DaCosta,51,Midfielder,,Ecuador,EC,2008-04-17,Spain,18,193.0,,2025-12-01,False
+658013,Charlie Stevens,Charlie,Stevens,53,Midfielder,,Wales,GB-WLS,2007-05-31,Wales,18,,,2025-01-18,False
+444102,Evanilson,Francisco Evanilson,de Lima Barbosa,9,Forward,Both,Brazil,BR,1999-10-06,Brazil,26,183.0,80.0,2024-08-16,False
+496208,Ben Gannon-Doak,Ben,Gannon-Doak,11,Forward,Right,Scotland,GB-SCT,2005-11-11,Scotland,20,175.0,65.0,2025-08-18,False
+222683,Justin Kluivert,Justin,Kluivert,19,Forward,Right,Netherlands,NL,1999-05-05,Netherlands,27,171.0,67.0,2023-07-01,False
+489888,Amine Adli,Amine,Adli,21,Forward,Left,Morocco,MA,2000-05-10,France,26,174.0,72.0,2025-08-21,False
+560262,Junior Kroupi,Junior,Kroupi,22,Forward,Right,France,FR,2006-06-23,France,19,179.0,70.0,2025-02-02,False
+168636,Enes Ünal,Enes,Ünal,26,Forward,Right,Turkey,TR,1997-05-10,Türkiye,29,187.0,78.0,2024-07-01,False
+499604,Rayan,Rayan Vitor,Simplício Rocha,37,Forward,Left,Brazil,BR,2006-08-03,Brazil,19,187.0,81.0,2026-01-27,False
+606774,Remy Rees-Dottin,Remy,Rees-Dottin,50,Forward,Right,England,GB-ENG,2006-03-06,England,20,174.0,76.0,2024-12-28,False

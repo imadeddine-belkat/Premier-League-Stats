@@ -1,0 +1,41 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+15749,Joe Hart,Joe,Hart,1.0,Goalkeeper,,England,GB-ENG,1987-04-19,England,39,196,91,2006-07-01,False
+20310,Willy Caballero,Willy,Caballero,13.0,Goalkeeper,Right,Argentina,AR,1981-09-28,Argentina,44,186,80,2014-07-08,False
+1101,Richard Wright,Richard,Wright,29.0,Goalkeeper,,England,GB-ENG,1977-11-05,,48,188,83,2012-08-31,False
+77359,Florian Lejeune,Florian,Lejeune,,Defender,Right,France,FR,1991-05-20,France,35,190,81,2015-08-26,False
+37748,Bacary Sagna,Bacary,Sagna,3.0,Defender,,France,FR,1983-02-14,France,43,176,72,2014-07-01,False
+17476,Vincent Kompany,Vincent,Kompany,4.0,Defender,,Belgium,BE,1986-04-10,Belgium,40,190,85,2008-08-22,False
+20658,Pablo Zabaleta,Pablo,Zabaleta,5.0,Defender,Right,Argentina,AR,1985-01-16,Argentina,41,174,74,2008-08-31,False
+42593,Aleksandar Kolarov,Aleksandar,Kolarov,11.0,Defender,Left,Serbia,RS,1985-11-10,Serbia,40,187,83,2010-07-24,False
+57112,Eliaquim Mangala,Eliaquim,Mangala,20.0,Defender,Both,France,FR,1991-02-13,France,35,187,74,2014-08-11,False
+17336,Gaël Clichy,Gaël,Clichy,22.0,Defender,,France,FR,1985-07-26,,40,176,65,2011-07-04,False
+15312,Martín Demichelis,Martín,Demichelis,26.0,Defender,Right,Argentina,AR,1980-12-20,Argentina,45,184,80,2013-09-01,False
+160729,Jason Denayer,Jason,Denayer,28.0,Defender,,Belgium,BE,1995-06-28,Belgium,30,184,70,2014-07-01,False
+57410,Nicolás Otamendi,Nicolás,Otamendi,30.0,Defender,Right,Argentina,AR,1988-02-12,Argentina,38,183,81,2015-08-20,False
+170154,Pablo Maffeo,Pablo,Maffeo,50.0,Defender,,Spain,ES,1997-07-12,Spain,28,173,68,2013-07-01,False
+109646,Tosin Adarabioyo,Oluwatosin,Adarabioyo,53.0,Defender,,England,GB-ENG,1997-09-24,,28,190,80,2015-07-01,False
+145235,Angelino,Jose Angel,Esmoris Tasende,69.0,Defender,,Spain,ES,1997-01-04,,29,170,68,2014-12-01,False
+113037,Cameron Humphreys-Grant,Cameron,Humphreys-Grant,77.0,Defender,,England,GB-ENG,1998-08-22,,27,187,80,2013-01-01,False
+52538,Fernando,Fernando Francisco,Reges,6.0,Midfielder,Right,Brazil,BR,1987-07-25,Brazil,38,183,76,2014-07-01,False
+28554,Samir Nasri,Samir,Nasri,8.0,Midfielder,,France,FR,1987-06-26,,38,175,75,2011-08-24,False
+17740,Jesús Navas,Jesús,Navas,15.0,Midfielder,Right,Spain,ES,1985-11-21,Spain,40,170,60,2013-07-01,False
+61366,Kevin De Bruyne,Kevin,De Bruyne,17.0,Midfielder,Right,Belgium,BE,1991-06-28,Belgium,34,181,68,2015-08-30,False
+41823,Fabian Delph,Fabian,Delph,18.0,Midfielder,,England,GB-ENG,1989-11-21,,36,174,60,2015-07-17,False
+20664,David Silva,David,Silva,21.0,Midfielder,,Spain,ES,1986-01-08,Spain,40,173,67,2010-07-01,False
+27789,Fernandinho,Fernando,Luiz Rosa,25.0,Midfielder,Right,Brazil,BR,1985-05-04,Brazil,41,179,67,2013-07-01,False
+86814,Bruno Zuculini,Bruno,Zuculini,36.0,Midfielder,Right,Argentina,AR,1993-04-02,Argentina,33,182,74,2014-07-13,False
+14664,Yaya Touré,Gnegneri Yaya,Touré,42.0,Midfielder,,Cote d’Ivoire,CI,1983-05-13,Côte d'Ivoire,43,189,90,2010-07-02,False
+136380,Bersant Celina,Bersant,Celina,59.0,Midfielder,,Kosovo,XK,1996-09-09,Yugoslavia,29,177,60,2014-01-04,False
+109006,James Horsfield,James,Horsfield,61.0,Midfielder,,England,GB-ENG,1995-09-21,,30,178,70,2011-07-01,False
+109652,Brandon Barker,Brandon,Barker,62.0,Midfielder,,England,GB-ENG,1996-10-04,,29,180,68,2014-07-01,False
+130039,Sinan Bytyqi,Sinan,Bytyqi,63.0,Midfielder,,Kosovo,XK,1995-01-15,,31,185,82,2014-09-24,False
+109005,George Glendon,George,Glendon,73.0,Midfielder,,England,GB-ENG,1995-05-03,,31,177,70,2014-07-01,False
+178871,Aleix García,Aleix,García Serrano,75.0,Midfielder,,Spain,ES,1997-06-28,Spain,28,173,68,2016-02-06,False
+175352,Manu García,Manuel,Garcia Alonso,76.0,Midfielder,,Spain,ES,1998-01-02,Spain,28,170,65,2014-07-01,False
+42544,Edin Dzeko,Edin,Dzeko,,Forward,,Bosnia & Herzegovina,BA,1986-03-17,Bosnia and Herzegovina,40,193,84,2011-01-07,False
+112994,Rubén Sobrino,Rubén,Sobrino Pozuelo,,Forward,Right,Spain,ES,1992-06-01,Spain,33,185,73,2015-08-28,False
+103955,Raheem Sterling,Raheem,Sterling,7.0,Forward,,England,GB-ENG,1994-12-08,Jamaica,31,170,69,2015-07-14,False
+37572,Sergio Agüero,Sergio,Agüero,10.0,Forward,Both,Argentina,AR,1988-06-02,Argentina,37,173,70,2011-07-27,False
+57001,Wilfried Bony,Wilfried,Bony,14.0,Forward,,Cote d’Ivoire,CI,1988-12-10,Côte d'Ivoire,37,182,84,2015-01-14,False
+213221,David Faupala,David,Faupala,51.0,Forward,,France,FR,1997-02-11,France,29,183,72,2015-07-10,False
+173515,Kelechi Iheanacho,Kelechi,Iheanacho,72.0,Forward,Left,Nigeria,NG,1996-10-03,,29,187,77,2014-07-01,False

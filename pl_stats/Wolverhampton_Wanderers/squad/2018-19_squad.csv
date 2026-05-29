@@ -1,0 +1,34 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+38533,Rui Patrício,Rui Pedro,dos Santos Patrício,11.0,Goalkeeper,Left,Portugal,PT,1988-02-15,Portugal,38,190.0,84.0,2018-07-01,False
+19236,John Ruddy,John,Ruddy,21.0,Goalkeeper,Left,England,GB-ENG,1986-10-24,England,39,193.0,97.0,2017-07-10,False
+168399,Will Norris,Will,Norris,31.0,Goalkeeper,Right,England,GB-ENG,1993-08-12,,32,195.0,74.0,2017-07-11,False
+67184,Roderick Miranda,Roderick Jefferson,Gonçalves Miranda,,Defender,Both,Portugal,PT,1991-03-30,Portugal,35,191.0,85.0,2017-06-13,False
+87835,Matt Doherty,Matt,Doherty,2.0,Defender,Right,Ireland,IE,1992-01-16,,34,182.0,80.0,2010-08-19,False
+41727,Ryan Bennett,Ryan,Bennett,5.0,Defender,Right,England,GB-ENG,1990-03-06,,36,188.0,70.0,2017-07-01,False
+90585,Willy Boly,Willy,Boly,15.0,Defender,Right,Cote d’Ivoire,CI,1991-02-03,France,35,195.0,92.0,2018-07-01,False
+94147,Conor Coady,Conor,Coady,16.0,Defender,Right,England,GB-ENG,1993-02-25,,33,185.0,73.0,2015-07-03,False
+114128,Jonny,Jonathan,Castro Otto,19.0,Defender,Both,Spain,ES,1994-03-03,Spain,32,175.0,70.0,2019-01-31,False
+92178,Ethan Ebanks-Landell,Ethan,Ebanks-Landell,23.0,Defender,,England,GB-ENG,1992-12-16,,33,188.0,86.0,2010-07-01,False
+216054,Rúben Vinagre,Rúben Gonçalo,Silva Nascimento Vinagre,29.0,Defender,Left,Portugal,PT,1999-04-09,Portugal,27,174.0,64.0,2018-07-01,False
+123354,Kortney Hause,Kortney,Hause,30.0,Defender,Left,England,GB-ENG,1995-07-16,,30,191.0,77.0,2014-01-31,False
+215409,Cameron John,Cameron,John,47.0,Defender,,England,GB-ENG,1999-08-24,,26,,,2018-07-19,False
+214048,Maximilian Kilman,Maximilian,Kilman,49.0,Defender,Left,England,GB-ENG,1997-05-23,,29,,,2018-12-24,False
+179456,Oskar Buur,Oskar,Buur,59.0,Defender,,Denmark,DK,1998-03-31,,28,178.0,65.0,2017-09-01,False
+171317,Rúben Neves,Rúben Diogo,da Silva Neves,8.0,Midfielder,Right,Portugal,PT,1997-03-13,Portugal,29,180.0,72.0,2017-07-08,False
+222531,Morgan Gibbs-White,Morgan,Gibbs-White,17.0,Midfielder,Right,England,GB-ENG,2000-01-27,,26,171.0,,2017-01-01,False
+232351,Ryan John Giles,Ryan John,Giles,23.0,Midfielder,,England,GB-ENG,2000-01-26,England,26,,,2018-07-19,False
+233427,Elliot Watt,Elliot,Watt,25.0,Midfielder,Right,Scotland,GB-SCT,2000-03-11,,26,,,2018-07-19,False
+433145,Pote,Pedro António,Pereira Goncalves,26.0,Midfielder,Right,Portugal,PT,1998-06-28,Portugal,27,173.0,58.0,2017-08-01,False
+107613,Romain Saïss,Romain,Saïss,27.0,Midfielder,Right,Morocco,MA,1990-03-26,France,36,190.0,80.0,2016-08-30,False
+19624,João Moutinho,João Filipe Iria,Santos Moutinho,28.0,Midfielder,Right,Portugal,PT,1986-09-08,Portugal,39,170.0,61.0,2018-07-24,False
+151589,Leander Dendoncker,Leander,Dendoncker,32.0,Midfielder,Right,Belgium,BE,1995-04-15,Belgium,31,188.0,76.0,2018-08-09,True
+219929,Rafa Mir,Rafael,Mir Vicente,,Forward,Right,Spain,ES,1997-06-18,Spain,28,191.0,86.0,2018-01-03,False
+198847,Bright Enobakhare,Bright,Enobakhare,,Forward,Right,England,GB-ENG,1998-02-08,Nigeria,28,178.0,79.0,2015-08-10,False
+166324,Ivan Cavaleiro,Ivan,Cavaleiro,7.0,Forward,,Portugal,PT,1993-10-18,,32,175.0,73.0,2016-08-31,False
+102057,Raúl Jiménez,Raúl,Jiménez,9.0,Forward,Right,Mexico,MX,1991-05-05,Mexico,35,190.0,76.0,2018-06-12,True
+165808,Hélder Costa,Hélder Wander,Sousa de Azevedo e Costa,10.0,Forward,,Portugal,PT,1994-01-12,Angola,32,178.0,73.0,2016-07-29,False
+194634,Diogo Jota,Diogo José,Teixeira da Silva,18.0,Forward,Both,Portugal,PT,1996-12-04,Portugal,29,178.0,70.0,2018-07-01,False
+141569,Léo Bonatini,Leonardo Bonatini,Lohner Maia,33.0,Forward,Right,Brazil,BR,1994-03-28,Brazil,32,185.0,80.0,2018-07-01,False
+159533,Adama Traoré,Adama,Traoré,37.0,Forward,Right,Spain,ES,1996-01-25,,30,178.0,72.0,2018-08-08,False
+198843,Niall Ennis,Niall,Ennis,45.0,Forward,Right,England,GB-ENG,1999-05-20,,27,180.0,76.0,2018-07-01,False
+194798,Benny Ashley-Seal,Bernard,Ashley-Seal,56.0,Forward,,England,GB-ENG,1998-11-21,England,27,,,2018-07-01,False

@@ -1,0 +1,32 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+200720,Caoimhín Kelleher,Caoimhín,Kelleher,1,Goalkeeper,Right,Ireland,IE,1998-11-23,Republic of Ireland,27,188.0,74.0,2025-06-03,False
+507433,Hákon Valdimarsson,Hákon,Valdimarsson,12,Goalkeeper,Right,Iceland,IS,2001-10-13,Iceland,24,188.0,89.0,2024-01-26,False
+235448,Ellery Balcombe,Ellery,Balcombe,31,Goalkeeper,Right,England,GB-ENG,1999-10-15,England,26,190.0,92.0,2016-11-02,False
+535017,Julian Eyestone,Julian,Eyestone,41,Goalkeeper,Right,United States,US,2006-04-21,USA,20,198.0,97.0,2024-08-08,False
+472713,Aaron Hickey,Aaron,Hickey,2,Defender,Both,Scotland,GB-SCT,2002-06-10,Scotland,23,185.0,80.0,2022-07-09,False
+194010,Rico Henry,Rico,Henry,3,Defender,Left,Jamaica,JM,1997-07-08,England,28,170.0,67.0,2016-08-31,False
+444765,Sepp van den Berg,Sepp,van den Berg,4,Defender,Right,Netherlands,NL,2001-12-20,Netherlands,24,189.0,74.0,2024-08-22,False
+231065,Ethan Pinnock,Ethan,Pinnock,5,Defender,Left,Jamaica,JM,1993-05-29,England,33,194.0,79.0,2019-07-02,False
+191866,Kristoffer Ajer,Kristoffer,Ajer,20,Defender,Right,Norway,NO,1998-04-17,Norway,28,198.0,92.0,2021-07-21,False
+432830,Nathan Collins,Nathan,Collins,22,Defender,Right,Ireland,IE,2001-04-30,Republic of Ireland,25,193.0,83.0,2023-07-04,False
+607464,Michael Kayode,Michael,Kayode,33,Defender,Right,Italy,IT,2004-07-10,Italy,21,179.0,74.0,2025-07-01,False
+494556,Ollie Shield,Ollie,Shield,49,Defender,,England,GB-ENG,2006-09-25,England,19,,,2026-02-15,False
+649240,Joshua Stephenson,Joshua,Stephenson,50,Defender,,England,GB-ENG,2007-09-04,England,18,,,2025-08-01,False
+587433,Conor McManus,Conor,McManus,51,Defender,,Ireland,IE,2004-06-16,Republic of Ireland,21,,,2024-07-19,False
+56979,Jordan Henderson,Jordan,Henderson,6,Midfielder,Right,England,GB-ENG,1990-06-17,England,35,182.0,78.0,2025-07-15,False
+513418,Kevin Schade,Kevin,Schade,7,Midfielder,Right,Germany,DE,2001-11-27,Germany,24,183.0,74.0,2023-07-01,False
+207283,Mathias Jensen,Mathias,Jensen,8,Midfielder,Right,Denmark,DK,1996-01-01,Denmark,30,180.0,72.0,2019-07-10,False
+183656,Josh Dasilva,Josh,Dasilva,10,Midfielder,Left,England,GB-ENG,1998-10-23,England,27,184.0,75.0,2025-10-23,False
+244858,Fábio Carvalho,Fábio Leandro,Freitas Gouveia de Carvalho,14,Midfielder,Right,Portugal,PT,2002-08-30,Portugal,23,170.0,62.0,2024-08-12,False
+543295,Antoni Milambo,Antoni,Milambo,17,Midfielder,Right,Netherlands,NL,2005-04-03,Netherlands,21,179.0,68.0,2025-07-03,False
+508395,Yehor Yarmoliuk,Yehor,Yarmoliuk,18,Midfielder,Both,Ukraine,UA,2004-03-01,Ukraine,22,180.0,72.0,2022-10-28,False
+440089,Mikkel Damsgaard,Mikkel,Damsgaard,24,Midfielder,Right,Denmark,DK,2000-07-03,Denmark,25,180.0,66.0,2022-08-10,False
+204580,Vitaly Janelt,Vitaly,Janelt,27,Midfielder,Left,Germany,DE,1998-05-10,Germany,28,184.0,79.0,2020-10-03,False
+606689,Romelle Donovan,Romelle,Donovan,45,Midfielder,Left,England,GB-ENG,2006-11-30,England,19,171.0,67.0,2025-07-01,False
+559610,Luka Bentt,Luka,Bentt,48,Midfielder,,Belgium,BE,2007-10-01,USA,18,184.0,,2026-01-31,False
+547671,Riley Owen,Riley,Owen,52,Midfielder,,England,GB-ENG,2005-08-24,,20,,,2024-07-19,False
+502500,Igor Thiago,Igor Thiago,Nascimento Rodrigues,9,Forward,Right,Brazil,BR,2001-06-26,Brazil,24,191.0,85.0,2024-07-01,False
+200641,Reiss Nelson,Reiss,Nelson,11,Forward,Right,England,GB-ENG,1999-12-10,England,26,175.0,71.0,2025-09-01,True
+533463,Dango Ouattara,Dango,Ouattara,19,Forward,Left,Burkina Faso,BF,2002-02-11,Burkina Faso,24,177.0,71.0,2025-08-16,False
+249231,Keane Lewis-Potter,Keane,Lewis-Potter,23,Forward,Right,England,GB-ENG,2001-02-22,England,25,170.0,67.0,2022-07-12,False
+593174,Kaye Furo,Kaye,Furo,47,Forward,Right,Belgium,BE,2007-02-06,Belgium,19,190.0,,2026-01-11,False

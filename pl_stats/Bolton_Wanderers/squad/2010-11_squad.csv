@@ -1,0 +1,35 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+45175,Ádám Bogdán,Ádám,Bogdán,1,Goalkeeper,,Hungary,HU,1987-09-27,Hungary,38,193,82,2007-08-01,False
+1344,Jussi Jääskeläinen,Jussi,Jääskeläinen,22,Goalkeeper,,Finland,FI,1975-04-19,,51,191,81,1997-11-11,False
+88731,Rob Lainton,Rob,Lainton,26,Goalkeeper,,England,GB-ENG,1989-10-12,,36,185,79,2010-08-01,False
+28491,Ali Al Habsi,Ali Abdullah,Harib Al Habsi,26,Goalkeeper,,Oman,OM,1981-12-30,Oman,44,194,80,2006-01-01,False
+28183,Grétar Steinsson,Grétar,Steinsson,2,Defender,,Iceland,IS,1982-01-09,,44,189,78,2008-01-15,False
+82263,Marcos Alonso,Marcos,Alonso,3,Defender,Left,Spain,ES,1990-12-28,Spain,35,188,84,2010-07-27,False
+3754,Jlloyd Samuel,Jlloyd,Samuel,3,Defender,,Trinidad & Tobago,TT,1981-03-29,Trinidad and Tobago,45,180,72,2007-07-01,False
+2004,Paul Robinson,Paul,Robinson,4,Defender,,England,GB-ENG,1978-12-14,,47,175,72,2010-01-30,False
+19419,Gary Cahill,Gary,Cahill,5,Defender,Right,England,GB-ENG,1985-12-19,England,40,193,86,2008-01-29,False
+1587,Zat Knight,Zat,Knight,12,Defender,,England,GB-ENG,1980-05-02,England,46,199,103,2009-07-25,False
+7712,Sam Ricketts,Sam,Ricketts,18,Defender,,Wales,GB-WLS,1981-10-11,,44,185,76,2009-07-25,False
+19958,David Wheater,David,Wheater,31,Defender,,England,GB-ENG,1987-02-14,,39,196,82,2011-01-20,False
+80986,Mark Connolly,Mark,Connolly,33,Defender,,Ireland,IE,1991-12-16,Republic of Ireland,34,185,74,2009-07-01,False
+98464,Josh Vela,Josh,Vela,6,Midfielder,,England,GB-ENG,1993-12-14,,32,181,73,2010-07-01,False
+27696,Fabrice Muamba,Fabrice,Muamba,6,Midfielder,,England,GB-ENG,1988-04-06,,38,188,78,2008-06-01,False
+3289,Matthew Taylor,Matthew,Taylor,7,Midfielder,,England,GB-ENG,1981-11-27,,44,178,73,2008-01-17,False
+10089,Martin Petrov,Martin,Petrov,10,Midfielder,Left,Bulgaria,BG,1979-01-15,Bulgaria,47,180,77,2010-07-01,False
+1307,Ricardo Gardner,Ricardo,Gardner,11,Midfielder,,Jamaica,JM,1978-09-25,,47,175,70,1998-07-01,False
+19930,Mark Davies,Mark,Davies,16,Midfielder,,England,GB-ENG,1988-02-18,,38,180,74,2009-01-26,False
+1615,Robbie Blake,Robbie,Blake,20,Midfielder,,England,GB-ENG,1976-03-04,,50,175,76,2010-07-01,False
+18621,Tamir Cohen,Tamir,Cohen,21,Midfielder,,Israel,IL,1984-03-04,,42,181,71,2008-01-01,False
+19948,Stuart Holden,Stuart,Holden,22,Midfielder,,United States,US,1985-08-01,,40,178,73,2010-01-25,False
+1589,Sean Davis,Sean,Davis,23,Midfielder,,England,GB-ENG,1979-09-20,,46,175,76,2009-07-01,False
+75773,Lee Chung-Yong,Chung-Yong,Lee,27,Midfielder,Right,South Korea,KR,1988-07-02,Korea Republic,37,180,70,2009-08-14,False
+19575,Joseph O'Brien,Joseph,O'Brien,28,Midfielder,Right,Ireland,IE,1986-02-17,,40,180,70,2004-09-01,False
+4739,Johan Elmander,Johan,Elmander,9,Forward,,Sweden,SE,1981-05-27,,45,188,84,2008-07-01,False
+3630,Kevin Davies,Kevin,Davies,14,Forward,,England,GB-ENG,1977-03-26,,49,183,82,2003-07-23,False
+40755,Daniel Sturridge,Daniel,Sturridge,15,Forward,Left,England,GB-ENG,1989-09-01,England,36,188,76,2011-01-31,False
+9765,Ivan Klasnic,Ivan,Klasnic,17,Forward,Left,Croatia,HR,1980-01-29,Germany,46,186,82,2010-06-02,False
+80954,Rodrigo,Rodrigo,Moreno Machado,19,Forward,Left,Spain,ES,1991-03-06,Brazil,35,182,77,2010-08-31,True
+92805,Michael O'Halloran,Michael,O'Halloran,30,Forward,,Scotland,GB-SCT,1991-01-06,,35,188,79,2010-07-01,False
+79287,Tom Eaves,Tom,Eaves,32,Forward,Right,England,GB-ENG,1992-01-14,,34,191,86,2010-08-12,False
+75826,Danny Ward,Danny,Ward,33,Forward,,England,GB-ENG,1990-12-09,England,35,178,72,2009-07-01,False
+51929,Temitope Obadeyi,Temitope,Obadeyi,35,Forward,Right,England,GB-ENG,1989-10-29,England,36,179,75,2008-08-01,False

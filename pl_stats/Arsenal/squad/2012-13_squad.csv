@@ -1,0 +1,57 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+59936,Wojciech Szczesny,Wojciech,Szczesny,1.0,Goalkeeper,,Poland,PL,1990-04-18,Poland,36,195,90,2008-07-01,False
+37096,Lukasz Fabianski,Lukasz,Fabianski,21.0,Goalkeeper,,Poland,PL,1985-04-18,,41,190,83,2007-07-01,False
+20487,Vito Mannone,Vito,Mannone,24.0,Goalkeeper,,Italy,IT,1988-03-02,,38,188,77,2005-07-04,False
+98980,Emiliano Martínez,Emiliano,Martínez,26.0,Goalkeeper,Right,Argentina,AR,1992-09-02,Argentina,33,195,88,2011-07-01,False
+77818,James Shea,James,Shea,60.0,Goalkeeper,,England,GB-ENG,1991-06-16,,34,180,76,2009-07-01,False
+37748,Bacary Sagna,Bacary,Sagna,3.0,Defender,,France,FR,1983-02-14,France,43,176,72,2007-07-12,False
+42427,Kieran Gibbs,Kieran,Gibbs,3.0,Defender,,England,GB-ENG,1989-09-26,,36,179,70,2006-07-01,False
+17127,Per Mertesacker,Per,Mertesacker,4.0,Defender,Right,Germany,DE,1984-09-29,Germany,41,198,90,2011-08-31,False
+15943,Thomas Vermaelen,Thomas,Vermaelen,5.0,Defender,Left,Belgium,BE,1985-11-14,Belgium,40,183,80,2009-06-19,False
+51507,Laurent Koscielny,Laurent,Koscielny,6.0,Defender,,France,FR,1985-09-10,France,40,186,75,2010-07-07,False
+57214,André Santos,André,Clarindo Dos Santos,11.0,Defender,Left,Brazil,BR,1983-03-08,Brazil,43,180,73,2011-08-31,False
+38411,Nacho Monreal,Nacho,Monreal,18.0,Defender,Left,Spain,ES,1986-02-26,Spain,40,179,72,2013-01-31,False
+13439,Sébastien Squillaci,Sébastien,Squillaci,18.0,Defender,Right,France,FR,1980-08-11,France,45,185,80,2010-08-26,False
+19160,Johan Djourou,Johan,Djourou,20.0,Defender,Right,Switzerland,CH,1987-01-18,Côte d'Ivoire,39,191,87,2004-08-01,False
+98745,Héctor Bellerín,Héctor,Bellerín,24.0,Defender,,Spain,ES,1995-03-19,,31,178,74,2012-07-01,False
+80254,Carl Jenkinson,Carl,Jenkinson,25.0,Defender,,England,GB-ENG,1992-02-08,England,34,185,77,2011-06-09,False
+133797,Martin Angha,Martin,Angha,38.0,Defender,Right,Switzerland,CH,1994-01-22,Switzerland,32,188,79,2012-09-01,False
+88496,Daniel Boateng,Daniel,Boateng,42.0,Defender,,England,GB-ENG,1992-09-02,,33,183,78,2010-07-01,False
+111169,Sead Hajrovic,Sead,Hajrovic,48.0,Defender,,Switzerland,CH,1993-06-04,,32,181,76,2011-07-01,False
+90801,Ignasi Miquel,Ignasi,Miquel,51.0,Defender,Left,Spain,ES,1992-09-28,Spain,33,189,80,2010-07-01,False
+108012,Jernade Meade,Jernade,Meade,53.0,Defender,Left,England,GB-ENG,1992-10-25,England,33,160,70,2011-07-01,False
+147676,Elton Monteiro,Elton Almada,Monteiro,55.0,Defender,,Portugal,PT,1994-02-22,Switzerland,32,192,85,2012-12-01,False
+86364,Nico Yennaris,Nicholas,Yennaris,64.0,Defender,,England,GB-ENG,1993-05-23,,33,175,65,2010-07-01,False
+80588,Samuel Galindo,Samuel,Galindo,,Midfielder,Left,Bolivia,BO,1992-04-18,Bolivia,34,190,70,2010-01-15,False
+162677,Jordan Wynter,Jordan,Wynter,,Midfielder,,England,GB-ENG,1993-11-24,,32,185,77,2012-07-01,False
+88497,Chuks Aneke,Chuks,Aneke,,Midfielder,,England,GB-ENG,1993-07-03,,32,191,100,2010-07-01,False
+8597,Tomas Rosicky,Tomas,Rosicky,7.0,Midfielder,,Czech Republic,CZ,1980-10-04,,45,178,65,2006-07-01,False
+41792,Aaron Ramsey,Aaron,Ramsey,8.0,Midfielder,,Wales,GB-WLS,1990-12-26,,35,178,76,2008-07-01,False
+8758,Mikel Arteta,Mikel,Arteta,8.0,Midfielder,,Spain,ES,1982-03-26,,44,183,64,2011-08-31,False
+54102,Jack Wilshere,Jack,Wilshere,10.0,Midfielder,,England,GB-ENG,1992-01-01,England,34,172,68,2008-07-01,False
+81880,Alex Oxlade-Chamberlain,Alex,Oxlade-Chamberlain,15.0,Midfielder,,England,GB-ENG,1993-08-15,England,32,180,70,2011-08-08,False
+28440,Denilson,Denilson,Pereira Neves,15.0,Midfielder,,Brazil,BR,1988-02-16,,38,182,70,2006-08-31,False
+19524,Santiago Cazorla,Santiago,Cazorla,19.0,Midfielder,Both,Spain,ES,1984-12-13,Spain,41,168,66,2012-08-07,False
+13227,Andrey Arshavin,Andrey,Arshavin,23.0,Midfielder,,Russia,RU,1981-05-29,Russia,45,172,69,2009-02-03,False
+28566,Abou Diaby,Vassiriki,Abou Diaby,24.0,Midfielder,,France,FR,1986-05-11,,40,191,75,2006-01-13,False
+56861,Emmanuel Frimpong,Emmanuel,Frimpong,26.0,Midfielder,Right,Ghana,GH,1992-01-10,Ghana,34,178,67,2008-08-01,False
+133798,Serge Gnabry,Serge,Gnabry,27.0,Midfielder,Right,Germany,DE,1995-07-14,Germany,30,173,73,2012-07-01,False
+92372,Ryo Miyaichi,Ryo,Miyaichi,31.0,Midfielder,Right,Japan,JP,1992-12-14,Japan,33,183,71,2011-01-01,False
+56864,Francis Coquelin,Francis,Coquelin,34.0,Midfielder,Right,France,FR,1991-05-13,France,35,178,74,2008-09-01,False
+111571,Thomas Eisfeld,Thomas,Eisfeld,42.0,Midfielder,Right,Germany,DE,1993-01-18,Germany,33,177,76,2012-01-31,False
+66587,Craig Eastmond,Craig,Eastmond,44.0,Midfielder,,England,GB-ENG,1990-12-09,England,35,173,75,2007-07-31,False
+59937,Conor Henderson,Conor,Henderson,50.0,Midfielder,,Ireland,IE,1991-09-08,,34,185,76,2008-07-01,False
+131573,Philip Roberts,Philip,Roberts,,Forward,,Ireland,IE,1994-04-07,England,32,181,79,2012-07-01,False
+92984,Wellington Silva,Wellington,Alves da Silva,,Forward,Right,Brazil,BR,1993-01-06,Brazil,33,170,64,2011-01-01,False
+17733,Lukas Podolski,Lukas,Podolski,9.0,Forward,Left,Germany,DE,1985-06-04,Poland,40,182,83,2012-07-01,False
+44346,Olivier Giroud,Olivier,Giroud,12.0,Forward,Left,France,FR,1986-09-30,France,39,192,88,2012-07-01,False
+20467,Theo Walcott,Theo,Walcott,14.0,Forward,,England,GB-ENG,1989-03-16,,37,176,68,2006-01-20,False
+27697,Nicklas Bendtner,Nicklas,Bendtner,23.0,Forward,Right,Denmark,DK,1988-01-16,Denmark,38,193,84,2005-07-01,False
+43274,Gervinho,Gervais,Kouassi,27.0,Forward,,Cote d’Ivoire,CI,1987-05-27,Côte d'Ivoire,39,179,66,2011-07-11,False
+99127,Joel Campbell,Joel,Campbell,27.0,Forward,Left,Costa Rica,CR,1992-06-26,Costa Rica,33,178,71,2011-08-19,False
+15675,Marouane Chamakh,Marouane,Chamakh,29.0,Forward,,Morocco,MA,1984-01-10,,42,185,70,2010-07-01,False
+36968,Park Chu-Young,Chu-Young,Park,30.0,Forward,,South Korea,KR,1985-07-10,Korea Republic,40,182,70,2011-08-31,False
+147675,Chuba Akpom,Chuba,Akpom,32.0,Forward,,England,GB-ENG,1995-10-09,,30,183,70,2012-07-01,False
+88498,Benik Afobe,Benik,Afobe,36.0,Forward,,DR Congo,CD,1993-02-12,England,33,183,78,2010-09-01,False
+147692,Zak Ansah,Zak,Ansah,39.0,Forward,,England,GB-ENG,1994-05-04,England,32,179,73,2012-12-03,False
+59942,Sanchez Watt,Herschel,Sanchez Watt,62.0,Forward,,England,GB-ENG,1991-02-14,England,35,180,70,2007-07-31,False

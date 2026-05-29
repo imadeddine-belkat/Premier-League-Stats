@@ -1,0 +1,41 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+39790,Kiko Casilla,Francisco,Casilla Cortés,,Goalkeeper,Right,Spain,ES,1986-10-02,Spain,39,190.0,86.0,2019-01-17,False
+437495,Illan Meslier,Illan,Meslier,1.0,Goalkeeper,Right,France,FR,2000-03-02,France,26,197.0,74.0,2020-07-27,False
+223081,Kristoffer Klaesson,Kristoffer,Klaesson,13.0,Goalkeeper,,Norway,NO,2000-11-27,,25,189.0,76.0,2021-07-31,False
+463912,Elia Caprile,Elia,Caprile,25.0,Goalkeeper,Right,Italy,IT,2001-08-25,Italy,24,191.0,74.0,2020-02-28,False
+66588,Luke Ayling,Luke,Ayling,2.0,Defender,Right,England,GB-ENG,1991-08-25,England,34,185.0,72.0,2016-08-11,False
+443967,Junior Firpo,Junior,Firpo,3.0,Defender,Left,Spain,ES,1996-08-22,Dominican Republic,29,184.0,78.0,2021-07-06,False
+492373,Charlie Cresswell,Charlie,Cresswell,5.0,Defender,Right,England,GB-ENG,2002-08-17,England,23,183.0,,2020-09-15,False
+193645,Robin Koch,Robin,Koch,5.0,Defender,Right,Germany,DE,1996-07-17,Germany,29,191.0,86.0,2020-08-29,False
+55914,Liam Cooper,Liam,Cooper,6.0,Defender,Left,Scotland,GB-SCT,1991-08-30,,34,180.0,73.0,2014-08-13,False
+58746,Laurens De Bock,Laurens,De Bock,12.0,Defender,Left,Belgium,BE,1992-11-07,,33,179.0,74.0,2018-01-11,False
+149915,Diego Llorente,Diego,Llorente,14.0,Defender,Right,Spain,ES,1993-08-16,Spain,32,186.0,75.0,2020-09-24,False
+87873,Stuart Dallas,Stuart,Dallas,15.0,Defender,Right,Northern Ireland,GB-NIR,1991-04-19,,35,183.0,81.0,2015-08-04,False
+222694,Pascal Struijk,Pascal,Struijk,21.0,Defender,Left,Netherlands,NL,1999-08-11,,26,190.0,79.0,2018-04-12,False
+455084,Leif Davis,Leif,Davis,24.0,Defender,Left,England,GB-ENG,1999-12-31,,26,182.0,,2018-11-09,False
+477547,Leo Hjelde,Leo,Hjelde,33.0,Defender,Left,Norway,NO,2003-08-26,,22,188.0,,2021-09-20,False
+433590,Cody Drameh,Cody,Drameh,37.0,Defender,Right,England,GB-ENG,2001-12-08,England,24,175.0,,2021-05-01,False
+513852,Kris Moore,Kris,Moore,52.0,Defender,,England,GB-ENG,2003-11-13,,22,,,2021-12-01,False
+480216,Mateusz Bogusz,Mateusz,Bogusz,,Midfielder,,Poland,PL,2001-08-22,,24,175.0,69.0,2019-01-29,False
+80179,Adam Forshaw,Adam,Forshaw,4.0,Midfielder,Right,England,GB-ENG,1991-10-08,England,34,174.0,71.0,2018-01-18,False
+221399,Jack Harrison,Jack,Harrison,11.0,Midfielder,,England,GB-ENG,1996-11-20,England,29,175.0,70.0,2021-07-02,False
+221610,Jamie Shackleton,Jamie,Shackleton,17.0,Midfielder,,England,GB-ENG,1999-10-08,,26,168.0,65.0,2018-07-01,False
+200617,Daniel James,Daniel,James,20.0,Midfielder,Right,Wales,GB-WLS,1997-11-10,England,28,171.0,63.0,2021-08-31,False
+547701,Archie Gray,Archie,Gray,22.0,Midfielder,,England,GB-ENG,2006-03-12,,20,,,2021-12-01,False
+155405,Kalvin Phillips,Kalvin,Phillips,23.0,Midfielder,Right,England,GB-ENG,1995-12-02,England,30,178.0,72.0,2014-07-01,False
+450529,Lewis Bate,Lewis,Bate,26.0,Midfielder,,England,GB-ENG,2002-10-28,England,23,,,2021-11-06,False
+467113,Alfie McCalmont,Alfie,McCalmont,38.0,Midfielder,,Northern Ireland,GB-NIR,2000-03-25,Northern Ireland,26,,,2019-08-12,False
+473342,Stuart McKinstry,Stuart,McKinstry,39.0,Midfielder,,Scotland,GB-SCT,2002-09-18,,23,,,2021-09-16,False
+72222,Mateusz Klich,Mateusz,Klich,43.0,Midfielder,Right,Poland,PL,1990-06-13,Poland,35,183.0,84.0,2017-06-23,False
+464618,Liam McCarron,Liam,McCarron,45.0,Midfielder,Left,Scotland,GB-SCT,2001-03-07,England,25,175.0,61.0,2020-01-16,False
+492374,Jack Jenkins,Jack,Jenkins,47.0,Midfielder,Right,England,GB-ENG,2002-03-23,England,24,,,2020-11-06,False
+469249,Nohan Kenneh,Nohan,Kenneh,54.0,Midfielder,,Liberia,LR,2003-01-10,Liberia,23,,,2021-09-16,False
+165808,Hélder Costa,Hélder Wander,Sousa de Azevedo e Costa,,Forward,Left,Angola,AO,1994-01-12,Angola,32,178.0,79.0,2020-07-27,False
+106617,Patrick Bamford,Patrick,Bamford,9.0,Forward,Left,England,GB-ENG,1993-09-05,,32,185.0,71.0,2018-07-31,False
+450070,Crysencio Summerville,Crysencio,Summerville,10.0,Forward,,Netherlands,NL,2001-10-30,Netherlands,24,174.0,,2021-04-24,False
+219961,Raphinha,Raphael,Dias Belloli,10.0,Forward,Left,Brazil,BR,1996-12-14,Brazil,29,176.0,68.0,2020-10-05,False
+173821,Tyler Roberts,Tyler,Roberts,11.0,Forward,Right,Wales,GB-WLS,1999-01-12,England,27,180.0,75.0,2018-01-31,False
+80954,Rodrigo,Rodrigo,Moreno Machado,19.0,Forward,Left,Spain,ES,1991-03-06,Brazil,35,182.0,77.0,2020-08-29,False
+248937,Sam Greenwood,Sam,Greenwood,19.0,Forward,,England,GB-ENG,2002-01-26,England,24,185.0,,2021-01-09,False
+215460,Ian Poveda,Ian,Poveda,27.0,Forward,Left,England,GB-ENG,2000-02-09,,26,165.0,,2020-01-24,False
+462635,Joe Gelhardt,Joe,Gelhardt,30.0,Forward,Left,England,GB-ENG,2002-05-04,England,24,175.0,65.0,2021-02-07,False

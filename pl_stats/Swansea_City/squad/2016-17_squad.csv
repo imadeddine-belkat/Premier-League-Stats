@@ -1,0 +1,37 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+37096,Lukasz Fabianski,Lukasz,Fabianski,1,Goalkeeper,Right,Poland,PL,1985-04-18,Poland,41,190,83.0,2014-07-01,False
+61760,Kristoffer Nordfeldt,Kristoffer,Nordfeldt,13,Goalkeeper,,Sweden,SE,1989-06-23,Sweden,36,190,85.0,2015-06-23,False
+102907,Mark Birighitti,Mark,Birighitti,19,Goalkeeper,,Australia,AU,1991-04-17,Australia,35,189,84.0,2016-07-18,False
+5288,Gerhard Tremmel,Gerhard,Tremmel,25,Goalkeeper,Right,Germany,DE,1978-11-16,Germany,47,190,89.0,2011-08-31,False
+80789,Jordi Amat,Jordi,Amat,2,Defender,Right,Spain,ES,1992-03-21,Spain,34,184,78.0,2013-06-27,False
+97615,Mike van der Hoorn,Mike,van der Hoorn,5,Defender,,Netherlands,NL,1992-10-15,Netherlands,33,190,81.0,2016-07-06,False
+149266,Alfie Mawson,Alfie,Mawson,6,Defender,,England,GB-ENG,1994-01-19,,32,188,81.0,2016-08-30,False
+55313,Franck Tabanou,Franck,Tabanou,14,Defender,,France,FR,1989-01-30,France,37,178,77.0,2015-06-19,False
+28654,Martin Olsson,Martin,Olsson,16,Defender,,Sweden,SE,1988-05-17,,38,178,81.0,2017-01-17,False
+42996,Angel Rangel,Angel,Rangel,22,Defender,,Spain,ES,1982-10-28,,43,188,84.0,2007-06-29,False
+49539,Kyle Naughton,Kyle,Naughton,26,Defender,,England,GB-ENG,1988-11-11,,37,180,73.0,2015-01-22,False
+59940,Kyle Bartley,Kyle,Bartley,27,Defender,,England,GB-ENG,1991-05-22,England,35,185,76.0,2012-08-16,False
+57145,Federico Fernández,Federico,Fernandez,33,Defender,Right,Argentina,AR,1989-02-21,Argentina,37,190,83.0,2014-08-20,False
+96306,Stephen Kingsley,Stephen,Kingsley,35,Defender,,Scotland,GB-SCT,1994-07-23,,31,178,67.0,2015-07-01,False
+192290,Connor Roberts,Connor,Roberts,52,Defender,,Wales,GB-WLS,1995-09-23,,30,175,71.0,2017-03-17,False
+214225,Joe Rodon,Joe,Rodon,61,Defender,,Wales,GB-WLS,1997-10-22,Wales,28,180,70.0,2016-01-01,False
+76542,Ki Sung-yueng,Sung-yueng,Ki,4,Midfielder,,South Korea,KR,1989-01-24,Korea Republic,37,187,79.0,2012-08-24,False
+15114,Leon Britton,Leon,Britton,7,Midfielder,,England,GB-ENG,1982-09-16,,43,168,64.0,2011-01-20,False
+49277,Leroy Fer,Leroy,Fer,8,Midfielder,,Netherlands,NL,1990-01-05,Netherlands,36,188,79.0,2016-07-05,False
+57586,Luciano Narsingh,Luciano,Narsingh,11,Midfielder,,Netherlands,NL,1990-09-13,Netherlands,35,178,69.0,2017-01-12,False
+21083,Nathan Dyer,Nathan,Dyer,12,Midfielder,,England,GB-ENG,1987-11-29,,38,165,60.0,2009-07-01,False
+93464,Tom Carroll,Tom,Carroll,14,Midfielder,,England,GB-ENG,1992-05-28,,34,177,71.0,2017-01-17,False
+11829,Wayne Routledge,Wayne,Routledge,15,Midfielder,,England,GB-ENG,1985-01-07,,41,170,64.0,2011-08-04,False
+49195,Jefferson Montero,Jefferson,Montero,20,Midfielder,Both,Ecuador,EC,1989-09-01,Ecuador,36,173,70.0,2014-07-24,False
+168144,Matt Grimes,Matt,Grimes,21,Midfielder,,England,GB-ENG,1995-07-15,England,30,178,70.0,2015-01-02,False
+55422,Gylfi Sigurdsson,Gylfi,Sigurdsson,23,Midfielder,,Iceland,IS,1989-09-08,Iceland,36,186,79.0,2014-07-23,False
+40145,Jack Cork,Jack,Cork,24,Midfielder,,England,GB-ENG,1989-06-25,,36,183,70.0,2015-01-30,False
+200617,Daniel James,Daniel,James,42,Midfielder,,Wales,GB-WLS,1997-11-10,England,28,170,76.0,2016-01-01,False
+96305,Jay Fulton,Jay,Fulton,56,Midfielder,,Scotland,GB-SCT,1994-04-04,England,32,178,68.0,2014-01-31,False
+174872,Courtney Baker-Richardson,Courtney,Baker-Richardson,58,Midfielder,,England,GB-ENG,1995-12-05,,30,188,,2017-04-14,False
+19760,Fernando Llorente,Fernando,Llorente,9,Forward,Both,Spain,ES,1985-02-26,Spain,41,193,90.0,2016-08-05,False
+83091,Borja Bastón,Borja,González Tomás,10,Forward,Right,Spain,ES,1992-08-25,Spain,33,186,83.0,2016-08-11,False
+111787,Modou Barrow,Modou,Barrow,17,Forward,,Gambia,GM,1992-10-13,,33,176,63.0,2014-09-01,False
+37998,Bafétimbi Gomis,Bafétimbi,Gomis,18,Forward,,France,FR,1985-08-06,,40,184,77.0,2014-07-01,False
+80146,Jordan Ayew,Jordan,Ayew,18,Forward,,Ghana,GH,1991-09-11,France,34,182,80.0,2017-01-31,False
+169432,Oliver McBurnie,Oliver,McBurnie,62,Forward,,Scotland,GB-SCT,1996-06-04,England,29,188,79.0,2016-08-22,False

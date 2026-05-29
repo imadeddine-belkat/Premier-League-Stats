@@ -1,0 +1,30 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+105666,Jack Butland,Jack,Butland,1,Goalkeeper,Right,England,GB-ENG,1993-03-10,England,33,196.0,95.0,2013-01-31,False
+112316,Jakob Haugaard,Jakob,Haugaard,29,Goalkeeper,Right,Denmark,DK,1992-05-01,Denmark,34,199.0,87.0,2015-07-01,False
+6744,Lee Grant,Lee,Grant,33,Goalkeeper,,England,GB-ENG,1983-01-27,,43,193.0,83.0,2017-01-04,False
+102366,Moritz Bauer,Moritz,Bauer,2,Defender,Right,Austria,AT,1992-01-25,Switzerland,34,181.0,73.0,2018-01-09,False
+39487,Erik Pieters,Erik,Pieters,3,Defender,,Netherlands,NL,1988-08-07,,37,183.0,84.0,2013-07-01,False
+97485,Kevin Wimmer,Kevin,Wimmer,5,Defender,Left,Austria,AT,1992-11-15,Austria,33,187.0,85.0,2017-08-29,False
+103192,Kurt Zouma,Kurt,Zouma,6,Defender,,France,FR,1994-10-27,,31,190.0,96.0,2017-07-21,True
+9047,Glen Johnson,Glen,Johnson,8,Defender,,England,GB-ENG,1984-08-23,England,41,182.0,78.0,2015-07-12,False
+85352,Bruno Martins Indi,Bruno,Martins Indi,15,Defender,,Netherlands,NL,1992-02-08,Portugal,34,185.0,76.0,2017-08-11,False
+37869,Ryan Shawcross,Ryan,Shawcross,17,Defender,,England,GB-ENG,1987-10-04,,38,191.0,76.0,2008-01-01,False
+50089,Geoff Cameron,Geoff,Cameron,20,Defender,Right,United States,US,1985-07-11,USA,40,191.0,84.0,2012-08-08,False
+93001,Konstantinos Stafylidis,Konstantinos,Stafylidis,21,Defender,Left,Greece,GR,1993-12-02,Greece,32,178.0,77.0,2018-01-18,True
+209212,Thomas Edwards,Thomas,Edwards,42,Defender,,England,GB-ENG,1999-01-22,England,27,175.0,76.0,2017-02-01,False
+40555,Joe Allen,Joe,Allen,4,Midfielder,,Wales,GB-WLS,1990-03-14,,36,168.0,62.0,2016-07-25,False
+20481,Stephen Ireland,Stephen,Ireland,7,Midfielder,,Ireland,IE,1986-08-22,,39,173.0,67.0,2014-01-14,False
+42564,Eric Maxim Choupo-Moting,Eric Maxim,Choupo-Moting,10,Midfielder,Right,Cameroon,CM,1989-03-23,Germany,37,191.0,91.0,2017-08-07,False
+19568,Ibrahim Afellay,Ibrahim,Afellay,14,Midfielder,Right,Netherlands,NL,1986-04-02,Netherlands,40,180.0,76.0,2015-07-27,False
+20208,Charlie Adam,Charlie,Adam,16,Midfielder,,Scotland,GB-SCT,1985-12-10,,40,185.0,83.0,2012-08-31,False
+61858,Mame Biram Diouf,Mame Biram,Diouf,18,Midfielder,Right,Senegal,SN,1987-12-16,Senegal,38,185.0,79.0,2014-07-01,False
+68312,Xherdan Shaqiri,Xherdan,Shaqiri,22,Midfielder,Both,Switzerland,CH,1991-10-10,Kosovo,34,169.0,72.0,2015-08-11,False
+14295,Darren Fletcher,Darren,Fletcher,24,Midfielder,,Scotland,GB-SCT,1984-02-01,,42,183.0,83.0,2017-07-01,False
+163463,Badou Ndiaye,Papa Alioune,Ndiaye,27,Midfielder,Right,Senegal,SN,1990-10-27,Senegal,35,180.0,74.0,2018-01-31,False
+205102,Ramadan Sobhi,Ramadan,Sobhi Ahmed,32,Midfielder,Right,Egypt,EG,1997-01-23,Egypt,29,183.0,75.0,2016-07-25,False
+160901,Oliver Shenton,Oliver,Shenton,34,Midfielder,,England,GB-ENG,1997-11-06,,28,175.0,77.0,2014-07-01,False
+226029,Lasse Sorenson,Lasse,Sorenson,55,Midfielder,Right,Denmark,DK,1999-10-21,Denmark,26,185.0,78.0,2018-03-31,False
+91972,Saido Berahino,Saido,Berahino,9,Forward,,England,GB-ENG,1993-08-04,Burundi,32,180.0,82.0,2017-01-20,False
+93127,Jesé,Jesé,Rodríguez Ruiz,11,Forward,Right,Spain,ES,1993-02-26,Spain,33,178.0,72.0,2017-08-16,True
+3773,Peter Crouch,Peter,Crouch,25,Forward,,England,GB-ENG,1981-01-30,,45,201.0,75.0,2011-08-31,False
+200884,Tyrese Campbell,Tyrese,Campbell,40,Forward,,England,GB-ENG,1999-12-28,,26,,,2017-07-01,False

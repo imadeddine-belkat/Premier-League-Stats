@@ -1,0 +1,25 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+19838,Robert Elliot,Robert,Elliot,1,Goalkeeper,,Ireland,IE,1986-04-30,,40,190,94,2011-08-31,False
+67089,Martin Dubravka,Martin,Dubravka,12,Goalkeeper,,Slovakia,SK,1989-01-15,Slovakia,37,190,80,2018-01-31,True
+59735,Karl Darlow,Karl,Darlow,26,Goalkeeper,,England,GB-ENG,1990-10-08,,35,190,88,2014-08-04,False
+58845,Ciaran Clark,Ciaran,Clark,2,Defender,,Ireland,IE,1989-09-26,,36,185,88,2016-08-03,False
+106618,Paul Dummett,Paul,Dummett,3,Defender,,Wales,GB-WLS,1991-09-26,,34,183,82,2011-07-01,False
+101148,Jamaal Lascelles,Jamaal,Lascelles,6,Defender,,England,GB-ENG,1993-11-11,,32,188,89,2014-08-04,False
+149736,Chancel Mbemba,Chancel,Mbemba,18,Defender,,DR Congo,CD,1994-08-08,,31,182,81,2015-07-30,False
+109528,Javier Manquillo,Javier,Manquillo,19,Defender,Right,Spain,ES,1994-05-05,Spain,32,178,76,2017-07-21,False
+77359,Florian Lejeune,Florian,Lejeune,20,Defender,Right,France,FR,1991-05-20,France,35,189,89,2017-07-04,False
+151119,DeAndre Yedlin,DeAndre,Yedlin,22,Defender,Right,United States,US,1993-07-09,USA,32,172,75,2016-08-24,False
+92170,Massadio Haidara,Massadio,Haidara,25,Defender,,France,FR,1992-12-02,,33,181,76,2013-01-24,False
+27462,Jesús Gámez,Jesús,Gámez Duarte,27,Defender,Right,Spain,ES,1985-04-10,Spain,41,177,75,2016-07-08,False
+114243,Jacob Murphy,Jacob,Murphy,7,Midfielder,,England,GB-ENG,1995-02-24,,31,179,74,2017-07-19,False
+50232,Jonjo Shelvey,Jonjo,Shelvey,8,Midfielder,,England,GB-ENG,1992-02-27,,34,184,80,2016-01-12,False
+28147,Mohamed Diamé,Mohamed,Diamé,10,Midfielder,,Senegal,SN,1987-06-14,,38,184,86,2016-08-03,False
+56983,Matt Ritchie,Matt,Ritchie,11,Midfielder,,Scotland,GB-SCT,1989-09-10,England,36,172,76,2016-07-01,False
+153127,Isaac Hayden,Isaac,Hayden,14,Midfielder,,England,GB-ENG,1995-03-22,,31,185,79,2016-07-11,False
+167767,Kenedy,Robert Kenedy,Nunes do Nascimento,15,Midfielder,,Brazil,BR,1996-02-08,,30,182,77,2018-01-23,True
+195384,Mikel Merino,Mikel,Merino,23,Midfielder,Left,Spain,ES,1996-06-22,Spain,29,186,83,2017-10-13,False
+104953,Christian Atsu,Christian,Atsu,30,Midfielder,Left,Ghana,GH,1992-01-10,Ghana,34,165,65,2017-06-09,False
+104547,Dwight Gayle,Dwight,Gayle,9,Forward,,England,GB-ENG,1990-10-17,,35,174,78,2016-07-01,False
+149828,Islam Slimani,Islam,Slimani,13,Forward,,Algeria,DZ,1988-06-18,Algeria,37,188,83,2018-01-31,True
+168580,Ayoze Pérez,Ayoze,Pérez Gutiérrez,17,Forward,,Spain,ES,1993-07-29,Spain,32,178,72,2014-07-01,False
+61316,Joselu,Jose Luis,Mato Sanmartín,21,Forward,Right,Spain,ES,1990-03-27,Germany,36,192,80,2017-08-16,False

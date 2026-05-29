@@ -1,0 +1,35 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+116535,Alisson Becker,Alisson Ramsés,Becker,1.0,Goalkeeper,Right,Brazil,BR,1992-10-02,Brazil,33,193.0,91.0,2018-07-19,False
+432987,Vítezslav Jaros,Vítezslav,Jaros,56.0,Goalkeeper,Right,Czech Republic,CZ,2001-07-23,Czechia,24,190.0,88.0,2019-07-10,False
+200720,Caoimhín Kelleher,Caoimhín,Kelleher,62.0,Goalkeeper,Right,Ireland,IE,1998-11-23,Republic of Ireland,27,188.0,74.0,2016-08-06,False
+464353,Harvey Davies,Harvey,Davies,95.0,Goalkeeper,Left,England,GB-ENG,2003-09-03,England,22,190.0,77.0,2021-03-09,False
+171287,Joe Gomez,Joe,Gomez,2.0,Defender,Right,England,GB-ENG,1997-05-23,England,29,188.0,80.0,2015-06-20,False
+97032,Virgil van Dijk,Virgil,van Dijk,4.0,Defender,Right,Netherlands,NL,1991-07-08,Netherlands,34,195.0,92.0,2018-01-01,False
+204716,Ibrahima Konaté,Ibrahima,Konaté,5.0,Defender,Right,France,FR,1999-05-25,France,27,194.0,95.0,2021-07-01,False
+214285,Kostas Tsimikas,Kostas,Tsimikas,21.0,Defender,Left,Greece,GR,1996-05-12,Greece,30,179.0,77.0,2020-08-10,False
+122798,Andy Robertson,Andy,Robertson,26.0,Defender,Left,Scotland,GB-SCT,1994-03-11,Scotland,32,178.0,64.0,2017-07-21,False
+482533,Isaac Mabaya,Isaac,Mabaya,52.0,Defender,Right,Zimbabwe,ZW,2004-09-22,England,21,186.0,75.0,2022-01-09,False
+611926,Amara Nallo,Amara,Nallo,65.0,Defender,Both,England,GB-ENG,2006-11-18,England,19,186.0,72.0,2024-02-27,False
+169187,Trent Alexander-Arnold,Trent,Alexander-Arnold,66.0,Defender,Right,England,GB-ENG,1998-10-07,England,27,175.0,67.0,2015-07-01,False
+441428,Jarell Quansah,Jarell,Quansah,78.0,Defender,Right,England,GB-ENG,2003-01-29,England,23,190.0,84.0,2021-12-18,False
+492777,Conor Bradley,Conor,Bradley,84.0,Defender,Right,Northern Ireland,GB-NIR,2003-07-09,Northern Ireland,22,180.0,64.0,2023-09-25,False
+466936,Luca Stephenson,Luca,Stephenson,,Midfielder,Right,England,GB-ENG,2003-09-17,England,22,,,2024-07-25,False
+158983,Wataru Endo,Wataru,Endo,3.0,Midfielder,Right,Japan,JP,1993-02-09,Japan,33,178.0,76.0,2023-08-18,False
+424876,Dominik Szoboszlai,Dominik,Szoboszlai,8.0,Midfielder,Right,Hungary,HU,2000-10-25,Hungary,25,186.0,74.0,2023-07-02,False
+243016,Alexis Mac Allister,Alexis,Mac Allister,10.0,Midfielder,Right,Argentina,AR,1998-12-24,Argentina,27,176.0,69.0,2023-06-14,False
+206915,Curtis Jones,Curtis,Jones,17.0,Midfielder,Right,England,GB-ENG,2001-01-30,England,25,185.0,78.0,2018-04-06,False
+444884,Harvey Elliott,Harvey,Elliott,19.0,Midfielder,Left,England,GB-ENG,2003-04-04,England,23,170.0,64.0,2019-07-28,False
+441266,Ryan Gravenberch,Ryan,Gravenberch,38.0,Midfielder,Right,Netherlands,NL,2002-05-16,Netherlands,24,190.0,83.0,2023-09-01,False
+491501,James McConnell,James,McConnell,53.0,Midfielder,Right,England,GB-ENG,2004-09-13,England,21,175.0,65.0,2023-07-18,False
+596042,Kieran Morrison,Kieran,Morrison,68.0,Midfielder,Left,Northern Ireland,GB-NIR,2006-11-09,Northern Ireland,19,170.0,65.0,2025-01-29,False
+440148,Tyler Morton,Tyler,Morton,80.0,Midfielder,Right,England,GB-ENG,2002-10-31,England,23,182.0,75.0,2021-07-22,False
+591386,Treymaurice Nyoni,Treymaurice,Nyoni,98.0,Midfielder,Right,England,GB-ENG,2007-06-30,England,18,180.0,75.0,2023-11-11,False
+244731,Luis Díaz,Luis,Díaz,7.0,Forward,Right,Colombia,CO,1997-01-13,Colombia,29,178.0,65.0,2022-01-30,False
+447203,Darwin Núñez,Darwin,Núñez,9.0,Forward,Right,Uruguay,UY,1999-06-24,Uruguay,26,187.0,81.0,2022-06-14,False
+118748,Mohamed Salah,Mohamed,Salah Hamed Mahrous Ghaly,11.0,Forward,Left,Egypt,EG,1992-06-15,Egypt,33,175.0,71.0,2017-07-01,False
+223541,Federico Chiesa,Federico,Chiesa,14.0,Forward,Right,Italy,IT,1997-10-25,Italy,28,175.0,70.0,2024-08-29,False
+243298,Cody Gakpo,Cody,Gakpo,18.0,Forward,Right,Netherlands,NL,1999-05-07,Netherlands,27,193.0,76.0,2023-01-01,False
+194634,Diogo Jota,Diogo José,Teixeira da Silva,20.0,Forward,Right,Portugal,PT,1996-12-04,Portugal,29,178.0,68.0,2020-09-19,False
+581317,Trent Koné-Doherty,Trent,Koné-Doherty,51.0,Forward,Right,Ireland,IE,2006-06-30,Northern Ireland,19,175.0,65.0,2025-01-29,False
+611922,Rio Ngumoha,Rio,Ngumoha,73.0,Forward,Right,England,GB-ENG,2008-08-29,England,17,170.0,75.0,2024-12-17,False
+523640,Ranel Young,Ranel,Young,82.0,Forward,Right,England,GB-ENG,2005-12-26,England,20,175.0,65.0,2024-10-29,False

@@ -1,0 +1,41 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+1243,Robert Green,Robert,Green,1.0,Goalkeeper,,England,GB-ENG,1980-01-18,,46,187.0,93.0,2012-07-01,False
+58376,Alex McCarthy,Alex,McCarthy,12.0,Goalkeeper,,England,GB-ENG,1989-12-03,,36,193.0,79.0,2014-08-29,False
+10589,Brian Murphy,Brian,Murphy,21.0,Goalkeeper,,Ireland,IE,1983-05-07,,43,183.0,83.0,2011-08-10,False
+20488,Armand Traore,Armand,Traore,3.0,Defender,,Senegal,SN,1989-10-08,France,36,185.0,81.0,2011-08-30,False
+2034,Rio Ferdinand,Rio,Ferdinand,5.0,Defender,,England,GB-ENG,1978-11-07,,47,189.0,82.0,2014-07-17,False
+19053,Nedum Onuoha,Nedum,Onuoha,5.0,Defender,,England,GB-ENG,1986-11-12,,39,183.0,94.0,2012-01-26,False
+1216,Clint Hill,Clint,Hill,6.0,Defender,,England,GB-ENG,1978-10-19,,47,183.0,73.0,2010-07-01,False
+48852,Mauricio Isla,Mauricio,Isla,14.0,Defender,Right,Chile,CL,1988-06-12,Chile,37,176.0,75.0,2014-08-06,True
+83427,Jack Robinson,Jack,Robinson,18.0,Defender,,England,GB-ENG,1993-09-01,England,32,168.0,64.0,2014-08-28,False
+68815,Steven Caulker,Steven,Caulker,22.0,Defender,,England,GB-ENG,1991-12-29,,34,191.0,76.0,2014-07-22,False
+77875,Yun Suk-Young,Suk-Young,Yun,22.0,Defender,,South Korea,KR,1990-02-13,Korea Republic,36,182.0,74.0,2013-01-30,False
+1764,Richard Dunne,Richard,Dunne,22.0,Defender,,Ireland,IE,1979-09-21,,46,188.0,89.0,2013-07-14,False
+87117,Max Ehmer,Max,Ehmer,28.0,Defender,,Germany,DE,1992-02-03,,34,188.0,70.0,2010-07-01,False
+176420,Darnell Furlong,Darnell,Furlong,29.0,Defender,,England,GB-ENG,1995-10-31,,30,,,2014-07-01,False
+176424,Cole Kpekawa,Cole,Kpekawa,32.0,Defender,,England,GB-ENG,1996-05-20,,30,,,2015-05-23,False
+167891,Jamie Sendles-White,Jamie,Sendles-White,37.0,Defender,,Northern Ireland,GB-NIR,1994-04-10,,32,188.0,85.0,2013-07-01,False
+91128,Bruno Andrade,Bruno,Andrade,,Midfielder,,Portugal,PT,1993-10-02,,32,175.0,74.0,2010-07-01,False
+49806,Junior Hoilett,Junior,Hoilett,,Midfielder,,Canada,CA,1990-06-05,,35,173.0,70.0,2012-07-27,False
+50229,Matt Phillips,Matt,Phillips,7.0,Midfielder,,Scotland,GB-SCT,1991-03-13,England,35,185.0,75.0,2013-08-23,False
+15276,Joey Barton,Joey,Barton,8.0,Midfielder,,England,GB-ENG,1982-09-02,,43,172.0,70.0,2011-08-26,False
+49277,Leroy Fer,Leroy,Fer,10.0,Midfielder,,Netherlands,NL,1990-01-05,Netherlands,36,188.0,79.0,2014-08-20,False
+1212,Shaun Wright-Phillips,Shaun,Wright-Phillips,11.0,Midfielder,,England,GB-ENG,1981-10-25,,44,168.0,64.0,2011-08-31,False
+10451,Jermaine Jenas,Jermaine,Jenas,16.0,Midfielder,,England,GB-ENG,1983-02-18,,43,180.0,73.0,2013-01-31,False
+92789,Michael Doughty,Michael,Doughty,16.0,Midfielder,,England,GB-ENG,1992-11-20,,33,185.0,80.0,2010-07-01,False
+67731,Alejandro Faurlin,Alejandro,Faurlin,18.0,Midfielder,Left,Argentina,AR,1986-08-09,Argentina,39,185.0,79.0,2009-07-07,False
+28097,Niko Kranjcar,Niko,Kranjcar,19.0,Midfielder,,Croatia,HR,1984-08-13,Croatia,41,185.0,84.0,2014-09-01,True
+10561,Karl Henry,Karl,Henry,20.0,Midfielder,,England,GB-ENG,1982-11-26,,43,183.0,76.0,2013-07-23,False
+19946,Hogan Ephraim,Hogan,Ephraim,22.0,Midfielder,,England,GB-ENG,1988-03-31,,38,175.0,70.0,2008-01-02,False
+39765,Adel Taarabt,Adel,Taarabt,27.0,Midfielder,Both,Morocco,MA,1989-05-24,Morocco,37,180.0,69.0,2010-08-05,False
+52876,Sandro,Sandro Ranieri,Guimaraes Cordeiro,30.0,Midfielder,,Brazil,BR,1989-03-15,,37,187.0,75.0,2014-09-01,False
+80442,Samba Diakité,Samba,Diakité,32.0,Midfielder,,Mali,ML,1989-01-24,France,37,185.0,74.0,2012-07-01,False
+176428,Aaron Mitchell,Aaron,Mitchell,34.0,Midfielder,,England,GB-ENG,1996-04-14,,30,,,2014-07-01,False
+174102,Reece Grego-Cox,Reece,Grego-Cox,35.0,Midfielder,,Ireland,IE,1996-11-12,,29,,,2014-07-01,False
+176426,Brandon Comley,Brandon,Comley,36.0,Midfielder,,England,GB-ENG,1995-11-18,,30,,,2015-03-07,False
+151453,Frankie Sutherland,Frankie,Sutherland,37.0,Midfielder,,Ireland,IE,1993-12-06,,32,177.0,75.0,2012-07-01,False
+167890,Michael Petrasso,Michael,Petrasso,45.0,Midfielder,,Canada,CA,1995-07-09,,30,169.0,64.0,2013-07-01,False
+78356,Charlie Austin,Charlie,Austin,9.0,Forward,,England,GB-ENG,1989-07-05,,36,188.0,84.0,2013-08-01,False
+105835,Eduardo Vargas,Eduardo,Vargas,24.0,Forward,Right,Chile,CL,1989-11-20,Chile,36,176.0,76.0,2014-08-21,True
+4570,Bobby Zamora,Bobby,Zamora,25.0,Forward,,England,GB-ENG,1981-01-16,,45,185.0,75.0,2012-01-31,False
+49696,Mauro Zárate,Mauro,Zárate,29.0,Forward,Right,Argentina,AR,1987-03-18,Argentina,39,176.0,76.0,2015-01-06,True

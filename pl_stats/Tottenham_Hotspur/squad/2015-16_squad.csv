@@ -1,0 +1,32 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+37915,Hugo Lloris,Hugo,Lloris,1,Goalkeeper,,France,FR,1986-12-26,France,39,188.0,73.0,2012-08-31,False
+39215,Michel Vorm,Michel,Vorm,13,Goalkeeper,,Netherlands,NL,1983-10-20,Netherlands,42,183.0,84.0,2014-07-23,False
+153772,Luke McGee,Luke,McGee,31,Goalkeeper,,England,GB-ENG,1995-09-02,,30,188.0,80.0,2014-07-01,False
+194666,Tom Glover,Tom,Glover,50,Goalkeeper,,England,GB-ENG,1997-12-24,,28,,,2015-07-26,False
+58621,Kyle Walker,Kyle,Walker,2,Defender,,England,GB-ENG,1990-05-28,England,36,178.0,70.0,2009-07-22,False
+38290,Danny Rose,Danny,Rose,3,Defender,,England,GB-ENG,1990-07-02,,35,173.0,72.0,2007-07-26,False
+55605,Toby Alderweireld,Toby,Alderweireld,4,Defender,,Belgium,BE,1989-03-02,Belgium,37,186.0,81.0,2015-07-08,False
+39194,Jan Vertonghen,Jan,Vertonghen,5,Defender,,Belgium,BE,1987-04-24,Belgium,39,189.0,86.0,2012-07-12,False
+77794,Kieran Trippier,Kieran,Trippier,16,Defender,,England,GB-ENG,1990-09-19,,35,178.0,71.0,2015-07-01,False
+40792,Federico Fazio,Federico,Fazio,21,Defender,Right,Argentina,AR,1987-03-17,Argentina,39,195.0,85.0,2014-08-28,False
+97485,Kevin Wimmer,Kevin,Wimmer,27,Defender,Left,Austria,AT,1992-11-15,Austria,33,187.0,85.0,2015-07-01,False
+115556,Ben Davies,Ben,Davies,33,Defender,,Wales,GB-WLS,1993-04-24,,33,181.0,76.0,2014-07-23,False
+151119,DeAndre Yedlin,DeAndre,Yedlin,36,Defender,Right,United States,US,1993-07-09,USA,32,173.0,73.0,2014-08-13,False
+158534,Kyle Walker-Peters,Kyle,Walker-Peters,37,Defender,,England,GB-ENG,1997-04-13,,29,,,2015-07-01,False
+168763,Cameron Carter-Vickers,Cameron,Carter-Vickers,38,Defender,Left,United States,US,1997-12-31,,28,185.0,86.0,2015-07-01,False
+153775,Dominic Ball,Dominic,Ball,43,Defender,,England,GB-ENG,1995-08-02,,30,184.0,75.0,2013-07-01,False
+126407,Nabil Bentaleb,Nabil,Bentaleb,6,Midfielder,Left,Algeria,DZ,1994-11-24,France,31,187.0,78.0,2013-07-01,False
+85971,Son Heung-Min,Heung-Min,Son,7,Midfielder,Both,South Korea,KR,1992-07-08,Korea Republic,33,184.0,79.0,2015-08-28,False
+58791,Ryan Mason,Ryan,Mason,8,Midfielder,,England,GB-ENG,1991-06-13,,34,175.0,68.0,2008-07-01,False
+62974,Erik Lamela,Erik,Lamela,11,Midfielder,Left,Argentina,AR,1992-03-04,Argentina,34,183.0,79.0,2013-08-30,False
+93264,Eric Dier,Eric,Dier,15,Midfielder,,England,GB-ENG,1994-01-15,England,32,188.0,88.0,2014-08-01,False
+39104,Mousa Dembélé,Mousa,Dembélé,19,Midfielder,,Belgium,BE,1987-07-16,Belgium,38,185.0,82.0,2012-08-29,False
+108823,Dele Alli,Bamidele,Alli,20,Midfielder,,England,GB-ENG,1996-04-11,,30,188.0,76.0,2015-02-02,False
+54908,Nacer Chadli,Nacer,Chadli,22,Midfielder,,Belgium,BE,1989-08-02,Belgium,36,189.0,80.0,2013-07-29,False
+80607,Christian Eriksen,Christian,Eriksen,23,Midfielder,,Denmark,DK,1992-02-14,,34,175.0,71.0,2013-08-30,False
+106450,Alex Pritchard,Alex,Pritchard,24,Midfielder,,England,GB-ENG,1993-05-03,,33,171.0,62.0,2011-07-01,False
+168765,Josh Onomah,Josh,Onomah,25,Midfielder,,England,GB-ENG,1997-04-27,,29,180.0,64.0,2013-07-01,False
+93464,Tom Carroll,Tom,Carroll,28,Midfielder,,England,GB-ENG,1992-05-28,,34,177.0,71.0,2010-07-01,False
+157668,Harry Winks,Harry,Winks,29,Midfielder,,England,GB-ENG,1996-02-02,,30,178.0,65.0,2013-07-01,False
+78830,Harry Kane,Harry,Kane,10,Forward,,England,GB-ENG,1993-07-28,,32,188.0,65.0,2009-07-01,False
+145212,Clinton N'Jie,Clinton,N'Jie,14,Forward,,Cameroon,CM,1993-08-15,,32,175.0,68.0,2015-08-14,False

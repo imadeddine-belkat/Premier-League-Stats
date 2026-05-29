@@ -1,0 +1,38 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+5666,Brian Jensen,Brian,Jensen,12.0,Goalkeeper,,Denmark,DK,1975-06-08,,50,185.0,78.0,2002-08-01,False
+33031,Diego Penny,Diego,Penny,31.0,Goalkeeper,,Peru,PE,1984-04-22,,42,197.0,76.0,2008-06-27,False
+1170,Nicky Weaver,Nicholas,Weaver,31.0,Goalkeeper,,England,GB-ENG,1979-03-02,,47,193.0,92.0,2010-01-27,False
+18421,Daniel Fox,Daniel,Fox,3.0,Defender,,Scotland,GB-SCT,1986-05-29,,40,183.0,79.0,2010-01-29,False
+2907,Michael Duff,Michael,Duff,4.0,Defender,,Northern Ireland,GB-NIR,1978-01-11,,48,184.0,73.0,2002-08-01,False
+3011,Clarke Carlisle,Clarke,Carlisle,5.0,Defender,,England,GB-ENG,1979-10-14,,46,191.0,80.0,2007-08-16,False
+7545,Steven Caldwell,Steven,Caldwell,6.0,Defender,,Scotland,GB-SCT,1980-09-12,,45,180.0,72.0,2007-01-31,False
+12780,Tyrone Mears,Tyrone,Mears,14.0,Defender,,Jamaica,JM,1983-02-18,England,43,180.0,74.0,2009-06-29,False
+40345,David Edgar,David,Edgar,15.0,Defender,,Canada,CA,1987-05-19,,39,188.0,70.0,2009-07-01,False
+43248,Richard Eckersley,Richard,Eckersley,17.0,Defender,,England,GB-ENG,1989-03-12,England,37,183.0,85.0,2009-07-15,False
+3390,Leon Cort,Leon,Cort,18.0,Defender,,Guyana,GY,1979-09-11,,46,191.0,83.0,2010-01-27,False
+31881,André Bikey,André Stéphane,Bikey-Amougou,21.0,Defender,,Cameroon,CM,1985-01-08,,41,182.0,80.0,2009-08-18,False
+14926,Stephen Jordan,Stephen,Jordan,23.0,Defender,,England,GB-ENG,1982-03-06,,44,183.0,71.0,2007-07-16,False
+50464,Brian Easton,Brian,Easton,24.0,Defender,,Scotland,GB-SCT,1988-03-05,,38,185.0,76.0,2009-07-14,False
+41674,Kevin Long,Kevin,Long,28.0,Defender,,Ireland,IE,1990-08-18,,35,190.0,80.0,2010-01-01,False
+76226,Chris Lynch,Chris,Lynch,35.0,Defender,,England,GB-ENG,1991-01-31,,35,191.0,98.0,2009-07-01,False
+75039,Nik Kudiersky,Nik,Kudiersky,36.0,Defender,,England,GB-ENG,1991-02-15,,35,185.0,78.0,2009-07-01,False
+75043,Ben Hoskin,Ben,Hoskin,40.0,Defender,,England,GB-ENG,1990-10-08,,35,185.0,76.0,2008-07-01,False
+40145,Jack Cork,Jack,Cork,42.0,Defender,,England,GB-ENG,1989-06-25,,36,183.0,70.0,2010-02-01,True
+75841,Joe McKee,Joseph,McKee,,Midfielder,,Scotland,GB-SCT,1992-10-31,Scotland,33,180.0,,2009-07-01,False
+3359,Graham Alexander,Graham,Alexander,2.0,Midfielder,,Scotland,GB-SCT,1971-10-10,,54,180.0,76.0,2007-08-31,False
+20491,Chris McCann,Chris,McCann,6.0,Midfielder,,Ireland,IE,1987-07-21,,38,185.0,75.0,2002-08-01,False
+55038,Kevin McDonald,Kevin,McDonald,7.0,Midfielder,,Scotland,GB-SCT,1988-11-04,,37,188.0,83.0,2008-08-01,False
+3735,Wade Elliott,Wade,Elliott,11.0,Midfielder,,England,GB-ENG,1978-12-14,,47,178.0,65.0,2002-08-01,False
+49402,Adam Kay,Adam,Kay,25.0,Midfielder,,England,GB-ENG,1990-03-05,,36,180.0,71.0,2007-12-01,False
+44931,Alexander MacDonald,Alexander,MacDonald,27.0,Midfielder,,England,GB-ENG,1990-04-14,,36,170.0,72.0,2007-07-01,False
+18428,Chris Eagles,Chris,Eagles,33.0,Midfielder,,England,GB-ENG,1985-11-19,,40,183.0,70.0,2008-07-29,False
+75040,Chris Anderson,Chris,Anderson,37.0,Midfielder,,England,GB-ENG,1990-10-02,,35,,,2009-07-01,False
+75041,Alex-Ray Harvey,Alex-Ray,Harvey,38.0,Midfielder,,England,GB-ENG,1990-04-04,,36,,,2009-07-01,False
+18953,Steven Fletcher,Steven,Fletcher,9.0,Forward,,Scotland,GB-SCT,1987-03-26,,39,186.0,76.0,2009-07-01,False
+44683,Jay Rodriguez,Jay,Rodriguez,9.0,Forward,,England,GB-ENG,1989-07-29,,36,185.0,80.0,2007-07-01,False
+20081,Martin Paterson,Martin,Paterson,10.0,Forward,,Northern Ireland,GB-NIR,1987-05-10,,39,175.0,71.0,2008-06-01,False
+1615,Robbie Blake,Robbie,Blake,20.0,Forward,,England,GB-ENG,1976-03-04,,50,175.0,76.0,2007-07-13,False
+12744,David Nugent,David,Nugent,22.0,Forward,,England,GB-ENG,1985-05-02,,41,180.0,76.0,2009-09-01,True
+37587,Frédéric Nimani,Frédéric,Nimani,29.0,Forward,,France,FR,1988-10-08,,37,190.0,85.0,2010-01-22,True
+2255,Steven Thompson,Steven,Thompson,30.0,Forward,,Scotland,GB-SCT,1978-10-14,Scotland,47,188.0,78.0,2008-09-01,False
+73321,Wes Fletcher,Wes,Fletcher,39.0,Forward,,Northern Ireland,GB-NIR,1991-02-28,,35,180.0,,2009-05-29,False

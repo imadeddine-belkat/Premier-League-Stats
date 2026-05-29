@@ -1,0 +1,41 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+131897,Mat Ryan,Mat,Ryan,1.0,Goalkeeper,Right,Australia,AU,1992-04-08,Australia,34,184.0,82.0,2017-07-01,False
+49262,Jason Steele,Jason,Steele,23.0,Goalkeeper,Right,England,GB-ENG,1990-08-18,,35,188.0,79.0,2018-07-01,False
+50093,David Button,David,Button,27.0,Goalkeeper,Right,England,GB-ENG,1989-02-27,,37,191.0,87.0,2018-07-16,False
+215059,Robert Sánchez,Robert,Sánchez,31.0,Goalkeeper,Left,Spain,ES,1997-11-18,Spain,28,197.0,,2019-01-25,False
+11352,Bruno,Bruno,Saltor Grau,2.0,Defender,Right,Spain,ES,1980-10-01,Spain,45,181.0,76.0,2012-07-01,False
+42748,Gaëtan Bong,Gaëtan,Bong,3.0,Defender,Left,Cameroon,CM,1988-04-25,Cameroon,38,187.0,74.0,2015-07-03,False
+61933,Shane Duffy,Shane,Duffy,4.0,Defender,Right,Ireland,IE,1992-01-01,Northern Ireland,34,193.0,76.0,2016-08-26,False
+83299,Lewis Dunk,Lewis,Dunk,5.0,Defender,Right,England,GB-ENG,1991-11-21,,34,192.0,88.0,2009-07-01,False
+52484,Leon Balogun,Leon,Balogun,14.0,Defender,Right,Nigeria,NG,1988-06-28,Germany,37,190.0,88.0,2018-07-01,False
+74375,Ezequiel Schelotto,Ezequiel,Schelotto,21.0,Defender,Right,Italy,IT,1989-05-23,Argentina,37,187.0,77.0,2017-08-31,False
+86153,Martín Montoya,Martín,Montoya,22.0,Defender,Right,Spain,ES,1991-04-14,Spain,35,175.0,73.0,2018-08-09,False
+213056,Tudor Baluta,Tudor,Baluta,28.0,Defender,Right,Romania,RO,1999-03-27,Romania,27,191.0,,2019-01-30,False
+198869,Ben White,Ben,White,28.0,Defender,,England,GB-ENG,1997-10-08,,28,182.0,78.0,2016-07-01,False
+43808,Markus Suttner,Markus,Suttner,29.0,Defender,Left,Austria,AT,1987-04-16,Austria,39,179.0,73.0,2017-07-13,False
+209362,Bernardo,Bernardo,Fernandes da Silva Junior,30.0,Defender,Left,Brazil,BR,1995-05-14,Brazil,31,186.0,76.0,2018-07-05,False
+78916,Dan Burn,Dan,Burn,33.0,Defender,Left,England,GB-ENG,1992-05-09,,34,198.0,87.0,2018-08-09,False
+462026,Leo Ostigard,Leo,Ostigard,57.0,Defender,Right,Norway,NO,1999-11-28,Norway,26,182.0,81.0,2019-02-15,False
+240098,Billy Arce,Billy,Arce,,Midfielder,Right,Ecuador,EC,1998-07-12,Ecuador,27,178.0,66.0,2018-08-06,False
+243016,Alexis Mac Allister,Alexis,Mac Allister,,Midfielder,Right,Argentina,AR,1998-12-24,Argentina,27,174.0,72.0,2019-01-24,False
+40845,Dale Stephens,Dale,Stephens,6.0,Midfielder,Right,England,GB-ENG,1989-06-12,England,36,169.0,71.0,2014-01-30,False
+38490,Beram Kayal,Beram,Kayal,7.0,Midfielder,Right,Israel,IL,1988-05-02,Israel,38,178.0,74.0,2015-01-23,False
+227127,Yves Bissouma,Yves,Bissouma,8.0,Midfielder,Right,Mali,ML,1996-08-30,Mali,29,182.0,80.0,2018-07-17,False
+83543,Anthony Knockaert,Anthony,Knockaert,11.0,Midfielder,Left,France,FR,1991-11-20,,34,172.0,69.0,2016-01-07,True
+60307,Pascal Groß,Pascal,Groß,13.0,Midfielder,Both,Germany,DE,1991-06-15,Germany,34,181.0,78.0,2017-07-01,False
+109345,Solly March,Solly,March,20.0,Midfielder,Left,England,GB-ENG,1994-07-20,England,31,180.0,88.0,2012-07-01,False
+66242,Davy Pröpper,Davy,Pröpper,24.0,Midfielder,Right,Netherlands,NL,1991-09-02,Netherlands,34,185.0,79.0,2017-08-07,False
+134293,Soufyan Ahannach,Soufyan,Ahannach,39.0,Midfielder,Left,Netherlands,NL,1995-09-09,Netherlands,30,173.0,72.0,2017-08-10,False
+215062,Max Sanders,Max,Sanders,41.0,Midfielder,Right,England,GB-ENG,1999-01-04,,27,,,2018-03-16,False
+220738,Jayson Molumby,Jayson,Molumby,49.0,Midfielder,Right,Ireland,IE,1999-08-06,Republic of Ireland,26,,,2017-07-01,False
+198868,Will Collar,Will,Collar,58.0,Midfielder,,England,GB-ENG,1997-02-03,,29,,,2018-07-01,False
+207025,Jan Mlakar,Jan,Mlakar,,Forward,Right,Slovenia,SI,1998-10-23,Slovenia,27,183.0,78.0,2019-01-30,False
+106757,Jürgen Locadia,Jürgen,Locadia,9.0,Forward,Right,Netherlands,NL,1993-11-07,Netherlands,32,187.0,88.0,2018-01-19,False
+93284,Florin Andone,Florin,Andone,10.0,Forward,Right,Romania,RO,1993-04-11,Romania,33,180.0,78.0,2018-06-08,False
+165210,Alireza Jahanbakhsh,Alireza,Jahanbakhsh,16.0,Forward,Right,Iran,IR,1993-08-11,Iran,32,180.0,76.0,2018-07-25,False
+20529,Glenn Murray,Glenn,Murray,17.0,Forward,Right,England,GB-ENG,1983-09-25,,42,183.0,80.0,2017-01-31,False
+167473,José Izquierdo,José,Izquierdo,19.0,Forward,Right,Colombia,CO,1992-07-07,Colombia,33,171.0,73.0,2017-08-10,False
+38499,Tomer Hemed,Tomer,Hemed,25.0,Forward,Right,Israel,IL,1987-05-02,Israel,39,186.0,80.0,2015-07-01,False
+230127,Percy Tau,Percy,Tau,26.0,Forward,Left,South Africa,ZA,1994-05-13,South Africa,32,175.0,70.0,2018-07-20,False
+224117,Viktor Gyökeres,Viktor,Gyökeres,42.0,Forward,Right,Sweden,SE,1998-06-04,Sweden,27,187.0,86.0,2018-08-01,False
+233425,Aaron Connolly,Aaron,Connolly,44.0,Forward,Right,Ireland,IE,2000-01-28,,26,,,2017-07-01,False

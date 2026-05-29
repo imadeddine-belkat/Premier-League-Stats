@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+1827,Mark Schwarzer,Mark,Schwarzer,1.0,Goalkeeper,,Australia,AU,1972-10-06,,53,194,95,2008-07-01,False
+15903,David Stockdale,David,Stockdale,13.0,Goalkeeper,,England,GB-ENG,1985-09-20,,40,191,84,2008-07-01,False
+14471,Pascal Zuberbühler,Pascal,Zuberbühler,19.0,Goalkeeper,,Switzerland,CH,1971-01-08,,55,197,98,2008-08-05,False
+88734,Neil Etheridge,Neil,Etheridge,38.0,Goalkeeper,,Philippines,PH,1990-02-07,England,36,188,90,2010-07-01,False
+105677,Cheick Touré,Cheick,Touré,,Defender,,Cote d’Ivoire,CI,1992-12-16,,33,185,86,2009-08-01,False
+9493,Stephen Kelly,Stephen,Kelly,2.0,Defender,,Ireland,IE,1983-09-06,,42,184,82,2009-06-16,False
+20322,Carlos Salcido,Carlos,Salcido,3.0,Defender,Right,Mexico,MX,1980-04-02,Mexico,46,176,75,2010-08-27,False
+18613,John Pantsil,John,Pantsil,4.0,Defender,,Ghana,GH,1981-06-15,Ghana,44,178,76,2008-07-15,False
+16854,Philippe Senderos,Philippe,Senderos,4.0,Defender,Right,Switzerland,CH,1985-02-14,Switzerland,41,190,86,2010-06-08,False
+15284,Brede Hangeland,Brede,Hangeland,5.0,Defender,,Norway,NO,1981-06-20,,44,195,85,2008-01-18,False
+15968,Chris Baird,Chris,Baird,6.0,Defender,,Northern Ireland,GB-NIR,1982-02-25,,44,185,74,2007-07-12,False
+42425,Matthew Briggs,Matthew,Briggs,17.0,Defender,,Guyana,GY,1991-03-06,,35,184,76,2006-07-01,False
+1869,Aaron Hughes,Aaron,Hughes,18.0,Defender,,Northern Ireland,GB-NIR,1979-11-08,,46,183,71,2007-06-27,False
+50117,Rafik Halliche,Rafik,Halliche,32.0,Defender,Right,Algeria,DZ,1986-09-02,Algeria,39,187,77,2010-08-23,False
+77544,Alex Smith,Alex,Smith,40.0,Defender,,England,GB-ENG,1991-10-31,,34,175,54,2009-09-01,False
+77543,Keanu Marsh-Brown,Keanu,Marsh-Brown,44.0,Defender,,Guyana,GY,1992-10-08,,33,181,78,2009-09-01,False
+11735,Steve Sidwell,Steve,Sidwell,7.0,Midfielder,,England,GB-ENG,1982-12-14,,43,178,70,2011-01-07,False
+42518,Alexander Kacaniklic,Alexander,Kacaniklic,11.0,Midfielder,,Sweden,SE,1991-08-13,,34,181,72,2010-08-31,False
+18430,Zoltán Gera,Zoltán,Gera,11.0,Midfielder,Both,Hungary,HU,1979-04-22,Hungary,47,183,75,2008-07-01,False
+1812,Danny Murphy,Danny,Murphy,13.0,Midfielder,,England,GB-ENG,1977-03-18,,49,175,67,2007-08-31,False
+1256,Damien Duff,Damien,Duff,16.0,Midfielder,,Ireland,IE,1979-03-02,,47,178,60,2009-08-18,False
+37417,Bjørn Helge Riise,Bjørn Helge,Riise,17.0,Midfielder,,Norway,NO,1983-06-21,,42,174,70,2009-07-22,False
+10454,Dickson Etuhu,Dickson,Etuhu,20.0,Midfielder,,Nigeria,NG,1982-06-08,,43,188,83,2008-08-29,False
+59325,Gaël Kakuta,Gaël,Kakuta,24.0,Midfielder,Left,DR Congo,CD,1991-06-21,France,34,173,72,2011-01-26,True
+46967,Kagisho Dikgacoi,Kagisho,Dikgacoi,26.0,Midfielder,,South Africa,ZA,1984-11-24,,41,180,76,2009-08-27,False
+1863,Jonathan Greening,Jonathan,Greening,27.0,Midfielder,,England,GB-ENG,1979-01-02,,47,183,69,2010-07-01,False
+2559,Simon Davies,Simon,Davies,29.0,Midfielder,,Wales,GB-WLS,1979-10-23,,46,178,72,2007-01-24,False
+39104,Mousa Dembélé,Mousa,Dembélé,30.0,Midfielder,Left,Belgium,BE,1987-07-16,Belgium,38,185,87,2010-08-18,False
+76490,Matthew Saunders,Matthew,Saunders,31.0,Midfielder,,England,GB-ENG,1989-09-12,,36,180,72,2009-08-26,False
+108238,Richard Peniket,Richard,Peniket,,Forward,,England,GB-ENG,1993-03-04,,33,189,85,2008-07-01,False
+86177,Lauri Dalla Valle,Lauri,Dalla Valle,,Forward,,Finland,FI,1991-09-14,,34,180,73,2010-08-31,False
+1195,Andrew Johnson,Andrew,Johnson,8.0,Forward,,England,GB-ENG,1981-02-10,,45,175,64,2008-08-07,False
+11529,Diomansy Kamara,Diomansy,Kamara,15.0,Forward,,Senegal,SN,1980-11-08,,45,181,72,2007-07-09,False
+15540,Eddie Johnson,Eddie,Johnson,21.0,Forward,,United States,US,1984-03-31,USA,42,183,82,2008-01-23,False
+1310,Eidur Gudjohnsen,Eidur,Gudjohnsen,22.0,Forward,,Iceland,IS,1978-09-15,,47,185,82,2011-01-31,True
+20226,Clint Dempsey,Clint,Dempsey,23.0,Forward,Right,United States,US,1983-03-09,USA,43,186,78,2007-01-10,False
+4570,Bobby Zamora,Bobby,Zamora,25.0,Forward,,England,GB-ENG,1981-01-16,,45,185,75,2008-07-15,False
+54980,Danny Hoesen,Danny,Hoesen,33.0,Forward,Right,Netherlands,NL,1991-01-15,Netherlands,35,185,75,2008-08-17,False

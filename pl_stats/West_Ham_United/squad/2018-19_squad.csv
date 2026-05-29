@@ -1,0 +1,35 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+37096,Lukasz Fabianski,Lukasz,Fabianski,1,Goalkeeper,Right,Poland,PL,1985-04-18,Poland,41,190.0,83.0,2018-06-20,False
+60706,Adrián,Adrián,San Miguel del Castillo,13,Goalkeeper,,Spain,ES,1987-01-03,Spain,39,190.0,80.0,2013-07-01,False
+48717,Winston Reid,Winston,Reid,2,Defender,Right,New Zealand,NZ,1988-07-03,,37,190.0,87.0,2010-08-05,False
+55459,Aaron Cresswell,Aaron,Cresswell,3,Defender,Left,England,GB-ENG,1989-12-15,,36,170.0,66.0,2014-07-03,False
+166640,Fabián Balbuena,Fabián,Balbuena,4,Defender,Right,Paraguay,PY,1991-08-23,Paraguay,34,188.0,82.0,2018-07-14,False
+20658,Pablo Zabaleta,Pablo,Zabaleta,5,Defender,Right,Argentina,AR,1985-01-16,Argentina,41,176.0,74.0,2017-07-01,False
+40669,Angelo Ogbonna,Angelo,Ogbonna,21,Defender,Left,Italy,IT,1988-05-23,Italy,38,191.0,86.0,2015-07-10,False
+219924,Issa Diop,Issa,Diop,23,Defender,Right,France,FR,1997-01-09,France,29,194.0,92.0,2018-06-19,False
+81012,Ryan Fredericks,Ryan,Fredericks,24,Defender,Right,England,GB-ENG,1992-10-10,,33,181.0,74.0,2018-07-01,False
+105717,Arthur Masuaku,Arthur,Masuaku,26,Defender,Left,DR Congo,CD,1993-11-07,France,32,179.0,70.0,2016-08-08,False
+173792,Reece Oxford,Reece,Oxford,35,Defender,Right,England,GB-ENG,1998-12-16,England,27,190.0,86.0,2014-08-25,False
+101537,Felipe Anderson,Felipe Anderson,Pereira Gomes,8,Midfielder,Both,Brazil,BR,1993-04-15,Brazil,33,175.0,70.0,2018-07-15,False
+86934,Manuel Lanzini,Manuel,Lanzini,10,Midfielder,Right,Argentina,AR,1993-02-15,Argentina,33,167.0,59.0,2016-07-01,False
+18987,Robert Snodgrass,Robert,Snodgrass,11,Midfielder,Left,Scotland,GB-SCT,1987-09-07,,38,182.0,82.0,2017-01-27,False
+59779,Pedro Obiang,Pedro,Obiang,14,Midfielder,Right,Equatorial Guinea,GQ,1992-03-27,Spain,34,185.0,75.0,2015-07-01,False
+42824,Carlos Sánchez,Carlos,Sánchez,15,Midfielder,Left,Colombia,CO,1986-02-06,Colombia,40,182.0,80.0,2018-08-09,False
+18073,Mark Noble,Mark,Noble,16,Midfielder,Right,England,GB-ENG,1987-05-08,,39,180.0,70.0,2003-07-01,False
+28554,Samir Nasri,Samir,Nasri,18,Midfielder,Both,France,FR,1987-06-26,,38,175.0,75.0,2018-12-31,False
+54102,Jack Wilshere,Jack,Wilshere,19,Midfielder,Left,England,GB-ENG,1992-01-01,England,34,172.0,68.0,2018-07-09,False
+57531,Michail Antonio,Michail,Antonio,30,Midfielder,Right,England,GB-ENG,1990-03-28,,36,180.0,82.0,2015-09-01,False
+163526,Edimilson Fernandes,Edimilson,Fernandes,31,Midfielder,Right,Switzerland,CH,1996-04-15,Switzerland,30,187.0,77.0,2016-08-25,False
+172567,Josh Cullen,Josh,Cullen,33,Midfielder,Right,Ireland,IE,1996-04-07,England,30,175.0,70.0,2014-07-01,False
+183487,Nathan Holland,Nathan,Holland,37,Midfielder,Right,England,GB-ENG,1998-06-19,,27,178.0,70.0,2017-09-01,False
+204480,Declan Rice,Declan,Rice,41,Midfielder,Right,England,GB-ENG,1999-01-14,England,27,185.0,76.0,2016-06-01,False
+179830,Grady Diangana,Grady,Diangana,45,Midfielder,Left,England,GB-ENG,1998-04-19,,28,180.0,73.0,2016-08-24,False
+195860,Joe Powell,Joe,Powell,50,Midfielder,Left,England,GB-ENG,1998-10-30,England,27,,,2017-07-01,False
+222018,Ben Johnson,Ben,Johnson,53,Midfielder,Right,England,GB-ENG,2000-01-24,England,26,175.0,67.0,2017-12-02,False
+222017,Conor Coventry,Conor,Coventry,54,Midfielder,Right,Ireland,IE,2000-03-25,,26,,,2018-07-01,False
+56377,Andriy Yarmolenko,Andriy,Yarmolenko,7,Forward,Left,Ukraine,UA,1989-10-23,Russia,36,189.0,81.0,2018-07-11,False
+41464,Marko Arnautovic,Marko,Arnautovic,7,Forward,Right,Austria,AT,1989-04-19,Austria,37,192.0,83.0,2017-07-22,False
+40142,Andy Carroll,Andy,Carroll,9,Forward,Left,England,GB-ENG,1989-01-06,England,37,193.0,79.0,2013-07-01,False
+43020,Chicharito,Javier,Hernández Balcázar,9,Forward,Right,Mexico,MX,1988-06-01,Mexico,37,175.0,73.0,2017-07-24,False
+167522,Jordan Hugill,Jordan,Hugill,12,Forward,Right,England,GB-ENG,1992-06-04,England,33,183.0,64.0,2018-01-31,False
+155851,Lucas Pérez,Lucas,Pérez,27,Forward,Left,Spain,ES,1988-09-10,Spain,37,180.0,82.0,2018-08-09,False

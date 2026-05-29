@@ -1,0 +1,48 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+18656,Heurelho Gomes,Heurelho,Gomes,1.0,Goalkeeper,Right,Brazil,BR,1981-02-15,Brazil,45,191.0,91.0,2013-07-01,False
+37915,Hugo Lloris,Hugo,Lloris,1.0,Goalkeeper,,France,FR,1986-12-26,France,39,188.0,78.0,2012-08-31,False
+1803,Brad Friedel,Brad,Friedel,24.0,Goalkeeper,,United States,US,1971-05-18,,55,191.0,92.0,2011-07-01,False
+107084,Jordan Archer,Jordan,Archer,56.0,Goalkeeper,Right,Scotland,GB-SCT,1993-04-12,England,33,186.0,80.0,2012-07-25,False
+61887,Bongani Khumalo,Bongani,Khumalo,,Defender,,South Africa,ZA,1987-01-06,Swaziland,39,188.0,82.0,2011-01-07,False
+81012,Ryan Fredericks,Ryan,Fredericks,,Defender,,England,GB-ENG,1992-10-10,,33,181.0,74.0,2009-07-01,False
+58621,Kyle Walker,Kyle,Walker,2.0,Defender,,England,GB-ENG,1990-05-28,England,36,178.0,70.0,2009-07-22,False
+38290,Danny Rose,Danny,Rose,3.0,Defender,,England,GB-ENG,1990-07-02,,35,173.0,72.0,2007-07-26,False
+37742,Younes Kaboul,Younes,Kaboul,4.0,Defender,,France,FR,1986-01-04,,40,193.0,87.0,2010-01-30,False
+39194,Jan Vertonghen,Jan,Vertonghen,5.0,Defender,,Belgium,BE,1987-04-24,Belgium,39,189.0,86.0,2012-07-12,False
+62305,Vlad Chiriches,Vlad,Chiriches,6.0,Defender,Right,Romania,RO,1989-11-14,Romania,36,184.0,75.0,2013-08-30,False
+49539,Kyle Naughton,Kyle,Naughton,16.0,Defender,,England,GB-ENG,1988-11-11,,37,180.0,73.0,2009-07-21,False
+12679,Michael Dawson,Michael,Dawson,20.0,Defender,,England,GB-ENG,1983-11-18,,42,188.0,76.0,2005-01-31,False
+28146,Benoit Assou-Ekotto,Benoit,Assou-Ekotto,32.0,Defender,,Cameroon,CM,1984-03-24,France,42,178.0,70.0,2006-07-01,False
+106603,Ezekiel Fryers,Ezekiel,Fryers,35.0,Defender,,England,GB-ENG,1992-09-09,,33,185.0,75.0,2013-01-03,False
+153775,Dominic Ball,Dominic,Ball,43.0,Defender,,England,GB-ENG,1995-08-02,,30,184.0,75.0,2013-07-01,False
+153265,Milos Veljkovic,Milos,Veljkovic,51.0,Defender,Right,Serbia,RS,1995-09-26,Switzerland,30,187.0,77.0,2013-07-01,False
+168760,Connor Ogilvie,Connor,Ogilvie,63.0,Defender,,England,GB-ENG,1996-02-14,,30,,,2013-07-01,False
+126407,Nabil Bentaleb,Nabil,Bentaleb,6.0,Midfielder,Left,Algeria,DZ,1994-11-24,France,31,187.0,78.0,2013-07-01,False
+58791,Ryan Mason,Ryan,Mason,8.0,Midfielder,,England,GB-ENG,1991-06-13,,34,175.0,68.0,2008-07-01,False
+100534,Paulinho,José Paulo,Bezerra Maciel Júnior,8.0,Midfielder,Right,Brazil,BR,1988-07-25,Brazil,37,181.0,81.0,2013-07-06,False
+62974,Erik Lamela,Erik,Lamela,11.0,Midfielder,Left,Argentina,AR,1992-03-04,Argentina,34,181.0,79.0,2013-08-30,False
+49318,Lewis Holtby,Lewis,Holtby,14.0,Midfielder,Left,Germany,DE,1990-09-18,Germany,35,176.0,72.0,2013-01-28,False
+60252,Andros Townsend,Andros,Townsend,17.0,Midfielder,,England,GB-ENG,1991-07-16,,34,181.0,77.0,2008-07-01,False
+39104,Mousa Dembélé,Mousa,Dembélé,19.0,Midfielder,,Belgium,BE,1987-07-16,Belgium,38,185.0,82.0,2012-08-29,False
+54908,Nacer Chadli,Nacer,Chadli,22.0,Midfielder,,Belgium,BE,1989-08-02,Belgium,36,187.0,80.0,2013-07-29,False
+55422,Gylfi Sigurdsson,Gylfi,Sigurdsson,22.0,Midfielder,,Iceland,IS,1989-09-08,Iceland,36,186.0,79.0,2012-07-04,False
+80607,Christian Eriksen,Christian,Eriksen,23.0,Midfielder,,Denmark,DK,1992-02-14,,34,175.0,71.0,2013-08-30,False
+106450,Alex Pritchard,Alex,Pritchard,24.0,Midfielder,,England,GB-ENG,1993-05-03,,33,171.0,62.0,2011-07-01,False
+168765,Josh Onomah,Josh,Onomah,25.0,Midfielder,,England,GB-ENG,1997-04-27,,29,185.0,70.0,2013-07-01,False
+17349,Aaron Lennon,Aaron,Lennon,25.0,Midfielder,,England,GB-ENG,1987-04-16,,39,165.0,63.0,2005-07-01,False
+51960,Iago Falque,Iago,Falque,27.0,Midfielder,Left,Spain,ES,1990-01-04,Spain,36,174.0,69.0,2012-01-16,False
+93464,Tom Carroll,Tom,Carroll,28.0,Midfielder,,England,GB-ENG,1992-05-28,,34,177.0,71.0,2010-07-01,False
+157668,Harry Winks,Harry,Winks,29.0,Midfielder,,England,GB-ENG,1996-02-02,,30,178.0,65.0,2013-07-01,False
+49944,Jake Livermore,Jake,Livermore,29.0,Midfielder,,England,GB-ENG,1989-11-14,,36,180.0,76.0,2006-06-01,False
+38439,Etienne Capoue,Etienne,Capoue,29.0,Midfielder,,France,FR,1988-07-11,,37,189.0,80.0,2013-08-15,False
+52876,Sandro,Sandro Ranieri,Guimaraes Cordeiro,30.0,Midfielder,,Brazil,BR,1989-03-15,,37,187.0,82.0,2010-07-01,False
+101623,Cristian Ceballos,Cristian,Ceballos Prieto,39.0,Midfielder,,Spain,ES,1992-12-03,Spain,33,182.0,77.0,2011-07-01,False
+153773,Kenneth McEvoy,Kenneth,McEvoy,47.0,Midfielder,,Ireland,IE,1994-09-04,,31,,,2013-07-01,False
+157825,Laste Dombaxe,Laste,Dombaxe,54.0,Midfielder,,Angola,AO,1995-05-15,Angola,31,171.0,62.0,2013-07-01,False
+17500,Emmanuel Adebayor,Emmanuel,Adebayor,,Forward,Right,Togo,TG,1984-02-26,Togo,42,191.0,82.0,2012-08-21,False
+102163,Souleymane Coulibaly,Souleymane,Coulibaly,,Forward,,Cote d’Ivoire,CI,1994-12-26,Côte d'Ivoire,31,172.0,70.0,2011-07-01,False
+17926,Roberto Soldado,Roberto,Soldado,9.0,Forward,Right,Spain,ES,1985-05-27,Spain,41,179.0,72.0,2013-08-05,False
+78830,Harry Kane,Harry,Kane,10.0,Forward,,England,GB-ENG,1993-07-28,,32,188.0,76.0,2009-07-01,False
+58790,Jonathan Obika,Jonathan,Obika,45.0,Forward,,England,GB-ENG,1990-09-12,,35,173.0,72.0,2008-07-01,False
+156289,Shaquile Coulthirst,Shaquile,Coulthirst,46.0,Forward,,England,GB-ENG,1994-11-02,,31,180.0,77.0,2012-07-01,False
+95703,Cameron Lancaster,Cameron,Lancaster,53.0,Forward,,England,GB-ENG,1992-11-05,,33,184.0,74.0,2010-07-01,False

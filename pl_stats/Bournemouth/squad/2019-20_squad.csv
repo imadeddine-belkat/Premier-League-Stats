@@ -1,0 +1,39 @@
+playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
+40349,Asmir Begovic,Asmir,Begovic,1.0,Goalkeeper,Right,Bosnia & Herzegovina,BA,1987-06-20,Bosnia and Herzegovina,38,199.0,101.0,2017-07-01,False
+18726,Artur Boruc,Artur,Boruc,1.0,Goalkeeper,Right,Poland,PL,1980-02-20,Poland,46,193.0,87.0,2015-07-01,False
+225321,Aaron Ramsdale,Aaron,Ramsdale,12.0,Goalkeeper,Right,England,GB-ENG,1998-05-14,,28,188.0,77.0,2017-01-31,False
+229600,Mark Travers,Mark,Travers,23.0,Goalkeeper,Right,Ireland,IE,1999-05-18,Republic of Ireland,27,191.0,82.0,2018-07-01,False
+444172,William Dennis,William,Dennis,40.0,Goalkeeper,,England,GB-ENG,2000-07-10,,25,,,2019-08-01,False
+120447,Brad Smith,Brad,Smith,,Defender,Left,Australia,AU,1994-04-09,Australia,32,178.0,70.0,2016-07-27,False
+15149,Simon Francis,Simon,Francis,2.0,Defender,Right,England,GB-ENG,1985-02-16,,41,183.0,90.0,2012-01-06,False
+56917,Steve Cook,Steve,Cook,3.0,Defender,Right,England,GB-ENG,1991-04-19,,35,185.0,82.0,2012-01-03,False
+126184,Nathan Aké,Nathan,Aké,5.0,Defender,Left,Netherlands,NL,1995-02-18,Netherlands,31,180.0,75.0,2017-07-01,False
+235530,Lloyd Kelly,Lloyd,Kelly,5.0,Defender,Left,England,GB-ENG,1998-10-06,England,27,178.0,70.0,2019-05-18,False
+223911,Chris Mepham,Chris,Mepham,6.0,Defender,Right,Wales,GB-WLS,1997-11-05,England,28,191.0,84.0,2019-01-22,False
+41320,Charlie Daniels,Charlie,Daniels,11.0,Defender,Left,England,GB-ENG,1986-09-07,,39,178.0,75.0,2012-01-03,False
+54469,Adam Smith,Adam,Smith,15.0,Defender,Right,England,GB-ENG,1991-04-29,,35,180.0,78.0,2014-01-28,False
+154131,Jack Stacey,Jack,Stacey,17.0,Defender,Right,England,GB-ENG,1996-04-06,,30,180.0,62.0,2019-07-08,False
+171129,Diego Rico,Diego,Rico,21.0,Defender,Left,Spain,ES,1993-02-23,Spain,33,183.0,76.0,2018-07-24,False
+222434,Jack Simpson,Jack,Simpson,25.0,Defender,Left,England,GB-ENG,1996-12-18,,29,178.0,83.0,2015-07-01,False
+447932,Jordan Zemura,Jordan,Zemura,33.0,Defender,,England,GB-ENG,1999-11-14,,26,,,2019-08-02,False
+227290,Corey Jordan,Corey,Jordan,55.0,Defender,,England,GB-ENG,1999-03-04,,27,185.0,80.0,2016-01-01,False
+460992,Brooklyn Genesini,Brooklyn,Genesini,60.0,Defender,,England,GB-ENG,2001-12-12,,24,,,2020-01-26,False
+40387,Dan Gosling,Dan,Gosling,4.0,Midfielder,Right,England,GB-ENG,1990-02-01,,36,183.0,79.0,2014-07-01,False
+15237,Andrew Surman,Andrew,Surman,6.0,Midfielder,Left,England,GB-ENG,1986-08-20,South Africa,39,178.0,73.0,2014-09-01,False
+111317,David Brooks,David,Brooks,7.0,Midfielder,Left,Wales,GB-WLS,1997-07-08,England,28,173.0,62.0,2018-07-01,False
+152551,Jefferson Lerma,Jefferson,Lerma,8.0,Midfielder,Right,Colombia,CO,1994-10-25,Colombia,31,179.0,70.0,2018-08-07,False
+155408,Lewis Cook,Lewis,Cook,16.0,Midfielder,Right,England,GB-ENG,1997-02-03,,29,175.0,71.0,2016-07-08,False
+48615,Harry Arter,Harry,Arter,18.0,Midfielder,Left,Ireland,IE,1989-12-28,,36,176.0,70.0,2010-07-01,False
+56872,Junior Stanislas,Junior,Stanislas,19.0,Midfielder,Right,England,GB-ENG,1989-11-26,,36,183.0,76.0,2014-07-01,False
+153682,Harry Wilson,Harry,Wilson,22.0,Midfielder,Left,Wales,GB-WLS,1997-03-22,,29,173.0,70.0,2019-08-06,True
+444181,Nnamdi Ofoborh,Nnamdi,Ofoborh,24.0,Midfielder,Right,Nigeria,NG,1999-11-07,,26,175.0,,2017-07-01,False
+444183,Gavin Kilkenny,Gavin,Kilkenny,26.0,Midfielder,Right,Ireland,IE,2000-02-01,Republic of Ireland,26,,,2019-08-02,False
+431774,Kyle Taylor,Kyle,Taylor,28.0,Midfielder,Right,England,GB-ENG,1999-05-26,,27,,,2017-07-28,False
+168991,Philip Billing,Philip,Billing,29.0,Midfielder,Left,Denmark,DK,1996-06-11,Denmark,29,193.0,83.0,2019-07-29,False
+207300,Mihai-Alexandru Dobre,Mihai-Alexandru,Dobre,54.0,Midfielder,Right,Romania,RO,1998-08-30,,27,178.0,71.0,2018-07-01,False
+461017,Christian Saydee,Christian,Saydee,65.0,Midfielder,,England,GB-ENG,2002-05-10,,24,,,2019-11-30,False
+154566,Dominic Solanke,Dominic,Solanke,9.0,Forward,Right,England,GB-ENG,1997-09-14,England,28,187.0,80.0,2019-01-04,False
+220307,Arnaut Danjuma Groeneveld,Arnaut,Danjuma Groeneveld,10.0,Forward,Both,Netherlands,NL,1997-01-31,Nigeria,29,178.0,74.0,2019-08-01,False
+75115,Callum Wilson,Callum,Wilson,13.0,Forward,Right,England,GB-ENG,1992-02-27,,34,180.0,66.0,2014-07-06,False
+217331,Sam Surridge,Sam,Surridge,14.0,Forward,Right,England,GB-ENG,1998-07-28,,27,191.0,77.0,2015-07-01,False
+78007,Joshua King,Joshua,King,27.0,Forward,Right,Norway,NO,1992-01-15,Norway,34,180.0,74.0,2015-07-01,False
