@@ -47,7 +47,13 @@ All data is exported as clean, analysis-ready **CSV** (with raw **JSON** retaine
 Premier-League-Stats/
 ├── pl_stats/                          # Historical PL data, by club
 │   └── {Team_Name}/
-│       └── {Season}_events_stats.csv
+│       └── events
+│         └── {Season}_events_stats.csv
+│       └── squad
+│         └── {Season}_squad.csv
+│       └── players_stats
+│         └── {Season}_players_stats.csv
+
 ├── fpl_stats/
 │   ├── gameweeks/2025-26/             # Per-gameweek snapshots
 │   │   ├── gw_{X}_players.csv
