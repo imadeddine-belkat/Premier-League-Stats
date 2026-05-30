@@ -109,7 +109,7 @@ Round-by-round performance snapshots for the current season.
 Track a single player across the season without filtering global gameweek files.
 | Field | Value |
 | :--- | :--- |
-| **Path** | `fpl_stats/players/{Player_Name}_{Player_Code}/gameweeks/2025-26_gw_stats.csv` |
+| **Path** | `fpl_stats/players/{Player_Name}_{ID}/gameweeks/2025-26_gw_stats.csv` |
 | **Contents** | Round-by-round statistics for one player |
 
 ### 4. FPL Metadata
@@ -142,8 +142,8 @@ cd Premier-League-Stats
 pip install -r requirements.txt
 
 # 3. Run the scrapers
-python players_scrapper.py
-python teams_scrapper.py
+python players_scraper.py
+python teams_scraper.py
 ```
 
 **Quick load in Pandas:**
