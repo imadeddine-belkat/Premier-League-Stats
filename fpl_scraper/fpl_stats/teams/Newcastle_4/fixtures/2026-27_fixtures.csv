@@ -2,7 +2,7 @@ code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_sta
 2645203,1,True,True,9,2026-08-23T15:30:00Z,90,False,True,14,2.0,17,2.0,4,3
 2645214,2,True,True,15,2026-08-29T16:30:00Z,90,False,True,17,2.0,19,0.0,2,3
 2645223,3,True,True,27,2026-09-05T11:30:00Z,90,False,True,3,2.0,17,2.0,3,3
-2645230,4,False,False,40,2026-09-14T19:00:00Z,0,False,False,17,,13,,2,3
+2645230,4,True,True,40,2026-09-14T19:00:00Z,90,False,True,17,1.0,13,4.0,2,3
 2645242,5,False,False,46,2026-09-19T14:00:00Z,0,False,False,11,,17,,2,3
 2645248,6,False,False,54,2026-10-12T19:00:00Z,0,False,False,17,,7,,2,2
 2645262,7,False,False,68,2026-10-17T16:30:00Z,0,False,False,2,,17,,3,3
@@ -15,10 +15,10 @@ code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_sta
 2645332,14,False,False,138,2026-12-05T15:00:00Z,0,False,False,20,,17,,2,3
 2645341,15,False,False,147,2026-12-12T15:00:00Z,0,False,False,17,,12,,2,2
 2645347,16,False,False,153,2026-12-19T15:00:00Z,0,False,False,17,,4,,2,3
-2645363,17,False,False,169,2026-12-26T15:00:00Z,0,False,False,15,,17,,4,3
-2645373,18,False,False,179,2026-12-30T20:00:00Z,0,False,False,18,,17,,3,3
-2645379,19,False,False,185,2027-01-02T15:00:00Z,0,False,False,17,,6,,2,4
-2645392,20,False,False,198,2027-01-06T20:00:00Z,0,False,False,17,,16,,2,4
+2645363,17,False,False,169,2026-12-26T20:00:00Z,0,False,False,15,,17,,4,3
+2645373,18,False,False,179,2026-12-30T19:30:00Z,0,False,False,18,,17,,3,3
+2645379,19,False,False,185,2027-01-03T14:00:00Z,0,False,False,17,,6,,2,4
+2645392,20,False,False,198,2027-01-07T20:00:00Z,0,False,False,17,,16,,2,4
 2645403,21,False,False,209,2027-01-16T15:00:00Z,0,False,False,10,,17,,2,3
 2645405,22,False,False,211,2027-01-23T15:00:00Z,0,False,False,17,,1,,2,5
 2645423,23,False,False,229,2027-01-30T15:00:00Z,0,False,False,5,,17,,2,3

@@ -2903,6 +2903,12 @@
       "name": "Bafodé Diakité"
     }
   },
+  "242893": {
+    "2026-27": {
+      "element": 655,
+      "name": "Yann Gboho"
+    }
+  },
   "242898": {
     "2025-26": {
       "element": 580,
@@ -6627,6 +6633,10 @@
     "2025-26": {
       "element": 740,
       "name": "Stephen Mfuni"
+    },
+    "2026-27": {
+      "element": 656,
+      "name": "Stephen Mfuni"
     }
   },
   "567119": {
@@ -7498,7 +7508,7 @@
   "616069": {
     "2026-27": {
       "element": 626,
-      "name": "Macauley Zepa"
+      "name": "Macaulay Zepa"
     }
   },
   "616077": {
@@ -7634,6 +7644,10 @@
   "626464": {
     "2025-26": {
       "element": 127,
+      "name": "Gustavo Nunes Fernandes Gomes"
+    },
+    "2026-27": {
+      "element": 657,
       "name": "Gustavo Nunes Fernandes Gomes"
     }
   },
@@ -7899,6 +7913,12 @@
       "name": "Christantus Uche"
     }
   },
+  "661016": {
+    "2026-27": {
+      "element": 658,
+      "name": "Younes Ibrahim"
+    }
+  },
   "661313": {
     "2026-27": {
       "element": 651,
@@ -7927,6 +7947,12 @@
     "2025-26": {
       "element": 768,
       "name": "Leon Routh"
+    }
+  },
+  "665243": {
+    "2026-27": {
+      "element": 659,
+      "name": "Mason Miley"
     }
   },
   "666607": {

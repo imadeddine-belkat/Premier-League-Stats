@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 616,MID,637238,Ayyoub,Bouaddi,2645209,1,False,8,0,0,0,0,0,0,0,0,0,0,0,3,1.8,4.3,0.0,0.6,1,0,0,1,0,0.00,0.12,0.12,0.00,55,2706,4327,3055,349,43
 616,MID,637238,Ayyoub,Bouaddi,2645222,1,False,14,0,0,0,0,0,0,0,0,0,0,0,5,11.2,0.5,0.0,1.2,2,3,0,5,0,0.00,0.00,0.00,0.37,55,6041,15546,9299,3258,43
+616,MID,637238,Ayyoub,Bouaddi,2645232,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,55,937,18618,4899,3962,43
