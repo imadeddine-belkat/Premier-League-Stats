@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 638,DEF,496181,Brooke,Norton-Cuffy,2645220,1,False,26,0,0,0,0,0,0,0,0,0,0,0,3,2.2,0.3,2.0,0.5,1,2,0,1,0,0.00,0.00,0.00,0.12,40,5681,17629,6454,773,88
 638,DEF,496181,Brooke,Norton-Cuffy,2645227,0,False,8,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.3,7.0,0.7,0,2,0,0,0,0.05,0.00,0.05,0.18,40,10672,34986,14148,3476,88
+638,DEF,496181,Brooke,Norton-Cuffy,2645242,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.00,0.00,0.00,0.00,40,1437,29384,5014,3577,88

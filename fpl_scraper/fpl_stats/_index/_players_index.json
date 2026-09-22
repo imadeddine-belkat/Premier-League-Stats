@@ -2825,6 +2825,10 @@
     "2025-26": {
       "element": 102,
       "name": "Ellery Balcombe"
+    },
+    "2026-27": {
+      "element": 661,
+      "name": "Ellery Balcombe"
     }
   },
   "235674": {
@@ -4626,6 +4630,10 @@
   "481283": {
     "2025-26": {
       "element": 688,
+      "name": "James Wright"
+    },
+    "2026-27": {
+      "element": 667,
       "name": "James Wright"
     }
   },
@@ -6957,6 +6965,10 @@
     "2025-26": {
       "element": 483,
       "name": "Miodrag Pivaš"
+    },
+    "2026-27": {
+      "element": 663,
+      "name": "Miodrag Pivas"
     }
   },
   "578545": {
@@ -7247,6 +7259,12 @@
       "name": "Harry Gray"
     }
   },
+  "601767": {
+    "2026-27": {
+      "element": 664,
+      "name": "Vakhtang Salia"
+    }
+  },
   "601956": {
     "2025-26": {
       "element": 766,
@@ -7452,6 +7470,10 @@
   "612534": {
     "2025-26": {
       "element": 115,
+      "name": "Benjamin Fredrick"
+    },
+    "2026-27": {
+      "element": 660,
       "name": "Benjamin Fredrick"
     }
   },
@@ -7731,6 +7753,12 @@
       "name": "Aladji Bamba"
     }
   },
+  "636846": {
+    "2026-27": {
+      "element": 662,
+      "name": "Mahdi Nicoll-Jazuli"
+    }
+  },
   "636852": {
     "2026-27": {
       "element": 462,
@@ -7897,6 +7925,12 @@
       "name": "Alysson Edward Franco da Rocha dos Santos"
     }
   },
+  "655585": {
+    "2026-27": {
+      "element": 665,
+      "name": "Michael Mills"
+    }
+  },
   "658013": {
     "2025-26": {
       "element": 799,
@@ -7965,6 +7999,12 @@
     "2025-26": {
       "element": 833,
       "name": "Mathis Eboué"
+    }
+  },
+  "671875": {
+    "2026-27": {
+      "element": 666,
+      "name": "Kyran Thompson"
     }
   },
   "672492": {

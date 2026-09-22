@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 649,DEF,154043,Ainsley,Maitland-Niles,2645218,7,False,13,1,0,0,1,0,0,0,0,0,0,0,13,33.4,0.8,7.0,4.1,0,0,0,0,0,0.03,0.00,0.03,0.29,45,431,569,559,128,11
 649,DEF,154043,Ainsley,Maitland-Niles,2645234,6,False,74,0,0,1,0,0,0,0,0,0,0,0,23,10.0,12.0,1.0,2.3,3,4,2,5,1,0.03,0.14,0.17,0.43,45,14703,30581,18405,3702,11
+649,DEF,154043,Ainsley,Maitland-Niles,2645238,8,False,90,0,0,1,0,0,0,0,0,0,0,2,39,23.8,26.0,0.0,5.0,5,3,3,8,1,0.00,0.11,0.11,1.28,45,48006,111542,54068,6062,11

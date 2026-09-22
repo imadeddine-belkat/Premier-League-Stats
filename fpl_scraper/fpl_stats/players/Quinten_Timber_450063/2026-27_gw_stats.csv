@@ -1,3 +1,4 @@
 element,position,player_code,first_name,second_name,fixture_code,total_points,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,team_code
 644,MID,450063,Quinten,Timber,2645219,2,False,73,0,0,0,2,0,0,0,0,0,0,0,8,4.2,0.2,1.0,0.5,2,3,1,6,1,0.02,0.00,0.02,2.57,50,556,782,656,100,31
 644,MID,450063,Quinten,Timber,2645229,4,False,90,0,0,0,3,0,0,0,0,0,0,0,24,25.2,4.9,27.0,5.7,2,6,8,16,1,0.10,0.03,0.13,1.68,50,1293,2570,1757,464,31
+644,MID,450063,Quinten,Timber,2645240,3,False,90,0,0,1,0,0,0,0,0,0,0,0,13,8.4,24.0,6.0,3.8,2,1,2,5,1,0.12,0.03,0.15,1.31,50,782,3505,1410,628,31
