@@ -1,25 +1,30 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
-154561,David Raya,David,Raya,1,Goalkeeper,Right,Spain,ES,1995-09-15,Spain,30,183,80,2024-07-04,False
-109745,Kepa Arrizabalaga,Kepa,Arrizabalaga,13,Goalkeeper,Right,Spain,ES,1994-10-03,Spain,31,189,84,2025-07-01,False
-437495,Illan Meslier,Illan,Meslier,30,Goalkeeper,Left,France,FR,2000-03-02,France,26,197,74,2026-07-09,False
-462424,William Saliba,William,Saliba,2,Defender,Right,France,FR,2001-03-24,France,25,192,92,2019-07-25,False
-500040,Cristhian Mosquera,Cristhian,Mosquera,3,Defender,Right,Spain,ES,2004-06-27,Spain,22,191,78,2025-07-24,False
-198869,Ben White,Ben,White,4,Defender,Right,England,GB-ENG,1997-10-08,England,28,186,76,2021-07-30,False
-448104,Piero Hincapié,Piero,Hincapié,5,Defender,Left,Ecuador,EC,2002-01-09,Ecuador,24,183,77,2026-07-01,False
-226597,Gabriel Magalhães,Gabriel,dos Santos Magalhães,6,Defender,Left,Brazil,BR,1997-12-19,Brazil,28,190,92,2020-09-01,False
-445122,Jurriën Timber,Jurriën,Timber,12,Defender,Right,Netherlands,NL,2001-06-17,Netherlands,25,179,79,2023-07-14,False
-199798,Ezri Konsa,Ezri,Konsa,15,Defender,Right,England,GB-ENG,1997-10-23,England,28,183,76,2026-08-21,False
-466075,Riccardo Calafiori,Riccardo,Calafiori,33,Defender,Left,Italy,IT,2002-05-19,Italy,24,188,86,2024-07-29,False
-499169,Myles Lewis-Skelly,Myles,Lewis-Skelly,49,Defender,Left,England,GB-ENG,2006-09-26,England,19,178,72,2022-12-04,False
-184029,Martin Ødegaard,Martin,Ødegaard,8,Midfielder,Left,Norway,NO,1998-12-17,Norway,27,178,68,2021-08-20,False
-232413,Eberechi Eze,Eberechi,Eze,10,Midfielder,Right,England,GB-ENG,1998-06-29,England,28,178,73,2025-08-23,False
-195384,Mikel Merino,Mikel,Merino,23,Midfielder,Left,Spain,ES,1996-06-22,Spain,30,189,83,2024-08-27,False
-481655,Martín Zubimendi,Martín,Zubimendi,36,Midfielder,Right,Spain,ES,1999-02-02,Spain,27,181,74,2025-07-06,False
-208706,Bruno Guimarães,Bruno,Guimarães Rodriguez Moura,39,Midfielder,Right,Brazil,BR,1997-11-16,Brazil,28,182,78,2026-08-08,False
-204480,Declan Rice,Declan,Rice,41,Midfielder,Right,England,GB-ENG,1999-01-14,England,27,188,76,2023-07-15,False
-616077,Max Dowman,Max,Dowman,56,Midfielder,Left,England,GB-ENG,2009-12-31,England,16,183,73,2025-07-22,False
-223340,Bukayo Saka,Bukayo,Saka,7,Forward,Left,England,GB-ENG,2001-09-05,England,25,178,65,2018-11-28,False
-224117,Viktor Gyökeres,Viktor,Gyökeres,14,Forward,Right,Sweden,SE,1998-06-04,Sweden,28,189,90,2025-07-26,False
-439509,Christos Tzolis,Christos,Tzolis,17,Forward,Right,Greece,GR,2002-01-30,Greece,24,179,70,2026-07-23,False
-248857,Noni Madueke,Noni,Madueke,20,Forward,Left,England,GB-ENG,2002-03-10,England,24,183,83,2025-07-18,False
-219847,Kai Havertz,Kai,Havertz,29,Forward,Left,Germany,DE,1999-06-11,Germany,27,193,83,2023-06-28,False
+154561,David Raya,David,Raya,1,Goalkeeper,Right,Spain,ES,1995-09-15,Spain,31,183.0,80.0,2024-07-04,False
+109745,Kepa Arrizabalaga,Kepa,Arrizabalaga,13,Goalkeeper,Right,Spain,ES,1994-10-03,Spain,32,189.0,84.0,2025-07-01,False
+437495,Illan Meslier,Illan,Meslier,30,Goalkeeper,Left,France,FR,2000-03-02,France,26,197.0,74.0,2026-07-09,False
+462424,William Saliba,William,Saliba,2,Defender,Right,France,FR,2001-03-24,France,25,192.0,92.0,2019-07-25,False
+500040,Cristhian Mosquera,Cristhian,Mosquera,3,Defender,Right,Spain,ES,2004-06-27,Spain,22,191.0,78.0,2025-07-24,False
+198869,Ben White,Ben,White,4,Defender,Right,England,GB-ENG,1997-10-08,England,29,186.0,76.0,2021-07-30,False
+448104,Piero Hincapié,Piero,Hincapié,5,Defender,Left,Ecuador,EC,2002-01-09,Ecuador,24,183.0,77.0,2026-07-01,False
+226597,Gabriel Magalhães,Gabriel,dos Santos Magalhães,6,Defender,Left,Brazil,BR,1997-12-19,Brazil,28,190.0,92.0,2020-09-01,False
+445122,Jurriën Timber,Jurriën,Timber,12,Defender,Right,Netherlands,NL,2001-06-17,Netherlands,25,179.0,79.0,2023-07-14,False
+199798,Ezri Konsa,Ezri,Konsa,15,Defender,Right,England,GB-ENG,1997-10-23,England,28,183.0,76.0,2026-08-21,False
+466075,Riccardo Calafiori,Riccardo,Calafiori,33,Defender,Left,Italy,IT,2002-05-19,Italy,24,188.0,86.0,2024-07-29,False
+499169,Myles Lewis-Skelly,Myles,Lewis-Skelly,49,Defender,Left,England,GB-ENG,2006-09-26,England,20,178.0,72.0,2022-12-04,False
+616065,Marli Salmon,Marli,Salmon,89,Defender,Right,England,GB-ENG,2009-08-29,England,17,187.0,,2025-07-22,False
+184029,Martin Ødegaard,Martin,Ødegaard,8,Midfielder,Left,Norway,NO,1998-12-17,Norway,27,178.0,68.0,2021-08-20,False
+232413,Eberechi Eze,Eberechi,Eze,10,Midfielder,Right,England,GB-ENG,1998-06-29,England,28,178.0,73.0,2025-08-23,False
+195384,Mikel Merino,Mikel,Merino,23,Midfielder,Left,Spain,ES,1996-06-22,Spain,30,189.0,83.0,2024-08-27,False
+481655,Martín Zubimendi,Martín,Zubimendi,36,Midfielder,Right,Spain,ES,1999-02-02,Spain,27,181.0,74.0,2025-07-06,False
+208706,Bruno Guimarães,Bruno,Guimarães Rodriguez Moura,39,Midfielder,Right,Brazil,BR,1997-11-16,Brazil,28,182.0,78.0,2026-08-08,False
+204480,Declan Rice,Declan,Rice,41,Midfielder,Right,England,GB-ENG,1999-01-14,England,27,188.0,76.0,2023-07-15,False
+616068,Ife Ibrahim,Ife,Ibrahim,44,Midfielder,Right,England,GB-ENG,2008-01-20,England,18,,,2026-01-27,False
+616071,Theo Julienne,Theo,Julienne,45,Midfielder,Right,England,GB-ENG,2008-01-11,England,18,,,2026-07-30,False
+646242,Maalik Hashi,Maalik,Hashi,74,Midfielder,,England,GB-ENG,2008-09-08,England,18,,,2026-10-12,False
+223340,Bukayo Saka,Bukayo,Saka,7,Forward,Left,England,GB-ENG,2001-09-05,England,25,178.0,65.0,2018-11-28,False
+224117,Viktor Gyökeres,Viktor,Gyökeres,14,Forward,Right,Sweden,SE,1998-06-04,Sweden,28,189.0,90.0,2025-07-26,False
+439509,Christos Tzolis,Christos,Tzolis,17,Forward,Right,Greece,GR,2002-01-30,Greece,24,179.0,70.0,2026-07-23,False
+248857,Noni Madueke,Noni,Madueke,20,Forward,Left,England,GB-ENG,2002-03-10,England,24,183.0,83.0,2025-07-18,False
+219847,Kai Havertz,Kai,Havertz,29,Forward,Left,Germany,DE,1999-06-11,Germany,27,193.0,83.0,2023-06-28,False
+645551,Ceadach O’Neill,Ceadach,O’Neill,53,Forward,,Northern Ireland,GB-NIR,2008-04-10,Northern Ireland,18,,,2026-02-14,False
+616077,Max Dowman,Max,Dowman,56,Forward,Left,England,GB-ENG,2009-12-31,England,16,183.0,73.0,2025-07-22,False

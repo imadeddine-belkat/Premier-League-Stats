@@ -3,11 +3,11 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 67089,Martin Dúbravka,Martin,Dúbravka,39,Goalkeeper,Right,Slovakia,SK,1989-01-15,Slovakia,37,190,83.0,2026-07-01,False
 214572,Brandon Austin,Brandon,Austin,40,Goalkeeper,Right,England,GB-ENG,1999-01-08,England,27,188,82.0,2017-07-22,False
 122798,Andy Robertson,Andy,Robertson,3,Defender,Left,Scotland,GB-SCT,1994-03-11,Scotland,32,178,64.0,2026-07-01,False
-109646,Tosin Adarabioyo,Tosin,Adarabioyo,4,Defender,Right,England,GB-ENG,1997-09-24,England,28,197,80.0,2026-09-01,False
+109646,Tosin Adarabioyo,Tosin,Adarabioyo,4,Defender,Right,England,GB-ENG,1997-09-24,England,29,197,80.0,2026-09-01,False
 221466,Marcos Senesi,Marcos,Senesi,5,Defender,Left,Argentina,AR,1997-05-10,Argentina,29,185,78.0,2026-07-01,False
 469142,Jan Paul van Hecke,Jan Paul,van Hecke,6,Defender,Right,Netherlands,NL,2000-06-08,Netherlands,26,189,79.0,2026-06-18,False
 487053,Destiny Udogie,Destiny,Udogie,13,Defender,Left,Italy,IT,2002-11-28,Italy,23,186,73.0,2022-08-16,False
-441164,Pedro Porro,Pedro,Porro,23,Defender,Right,Spain,ES,1999-09-13,Spain,26,173,69.0,2023-07-01,False
+441164,Pedro Porro,Pedro,Porro,23,Defender,Right,Spain,ES,1999-09-13,Spain,27,173,69.0,2023-07-01,False
 115556,Ben Davies,Ben,Davies,33,Defender,Left,Wales,GB-WLS,1993-04-24,Wales,33,181,77.0,2014-07-23,False
 491279,Micky van de Ven,Micky,van de Ven,37,Defender,Left,Netherlands,NL,2001-04-19,Netherlands,25,193,81.0,2023-08-08,False
 493362,Xavi Simons,Xavi,Simons,7,Midfielder,Right,Netherlands,NL,2003-04-21,Netherlands,23,179,58.0,2025-08-29,False
@@ -21,10 +21,11 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 445044,Dejan Kulusevski,Dejan,Kulusevski,21,Midfielder,Left,Sweden,SE,2000-04-25,Sweden,26,186,80.0,2023-07-01,False
 465920,Mykhailo Mudryk,Mykhailo,Mudryk,27,Midfielder,Right,Ukraine,UA,2001-01-05,Ukraine,25,175,61.0,2026-09-01,True
 202993,Rodrigo Bentancur,Rodrigo,Bentancur,30,Midfielder,Right,Uruguay,UY,1997-06-25,Uruguay,29,187,72.0,2022-01-31,False
-611917,Luca Williams-Barnett,Luca,Williams-Barnett,68,Midfielder,Both,England,GB-ENG,2008-10-01,England,17,179,,2025-07-25,False
+499726,Callum Olusesi,Callum,Olusesi,52,Midfielder,Right,England,GB-ENG,2007-03-11,England,19,175,65.0,2024-11-06,False
+611917,Luca Williams-Barnett,Luca,Williams-Barnett,68,Midfielder,Both,England,GB-ENG,2008-10-01,England,18,179,,2025-07-25,False
 212319,Richarlison,Richarlison,de Andrade,9,Forward,Right,Brazil,BR,1997-05-10,Brazil,29,184,83.0,2022-07-01,False
 511499,Mathys Tel,Mathys,Tel,11,Forward,Right,France,FR,2005-04-27,France,21,183,77.0,2025-07-01,False
 510281,Sávio,Sávio,Moreira de Oliveira,17,Forward,Left,Brazil,BR,2004-04-10,Brazil,22,179,66.0,2026-08-25,False
-154566,Dominic Solanke,Dominic,Solanke,19,Forward,Right,England,GB-ENG,1997-09-14,England,28,187,80.0,2024-08-10,False
+154566,Dominic Solanke,Dominic,Solanke,19,Forward,Right,England,GB-ENG,1997-09-14,England,29,187,80.0,2024-08-10,False
 438234,Omar Marmoush,Omar Khaled Mohamed Abdelsalam,Marmoush,22,Forward,Right,Egypt,EG,1999-02-07,Egypt,27,180,80.0,2026-08-27,True
 550839,Wilson Odobert,Wilson,Odobert,28,Forward,Right,France,FR,2004-11-28,France,21,182,76.0,2024-08-16,False

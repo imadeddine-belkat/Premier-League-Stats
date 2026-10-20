@@ -1,29 +1,33 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
-172649,Dean Henderson,Dean,Henderson,1,Goalkeeper,Right,England,GB-ENG,1997-03-12,England,29,188,85.0,2023-08-31,False
-169593,Remi Matthews,Remi,Matthews,31,Goalkeeper,Right,England,GB-ENG,1994-02-10,England,32,184,78.0,2021-07-13,False
-121709,Walter Benítez,Walter,Benítez,44,Goalkeeper,Right,Argentina,AR,1993-01-19,Argentina,33,191,94.0,2025-07-01,False
-244723,Tyrick Mitchell,Tyrick,Mitchell,3,Defender,Left,England,GB-ENG,1999-09-01,England,27,175,68.0,2019-12-15,False
-515621,Chadi Riad,Chadi,Riad,4,Defender,Left,Morocco,MA,2003-06-17,Spain,23,186,78.0,2024-07-02,False
-220362,Axel Disasi,Axel,Disasi,5,Defender,Right,France,FR,1998-03-11,France,28,190,83.0,2026-08-26,True
-651426,Jaydee Canvot,Jaydee,Canvot,6,Defender,Right,France,FR,2006-07-29,France,20,188,75.0,2025-09-01,False
-223723,Takehiro Tomiyasu,Takehiro,Tomiyasu,17,Defender,Right,Japan,JP,1998-11-05,Japan,27,187,84.0,2026-08-06,False
-605972,Honest Ahanor,Honest,Ahanor,21,Defender,Left,Italy,IT,2008-02-23,Italy,18,184,79.0,2026-09-01,True
-570794,Anan Khalaili,Anan,Khalaili,25,Defender,Right,Israel,IL,2004-09-03,Israel,22,183,,2026-08-15,False
-427623,Chris Richards,Chris,Richards,26,Defender,Right,United States,US,2000-03-28,USA,26,188,93.0,2022-07-27,False
-242313,Óscar Mingueza,Óscar,Mingueza,30,Defender,Right,Spain,ES,1999-05-13,Spain,27,184,75.0,2026-07-09,False
-172850,Ben Chilwell,Ben,Chilwell,33,Defender,Left,England,GB-ENG,1996-12-21,England,29,178,77.0,2026-09-01,False
-152551,Jefferson Lerma,Jefferson,Lerma,8,Midfielder,Right,Colombia,CO,1994-10-25,Colombia,31,179,84.0,2023-07-01,False
-488024,Yéremy Pino,Yéremy,Pino,10,Midfielder,Right,Spain,ES,2002-10-20,Spain,23,172,65.0,2025-08-29,False
-209400,Daichi Kamada,Daichi,Kamada,18,Midfielder,Right,Japan,JP,1996-08-05,Japan,30,180,72.0,2024-07-01,False
-108413,Will Hughes,Will,Hughes,19,Midfielder,Left,England,GB-ENG,1995-04-17,England,31,185,74.0,2021-08-28,False
-496221,Adam Wharton,Adam,Wharton,20,Midfielder,Left,England,GB-ENG,2004-02-06,England,22,182,77.0,2024-02-01,False
-450063,Quinten Timber,Quinten,Timber,23,Midfielder,Right,Netherlands,NL,2001-06-17,Netherlands,25,179,74.0,2026-09-01,False
-533646,Darío Osorio,Darío,Osorio,24,Midfielder,Left,Chile,CL,2004-01-24,Chile,22,182,72.0,2026-09-01,True
-438464,Cheick Doucouré,Cheick,Doucouré,28,Midfielder,Right,Mali,ML,2000-01-08,Mali,26,180,73.0,2022-07-11,False
-232185,Ismaïla Sarr,Ismaïla,Sarr,7,Forward,Right,Senegal,SN,1998-02-25,Senegal,28,185,76.0,2024-08-01,False
-205533,Eddie Nketiah,Eddie,Nketiah,9,Forward,Right,England,GB-ENG,1999-05-30,England,27,175,72.0,2024-08-30,False
-433154,Dwight McNeil,Dwight,McNeil,11,Forward,Left,England,GB-ENG,1999-11-22,England,26,183,68.0,2026-08-11,False
-559152,Zavier Gozo,Zavier,Gozo,12,Forward,Right,United States,US,2007-03-22,USA,19,180,63.0,2026-08-18,False
-231747,Jean-Philippe Mateta,Jean-Philippe,Mateta,14,Forward,Right,France,FR,1997-06-28,France,29,192,88.0,2022-01-31,False
-247412,Jørgen Strand Larsen,Jørgen,Strand Larsen,22,Forward,Right,Norway,NO,2000-02-06,Norway,26,193,79.0,2026-02-02,False
-485337,Evann Guessand,Evann,Guessand,29,Forward,Right,Cote d’Ivoire,CI,2001-07-01,France,25,188,82.0,2026-08-12,True
+172649,Dean Henderson,Dean,Henderson,1,Goalkeeper,Right,England,GB-ENG,1997-03-12,England,29,188.0,85.0,2023-08-31,False
+169593,Remi Matthews,Remi,Matthews,31,Goalkeeper,Right,England,GB-ENG,1994-02-10,England,32,184.0,78.0,2021-07-13,False
+121709,Walter Benítez,Walter,Benítez,44,Goalkeeper,Right,Argentina,AR,1993-01-19,Argentina,33,191.0,94.0,2025-07-01,False
+697694,Lucca Benetton,Lucca,Benetton,81,Goalkeeper,Both,England,GB-ENG,2010-08-08,England,16,,,2026-07-25,False
+244723,Tyrick Mitchell,Tyrick,Mitchell,3,Defender,Left,England,GB-ENG,1999-09-01,England,27,175.0,68.0,2019-12-15,False
+515621,Chadi Riad,Chadi,Riad,4,Defender,Left,Morocco,MA,2003-06-17,Spain,23,186.0,78.0,2024-07-02,False
+220362,Axel Disasi,Axel,Disasi,5,Defender,Right,France,FR,1998-03-11,France,28,190.0,83.0,2026-08-26,True
+651426,Jaydee Canvot,Jaydee,Canvot,6,Defender,Right,France,FR,2006-07-29,France,20,188.0,75.0,2025-09-01,False
+223723,Takehiro Tomiyasu,Takehiro,Tomiyasu,17,Defender,Right,Japan,JP,1998-11-05,Japan,27,187.0,84.0,2026-08-06,False
+605972,Honest Ahanor,Honest,Ahanor,21,Defender,Left,Italy,IT,2008-02-23,Italy,18,184.0,79.0,2026-09-01,True
+570794,Anan Khalaili,Anan,Khalaili,25,Defender,Right,Israel,IL,2004-09-03,Israel,22,183.0,,2026-08-15,False
+427623,Chris Richards,Chris,Richards,26,Defender,Right,United States,US,2000-03-28,USA,26,188.0,93.0,2022-07-27,False
+242313,Óscar Mingueza,Óscar,Mingueza,30,Defender,Right,Spain,ES,1999-05-13,Spain,27,184.0,75.0,2026-07-09,False
+172850,Ben Chilwell,Ben,Chilwell,33,Defender,Left,England,GB-ENG,1996-12-21,England,29,178.0,77.0,2026-09-01,False
+590012,Caleb Kporha,Caleb,Kporha,38,Defender,Right,England,GB-ENG,2006-07-15,England,20,170.0,67.0,2024-07-30,False
+643426,Dean Benamar,Dean,Benamar,54,Defender,Left,England,GB-ENG,2008-05-31,England,18,,,2025-07-31,False
+152551,Jefferson Lerma,Jefferson,Lerma,8,Midfielder,Right,Colombia,CO,1994-10-25,Colombia,31,179.0,84.0,2023-07-01,False
+488024,Yéremy Pino,Yéremy,Pino,10,Midfielder,Right,Spain,ES,2002-10-20,Spain,24,172.0,65.0,2025-08-29,False
+209400,Daichi Kamada,Daichi,Kamada,18,Midfielder,Right,Japan,JP,1996-08-05,Japan,30,180.0,72.0,2024-07-01,False
+108413,Will Hughes,Will,Hughes,19,Midfielder,Left,England,GB-ENG,1995-04-17,England,31,185.0,74.0,2021-08-28,False
+496221,Adam Wharton,Adam,Wharton,20,Midfielder,Left,England,GB-ENG,2004-02-06,England,22,182.0,77.0,2024-02-01,False
+450063,Quinten Timber,Quinten,Timber,23,Midfielder,Right,Netherlands,NL,2001-06-17,Netherlands,25,179.0,74.0,2026-09-01,False
+533646,Darío Osorio,Darío,Osorio,24,Midfielder,Left,Chile,CL,2004-01-24,Chile,22,182.0,72.0,2026-09-01,True
+438464,Cheick Doucouré,Cheick,Doucouré,28,Midfielder,Right,Mali,ML,2000-01-08,Mali,26,180.0,73.0,2022-07-11,False
+577729,Sebastian Williams,Sebastian,Williams,43,Midfielder,Right,England,GB-ENG,2007-01-10,England,19,185.0,,2026-09-16,False
+232185,Ismaïla Sarr,Ismaïla,Sarr,7,Forward,Right,Senegal,SN,1998-02-25,Senegal,28,185.0,76.0,2024-08-01,False
+205533,Eddie Nketiah,Eddie,Nketiah,9,Forward,Right,England,GB-ENG,1999-05-30,England,27,175.0,72.0,2024-08-30,False
+433154,Dwight McNeil,Dwight,McNeil,11,Forward,Left,England,GB-ENG,1999-11-22,England,26,183.0,68.0,2026-08-11,False
+559152,Zavier Gozo,Zavier,Gozo,12,Forward,Right,United States,US,2007-03-22,USA,19,180.0,63.0,2026-08-18,False
+231747,Jean-Philippe Mateta,Jean-Philippe,Mateta,14,Forward,Right,France,FR,1997-06-28,France,29,192.0,88.0,2022-01-31,False
+247412,Jørgen Strand Larsen,Jørgen,Strand Larsen,22,Forward,Right,Norway,NO,2000-02-06,Norway,26,193.0,79.0,2026-02-02,False
+485337,Evann Guessand,Evann,Guessand,29,Forward,Right,Cote d’Ivoire,CI,2001-07-01,France,25,188.0,82.0,2026-08-12,True

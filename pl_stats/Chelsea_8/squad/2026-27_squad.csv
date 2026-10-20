@@ -20,11 +20,11 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 244850,Morgan Rogers,Morgan,Rogers,17,Midfielder,Right,England,GB-ENG,2002-07-26,England,24,187.0,80.0,2026-07-21,False
 593117,Geovany Quenda,Geovany,Tcherno Quenda,23,Midfielder,Left,Portugal,PT,2007-04-30,Guinea-Bissau,19,172.0,68.0,2026-06-15,False
 486672,Moisés Caicedo,Moisés,Caicedo,25,Midfielder,Right,Ecuador,EC,2001-11-02,Ecuador,24,178.0,80.0,2023-08-14,False
-666276,Reggie Watson,Reggie,Watson,31,Midfielder,,England,GB-ENG,2010-01-26,,16,,,2026-07-01,False
-636846,Mahdi Nicoll-Jazuli,Mahdi,Nicoll-Jazuli,32,Midfielder,,England,GB-ENG,2010-01-06,England,16,,,2026-07-01,False
+666276,Reggie Watson,Reggie,Watson,31,Midfielder,Right,England,GB-ENG,2010-01-26,England,16,182.0,,2026-07-01,False
+636846,Mahdi Nicoll-Jazuli,Mahdi,Nicoll-Jazuli,32,Midfielder,Right,England,GB-ENG,2010-01-06,Australia,16,,,2026-07-01,False
 514356,Roméo Lavia,Roméo,Lavia,45,Midfielder,Right,Belgium,BE,2004-01-06,Belgium,22,181.0,76.0,2023-08-18,False
 247632,Pedro Neto,Pedro,Lomba Neto,7,Forward,Left,Portugal,PT,2000-03-09,Portugal,26,174.0,78.0,2024-08-11,False
-475168,João Pedro,João Pedro,Junqueira de Jesus,9,Forward,Right,Brazil,BR,2001-09-26,Brazil,24,186.0,70.0,2025-07-02,False
+475168,João Pedro,João Pedro,Junqueira de Jesus,9,Forward,Right,Brazil,BR,2001-09-26,Brazil,25,186.0,70.0,2025-07-02,False
 463936,Jamie Gittens,Jamie,Gittens,11,Forward,Right,England,GB-ENG,2004-08-08,England,22,178.0,70.0,2025-07-05,False
 50175,Danny Welbeck,Danny,Welbeck,18,Forward,Right,England,GB-ENG,1990-11-26,England,35,185.0,73.0,2026-08-01,False
 503037,Emmanuel Emegha,Emmanuel,Emegha,22,Forward,Right,Netherlands,NL,2003-02-03,Netherlands,23,196.0,82.0,2026-06-15,False

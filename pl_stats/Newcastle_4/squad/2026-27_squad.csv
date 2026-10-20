@@ -11,6 +11,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 465642,Malick Thiaw,Malick,Thiaw,12,Defender,Right,Germany,DE,2001-08-08,Germany,25,194.0,86.0,2025-08-12,False
 78916,Dan Burn,Dan,Burn,33,Defender,Left,England,GB-ENG,1992-05-09,England,34,201.0,87.0,2022-01-31,False
 463726,Amar Dedic,Amar,Dedic,37,Defender,Right,Bosnia & Herzegovina,BA,2002-08-18,Austria,24,180.0,74.0,2026-08-18,False
+578512,Miodrag Pivas,Miodrag,Pivas,48,Defender,Right,Serbia,RS,2005-05-17,,21,188.0,70.0,2026-07-24,False
 465694,Nico González,Nico,González,6,Midfielder,Right,Spain,ES,2002-01-03,Spain,24,189.0,88.0,2026-08-26,False
 180974,Joelinton,Joelinton Cássio,Apolinário de Lira,7,Midfielder,Right,Brazil,BR,1996-08-14,Brazil,30,186.0,81.0,2019-07-24,False
 632794,Aladji Bamba,Aladji,Bamba,8,Midfielder,Right,France,FR,2006-07-14,France,20,181.0,67.0,2026-07-24,False
@@ -20,8 +21,12 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 200089,Joe Willock,Joe,Willock,28,Midfielder,Right,England,GB-ENG,1999-08-20,England,27,179.0,71.0,2021-08-13,False
 232653,Jacob Ramsey,Jacob,Ramsey,41,Midfielder,Right,England,GB-ENG,2001-05-28,England,25,180.0,75.0,2025-08-17,False
 547719,Lewis Miley,Lewis,Miley,67,Midfielder,Right,England,GB-ENG,2006-05-01,England,20,185.0,72.0,2023-02-01,False
+665243,Mason Miley,Mason,Miley,76,Midfielder,,England,GB-ENG,2008-09-29,England,18,,,2026-07-24,False
 216646,Yoane Wissa,Yoane,Wissa,9,Forward,Right,DR Congo,CD,1996-09-03,France,30,176.0,75.0,2025-09-01,False
 538207,William Osula,William,Osula,10,Forward,Right,Denmark,DK,2003-08-04,Denmark,23,180.0,81.0,2024-08-08,False
 611665,Bazoumana Touré,Bazoumana,Touré,17,Forward,Left,Cote d’Ivoire,CI,2006-03-02,Côte d'Ivoire,20,178.0,70.0,2026-07-05,False
 449434,Anthony Elanga,Anthony,Elanga,19,Forward,Right,Sweden,SE,2002-04-27,Sweden,24,178.0,75.0,2025-07-11,False
 613221,Matias Fernandez-Pardo,Matias,Fernandez-Pardo,20,Forward,Right,Belgium,BE,2005-02-03,Belgium,21,188.0,86.0,2026-09-01,False
+671875,Kyran Thompson,Kyran,Thompson,44,Forward,,England,GB-ENG,2009-09-06,England,17,,,2026-09-18,False
+601767,Vakhtang Salia,Vakhtang,Salia,49,Forward,Right,Georgia,GE,2007-08-30,Georgia,19,181.0,,2026-07-24,False
+655585,Michael Mills,Michael,Mills,77,Forward,,England,GB-ENG,2009-02-18,England,17,,,2026-09-18,False

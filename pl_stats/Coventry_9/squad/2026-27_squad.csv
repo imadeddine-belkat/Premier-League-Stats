@@ -1,30 +1,30 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
-110690,Ben Wilson,Ben,Wilson,13.0,Goalkeeper,Right,England,GB-ENG,1992-08-09,England,34,186,70.0,2019-07-01,False
-472739,Carl Rushworth,Carl,Rushworth,19.0,Goalkeeper,Left,England,GB-ENG,2001-07-02,England,25,188,86.0,2026-08-04,False
-79602,Dan Bentley,Dan,Bentley,25.0,Goalkeeper,Right,England,GB-ENG,1993-07-13,England,33,188,73.0,2026-08-21,False
-566213,Stephen Mfuni,Stephen,Mfuni,,Defender,Left,England,GB-ENG,2008-02-12,England,18,180,72.0,2026-08-30,True
-231065,Ethan Pinnock,Ethan,Pinnock,2.0,Defender,Left,Jamaica,JM,1993-05-29,England,33,194,79.0,2026-08-26,False
-173878,Jay Dasilva,Jay,Dasilva,3.0,Defender,Left,Wales,GB-WLS,1998-04-22,England,28,170,64.0,2023-07-01,False
-461102,Bobby Thomas,Bobby,Thomas,4.0,Defender,Right,England,GB-ENG,2001-01-30,England,25,193,77.0,2023-07-22,False
-465390,Kaine Kesler-Hayden,Kaine,Kesler-Hayden,20.0,Defender,Right,England,GB-ENG,2002-10-23,England,23,175,,2025-07-01,False
-80178,Jake Bidwell,Jake,Bidwell,21.0,Defender,Left,England,GB-ENG,1993-03-21,England,33,183,70.0,2022-01-17,False
-204813,Joel Latibeaudiere,Joel,Latibeaudiere,22.0,Defender,Right,Jamaica,JM,2000-01-06,England,26,180,81.0,2023-07-18,False
-539142,Aurèle Amenda,Aurèle,Amenda,24.0,Defender,Right,Switzerland,CH,2003-07-31,Switzerland,23,194,90.0,2026-07-16,False
-220583,Luke Woolfenden,Luke,Woolfenden,26.0,Defender,Right,England,GB-ENG,1998-10-21,England,27,193,70.0,2025-09-01,False
-451284,Milan van Ewijk,Milan,van Ewijk,27.0,Defender,Right,Netherlands,NL,2000-09-08,Netherlands,26,175,70.0,2023-07-27,False
-480457,Jack Rudoni,Jack,Rudoni,5.0,Midfielder,Left,England,GB-ENG,2001-06-14,England,25,186,77.0,2024-06-20,False
-168144,Matt Grimes,Matt,Grimes,6.0,Midfielder,Left,England,GB-ENG,1995-07-15,England,31,181,70.0,2025-01-31,False
-501459,Tatsuhiro Sakamoto,Tatsuhiro,Sakamoto,7.0,Midfielder,Left,Japan,JP,1996-10-22,Japan,29,170,63.0,2023-07-10,False
-661888,Caleb Yirenkyi,Caleb,Yirenkyi,8.0,Midfielder,Right,Ghana,GH,2006-01-15,Ghana,20,182,77.0,2026-08-07,False
-241293,Ephron Mason-Clark,Ephron,Mason-Clark,10.0,Midfielder,Right,Jamaica,JM,1999-08-25,England,27,178,76.0,2024-02-01,False
-428580,Frank Onyeka,Frank,Onyeka,16.0,Midfielder,Right,Nigeria,NG,1998-01-01,Nigeria,28,183,70.0,2026-07-01,False
-439668,Josh Eccles,Josh,Eccles,28.0,Midfielder,Right,England,GB-ENG,2000-04-06,England,26,181,66.0,2018-07-01,False
-226965,Victor Torp,Victor,Torp,29.0,Midfielder,Right,Denmark,DK,1999-07-30,Denmark,27,178,60.0,2024-01-11,False
-196100,Gustavo Hamer,Gustavo,Hamer,38.0,Midfielder,Right,Netherlands,NL,1997-06-24,Brazil,29,169,61.0,2026-08-11,False
-242893,Yann Gboho,Yann,Gboho,,Forward,Right,France,FR,2001-01-14,Côte d'Ivoire,25,178,63.0,2026-09-01,False
-218997,Ellis Simms,Ellis,Simms,9.0,Forward,Right,England,GB-ENG,2001-01-05,England,25,191,73.0,2023-07-07,False
-176412,Haji Wright,Haji,Wright,11.0,Forward,Right,United States,US,1998-03-27,USA,28,191,80.0,2023-08-04,False
-210156,Taiwo Awoniyi,Taiwo,Awoniyi,14.0,Forward,Right,Nigeria,NG,1997-08-12,Nigeria,29,183,84.0,2026-08-17,False
-469272,Loum Tchaouna,Loum,Tchaouna,18.0,Forward,Left,France,FR,2003-09-08,Chad,23,180,68.0,2026-07-11,False
-230730,Brandon Thomas-Asante,Brandon,Thomas-Asante,23.0,Forward,Right,Ghana,GH,1998-12-29,England,27,182,72.0,2024-08-01,False
-627221,Sidiki Cherif,Sidiki,Cherif,49.0,Forward,Right,France,FR,2006-12-15,Guinea,19,185,75.0,2026-08-19,False
+110690,Ben Wilson,Ben,Wilson,13,Goalkeeper,Right,England,GB-ENG,1992-08-09,England,34,186,70.0,2019-07-01,False
+472739,Carl Rushworth,Carl,Rushworth,19,Goalkeeper,Left,England,GB-ENG,2001-07-02,England,25,188,86.0,2026-08-04,False
+79602,Dan Bentley,Dan,Bentley,25,Goalkeeper,Right,England,GB-ENG,1993-07-13,England,33,188,73.0,2026-08-21,False
+231065,Ethan Pinnock,Ethan,Pinnock,2,Defender,Left,Jamaica,JM,1993-05-29,England,33,194,79.0,2026-08-26,False
+173878,Jay Dasilva,Jay,Dasilva,3,Defender,Left,Wales,GB-WLS,1998-04-22,England,28,170,64.0,2023-07-01,False
+461102,Bobby Thomas,Bobby,Thomas,4,Defender,Right,England,GB-ENG,2001-01-30,England,25,193,77.0,2023-07-22,False
+566213,Stephen Mfuni,Stephen,Mfuni,12,Defender,Left,England,GB-ENG,2008-02-12,England,18,180,72.0,2026-08-30,True
+465390,Kaine Kesler-Hayden,Kaine,Kesler-Hayden,20,Defender,Right,England,GB-ENG,2002-10-23,England,23,175,,2025-07-01,False
+80178,Jake Bidwell,Jake,Bidwell,21,Defender,Left,England,GB-ENG,1993-03-21,England,33,183,70.0,2022-01-17,False
+204813,Joel Latibeaudiere,Joel,Latibeaudiere,22,Defender,Right,Jamaica,JM,2000-01-06,England,26,180,81.0,2023-07-18,False
+539142,Aurèle Amenda,Aurèle,Amenda,24,Defender,Right,Switzerland,CH,2003-07-31,Switzerland,23,194,90.0,2026-07-16,False
+220583,Luke Woolfenden,Luke,Woolfenden,26,Defender,Right,England,GB-ENG,1998-10-21,England,27,193,70.0,2025-09-01,False
+451284,Milan van Ewijk,Milan,van Ewijk,27,Defender,Right,Netherlands,NL,2000-09-08,Netherlands,26,175,70.0,2023-07-27,False
+480457,Jack Rudoni,Jack,Rudoni,5,Midfielder,Left,England,GB-ENG,2001-06-14,England,25,186,77.0,2024-06-20,False
+168144,Matt Grimes,Matt,Grimes,6,Midfielder,Left,England,GB-ENG,1995-07-15,England,31,181,70.0,2025-01-31,False
+501459,Tatsuhiro Sakamoto,Tatsuhiro,Sakamoto,7,Midfielder,Left,Japan,JP,1996-10-22,Japan,29,170,63.0,2023-07-10,False
+661888,Caleb Yirenkyi,Caleb,Yirenkyi,8,Midfielder,Right,Ghana,GH,2006-01-15,Ghana,20,182,77.0,2026-08-07,False
+241293,Ephron Mason-Clark,Ephron,Mason-Clark,10,Midfielder,Right,Jamaica,JM,1999-08-25,England,27,178,76.0,2024-02-01,False
+428580,Frank Onyeka,Frank,Onyeka,16,Midfielder,Right,Nigeria,NG,1998-01-01,Nigeria,28,183,70.0,2026-07-01,False
+439668,Josh Eccles,Josh,Eccles,28,Midfielder,Right,England,GB-ENG,2000-04-06,England,26,181,66.0,2018-07-01,False
+226965,Victor Torp,Victor,Torp,29,Midfielder,Right,Denmark,DK,1999-07-30,Denmark,27,178,60.0,2024-01-11,False
+196100,Gustavo Hamer,Gustavo,Hamer,38,Midfielder,Right,Netherlands,NL,1997-06-24,Brazil,29,169,61.0,2026-08-11,False
+218997,Ellis Simms,Ellis,Simms,9,Forward,Right,England,GB-ENG,2001-01-05,England,25,191,73.0,2023-07-07,False
+176412,Haji Wright,Haji,Wright,11,Forward,Right,United States,US,1998-03-27,USA,28,191,80.0,2023-08-04,False
+210156,Taiwo Awoniyi,Taiwo,Awoniyi,14,Forward,Right,Nigeria,NG,1997-08-12,Nigeria,29,183,84.0,2026-08-17,False
+469272,Loum Tchaouna,Loum,Tchaouna,17,Forward,Left,France,FR,2003-09-08,Chad,23,180,68.0,2026-07-11,False
+230730,Brandon Thomas-Asante,Brandon,Thomas-Asante,23,Forward,Right,Ghana,GH,1998-12-29,England,27,182,72.0,2024-08-01,False
+242893,Yann Gboho,Yann,Gboho,34,Forward,Right,Cote d’Ivoire,CI,2001-01-14,Côte d'Ivoire,25,178,63.0,2026-09-01,False
+627221,Sidiki Cherif,Sidiki,Cherif,49,Forward,Right,France,FR,2006-12-15,Guinea,19,185,75.0,2026-08-19,False

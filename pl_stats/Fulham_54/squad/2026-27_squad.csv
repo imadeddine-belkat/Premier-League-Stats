@@ -1,30 +1,30 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
-80201,Bernd Leno,Bernd,Leno,1.0,Goalkeeper,Right,Germany,DE,1992-03-04,Germany,34,189.0,82.0,2022-08-02,False
-86873,Benjamin Lecomte,Benjamin,Lecomte,23.0,Goalkeeper,Left,France,FR,1991-04-26,France,35,186.0,78.0,2025-07-26,False
-468682,Alex Borto,Alex,Borto,36.0,Goalkeeper,Right,United States,US,2003-11-06,USA,22,188.0,80.0,2023-07-19,False
-442299,David Affengruber,David,Affengruber,,Defender,Right,Austria,AT,2001-03-19,Austria,25,185.0,79.0,2026-09-01,False
-167074,Kenny Tete,Kenny,Tete,2.0,Defender,Right,Netherlands,NL,1995-10-09,Netherlands,30,180.0,71.0,2020-09-10,False
-232892,Calvin Bassey,Calvin,Bassey,3.0,Defender,Left,Nigeria,NG,1999-12-31,Italy,26,185.0,76.0,2023-07-28,False
-246301,Jorge Cuenca,Jorge,Cuenca,4.0,Defender,Left,Spain,ES,1999-11-17,Spain,26,190.0,75.0,2024-08-03,False
-174874,Joachim Andersen,Joachim,Andersen,5.0,Defender,Right,Denmark,DK,1996-05-31,Denmark,30,192.0,86.0,2024-08-23,False
-166477,Timothy Castagne,Timothy,Castagne,21.0,Defender,Right,Belgium,BE,1995-12-05,Belgium,30,185.0,80.0,2023-08-29,False
-169528,Antonee Robinson,Antonee,Robinson,33.0,Defender,Left,United States,US,1997-08-08,England,29,183.0,73.0,2020-08-20,False
-590032,Bradley Slade,Bradley,Slade,40.0,Defender,,England,GB-ENG,2007-06-30,England,19,,,2026-08-26,False
-551050,Hugo Larsson,Hugo,Larsson,,Midfielder,Right,Sweden,SE,2004-06-27,Sweden,22,187.0,79.0,2026-09-01,True
-500033,Manuel Ángel,Manuel Ángel,Morán Ibáñez,,Midfielder,,Spain,ES,2004-03-15,Spain,22,170.0,60.0,2026-09-01,False
-153366,Harrison Reed,Harrison,Reed,6.0,Midfielder,Right,England,GB-ENG,1995-01-27,England,31,181.0,72.0,2020-08-30,False
-571779,César Palacios,César,Palacios,8.0,Midfielder,Right,Spain,ES,2004-11-11,Spain,21,182.0,68.0,2026-08-03,False
-76357,Tom Cairney,Tom,Cairney,10.0,Midfielder,Left,Scotland,GB-SCT,1991-01-20,England,35,185.0,84.0,2015-07-07,False
-477555,Oscar Bobb,Oscar,Bobb,14.0,Midfielder,Left,Norway,NO,2003-07-12,Norway,23,175.0,72.0,2026-01-30,False
-207189,Sander Berge,Sander,Berge,16.0,Midfielder,Right,Norway,NO,1998-02-14,Norway,28,195.0,96.0,2024-08-22,False
-463210,Shea Charles,Shea,Charles,19.0,Midfielder,Right,Northern Ireland,GB-NIR,2003-11-05,England,22,189.0,87.0,2026-08-11,False
-577725,Josh King,Josh,King,24.0,Midfielder,Right,England,GB-ENG,2007-01-03,England,19,187.0,74.0,2024-02-02,False
-184349,Ryan Sessegnon,Ryan,Sessegnon,30.0,Midfielder,Left,England,GB-ENG,2000-05-18,England,26,178.0,70.0,2024-07-26,False
-209289,Emile Smith Rowe,Emile,Smith Rowe,32.0,Midfielder,Right,England,GB-ENG,2000-07-28,England,26,182.0,79.0,2024-08-02,False
-552006,Chibby Nwoko,Chibby,Nwoko,34.0,Midfielder,,England,GB-ENG,2005-12-05,England,20,,,2026-08-26,False
-551466,Gonzalo García,Gonzalo,García,7.0,Forward,Both,Spain,ES,2004-03-24,Spain,22,182.0,74.0,2026-08-03,False
-244042,Rodrigo Muniz,Rodrigo,Muniz Carvalho,9.0,Forward,Right,Brazil,BR,2001-05-04,Brazil,25,185.0,79.0,2021-08-20,False
-560552,Kevin,Kevin,Santos Lopes de Macedo,11.0,Forward,Right,Brazil,BR,2003-01-04,Brazil,23,176.0,71.0,2025-09-01,False
-153133,Alex Iwobi,Alex,Iwobi,17.0,Forward,Right,Nigeria,NG,1996-05-03,Nigeria,30,180.0,75.0,2023-09-01,False
-631786,Jonah Kusi-Asare,Jonah,Kusi-Asare,18.0,Forward,Right,Sweden,SE,2007-07-04,Sweden,19,196.0,84.0,2026-06-27,False
-616069,Macaulay Zepa,Macaulay,Zepa,35.0,Forward,Left,Cameroon,CM,2008-07-07,Cameroon,18,,,2026-07-06,False
+80201,Bernd Leno,Bernd,Leno,1,Goalkeeper,Right,Germany,DE,1992-03-04,Germany,34,189.0,82.0,2022-08-02,False
+86873,Benjamin Lecomte,Benjamin,Lecomte,23,Goalkeeper,Left,France,FR,1991-04-26,France,35,186.0,78.0,2025-07-26,False
+468682,Alex Borto,Alex,Borto,36,Goalkeeper,Right,United States,US,2003-11-06,USA,22,188.0,80.0,2023-07-19,False
+167074,Kenny Tete,Kenny,Tete,2,Defender,Right,Netherlands,NL,1995-10-09,Netherlands,31,180.0,71.0,2020-09-10,False
+232892,Calvin Bassey,Calvin,Bassey,3,Defender,Left,Nigeria,NG,1999-12-31,Italy,26,185.0,76.0,2023-07-28,False
+246301,Jorge Cuenca,Jorge,Cuenca,4,Defender,Left,Spain,ES,1999-11-17,Spain,26,190.0,75.0,2024-08-03,False
+174874,Joachim Andersen,Joachim,Andersen,5,Defender,Right,Denmark,DK,1996-05-31,Denmark,30,192.0,86.0,2024-08-23,False
+166477,Timothy Castagne,Timothy,Castagne,21,Defender,Right,Belgium,BE,1995-12-05,Belgium,30,185.0,80.0,2023-08-29,False
+442299,David Affengruber,David,Affengruber,22,Defender,Right,Austria,AT,2001-03-19,Austria,25,185.0,79.0,2026-09-01,False
+169528,Antonee Robinson,Antonee,Robinson,33,Defender,Left,United States,US,1997-08-08,England,29,183.0,73.0,2020-08-20,False
+590032,Bradley Slade,Bradley,Slade,40,Defender,Left,England,GB-ENG,2007-06-30,England,19,,,2026-08-26,False
+153366,Harrison Reed,Harrison,Reed,6,Midfielder,Right,England,GB-ENG,1995-01-27,England,31,181.0,72.0,2020-08-30,False
+571779,César Palacios,César,Palacios,8,Midfielder,Right,Spain,ES,2004-11-11,Spain,21,182.0,68.0,2026-08-03,False
+76357,Tom Cairney,Tom,Cairney,10,Midfielder,Left,Scotland,GB-SCT,1991-01-20,England,35,185.0,84.0,2015-07-07,False
+477555,Oscar Bobb,Oscar,Bobb,14,Midfielder,Left,Norway,NO,2003-07-12,Norway,23,175.0,72.0,2026-01-30,False
+551050,Hugo Larsson,Hugo,Larsson,15,Midfielder,Right,Sweden,SE,2004-06-27,Sweden,22,187.0,79.0,2026-09-01,True
+207189,Sander Berge,Sander,Berge,16,Midfielder,Right,Norway,NO,1998-02-14,Norway,28,195.0,96.0,2024-08-22,False
+463210,Shea Charles,Shea,Charles,19,Midfielder,Right,Northern Ireland,GB-NIR,2003-11-05,England,22,189.0,87.0,2026-08-11,False
+500033,Manuel Ángel,Manuel Ángel,Morán Ibáñez,20,Midfielder,Right,Spain,ES,2004-03-15,Spain,22,170.0,60.0,2026-09-01,False
+577725,Josh King,Josh,King,24,Midfielder,Right,England,GB-ENG,2007-01-03,England,19,187.0,74.0,2024-02-02,False
+184349,Ryan Sessegnon,Ryan,Sessegnon,30,Midfielder,Left,England,GB-ENG,2000-05-18,England,26,178.0,70.0,2024-07-26,False
+209289,Emile Smith Rowe,Emile,Smith Rowe,32,Midfielder,Right,England,GB-ENG,2000-07-28,England,26,182.0,79.0,2024-08-02,False
+552006,Chibby Nwoko,Chibby,Nwoko,34,Midfielder,,England,GB-ENG,2005-12-05,England,20,,,2026-08-26,False
+551466,Gonzalo García,Gonzalo,García,7,Forward,Both,Spain,ES,2004-03-24,Spain,22,182.0,74.0,2026-08-03,False
+244042,Rodrigo Muniz,Rodrigo,Muniz Carvalho,9,Forward,Right,Brazil,BR,2001-05-04,Brazil,25,185.0,79.0,2021-08-20,False
+560552,Kevin,Kevin,Santos Lopes de Macedo,11,Forward,Right,Brazil,BR,2003-01-04,Brazil,23,176.0,71.0,2025-09-01,False
+153133,Alex Iwobi,Alex,Iwobi,17,Forward,Right,Nigeria,NG,1996-05-03,Nigeria,30,180.0,75.0,2023-09-01,False
+631786,Jonah Kusi-Asare,Jonah,Kusi-Asare,18,Forward,Right,Sweden,SE,2007-07-04,Sweden,19,196.0,84.0,2026-06-27,False
+616069,Macaulay Zepa,Macaulay,Zepa,35,Forward,Left,Cameroon,CM,2008-07-07,Cameroon,18,,,2026-07-06,False

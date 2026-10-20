@@ -2,7 +2,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 204936,Gianluigi Donnarumma,Gianluigi,Donnarumma,1,Goalkeeper,Right,Italy,IT,1999-02-25,Italy,27,196,90.0,2025-09-01,False
 122074,Marcus Bettinelli,Marcus,Bettinelli,13,Goalkeeper,Right,England,GB-ENG,1992-05-24,England,34,193,82.0,2025-06-10,False
 106921,Gerónimo Rulli,Gerónimo,Rulli,28,Goalkeeper,Right,Argentina,AR,1992-05-20,Argentina,34,189,80.0,2026-08-12,False
-713410,Max-Edgar Chabot,Max-Edgar,Chabot,94,Goalkeeper,Left,France,FR,2008-04-01,France,18,188,,2026-08-08,False
+713410,Max-Edgar Chabot,Max-Edgar,Chabot,94,Goalkeeper,Left,France,FR,2008-04-01,France,18,191,,2026-08-08,False
 171314,Rúben Dias,Rúben,dos Santos Gato Alves Dias,3,Defender,Right,Portugal,PT,1997-05-14,Portugal,29,187,86.0,2020-09-29,False
 209036,Marc Guéhi,Marc,Guéhi,6,Defender,Right,England,GB-ENG,2000-07-13,Côte d'Ivoire,26,183,80.0,2026-01-19,False
 448514,Rayan Aït-Nouri,Rayan,Aït-Nouri,21,Defender,Left,Algeria,DZ,2001-06-06,France,25,180,80.0,2025-06-09,False
@@ -12,15 +12,14 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 578153,Abdukodir Khusanov,Abdukodir,Khusanov,45,Defender,Right,Uzbekistan,UZ,2004-02-29,Uzbekistan,22,186,83.0,2025-01-20,False
 554054,Kaden Braithwaite,Kaden,Braithwaite,61,Defender,Left,England,GB-ENG,2008-02-08,England,18,194,75.0,2024-09-23,False
 477064,Rico Lewis,Rico,Lewis,82,Defender,Right,England,GB-ENG,2004-11-21,England,21,170,64.0,2022-07-16,False
-447880,Josh Wilson-Esbrand,Josh,Wilson-Esbrand,97,Defender,Left,England,GB-ENG,2002-12-26,England,23,176,70.0,2021-09-17,False
 215379,Elliot Anderson,Elliot,Anderson,5,Midfielder,Right,England,GB-ENG,2002-11-06,England,23,179,69.0,2026-07-02,False
 91651,Mateo Kovacic,Mateo,Kovacic,8,Midfielder,Right,Croatia,HR,1994-05-06,Austria,32,177,78.0,2023-06-27,False
 466052,Rayan Cherki,Rayan,Cherki,10,Midfielder,Both,France,FR,2003-08-17,France,23,180,71.0,2025-06-10,False
 448047,Enzo Fernández,Enzo,Fernández,17,Midfielder,Right,Argentina,AR,2001-01-17,Argentina,25,178,73.0,2026-09-01,False
 465351,Matheus Nunes,Matheus Luiz,Nunes,27,Midfielder,Right,Portugal,PT,1998-08-27,Brazil,28,183,78.0,2023-09-01,False
-637238,Ayyoub Bouaddi,Ayyoub,Bouaddi,32,Midfielder,Right,Morocco,MA,2007-10-02,France,18,185,75.0,2026-08-26,False
+637238,Ayyoub Bouaddi,Ayyoub,Bouaddi,32,Midfielder,Right,Morocco,MA,2007-10-02,France,19,185,75.0,2026-08-26,False
 209244,Phil Foden,Phil,Foden,47,Midfielder,Left,England,GB-ENG,2000-05-28,England,26,171,63.0,2016-12-05,False
-595480,Floyd Samba,Floyd,Samba,75,Midfielder,Both,England,GB-ENG,2009-01-15,England,17,183,,2026-02-13,False
+595480,Floyd Samba,Floyd,Samba,75,Midfielder,Right,England,GB-ENG,2009-01-15,England,17,183,,2026-02-13,False
 440993,Iliman Ndiaye,Iliman,Ndiaye,7,Forward,Right,Senegal,SN,2000-03-06,France,26,180,78.0,2026-09-01,False
 223094,Erling Haaland,Erling,Haaland,9,Forward,Left,Norway,NO,2000-07-21,England,26,195,94.0,2022-07-01,False
 248875,Jérémy Doku,Jérémy,Doku,11,Forward,Right,Belgium,BE,2002-05-27,Belgium,24,173,82.0,2023-08-24,False

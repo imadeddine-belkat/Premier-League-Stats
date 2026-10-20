@@ -13,18 +13,18 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 214590,Aaron Wan-Bissaka,Aaron,Wan-Bissaka,29,Defender,Right,DR Congo,CD,1997-11-26,England,28,183.0,72.0,2026-08-21,True
 671103,Modou Kéba Cissé,Modou Kéba,Cissé,48,Defender,Right,Senegal,SN,2005-08-04,Senegal,21,191.0,82.0,2026-07-01,False
 88894,Ross Barkley,Ross,Barkley,6,Midfielder,Right,England,GB-ENG,1993-12-05,England,32,189.0,76.0,2024-07-01,False
-122806,John McGinn,John,McGinn,7,Midfielder,Left,Scotland,GB-SCT,1994-10-18,Scotland,31,178.0,68.0,2018-08-08,False
+122806,John McGinn,John,McGinn,7,Midfielder,Left,Scotland,GB-SCT,1994-10-18,Scotland,32,178.0,68.0,2018-08-08,False
 226944,Boubacar Kamara,Boubacar,Kamara,8,Midfielder,Right,France,FR,1999-11-23,France,26,184.0,68.0,2022-06-11,False
 195546,Emiliano Buendía,Emiliano,Buendía,10,Midfielder,Right,Argentina,AR,1996-12-25,Argentina,29,172.0,75.0,2021-06-10,False
 449871,Amadou Onana,Amadou,Onana,24,Midfielder,Right,Belgium,BE,2001-08-16,Senegal,25,195.0,76.0,2024-07-22,False
 515597,Lamare Bogarde,Lamare,Bogarde,26,Midfielder,Right,Netherlands,NL,2004-01-05,Netherlands,22,185.0,75.0,2021-01-07,False
 119090,Leon Goretzka,Leon,Goretzka,27,Midfielder,Right,Germany,DE,1995-02-06,Germany,31,189.0,82.0,2026-08-27,False
 448089,João Gomes,João Victor,Gomes da Silva,35,Midfielder,Right,Brazil,BR,2001-02-12,Brazil,25,176.0,73.0,2026-07-20,False
-614071,Johan Manzambi,Johan,Manzambi,44,Midfielder,Right,Switzerland,CH,2005-10-14,Switzerland,20,183.0,76.0,2026-07-17,False
+614071,Johan Manzambi,Johan,Manzambi,44,Midfielder,Right,Switzerland,CH,2005-10-14,Switzerland,21,183.0,76.0,2026-07-17,False
 577285,George Hemmings,George,Hemmings,53,Midfielder,Both,England,GB-ENG,2007-03-04,England,19,,,2025-08-05,False
 517052,Nicolas Jackson,Nicolas,Jackson,11,Forward,Right,Senegal,SN,2001-06-20,Gambia,25,187.0,82.0,2026-08-28,False
 493105,Alejandro Garnacho,Alejandro,Garnacho,17,Forward,Right,Argentina,AR,2004-07-01,Spain,22,180.0,73.0,2026-07-23,True
-173879,Tammy Abraham,Tammy,Abraham,18,Forward,Right,England,GB-ENG,1997-10-02,England,28,194.0,80.0,2026-01-27,False
+173879,Tammy Abraham,Tammy,Abraham,18,Forward,Right,England,GB-ENG,1997-10-02,England,29,194.0,80.0,2026-01-27,False
 638987,Ibrahim Mbaye,Ibrahim,Mbaye,19,Forward,Right,Senegal,SN,2008-01-24,France,18,185.0,65.0,2026-09-01,False
 690838,Brian Madjo,Brian,Madjo,39,Forward,Right,England,GB-ENG,2009-01-12,England,17,186.0,75.0,2026-01-12,False
 653481,Alysson,Alysson Edward Franco,da Rocha dos Santos,47,Forward,Left,Brazil,BR,2006-05-05,Brazil,20,184.0,79.0,2026-01-01,False

@@ -1,7 +1,7 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
 200720,Caoimhín Kelleher,Caoimhín,Kelleher,1,Goalkeeper,Right,Ireland,IE,1998-11-23,Republic of Ireland,27,188,74,2025-06-03,False
-507433,Hákon Valdimarsson,Hákon,Valdimarsson,12,Goalkeeper,Right,Iceland,IS,2001-10-13,Iceland,24,188,89,2024-01-26,False
-235448,Ellery Balcombe,Ellery,Balcombe,31,Goalkeeper,Right,England,GB-ENG,1999-10-15,England,26,190,92,2016-11-02,False
+507433,Hákon Valdimarsson,Hákon,Valdimarsson,12,Goalkeeper,Right,Iceland,IS,2001-10-13,Iceland,25,188,89,2024-01-26,False
+235448,Ellery Balcombe,Ellery,Balcombe,31,Goalkeeper,Right,England,GB-ENG,1999-10-15,England,27,190,92,2016-11-02,False
 472713,Aaron Hickey,Aaron,Hickey,2,Defender,Both,Scotland,GB-SCT,2002-06-10,Scotland,24,185,72,2022-07-09,False
 194010,Rico Henry,Rico,Henry,3,Defender,Left,Jamaica,JM,1997-07-08,England,29,170,67,2016-08-31,False
 444765,Sepp van den Berg,Sepp,van den Berg,4,Defender,Right,Netherlands,NL,2001-12-20,Netherlands,24,189,74,2024-08-22,False

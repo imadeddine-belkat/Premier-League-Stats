@@ -1,30 +1,30 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
-112520,Alex Palmer,Alex,Palmer,1,Goalkeeper,Right,England,GB-ENG,1996-08-10,England,30,191.0,72.0,2025-02-03,False
-50093,David Button,David,Button,27,Goalkeeper,Right,England,GB-ENG,1989-02-27,England,37,191.0,87.0,2025-07-04,False
-108813,Christian Walton,Christian,Walton,28,Goalkeeper,Left,England,GB-ENG,1995-11-09,England,30,195.0,75.0,2022-01-19,False
-240514,Kjell Scherpen,Kjell,Scherpen,37,Goalkeeper,Right,Netherlands,NL,2000-01-23,Netherlands,26,206.0,98.0,2026-07-28,False
-176420,Darnell Furlong,Darnell,Furlong,2,Defender,Right,England,GB-ENG,1995-10-31,England,30,183.0,76.0,2025-08-28,False
-455084,Leif Davis,Leif,Davis,3,Defender,Left,England,GB-ENG,1999-12-31,England,26,182.0,70.0,2022-07-25,False
-183015,Cédric Kipré,Cédric,Kipré,4,Defender,Right,Cote d’Ivoire,CI,1996-12-09,France,29,193.0,90.0,2026-07-01,False
-219924,Issa Diop,Issa,Diop,6,Defender,Right,Morocco,MA,1997-01-09,France,29,194.0,88.0,2026-07-22,False
-449429,Jacob Greaves,Jacob,Greaves,24,Defender,Left,England,GB-ENG,2000-09-12,England,25,185.0,70.0,2024-07-12,False
-216616,Dara O'Shea,Dara,O'Shea,26,Defender,Right,Ireland,IE,1999-03-04,Republic of Ireland,27,189.0,75.0,2024-08-25,False
-572584,Abdoul Ouattara,Abdoul,Ouattara,42,Defender,Right,Cote d’Ivoire,CI,2005-10-22,Côte d'Ivoire,20,180.0,68.0,2026-08-17,False
-241117,Azor Matusiwa,Azor,Matusiwa,5,Midfielder,Right,Netherlands,NL,1998-04-28,Netherlands,28,173.0,72.0,2025-07-13,False
-474120,Julio Enciso,Julio,Enciso,10,Midfielder,Right,Paraguay,PY,2004-01-23,Paraguay,22,173.0,64.0,2026-08-17,False
-216055,Florentino,Florentino Ibrain,Morris Luís,12,Midfielder,Right,Portugal,PT,1999-08-19,Angola,27,184.0,74.0,2026-08-04,False
-231899,Jack Taylor,Jack,Taylor,14,Midfielder,Right,Ireland,IE,1998-06-23,England,28,185.0,70.0,2023-06-26,False
-461587,Kasey McAteer,Kasey,McAteer,20,Midfielder,Right,Ireland,IE,2001-11-22,England,24,177.0,69.0,2025-08-22,False
-212314,Sasa Lukic,Sasa,Lukic,23,Midfielder,Right,Serbia,RS,1996-08-13,Serbia,30,183.0,76.0,2026-08-08,False
-218543,Exequiel Palacios,Exequiel,Palacios,25,Midfielder,Right,Argentina,AR,1998-10-05,Argentina,27,176.0,69.0,2026-08-27,False
-501390,Marcelino Núñez,Marcelino,Núñez,32,Midfielder,Right,Chile,CL,2000-03-01,Chile,26,173.0,73.0,2025-08-29,False
-232457,Anis Mehmeti,Anis,Mehmeti,33,Midfielder,Right,Albania,AL,2001-01-09,England,25,180.0,63.0,2026-01-23,False
-678557,Charlie Compton,Charlie,Compton,40,Midfielder,,England,GB-ENG,2007-09-05,England,19,,,2026-08-24,False
-531442,Abdul Fatawu,Abdul Fatawu,Issahaku,7,Forward,Left,Ghana,GH,2004-03-08,Ghana,22,177.0,73.0,2026-07-21,False
-557012,Sindre Egeli,Sindre,Egeli,8,Forward,Left,Norway,NO,2006-06-21,Norway,20,182.0,70.0,2025-08-29,False
-431639,Zian Flemming,Zian,Flemming,9,Forward,Right,Netherlands,NL,1998-08-01,Netherlands,28,185.0,84.0,2026-09-01,False
-481624,Jaden Philogene,Jaden,Philogene,11,Forward,Right,England,GB-ENG,2002-02-08,England,24,181.0,66.0,2025-01-15,False
-543968,Emersonn,Emersonn,Correia da Silva,19,Forward,Right,Brazil,BR,2004-07-16,Brazil,22,186.0,72.0,2026-07-08,False
-147675,Chuba Akpom,Chuba,Akpom,29,Forward,Right,England,GB-ENG,1995-10-09,England,30,183.0,70.0,2026-07-01,False
-442967,Daizen Maeda,Daizen,Maeda,38,Forward,Right,Japan,JP,1997-10-20,Japan,28,173.0,67.0,2026-07-25,False
-443261,Jack Clarke,Jack,Clarke,47,Forward,Right,England,GB-ENG,2000-11-23,England,25,181.0,74.0,2024-08-24,False
+112520,Alex Palmer,Alex,Palmer,1,Goalkeeper,Right,England,GB-ENG,1996-08-10,England,30,191,72.0,2025-02-03,False
+50093,David Button,David,Button,27,Goalkeeper,Right,England,GB-ENG,1989-02-27,England,37,191,87.0,2025-07-04,False
+108813,Christian Walton,Christian,Walton,28,Goalkeeper,Left,England,GB-ENG,1995-11-09,England,30,195,75.0,2022-01-19,False
+240514,Kjell Scherpen,Kjell,Scherpen,37,Goalkeeper,Right,Netherlands,NL,2000-01-23,Netherlands,26,206,98.0,2026-07-28,False
+176420,Darnell Furlong,Darnell,Furlong,2,Defender,Right,England,GB-ENG,1995-10-31,England,30,183,76.0,2025-08-28,False
+455084,Leif Davis,Leif,Davis,3,Defender,Left,England,GB-ENG,1999-12-31,England,26,182,70.0,2022-07-25,False
+183015,Cédric Kipré,Cédric,Kipré,4,Defender,Right,Cote d’Ivoire,CI,1996-12-09,France,29,193,90.0,2026-07-01,False
+219924,Issa Diop,Issa,Diop,6,Defender,Right,Morocco,MA,1997-01-09,France,29,194,88.0,2026-07-22,False
+449429,Jacob Greaves,Jacob,Greaves,24,Defender,Left,England,GB-ENG,2000-09-12,England,26,185,70.0,2024-07-12,False
+216616,Dara O'Shea,Dara,O'Shea,26,Defender,Right,Ireland,IE,1999-03-04,Republic of Ireland,27,189,75.0,2024-08-25,False
+572584,Abdoul Ouattara,Abdoul,Ouattara,42,Defender,Right,Cote d’Ivoire,CI,2005-10-22,Côte d'Ivoire,20,180,68.0,2026-08-17,False
+241117,Azor Matusiwa,Azor,Matusiwa,5,Midfielder,Right,Netherlands,NL,1998-04-28,Netherlands,28,173,72.0,2025-07-13,False
+474120,Julio Enciso,Julio,Enciso,10,Midfielder,Right,Paraguay,PY,2004-01-23,Paraguay,22,173,64.0,2026-08-17,False
+216055,Florentino,Florentino Ibrain,Morris Luís,12,Midfielder,Right,Portugal,PT,1999-08-19,Angola,27,184,74.0,2026-08-04,False
+231899,Jack Taylor,Jack,Taylor,14,Midfielder,Right,Ireland,IE,1998-06-23,England,28,185,70.0,2023-06-26,False
+461587,Kasey McAteer,Kasey,McAteer,20,Midfielder,Right,Ireland,IE,2001-11-22,England,24,177,69.0,2025-08-22,False
+212314,Sasa Lukic,Sasa,Lukic,23,Midfielder,Right,Serbia,RS,1996-08-13,Serbia,30,183,76.0,2026-08-08,False
+218543,Exequiel Palacios,Exequiel,Palacios,25,Midfielder,Right,Argentina,AR,1998-10-05,Argentina,28,176,69.0,2026-08-27,False
+501390,Marcelino Núñez,Marcelino,Núñez,32,Midfielder,Right,Chile,CL,2000-03-01,Chile,26,173,73.0,2025-08-29,False
+232457,Anis Mehmeti,Anis,Mehmeti,33,Midfielder,Right,Albania,AL,2001-01-09,England,25,180,63.0,2026-01-23,False
+678557,Charlie Compton,Charlie,Compton,40,Midfielder,Right,England,GB-ENG,2007-09-05,England,19,180,,2026-08-24,False
+531442,Abdul Fatawu,Abdul Fatawu,Issahaku,7,Forward,Left,Ghana,GH,2004-03-08,Ghana,22,177,73.0,2026-07-21,False
+557012,Sindre Egeli,Sindre,Egeli,8,Forward,Left,Norway,NO,2006-06-21,Norway,20,182,70.0,2025-08-29,False
+431639,Zian Flemming,Zian,Flemming,9,Forward,Right,Netherlands,NL,1998-08-01,Netherlands,28,185,84.0,2026-09-01,False
+481624,Jaden Philogene,Jaden,Philogene,11,Forward,Right,England,GB-ENG,2002-02-08,England,24,181,66.0,2025-01-15,False
+543968,Emersonn,Emersonn,Correia da Silva,19,Forward,Right,Brazil,BR,2004-07-16,Brazil,22,186,72.0,2026-07-08,False
+147675,Chuba Akpom,Chuba,Akpom,29,Forward,Right,England,GB-ENG,1995-10-09,England,31,183,70.0,2026-07-01,False
+442967,Daizen Maeda,Daizen,Maeda,38,Forward,Right,Japan,JP,1997-10-20,Japan,29,173,67.0,2026-07-25,False
+443261,Jack Clarke,Jack,Clarke,47,Forward,Right,England,GB-ENG,2000-11-23,England,25,181,74.0,2024-08-24,False

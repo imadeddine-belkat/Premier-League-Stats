@@ -1,9 +1,9 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
-116535,Alisson Becker,Alisson Ramsés,Becker,1,Goalkeeper,Right,Brazil,BR,1992-10-02,Brazil,33,193.0,91.0,2018-07-19,False
-449027,Giorgi Mamardashvili,Giorgi,Mamardashvili,25,Goalkeeper,Left,Georgia,GE,2000-09-29,Georgia,25,197.0,90.0,2024-08-27,False
+116535,Alisson Becker,Alisson Ramsés,Becker,1,Goalkeeper,Right,Brazil,BR,1992-10-02,Brazil,34,193.0,91.0,2018-07-19,False
+449027,Giorgi Mamardashvili,Giorgi,Mamardashvili,25,Goalkeeper,Left,Georgia,GE,2000-09-29,Georgia,26,197.0,90.0,2024-08-27,False
 155503,Freddie Woodman,Freddie,Woodman,28,Goalkeeper,Right,England,GB-ENG,1997-03-04,England,29,188.0,83.0,2025-07-01,False
 432987,Vítezslav Jaros,Vítezslav,Jaros,56,Goalkeeper,Right,Czech Republic,CZ,2001-07-23,Czechia,25,190.0,88.0,2019-07-10,False
-464353,Harvey Davies,Harvey,Davies,95,Goalkeeper,Left,England,GB-ENG,2003-09-03,England,23,190.0,77.0,2021-03-09,False
+464353,Harvey Davies,Harvey,Davies,95,Goalkeeper,Right,England,GB-ENG,2003-09-03,England,23,190.0,77.0,2021-03-09,False
 171287,Joe Gomez,Joe,Gomez,2,Defender,Right,England,GB-ENG,1997-05-23,England,29,188.0,80.0,2015-06-20,False
 97032,Virgil van Dijk,Virgil,van Dijk,4,Defender,Right,Netherlands,NL,1991-07-08,Netherlands,35,195.0,92.0,2018-01-01,False
 606702,Jérémy Jacquet,Jérémy,Jacquet,5,Defender,Right,France,FR,2005-07-13,France,21,188.0,77.0,2026-07-01,False
@@ -13,18 +13,22 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 214285,Kostas Tsimikas,Kostas,Tsimikas,21,Defender,Left,Greece,GR,1996-05-12,Greece,30,179.0,77.0,2020-08-10,False
 216094,Jeremie Frimpong,Jeremie,Frimpong,30,Defender,Right,Netherlands,NL,2000-12-10,Netherlands,25,171.0,63.0,2025-06-01,False
 445087,Ronald Araujo,Ronald,Araujo,33,Defender,Right,Uruguay,UY,1999-03-07,Uruguay,27,191.0,96.0,2026-08-10,True
+462491,Luke Chambers,Luke,Chambers,44,Defender,Left,England,GB-ENG,2004-06-24,England,22,181.0,,2022-07-11,False
+519440,Wellity Lucky,Wellity,Lucky,92,Defender,Right,Spain,ES,2006-01-12,Spain,20,175.0,65.0,2025-08-01,False
 158983,Wataru Endo,Wataru,Endo,3,Midfielder,Right,Japan,JP,1993-02-09,Japan,33,178.0,77.0,2023-08-18,False
 494595,Florian Wirtz,Florian,Wirtz,7,Midfielder,Right,Germany,DE,2003-05-03,Germany,23,176.0,73.0,2025-06-20,False
 424876,Dominik Szoboszlai,Dominik,Szoboszlai,8,Midfielder,Right,Hungary,HU,2000-10-25,Hungary,25,186.0,74.0,2023-07-02,False
 243016,Alexis Mac Allister,Alexis,Mac Allister,10,Midfielder,Right,Argentina,AR,1998-12-24,Argentina,27,176.0,75.0,2023-06-14,False
 441266,Ryan Gravenberch,Ryan,Gravenberch,38,Midfielder,Right,Netherlands,NL,2002-05-16,Netherlands,24,190.0,83.0,2023-09-01,False
 591386,Trey Nyoni,Trey,Nyoni,42,Midfielder,Right,England,GB-ENG,2007-06-30,England,19,180.0,75.0,2023-11-11,False
-491501,James McConnell,James,McConnell,53,Midfielder,Right,England,GB-ENG,2004-09-13,England,21,175.0,65.0,2023-07-18,False
-219168,Alexander Isak,Alexander,Isak,9,Forward,Right,Sweden,SE,1999-09-21,Sweden,26,190.0,74.0,2025-09-01,False
+491501,James McConnell,James,McConnell,53,Midfielder,Right,England,GB-ENG,2004-09-13,England,22,175.0,65.0,2023-07-18,False
+219168,Alexander Isak,Alexander,Isak,9,Forward,Right,Sweden,SE,1999-09-21,Sweden,27,190.0,74.0,2025-09-01,False
 223541,Federico Chiesa,Federico,Chiesa,14,Forward,Right,Italy,IT,1997-10-25,Italy,28,175.0,70.0,2024-08-29,False
 243298,Cody Gakpo,Cody,Gakpo,18,Forward,Right,Netherlands,NL,1999-05-07,Netherlands,27,193.0,78.0,2023-01-01,False
 510663,Hugo Ekitiké,Hugo,Ekitiké,22,Forward,Right,France,FR,2002-06-20,France,24,190.0,76.0,2025-07-23,False
 551499,Víctor Muñoz,Víctor,Muñoz,23,Forward,Right,Spain,ES,2003-07-13,Spain,23,173.0,70.0,2026-06-18,False
 482616,Bradley Barcola,Bradley,Barcola,29,Forward,Right,France,FR,2002-09-02,France,24,182.0,73.0,2026-08-31,False
-514514,Lewis Koumas,Lewis,Koumas,67,Forward,Right,Wales,GB-WLS,2005-09-19,England,20,,,2026-08-22,False
+514514,Lewis Koumas,Lewis,Koumas,67,Forward,Right,Wales,GB-WLS,2005-09-19,England,21,,,2026-08-22,False
 611922,Rio Ngumoha,Rio,Ngumoha,73,Forward,Right,England,GB-ENG,2008-08-29,England,18,170.0,75.0,2024-12-17,False
+500058,Jayden Danns,Jayden,Danns,76,Forward,Right,England,GB-ENG,2006-01-16,England,20,183.0,67.0,2024-02-20,False
+631534,Joshua Sonni-Lambie,Joshua,Sonni-Lambie,82,Forward,,England,GB-ENG,2007-11-16,England,18,,,2026-07-24,False
