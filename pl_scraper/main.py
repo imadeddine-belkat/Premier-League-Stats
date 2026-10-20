@@ -23,6 +23,7 @@ import scrape_team_stats  # noqa: E402
 
 # ----------------------------------------------------------------- settings
 SEASONS = [2026]            # season start years to scrape (2026 -> 2026-27)
+GAMEWEEK = None            # None = whole season; e.g. 7 = only that gameweek's match stats
 CLEAR_CACHE = True          # cached_get never expires: True refetches SEASONS from the API
 
 # scrapers
@@ -56,7 +57,7 @@ def scrape(season: int) -> None:
     if not client.get_teams(season):
         raise SystemExit(f"No teams returned for season {season}; aborting.")
     if RUN_TEAM_STATS:
-        scrape_team_stats.run(season)
+        scrape_team_stats.run(season, GAMEWEEK)
     if RUN_SQUADS:
         scrape_squads.run(season)
     if RUN_PLAYER_STATS:

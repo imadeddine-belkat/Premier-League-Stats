@@ -85,7 +85,7 @@ def _order_columns(df: pd.DataFrame) -> pd.DataFrame:
     return df[meta + rest]
 
 
-def run(season: int) -> None:
+def run(season: int, gameweek: int | None = None) -> None:
     label = config.season_dir_name(season)
     teams = client.get_teams(season)
     print(f"[{label}] {len(teams)} teams")
@@ -106,6 +106,13 @@ def run(season: int) -> None:
         print(f"  {short_by_id[tid]}: {len(matches)} matches")
 
     print(f"[{label}] {len(matches_by_id)} unique matches")
+
+    if gameweek is not None:
+        matches_by_id = {
+            mid: m for mid, m in matches_by_id.items()
+            if m.get("matchWeek") == gameweek
+        }
+        print(f"[{label}] GW{gameweek}: {len(matches_by_id)} matches")
 
     by_team: dict[str, dict] = defaultdict(lambda: {"name": None, "rows": []})
     for mid, m in matches_by_id.items():
