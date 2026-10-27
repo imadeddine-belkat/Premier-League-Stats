@@ -6,7 +6,7 @@ code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_sta
 2645243,5,True,True,47,2026-09-19T16:30:00Z,90,False,True,7,1.0,18,0.0,2,3
 2645249,6,True,True,55,2026-10-11T13:00:00Z,90,False,True,18,1.0,8,3.0,3,3
 2645263,7,True,True,69,2026-10-18T15:30:00Z,90,False,True,1,1.0,18,0.0,4,3
-2645271,8,False,False,77,2026-10-23T19:00:00Z,0,False,False,18,,12,,3,2
+2645271,8,True,True,77,2026-10-23T19:00:00Z,90,False,True,18,1.0,12,1.0,3,2
 2645277,9,False,False,83,2026-10-31T15:00:00Z,0,False,False,18,,4,,3,3
 2645293,10,False,False,99,2026-11-07T17:30:00Z,0,False,False,15,,18,,4,3
 2645295,11,False,False,102,2026-11-21T15:00:00Z,0,False,False,18,,3,,3,3
