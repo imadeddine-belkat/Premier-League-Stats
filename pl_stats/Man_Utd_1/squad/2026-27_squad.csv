@@ -8,12 +8,12 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 209365,Matthijs de Ligt,Matthijs,de Ligt,4,Defender,Right,Netherlands,NL,1999-08-12,Netherlands,27,187.0,89.0,2024-08-13,False
 95658,Harry Maguire,Harry,Maguire,5,Defender,Right,England,GB-ENG,1993-03-05,England,33,194.0,90.0,2019-08-05,False
 221820,Lisandro Martínez,Lisandro,Martínez,6,Defender,Left,Argentina,AR,1998-01-18,Argentina,28,175.0,78.0,2022-07-17,False
-596777,Patrick Dorgu,Patrick,Dorgu,13,Defender,Left,Denmark,DK,2004-10-26,Denmark,21,185.0,68.0,2025-02-02,False
+596777,Patrick Dorgu,Patrick,Dorgu,13,Defender,Left,Denmark,DK,2004-10-26,Denmark,22,185.0,68.0,2025-02-02,False
 550864,Leny Yoro,Leny,Yoro,15,Defender,Right,France,FR,2005-11-13,France,20,190.0,83.0,2024-07-19,False
 106760,Luke Shaw,Luke,Shaw,23,Defender,Left,England,GB-ENG,1995-07-12,England,31,178.0,80.0,2014-07-01,False
 606745,Ayden Heaven,Ayden,Heaven,26,Defender,Left,England,GB-ENG,2006-09-22,England,20,189.0,77.0,2025-02-01,False
 577974,Harry Amass,Harry,Amass,41,Defender,Left,England,GB-ENG,2007-03-16,England,19,181.0,71.0,2024-04-06,False
-576622,Daniel Armer,Daniel,Armer,57,Defender,Left,Scotland,GB-SCT,2007-10-23,England,18,,,2025-05-26,False
+576622,Daniel Armer,Daniel,Armer,57,Defender,Left,Scotland,GB-SCT,2007-10-23,England,19,,,2025-05-26,False
 184341,Mason Mount,Mason,Mount,7,Midfielder,Right,England,GB-ENG,1999-01-10,England,27,181.0,76.0,2023-07-05,False
 141746,Bruno Fernandes,Bruno Miguel,Borges Fernandes,8,Midfielder,Right,Portugal,PT,1994-09-08,Portugal,32,183.0,64.0,2020-01-30,False
 532605,Andrey Santos,Andrey,Nascimento dos Santos,17,Midfielder,Right,Brazil,BR,2004-05-03,Brazil,22,180.0,75.0,2026-07-13,False
@@ -23,7 +23,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 516895,Kobbie Mainoo,Kobbie,Mainoo,37,Midfielder,Right,England,GB-ENG,2005-04-19,England,21,184.0,72.0,2022-10-15,False
 547037,Jack Fletcher,Jack,Fletcher,38,Midfielder,Left,England,GB-ENG,2007-03-19,England,19,180.0,78.0,2024-07-12,False
 519913,Tyler Fletcher,Tyler,Fletcher,39,Midfielder,Right,Scotland,GB-SCT,2007-03-19,England,19,183.0,72.0,2025-05-26,False
-176297,Marcus Rashford,Marcus,Rashford,9,Forward,Right,England,GB-ENG,1997-10-31,England,28,188.0,80.0,2015-07-01,False
+176297,Marcus Rashford,Marcus,Rashford,9,Forward,Right,England,GB-ENG,1997-10-31,England,29,188.0,80.0,2015-07-01,False
 430871,Matheus Cunha,Matheus,Santos Carneiro da Cunha,10,Forward,Right,Brazil,BR,1999-05-27,Brazil,27,183.0,76.0,2025-06-01,False
 458249,Joshua Zirkzee,Joshua,Zirkzee,11,Forward,Right,Netherlands,NL,2001-05-22,Netherlands,25,193.0,84.0,2024-07-17,False
 493250,Amad Diallo,Amad,Diallo,16,Forward,Left,Cote d’Ivoire,CI,2002-07-11,Côte d'Ivoire,24,173.0,72.0,2021-01-07,False

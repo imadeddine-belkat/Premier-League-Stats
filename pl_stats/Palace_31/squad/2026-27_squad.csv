@@ -7,7 +7,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 515621,Chadi Riad,Chadi,Riad,4,Defender,Left,Morocco,MA,2003-06-17,Spain,23,186.0,78.0,2024-07-02,False
 220362,Axel Disasi,Axel,Disasi,5,Defender,Right,France,FR,1998-03-11,France,28,190.0,83.0,2026-08-26,True
 651426,Jaydee Canvot,Jaydee,Canvot,6,Defender,Right,France,FR,2006-07-29,France,20,188.0,75.0,2025-09-01,False
-223723,Takehiro Tomiyasu,Takehiro,Tomiyasu,17,Defender,Right,Japan,JP,1998-11-05,Japan,27,187.0,84.0,2026-08-06,False
+223723,Takehiro Tomiyasu,Takehiro,Tomiyasu,17,Defender,Right,Japan,JP,1998-11-05,Japan,28,187.0,84.0,2026-08-06,False
 605972,Honest Ahanor,Honest,Ahanor,21,Defender,Left,Italy,IT,2008-02-23,Italy,18,184.0,79.0,2026-09-01,True
 570794,Anan Khalaili,Anan,Khalaili,25,Defender,Right,Israel,IL,2004-09-03,Israel,22,183.0,,2026-08-15,False
 427623,Chris Richards,Chris,Richards,26,Defender,Right,United States,US,2000-03-28,USA,26,188.0,93.0,2022-07-27,False
@@ -15,7 +15,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 172850,Ben Chilwell,Ben,Chilwell,33,Defender,Left,England,GB-ENG,1996-12-21,England,29,178.0,77.0,2026-09-01,False
 590012,Caleb Kporha,Caleb,Kporha,38,Defender,Right,England,GB-ENG,2006-07-15,England,20,170.0,67.0,2024-07-30,False
 643426,Dean Benamar,Dean,Benamar,54,Defender,Left,England,GB-ENG,2008-05-31,England,18,,,2025-07-31,False
-152551,Jefferson Lerma,Jefferson,Lerma,8,Midfielder,Right,Colombia,CO,1994-10-25,Colombia,31,179.0,84.0,2023-07-01,False
+152551,Jefferson Lerma,Jefferson,Lerma,8,Midfielder,Right,Colombia,CO,1994-10-25,Colombia,32,179.0,84.0,2023-07-01,False
 488024,Yéremy Pino,Yéremy,Pino,10,Midfielder,Right,Spain,ES,2002-10-20,Spain,24,172.0,65.0,2025-08-29,False
 209400,Daichi Kamada,Daichi,Kamada,18,Midfielder,Right,Japan,JP,1996-08-05,Japan,30,180.0,72.0,2024-07-01,False
 108413,Will Hughes,Will,Hughes,19,Midfielder,Left,England,GB-ENG,1995-04-17,England,31,185.0,74.0,2021-08-28,False

@@ -1,7 +1,7 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
 105666,Jack Butland,Jack,Butland,1,Goalkeeper,Right,England,GB-ENG,1993-03-10,England,33,196.0,95.0,2026-07-02,False
 167825,Dillon Phillips,Dillon,Phillips,12,Goalkeeper,Right,England,GB-ENG,1995-06-11,England,31,188.0,75.0,2025-07-01,False
-473284,Konstantinos Tzolakis,Konstantinos,Tzolakis,19,Goalkeeper,Right,Greece,GR,2002-11-08,Greece,23,193.0,,2026-08-05,False
+473284,Konstantinos Tzolakis,Konstantinos,Tzolakis,19,Goalkeeper,Right,Greece,GR,2002-11-08,Greece,24,193.0,,2026-08-05,False
 608469,Archie Howard,Archie,Howard,55,Goalkeeper,,England,GB-ENG,2006-12-02,England,19,,,2026-02-27,False
 193278,Lewie Coyle,Lewie,Coyle,2,Defender,Right,England,GB-ENG,1995-10-15,England,31,173.0,67.0,2020-08-07,False
 232351,Ryan Giles,Ryan,Giles,3,Defender,Left,England,GB-ENG,2000-01-26,England,26,179.0,72.0,2024-06-27,False
@@ -15,7 +15,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 606930,Nobel Mendy,Nobel,Mendy,32,Defender,Left,Senegal,SN,2004-09-03,Senegal,22,187.0,78.0,2026-08-12,False
 445028,Hidemasa Morita,Hidemasa,Morita,5,Midfielder,Right,Japan,JP,1995-05-10,Japan,31,177.0,69.0,2026-07-24,False
 465525,Eliot Matazo,Eliot,Matazo,8,Midfielder,Right,Belgium,BE,2002-02-15,Belgium,24,170.0,72.0,2025-01-23,False
-552946,Jens Hjertø-Dahl,Jens,Hjertø-Dahl,14,Midfielder,Both,Norway,NO,2005-10-31,Norway,20,,,2026-08-07,False
+552946,Jens Hjertø-Dahl,Jens,Hjertø-Dahl,14,Midfielder,Both,Norway,NO,2005-10-31,Norway,21,,,2026-08-07,False
 553783,Óscar Zambrano,Óscar,Zambrano,20,Midfielder,Right,Ecuador,EC,2004-04-20,Ecuador,22,172.0,68.0,2026-07-21,False
 608227,Elliot Stroud,Elliot,Stroud,21,Midfielder,Left,Sweden,SE,2002-06-22,Sweden,24,185.0,75.0,2026-08-09,False
 470294,Darko Gyabi,Darko,Gyabi,24,Midfielder,Right,England,GB-ENG,2004-02-18,England,22,196.0,80.0,2025-09-01,False
@@ -30,6 +30,6 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 169432,Oliver McBurnie,Oliver,McBurnie,9,Forward,Right,Scotland,GB-SCT,1996-06-04,England,30,188.0,79.0,2025-08-06,False
 540324,Mohamed Belloumi,Mohamed,Belloumi,10,Forward,Left,Algeria,DZ,2002-06-01,Algeria,24,174.0,66.0,2024-08-30,False
 462635,Joe Gelhardt,Joe,Gelhardt,11,Forward,Left,England,GB-ENG,2002-05-04,England,24,175.0,65.0,2026-08-15,False
-626751,Ilyas Ansah,Ilyas,Ansah,28,Forward,Right,Germany,DE,2004-11-08,Germany,21,194.0,84.0,2026-09-01,False
+626751,Ilyas Ansah,Ilyas,Ansah,28,Forward,Right,Germany,DE,2004-11-08,Germany,22,194.0,84.0,2026-09-01,False
 631000,Robinio Vaz,Robinio,Vaz,47,Forward,Right,France,FR,2007-02-17,France,19,185.0,75.0,2026-09-01,True
 490884,Mohamed-Ali Cho,Mohamed-Ali,Cho,50,Forward,Left,France,FR,2004-01-19,France,22,182.0,66.0,2026-08-27,False

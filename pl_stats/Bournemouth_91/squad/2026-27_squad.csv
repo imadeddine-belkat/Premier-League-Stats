@@ -7,7 +7,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 494521,Adrien Truffert,Adrien,Truffert,3,Defender,Left,France,FR,2001-11-20,Belgium,24,176.0,72.0,2025-06-16,False
 463981,James Hill,James,Hill,5,Defender,Right,England,GB-ENG,2002-01-10,England,24,184.0,73.0,2022-01-05,False
 575901,Julio Soler,Julio,Soler,6,Defender,Left,Argentina,AR,2005-02-16,Paraguay,21,175.0,67.0,2025-01-07,False
-483067,António Silva,António João,Pereira de Albuquerque Tavares da Silva,14,Defender,Right,Portugal,PT,2003-10-30,Portugal,22,187.0,82.0,2026-08-01,False
+483067,António Silva,António João,Pereira de Albuquerque Tavares da Silva,14,Defender,Right,Portugal,PT,2003-10-30,Portugal,23,187.0,82.0,2026-08-01,False
 54469,Adam Smith,Adam,Smith,15,Defender,Right,England,GB-ENG,1991-04-29,England,35,180.0,78.0,2014-01-28,False
 242882,Bafodé Diakité,Bafodé,Diakité,18,Defender,Right,France,FR,2001-01-06,France,25,185.0,74.0,2025-08-13,False
 232980,Max Aarons,Max,Aarons,28,Defender,Right,England,GB-ENG,2000-01-04,England,26,178.0,69.0,2023-08-10,False
@@ -19,7 +19,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 200785,Tyler Adams,Tyler,Adams,12,Midfielder,Right,United States,US,1999-02-14,USA,27,175.0,72.0,2023-08-20,False
 201658,Marcus Tavernier,Marcus,Tavernier,16,Midfielder,Left,England,GB-ENG,1999-03-22,England,27,178.0,70.0,2022-08-01,False
 494928,Juanlu Sánchez,Juanlu,Sánchez,24,Midfielder,Right,Spain,ES,2003-08-15,Spain,23,183.0,68.0,2026-08-06,False
-614574,Alex Tóth,Alex,Tóth,27,Midfielder,Right,Hungary,HU,2005-10-23,Hungary,20,181.0,,2026-01-20,False
+614574,Alex Tóth,Alex,Tóth,27,Midfielder,Right,Hungary,HU,2005-10-23,Hungary,21,181.0,,2026-01-20,False
 444102,Evanilson,Francisco Evanilson,de Lima Barbosa,9,Forward,Both,Brazil,BR,1999-10-06,Brazil,27,183.0,80.0,2024-08-16,False
 496208,Ben Gannon-Doak,Ben,Gannon-Doak,11,Forward,Right,Scotland,GB-SCT,2005-11-11,Scotland,20,173.0,65.0,2025-08-18,False
 222683,Justin Kluivert,Justin,Kluivert,19,Forward,Both,Netherlands,NL,1999-05-05,Netherlands,27,173.0,66.0,2023-07-01,False

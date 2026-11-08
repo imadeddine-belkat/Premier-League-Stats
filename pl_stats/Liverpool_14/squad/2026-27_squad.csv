@@ -7,7 +7,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 171287,Joe Gomez,Joe,Gomez,2,Defender,Right,England,GB-ENG,1997-05-23,England,29,188.0,80.0,2015-06-20,False
 97032,Virgil van Dijk,Virgil,van Dijk,4,Defender,Right,Netherlands,NL,1991-07-08,Netherlands,35,195.0,92.0,2018-01-01,False
 606702,Jérémy Jacquet,Jérémy,Jacquet,5,Defender,Right,France,FR,2005-07-13,France,21,188.0,77.0,2026-07-01,False
-544877,Milos Kerkez,Milos,Kerkez,6,Defender,Left,Hungary,HU,2003-11-07,Serbia,22,180.0,71.0,2025-06-26,False
+544877,Milos Kerkez,Milos,Kerkez,6,Defender,Left,Hungary,HU,2003-11-07,Serbia,23,180.0,71.0,2025-06-26,False
 492777,Conor Bradley,Conor,Bradley,12,Defender,Right,Northern Ireland,GB-NIR,2003-07-09,Northern Ireland,23,180.0,64.0,2023-09-25,False
 647681,Giovanni Leoni,Giovanni,Leoni,15,Defender,Right,Italy,IT,2006-12-21,Italy,19,196.0,76.0,2025-08-15,False
 214285,Kostas Tsimikas,Kostas,Tsimikas,21,Defender,Left,Greece,GR,1996-05-12,Greece,30,179.0,77.0,2020-08-10,False
@@ -17,13 +17,13 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 519440,Wellity Lucky,Wellity,Lucky,92,Defender,Right,Spain,ES,2006-01-12,Spain,20,175.0,65.0,2025-08-01,False
 158983,Wataru Endo,Wataru,Endo,3,Midfielder,Right,Japan,JP,1993-02-09,Japan,33,178.0,77.0,2023-08-18,False
 494595,Florian Wirtz,Florian,Wirtz,7,Midfielder,Right,Germany,DE,2003-05-03,Germany,23,176.0,73.0,2025-06-20,False
-424876,Dominik Szoboszlai,Dominik,Szoboszlai,8,Midfielder,Right,Hungary,HU,2000-10-25,Hungary,25,186.0,74.0,2023-07-02,False
+424876,Dominik Szoboszlai,Dominik,Szoboszlai,8,Midfielder,Right,Hungary,HU,2000-10-25,Hungary,26,186.0,74.0,2023-07-02,False
 243016,Alexis Mac Allister,Alexis,Mac Allister,10,Midfielder,Right,Argentina,AR,1998-12-24,Argentina,27,176.0,75.0,2023-06-14,False
 441266,Ryan Gravenberch,Ryan,Gravenberch,38,Midfielder,Right,Netherlands,NL,2002-05-16,Netherlands,24,190.0,83.0,2023-09-01,False
 591386,Trey Nyoni,Trey,Nyoni,42,Midfielder,Right,England,GB-ENG,2007-06-30,England,19,180.0,75.0,2023-11-11,False
 491501,James McConnell,James,McConnell,53,Midfielder,Right,England,GB-ENG,2004-09-13,England,22,175.0,65.0,2023-07-18,False
 219168,Alexander Isak,Alexander,Isak,9,Forward,Right,Sweden,SE,1999-09-21,Sweden,27,190.0,74.0,2025-09-01,False
-223541,Federico Chiesa,Federico,Chiesa,14,Forward,Right,Italy,IT,1997-10-25,Italy,28,175.0,70.0,2024-08-29,False
+223541,Federico Chiesa,Federico,Chiesa,14,Forward,Right,Italy,IT,1997-10-25,Italy,29,175.0,70.0,2024-08-29,False
 243298,Cody Gakpo,Cody,Gakpo,18,Forward,Right,Netherlands,NL,1999-05-07,Netherlands,27,193.0,78.0,2023-01-01,False
 510663,Hugo Ekitiké,Hugo,Ekitiké,22,Forward,Right,France,FR,2002-06-20,France,24,190.0,76.0,2025-07-23,False
 551499,Víctor Muñoz,Víctor,Muñoz,23,Forward,Right,Spain,ES,2003-07-13,Spain,23,173.0,70.0,2026-06-18,False
