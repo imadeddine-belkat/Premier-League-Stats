@@ -1,28 +1,29 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
-204936,Gianluigi Donnarumma,Gianluigi,Donnarumma,1,Goalkeeper,Right,Italy,IT,1999-02-25,Italy,27,196,90.0,2025-09-01,False
-122074,Marcus Bettinelli,Marcus,Bettinelli,13,Goalkeeper,Right,England,GB-ENG,1992-05-24,England,34,193,82.0,2025-06-10,False
-106921,Gerónimo Rulli,Gerónimo,Rulli,28,Goalkeeper,Right,Argentina,AR,1992-05-20,Argentina,34,189,80.0,2026-08-12,False
-713410,Max-Edgar Chabot,Max-Edgar,Chabot,94,Goalkeeper,Left,France,FR,2008-04-01,France,18,191,,2026-08-08,False
-171314,Rúben Dias,Rúben,dos Santos Gato Alves Dias,3,Defender,Right,Portugal,PT,1997-05-14,Portugal,29,187,86.0,2020-09-29,False
-209036,Marc Guéhi,Marc,Guéhi,6,Defender,Right,England,GB-ENG,2000-07-13,Côte d'Ivoire,26,183,80.0,2026-01-19,False
-448514,Rayan Aït-Nouri,Rayan,Aït-Nouri,21,Defender,Left,Algeria,DZ,2001-06-06,France,25,180,80.0,2025-06-09,False
-616222,Vitor Reis,Vitor,de Oliveira Nunes dos Reis,22,Defender,Right,Brazil,BR,2006-01-12,Brazil,20,186,67.0,2025-01-21,False
-477424,Josko Gvardiol,Josko,Gvardiol,24,Defender,Left,Croatia,HR,2002-01-23,Croatia,24,185,80.0,2023-08-05,False
-472769,Nico O'Reilly,Nico,O'Reilly,33,Defender,Left,England,GB-ENG,2005-03-21,England,21,193,77.0,2022-12-16,False
-578153,Abdukodir Khusanov,Abdukodir,Khusanov,45,Defender,Right,Uzbekistan,UZ,2004-02-29,Uzbekistan,22,186,83.0,2025-01-20,False
-554054,Kaden Braithwaite,Kaden,Braithwaite,61,Defender,Left,England,GB-ENG,2008-02-08,England,18,194,75.0,2024-09-23,False
-477064,Rico Lewis,Rico,Lewis,82,Defender,Right,England,GB-ENG,2004-11-21,England,21,170,64.0,2022-07-16,False
-215379,Elliot Anderson,Elliot,Anderson,5,Midfielder,Right,England,GB-ENG,2002-11-06,England,24,179,69.0,2026-07-02,False
-91651,Mateo Kovacic,Mateo,Kovacic,8,Midfielder,Right,Croatia,HR,1994-05-06,Austria,32,177,78.0,2023-06-27,False
-466052,Rayan Cherki,Rayan,Cherki,10,Midfielder,Both,France,FR,2003-08-17,France,23,180,71.0,2025-06-10,False
-448047,Enzo Fernández,Enzo,Fernández,17,Midfielder,Right,Argentina,AR,2001-01-17,Argentina,25,178,73.0,2026-09-01,False
-465351,Matheus Nunes,Matheus Luiz,Nunes,27,Midfielder,Right,Portugal,PT,1998-08-27,Brazil,28,183,78.0,2023-09-01,False
-637238,Ayyoub Bouaddi,Ayyoub,Bouaddi,32,Midfielder,Right,Morocco,MA,2007-10-02,France,19,185,75.0,2026-08-26,False
-209244,Phil Foden,Phil,Foden,47,Midfielder,Left,England,GB-ENG,2000-05-28,England,26,171,63.0,2016-12-05,False
-595480,Floyd Samba,Floyd,Samba,75,Midfielder,Right,England,GB-ENG,2009-01-15,England,17,183,,2026-02-13,False
-440993,Iliman Ndiaye,Iliman,Ndiaye,7,Forward,Right,Senegal,SN,2000-03-06,France,26,180,78.0,2026-09-01,False
-223094,Erling Haaland,Erling,Haaland,9,Forward,Left,Norway,NO,2000-07-21,England,26,195,94.0,2022-07-01,False
-248875,Jérémy Doku,Jérémy,Doku,11,Forward,Right,Belgium,BE,2002-05-27,Belgium,24,173,82.0,2023-08-24,False
-624777,Allan,Allan,Andrade Elias,37,Forward,Left,Brazil,BR,2004-04-19,Brazil,22,175,70.0,2026-08-31,False
-437730,Antoine Semenyo,Antoine,Semenyo,42,Forward,Right,Ghana,GH,2000-01-07,England,26,185,74.0,2026-01-09,False
-616288,Ryan McAidoo,Ryan,McAidoo,56,Forward,Right,England,GB-ENG,2008-06-24,England,18,174,65.0,2025-09-26,False
+204936,Gianluigi Donnarumma,Gianluigi,Donnarumma,1,Goalkeeper,Right,Italy,IT,1999-02-25,Italy,27,196.0,90.0,2025-09-01,False
+122074,Marcus Bettinelli,Marcus,Bettinelli,13,Goalkeeper,Right,England,GB-ENG,1992-05-24,England,34,193.0,82.0,2025-06-10,False
+106921,Gerónimo Rulli,Gerónimo,Rulli,28,Goalkeeper,Right,Argentina,AR,1992-05-20,Argentina,34,189.0,80.0,2026-08-12,False
+713410,Max-Edgar Chabot,Max-Edgar,Chabot,94,Goalkeeper,Left,France,FR,2008-04-01,France,18,191.0,,2026-08-08,False
+171314,Rúben Dias,Rúben,dos Santos Gato Alves Dias,3,Defender,Right,Portugal,PT,1997-05-14,Portugal,29,187.0,86.0,2020-09-29,False
+209036,Marc Guéhi,Marc,Guéhi,6,Defender,Right,England,GB-ENG,2000-07-13,Côte d'Ivoire,26,183.0,80.0,2026-01-19,False
+448514,Rayan Aït-Nouri,Rayan,Aït-Nouri,21,Defender,Left,Algeria,DZ,2001-06-06,France,25,180.0,80.0,2025-06-09,False
+616222,Vitor Reis,Vitor,de Oliveira Nunes dos Reis,22,Defender,Right,Brazil,BR,2006-01-12,Brazil,20,186.0,67.0,2025-01-21,False
+477424,Josko Gvardiol,Josko,Gvardiol,24,Defender,Left,Croatia,HR,2002-01-23,Croatia,24,185.0,80.0,2023-08-05,False
+472769,Nico O'Reilly,Nico,O'Reilly,33,Defender,Left,England,GB-ENG,2005-03-21,England,21,193.0,77.0,2022-12-16,False
+578153,Abdukodir Khusanov,Abdukodir,Khusanov,45,Defender,Right,Uzbekistan,UZ,2004-02-29,Uzbekistan,22,186.0,83.0,2025-01-20,False
+554054,Kaden Braithwaite,Kaden,Braithwaite,61,Defender,Left,England,GB-ENG,2008-02-08,England,18,194.0,75.0,2024-09-23,False
+477064,Rico Lewis,Rico,Lewis,82,Defender,Right,England,GB-ENG,2004-11-21,England,21,170.0,64.0,2022-07-16,False
+215379,Elliot Anderson,Elliot,Anderson,5,Midfielder,Right,England,GB-ENG,2002-11-06,England,24,179.0,69.0,2026-07-02,False
+91651,Mateo Kovacic,Mateo,Kovacic,8,Midfielder,Right,Croatia,HR,1994-05-06,Austria,32,177.0,78.0,2023-06-27,False
+466052,Rayan Cherki,Rayan,Cherki,10,Midfielder,Both,France,FR,2003-08-17,France,23,180.0,71.0,2025-06-10,False
+448047,Enzo Fernández,Enzo,Fernández,17,Midfielder,Right,Argentina,AR,2001-01-17,Argentina,25,178.0,73.0,2026-09-01,False
+465351,Matheus Nunes,Matheus Luiz,Nunes,27,Midfielder,Right,Portugal,PT,1998-08-27,Brazil,28,183.0,78.0,2023-09-01,False
+637238,Ayyoub Bouaddi,Ayyoub,Bouaddi,32,Midfielder,Right,Morocco,MA,2007-10-02,France,19,185.0,75.0,2026-08-26,False
+209244,Phil Foden,Phil,Foden,47,Midfielder,Left,England,GB-ENG,2000-05-28,England,26,171.0,63.0,2016-12-05,False
+595480,Floyd Samba,Floyd,Samba,75,Midfielder,Right,England,GB-ENG,2009-01-15,England,17,183.0,,2026-02-13,False
+679860,Dexter Oliver,Dexter,Oliver,76,Midfielder,,England,GB-ENG,2008-12-02,England,17,,,2026-10-27,False
+440993,Iliman Ndiaye,Iliman,Ndiaye,7,Forward,Right,Senegal,SN,2000-03-06,France,26,180.0,78.0,2026-09-01,False
+223094,Erling Haaland,Erling,Haaland,9,Forward,Left,Norway,NO,2000-07-21,England,26,195.0,94.0,2022-07-01,False
+248875,Jérémy Doku,Jérémy,Doku,11,Forward,Right,Belgium,BE,2002-05-27,Belgium,24,173.0,82.0,2023-08-24,False
+624777,Allan,Allan,Andrade Elias,37,Forward,Left,Brazil,BR,2004-04-19,Brazil,22,175.0,70.0,2026-08-31,False
+437730,Antoine Semenyo,Antoine,Semenyo,42,Forward,Right,Ghana,GH,2000-01-07,England,26,185.0,74.0,2026-01-09,False
+616288,Ryan McAidoo,Ryan,McAidoo,56,Forward,Right,England,GB-ENG,2008-06-24,England,18,174.0,65.0,2025-09-26,False

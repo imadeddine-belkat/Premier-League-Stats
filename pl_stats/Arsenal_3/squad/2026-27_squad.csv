@@ -11,6 +11,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 199798,Ezri Konsa,Ezri,Konsa,15,Defender,Right,England,GB-ENG,1997-10-23,England,29,183.0,76.0,2026-08-21,False
 466075,Riccardo Calafiori,Riccardo,Calafiori,33,Defender,Left,Italy,IT,2002-05-19,Italy,24,188.0,86.0,2024-07-29,False
 499169,Myles Lewis-Skelly,Myles,Lewis-Skelly,49,Defender,Left,England,GB-ENG,2006-09-26,England,20,178.0,72.0,2022-12-04,False
+591387,Marcell Washington,Marcell,Washington,60,Defender,,England,GB-ENG,2007-08-21,England,19,,,2026-10-26,False
 616065,Marli Salmon,Marli,Salmon,89,Defender,Right,England,GB-ENG,2009-08-29,England,17,187.0,,2025-07-22,False
 184029,Martin Ødegaard,Martin,Ødegaard,8,Midfielder,Left,Norway,NO,1998-12-17,Norway,27,178.0,68.0,2021-08-20,False
 232413,Eberechi Eze,Eberechi,Eze,10,Midfielder,Right,England,GB-ENG,1998-06-29,England,28,178.0,73.0,2025-08-23,False
@@ -26,5 +27,6 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 439509,Christos Tzolis,Christos,Tzolis,17,Forward,Right,Greece,GR,2002-01-30,Greece,24,179.0,70.0,2026-07-23,False
 248857,Noni Madueke,Noni,Madueke,20,Forward,Left,England,GB-ENG,2002-03-10,England,24,183.0,83.0,2025-07-18,False
 219847,Kai Havertz,Kai,Havertz,29,Forward,Left,Germany,DE,1999-06-11,Germany,27,193.0,83.0,2023-06-28,False
-645551,Ceadach O’Neill,Ceadach,O’Neill,53,Forward,,Northern Ireland,GB-NIR,2008-04-10,Northern Ireland,18,,,2026-02-14,False
+646243,Andre Harriman-Annous,Andre,Harriman-Annous,43,Forward,,England,GB-ENG,2007-12-28,England,18,181.0,,2025-07-22,False
+645551,Ceadach O’Neill,Ceadach,O’Neill,53,Forward,Right,Northern Ireland,GB-NIR,2008-04-10,Northern Ireland,18,,,2026-02-14,False
 616077,Max Dowman,Max,Dowman,56,Forward,Left,England,GB-ENG,2009-12-31,England,16,183.0,73.0,2025-07-22,False

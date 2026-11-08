@@ -1,31 +1,31 @@
 playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,nationality,isoCode,birthDate,birthCountry,age,height_cm,weight_kg,joinDate,onLoan
-98980,Emiliano Martínez,Emiliano,Martínez,1,Goalkeeper,Right,Argentina,AR,1992-09-02,Argentina,34,195.0,98.0,2026-08-29,False
-499857,Teddy Sharman-Lowe,Teddy,Sharman-Lowe,28,Goalkeeper,Right,England,GB-ENG,2003-03-30,England,23,189.0,73.0,2021-10-25,False
-549939,Mike Penders,Mike,Penders,39,Goalkeeper,Left,Belgium,BE,2005-07-31,Belgium,21,200.0,104.0,2024-08-27,False
-471798,Gabriel Slonina,Gabriel,Slonina,44,Goalkeeper,Right,United States,US,2004-05-15,USA,22,193.0,88.0,2022-08-02,False
-620109,Marco Palestra,Marco,Palestra,2,Defender,Both,Italy,IT,2005-03-03,Italy,21,186.0,80.0,2026-07-01,False
-444463,Wesley Fofana,Wesley,Fofana,3,Defender,Right,France,FR,2000-12-17,France,25,185.0,84.0,2022-08-31,False
-437499,Maxence Lacroix,Maxence,Lacroix,5,Defender,Right,France,FR,2000-04-06,France,26,190.0,88.0,2026-07-30,False
-460028,Levi Colwill,Levi,Colwill,6,Defender,Left,England,GB-ENG,2003-02-26,England,23,187.0,83.0,2022-07-01,False
-551210,Jorrel Hato,Jorrel,Hato,21,Defender,Left,Netherlands,NL,2006-03-07,Netherlands,20,182.0,77.0,2025-08-03,False
-225796,Reece James,Reece,James,24,Defender,Right,England,GB-ENG,1999-12-08,England,26,180.0,92.0,2019-05-15,False
-482609,Malo Gusto,Malo,Gusto,27,Defender,Right,France,FR,2003-05-19,France,23,178.0,67.0,2023-01-28,False
-498444,Pep Chavarría,Pep,Chavarría,29,Defender,Left,Spain,ES,1998-04-10,Spain,28,174.0,72.0,2026-08-12,False
-622758,Aaron Anselmino,Aaron,Anselmino,30,Defender,Right,Argentina,AR,2005-04-29,Argentina,21,186.0,83.0,2024-08-08,False
-577016,Josh Acheampong,Josh,Acheampong,34,Defender,Right,England,GB-ENG,2006-05-05,England,20,190.0,75.0,2024-03-10,False
-616109,Olutayo Subuloye,Olutayo,Subuloye,37,Defender,Right,England,GB-ENG,2007-12-18,England,18,186.0,,2026-07-01,False
-543158,Valentín Barco,Valentín,Barco,4,Midfielder,Left,Argentina,AR,2004-07-23,Argentina,22,170.0,67.0,2026-08-02,False
-244851,Cole Palmer,Cole,Palmer,10,Midfielder,Left,England,GB-ENG,2002-05-06,England,24,185.0,76.0,2023-09-01,False
-56979,Jordan Henderson,Jordan,Henderson,14,Midfielder,Right,England,GB-ENG,1990-06-17,England,36,183.0,78.0,2026-08-03,False
-244850,Morgan Rogers,Morgan,Rogers,17,Midfielder,Right,England,GB-ENG,2002-07-26,England,24,187.0,80.0,2026-07-21,False
-593117,Geovany Quenda,Geovany,Tcherno Quenda,23,Midfielder,Left,Portugal,PT,2007-04-30,Guinea-Bissau,19,172.0,68.0,2026-06-15,False
-486672,Moisés Caicedo,Moisés,Caicedo,25,Midfielder,Right,Ecuador,EC,2001-11-02,Ecuador,25,178.0,80.0,2023-08-14,False
-666276,Reggie Watson,Reggie,Watson,31,Midfielder,Right,England,GB-ENG,2010-01-26,England,16,182.0,,2026-07-01,False
-636846,Mahdi Nicoll-Jazuli,Mahdi,Nicoll-Jazuli,32,Midfielder,Right,England,GB-ENG,2010-01-06,Australia,16,,,2026-07-01,False
-514356,Roméo Lavia,Roméo,Lavia,45,Midfielder,Right,Belgium,BE,2004-01-06,Belgium,22,181.0,76.0,2023-08-18,False
-247632,Pedro Neto,Pedro,Lomba Neto,7,Forward,Left,Portugal,PT,2000-03-09,Portugal,26,174.0,78.0,2024-08-11,False
-475168,João Pedro,João Pedro,Junqueira de Jesus,9,Forward,Right,Brazil,BR,2001-09-26,Brazil,25,186.0,70.0,2025-07-02,False
-463936,Jamie Gittens,Jamie,Gittens,11,Forward,Right,England,GB-ENG,2004-08-08,England,22,178.0,70.0,2025-07-05,False
-50175,Danny Welbeck,Danny,Welbeck,18,Forward,Right,England,GB-ENG,1990-11-26,England,35,185.0,73.0,2026-08-01,False
-503037,Emmanuel Emegha,Emmanuel,Emegha,22,Forward,Right,Netherlands,NL,2003-02-03,Netherlands,23,196.0,82.0,2026-06-15,False
-624773,Estêvão,Estêvão Willian,Almeida de Oliveira Gonçalves,41,Forward,Left,Brazil,BR,2007-04-24,Brazil,19,178.0,62.0,2025-07-14,False
+98980,Emiliano Martínez,Emiliano,Martínez,1,Goalkeeper,Right,Argentina,AR,1992-09-02,Argentina,34,195,98.0,2026-08-29,False
+499857,Teddy Sharman-Lowe,Teddy,Sharman-Lowe,28,Goalkeeper,Right,England,GB-ENG,2003-03-30,England,23,189,73.0,2021-10-25,False
+549939,Mike Penders,Mike,Penders,39,Goalkeeper,Left,Belgium,BE,2005-07-31,Belgium,21,200,104.0,2024-08-27,False
+471798,Gabriel Slonina,Gabriel,Slonina,44,Goalkeeper,Right,United States,US,2004-05-15,USA,22,193,88.0,2022-08-02,False
+620109,Marco Palestra,Marco,Palestra,2,Defender,Both,Italy,IT,2005-03-03,Italy,21,186,80.0,2026-07-01,False
+444463,Wesley Fofana,Wesley,Fofana,3,Defender,Right,France,FR,2000-12-17,France,25,185,84.0,2022-08-31,False
+437499,Maxence Lacroix,Maxence,Lacroix,5,Defender,Right,France,FR,2000-04-06,France,26,190,88.0,2026-07-30,False
+460028,Levi Colwill,Levi,Colwill,6,Defender,Left,England,GB-ENG,2003-02-26,England,23,187,83.0,2022-07-01,False
+551210,Jorrel Hato,Jorrel,Hato,21,Defender,Left,Netherlands,NL,2006-03-07,Netherlands,20,182,77.0,2025-08-03,False
+225796,Reece James,Reece,James,24,Defender,Right,England,GB-ENG,1999-12-08,England,26,180,92.0,2019-05-15,False
+482609,Malo Gusto,Malo,Gusto,27,Defender,Right,France,FR,2003-05-19,France,23,178,67.0,2023-01-28,False
+498444,Pep Chavarría,Pep,Chavarría,29,Defender,Left,Spain,ES,1998-04-10,Spain,28,174,72.0,2026-08-12,False
+622758,Aaron Anselmino,Aaron,Anselmino,30,Defender,Right,Argentina,AR,2005-04-29,Argentina,21,186,83.0,2024-08-08,False
+577016,Josh Acheampong,Josh,Acheampong,34,Defender,Right,England,GB-ENG,2006-05-05,England,20,190,75.0,2024-03-10,False
+616109,Olutayo Subuloye,Olutayo,Subuloye,37,Defender,Right,England,GB-ENG,2007-12-18,England,18,186,,2026-07-01,False
+543158,Valentín Barco,Valentín,Barco,4,Midfielder,Left,Argentina,AR,2004-07-23,Argentina,22,170,67.0,2026-08-02,False
+244851,Cole Palmer,Cole,Palmer,10,Midfielder,Left,England,GB-ENG,2002-05-06,England,24,185,76.0,2023-09-01,False
+56979,Jordan Henderson,Jordan,Henderson,14,Midfielder,Right,England,GB-ENG,1990-06-17,England,36,183,78.0,2026-08-03,False
+244850,Morgan Rogers,Morgan,Rogers,17,Midfielder,Right,England,GB-ENG,2002-07-26,England,24,187,80.0,2026-07-21,False
+593117,Geovany Quenda,Geovany,Tcherno Quenda,23,Midfielder,Left,Portugal,PT,2007-04-30,Guinea-Bissau,19,172,68.0,2026-06-15,False
+486672,Moisés Caicedo,Moisés,Caicedo,25,Midfielder,Right,Ecuador,EC,2001-11-02,Ecuador,25,178,80.0,2023-08-14,False
+666276,Reggie Watson,Reggie,Watson,31,Midfielder,Right,England,GB-ENG,2010-01-26,England,16,182,,2026-07-01,False
+636846,Mahdi Nicoll-Jazuli,Mahdi,Nicoll-Jazuli,32,Midfielder,Right,England,GB-ENG,2010-01-06,Australia,16,187,78.0,2026-07-01,False
+514356,Roméo Lavia,Roméo,Lavia,45,Midfielder,Right,Belgium,BE,2004-01-06,Belgium,22,181,76.0,2023-08-18,False
+247632,Pedro Neto,Pedro,Lomba Neto,7,Forward,Left,Portugal,PT,2000-03-09,Portugal,26,174,78.0,2024-08-11,False
+475168,João Pedro,João Pedro,Junqueira de Jesus,9,Forward,Right,Brazil,BR,2001-09-26,Brazil,25,186,70.0,2025-07-02,False
+463936,Jamie Gittens,Jamie,Gittens,11,Forward,Right,England,GB-ENG,2004-08-08,England,22,178,70.0,2025-07-05,False
+50175,Danny Welbeck,Danny,Welbeck,18,Forward,Right,England,GB-ENG,1990-11-26,England,35,185,73.0,2026-08-01,False
+503037,Emmanuel Emegha,Emmanuel,Emegha,22,Forward,Right,Netherlands,NL,2003-02-03,Netherlands,23,196,82.0,2026-06-15,False
+624773,Estêvão,Estêvão Willian,Almeida de Oliveira Gonçalves,41,Forward,Left,Brazil,BR,2007-04-24,Brazil,19,178,62.0,2025-07-14,False

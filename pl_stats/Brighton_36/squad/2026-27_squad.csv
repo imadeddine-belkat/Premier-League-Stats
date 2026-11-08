@@ -2,6 +2,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 489639,Bart Verbruggen,Bart,Verbruggen,1,Goalkeeper,Right,Netherlands,NL,2002-08-18,Netherlands,24,193.0,89.0,2023-07-03,False
 49262,Jason Steele,Jason,Steele,23,Goalkeeper,Right,England,GB-ENG,1990-08-18,England,36,188.0,79.0,2018-07-01,False
 209288,Tom McGill,Tom,McGill,38,Goalkeeper,Right,Canada,CA,2000-03-25,Canada,26,185.0,80.0,2021-02-02,False
+564905,Steven Hall,Steven,Hall,61,Goalkeeper,Right,Australia,AU,2005-01-16,Australia,21,187.0,84.0,2026-10-21,False
 512123,Jaouen Hadjam,Jaouen,Hadjam,3,Defender,Left,Algeria,DZ,2003-03-26,France,23,185.0,82.0,2026-08-25,False
 222694,Pascal Struijk,Pascal,Struijk,4,Defender,Left,Netherlands,NL,1999-08-11,Belgium,27,190.0,79.0,2026-06-30,False
 83299,Lewis Dunk,Lewis,Dunk,5,Defender,Right,England,GB-ENG,1991-11-21,England,34,192.0,88.0,2009-07-01,False

@@ -13,6 +13,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 106760,Luke Shaw,Luke,Shaw,23,Defender,Left,England,GB-ENG,1995-07-12,England,31,178.0,80.0,2014-07-01,False
 606745,Ayden Heaven,Ayden,Heaven,26,Defender,Left,England,GB-ENG,2006-09-22,England,20,189.0,77.0,2025-02-01,False
 577974,Harry Amass,Harry,Amass,41,Defender,Left,England,GB-ENG,2007-03-16,England,19,181.0,71.0,2024-04-06,False
+564509,Jaydan Kamason,Jaydan,Kamason,56,Defender,Right,England,GB-ENG,2006-12-08,England,19,,,2025-04-09,False
 576622,Daniel Armer,Daniel,Armer,57,Defender,Left,Scotland,GB-SCT,2007-10-23,England,19,,,2025-05-26,False
 184341,Mason Mount,Mason,Mount,7,Midfielder,Right,England,GB-ENG,1999-01-10,England,27,181.0,76.0,2023-07-05,False
 141746,Bruno Fernandes,Bruno Miguel,Borges Fernandes,8,Midfielder,Right,Portugal,PT,1994-09-08,Portugal,32,183.0,64.0,2020-01-30,False
@@ -28,5 +29,6 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 458249,Joshua Zirkzee,Joshua,Zirkzee,11,Forward,Right,Netherlands,NL,2001-05-22,Netherlands,25,193.0,84.0,2024-07-17,False
 493250,Amad Diallo,Amad,Diallo,16,Forward,Left,Cote d’Ivoire,CI,2002-07-11,Côte d'Ivoire,24,173.0,72.0,2021-01-07,False
 446008,Bryan Mbeumo,Bryan,Mbeumo,19,Forward,Left,Cameroon,CM,1999-08-07,France,27,171.0,64.0,2025-07-21,False
+647429,Tynan Thompson,Tynan,Thompson,27,Forward,,England,GB-ENG,2008-04-17,England,18,,,2026-08-11,False
 485711,Benjamin Sesko,Benjamin,Sesko,30,Forward,Right,Slovenia,SI,2003-05-31,Slovenia,23,195.0,85.0,2025-08-09,False
 576628,Shea Lacey,Shea,Lacey,31,Forward,Left,England,GB-ENG,2007-04-14,England,19,167.0,,2025-05-26,False
