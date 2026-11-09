@@ -38,7 +38,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --ff-only origin main
           git add .
           git diff-index --quiet HEAD || git commit -m "Auto-update FPL data for $(date +'%Y-%m-%d')"
-          git pull --rebase origin main
           git push
