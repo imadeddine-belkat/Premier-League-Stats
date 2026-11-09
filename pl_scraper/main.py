@@ -23,8 +23,8 @@ import scrape_team_stats  # noqa: E402
 
 # ----------------------------------------------------------------- settings
 SEASONS = [2026]            # season start years to scrape (2026 -> 2026-27)
-GAMEWEEK = None            # None = whole season; e.g. 7 = only that gameweek's match stats
-CLEAR_CACHE = True          # cached_get never expires: True refetches SEASONS from the API
+GAMEWEEK = None           # None = whole season; e.g. 7 = only that gameweek's match stats
+CLEAR_CACHE = False          # cached_get never expires: True refetches SEASONS from the API
 
 # scrapers
 RUN_TEAM_STATS = True       # pl_stats/{Team}/events_stats
@@ -39,7 +39,7 @@ RUN_BADGES = False          # pl_stats/_badges (static, rarely needs a rerun)
 RUN_MERGE_SEASON_EVENTS = True          # _merged/events
 RUN_MERGE_TEAM_EVENTS = True            # _merged/teams
 RUN_MERGE_SEASON_PLAYERS = True         # _merged/players
-RUN_MERGE_PLAYER_MATCH_STATS = False    # _merged/players_match_stats (no scraper feeds it yet)
+RUN_MERGE_PLAYER_MATCH_STATS = True     # _merged/players_match_stats (no scraper feeds it yet)
 MERGE_PER_SEASON_PLAYERS = True         # also write one file per season, not just _all_
 # -------------------------------------------------------------------------
 
