@@ -1199,6 +1199,10 @@
     "2025-26": {
       "element": 555,
       "name": "Alan Browne"
+    },
+    "2026-27": {
+      "element": 673,
+      "name": "Alan Browne"
     }
   },
   "172453": {
@@ -7307,6 +7311,12 @@
     "2025-26": {
       "element": 767,
       "name": "Luke Rawlings"
+    }
+  },
+  "605845": {
+    "2026-27": {
+      "element": 674,
+      "name": "Dino Kaiser"
     }
   },
   "605972": {
