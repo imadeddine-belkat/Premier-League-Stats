@@ -5,10 +5,10 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 564905,Steven Hall,Steven,Hall,61,Goalkeeper,Right,Australia,AU,2005-01-16,Australia,21,187.0,84.0,2026-10-21,False
 512123,Jaouen Hadjam,Jaouen,Hadjam,3,Defender,Left,Algeria,DZ,2003-03-26,France,23,185.0,82.0,2026-08-25,False
 222694,Pascal Struijk,Pascal,Struijk,4,Defender,Left,Netherlands,NL,1999-08-11,Belgium,27,190.0,79.0,2026-06-30,False
-83299,Lewis Dunk,Lewis,Dunk,5,Defender,Right,England,GB-ENG,1991-11-21,England,34,192.0,88.0,2009-07-01,False
+83299,Lewis Dunk,Lewis,Dunk,5,Defender,Right,England,GB-ENG,1991-11-21,England,35,192.0,88.0,2009-07-01,False
 451490,Costinha,João Pedro,Loureiro da Costa,20,Defender,Right,Portugal,PT,2000-03-26,Portugal,26,181.0,76.0,2026-06-15,False
-204120,Olivier Boscagli,Olivier,Boscagli,21,Defender,Left,France,FR,1997-11-18,,28,181.0,68.0,2025-07-02,False
-231416,Ferdi Kadioglu,Ferdi,Kadioglu,24,Defender,Right,Turkey,TR,1999-10-07,Netherlands,27,174.0,68.0,2024-08-27,False
+204120,Olivier Boscagli,Olivier,Boscagli,21,Defender,Left,France,FR,1997-11-18,,29,181.0,68.0,2025-07-02,False
+231416,Ferdi Kadıoğlu,Ferdi,Kadıoğlu,24,Defender,Right,Turkey,TR,1999-10-07,Netherlands,27,174.0,68.0,2024-08-27,False
 465730,Maxim De Cuyper,Maxim,De Cuyper,29,Defender,Left,Belgium,BE,2000-12-22,Belgium,25,182.0,71.0,2025-07-05,False
 454490,Michael Svoboda,Michael,Svoboda,30,Defender,Right,Austria,AT,1998-10-15,Austria,28,195.0,86.0,2026-07-02,False
 610799,Luka Vuskovic,Luka,Vuskovic,44,Defender,Right,Croatia,HR,2007-02-24,Croatia,19,193.0,86.0,2026-07-14,False
@@ -18,9 +18,9 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 592984,Chema Andrés,José María,Andrés Baixauli,14,Midfielder,Right,Spain,ES,2005-04-25,Spain,21,190.0,82.0,2026-09-01,False
 514254,Diego Gómez,Diego,Gómez,25,Midfielder,Right,Paraguay,PY,2003-03-27,Paraguay,23,185.0,77.0,2025-01-01,False
 509416,Yasin Ayari,Yasin,Ayari,26,Midfielder,Right,Sweden,SE,2003-10-06,Sweden,23,172.0,69.0,2023-01-30,False
-467779,Mats Wieffer,Mats,Wieffer,27,Midfielder,Right,Netherlands,NL,1999-11-16,Netherlands,26,189.0,78.0,2024-07-06,False
-219249,Matt O'Riley,Matt,O'Riley,33,Midfielder,Left,Denmark,DK,2000-11-21,England,25,187.0,77.0,2024-08-26,False
-611695,Malick Yalcouyé,Malick,Yalcouyé,35,Midfielder,Right,Cote d’Ivoire,CI,2005-11-18,Mali,20,169.0,,2024-07-12,False
+467779,Mats Wieffer,Mats,Wieffer,27,Midfielder,Right,Netherlands,NL,1999-11-16,Netherlands,27,189.0,78.0,2024-07-06,False
+219249,Matt O'Riley,Matt,O'Riley,33,Midfielder,Left,Denmark,DK,2000-11-21,England,26,187.0,77.0,2024-08-26,False
+611695,Malick Yalcouyé,Malick,Yalcouyé,35,Midfielder,Right,Cote d’Ivoire,CI,2005-11-18,Mali,21,169.0,,2024-07-12,False
 556637,Nehemiah Oriola,Nehemiah,Oriola,49,Midfielder,Right,England,GB-ENG,2007-06-11,England,19,,,2025-10-17,False
 596049,Shane Nti,Shane,Nti,51,Midfielder,,England,GB-ENG,2007-05-07,England,19,,,2026-08-26,False
 661016,Younes Ibrahim,Younes,Ibrahim,59,Midfielder,Left,Egypt,EG,2008-02-16,Australia,18,,,2026-08-12,False

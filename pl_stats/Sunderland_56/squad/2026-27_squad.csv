@@ -13,7 +13,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 232356,Jenson Jones,Jenson,Jones,48,Defender,Right,England,GB-ENG,2006-06-26,England,20,182.0,,2025-08-24,False
 171422,Alan Browne,Alan,Browne,8,Midfielder,Right,Ireland,IE,1995-04-15,Republic of Ireland,31,179.0,74.0,2024-07-11,False
 554197,Chris Rigg,Chris,Rigg,11,Midfielder,Left,England,GB-ENG,2007-06-18,England,19,177.0,65.0,2022-12-31,False
-167512,Luke O'Nien,Luke,O'Nien,13,Midfielder,Right,England,GB-ENG,1994-11-21,England,31,174.0,74.0,2018-07-30,False
+167512,Luke O'Nien,Luke,O'Nien,13,Midfielder,Right,England,GB-ENG,1994-11-21,England,32,174.0,74.0,2018-07-30,False
 547027,Habib Diarra,Habib,Diarra,19,Midfielder,Right,Senegal,SN,2004-01-03,Senegal,22,178.0,74.0,2025-07-01,False
 577669,Noah Sadiki,Noah,Sadiki,27,Midfielder,Right,DR Congo,CD,2004-12-17,Belgium,21,173.0,74.0,2025-07-04,False
 484420,Enzo Le Fée,Enzo,Le Fée,28,Midfielder,Right,France,FR,2000-02-03,France,26,173.0,63.0,2025-07-01,False
@@ -28,7 +28,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 437505,Wilson Isidor,Wilson,Isidor,18,Forward,Right,Haiti,HT,2000-08-27,France,26,184.0,72.0,2025-02-01,False
 699989,Jocelin Ta Bi,Jocelin Ta,Bi,37,Forward,Left,Cote d’Ivoire,CI,2005-02-09,Côte d'Ivoire,21,177.0,,2026-01-16,False
 549940,Malick Fofana,Malick,Fofana,39,Forward,Right,Belgium,BE,2005-03-31,Belgium,21,169.0,61.0,2026-09-01,False
-571088,Trey Samuel-Ogunsuyi,Trey,Samuel-Ogunsuyi,47,Forward,Right,Belgium,BE,2006-11-26,England,19,190.0,80.0,2022-09-13,False
+571088,Trey Samuel-Ogunsuyi,Trey,Samuel-Ogunsuyi,47,Forward,Right,Belgium,BE,2006-11-26,England,20,190.0,80.0,2022-09-13,False
 610820,Felix Scott,Felix,Scott,49,Forward,,England,GB-ENG,2007-12-17,England,18,,,2026-07-24,False
 661313,Juan Angulo,Juan,Angulo,50,Forward,,Ecuador,EC,2008-01-12,Ecuador,18,,,2026-09-01,False
 604211,Tymur Tutierov,Tymur,Tutierov,57,Forward,Right,Ukraine,UA,2005-06-11,Ukraine,21,183.0,70.0,2024-08-30,False

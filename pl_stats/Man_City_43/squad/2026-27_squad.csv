@@ -11,7 +11,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 472769,Nico O'Reilly,Nico,O'Reilly,33,Defender,Left,England,GB-ENG,2005-03-21,England,21,193.0,77.0,2022-12-16,False
 578153,Abdukodir Khusanov,Abdukodir,Khusanov,45,Defender,Right,Uzbekistan,UZ,2004-02-29,Uzbekistan,22,186.0,83.0,2025-01-20,False
 554054,Kaden Braithwaite,Kaden,Braithwaite,61,Defender,Left,England,GB-ENG,2008-02-08,England,18,194.0,75.0,2024-09-23,False
-477064,Rico Lewis,Rico,Lewis,82,Defender,Right,England,GB-ENG,2004-11-21,England,21,170.0,64.0,2022-07-16,False
+477064,Rico Lewis,Rico,Lewis,82,Defender,Right,England,GB-ENG,2004-11-21,England,22,170.0,64.0,2022-07-16,False
 215379,Elliot Anderson,Elliot,Anderson,5,Midfielder,Right,England,GB-ENG,2002-11-06,England,24,179.0,69.0,2026-07-02,False
 91651,Mateo Kovacic,Mateo,Kovacic,8,Midfielder,Right,Croatia,HR,1994-05-06,Austria,32,177.0,78.0,2023-06-27,False
 466052,Rayan Cherki,Rayan,Cherki,10,Midfielder,Both,France,FR,2003-08-17,France,23,180.0,71.0,2025-06-10,False
@@ -19,7 +19,7 @@ playerId,displayName,firstName,lastName,shirtNumber,position,preferredFoot,natio
 465351,Matheus Nunes,Matheus Luiz,Nunes,27,Midfielder,Right,Portugal,PT,1998-08-27,Brazil,28,183.0,78.0,2023-09-01,False
 637238,Ayyoub Bouaddi,Ayyoub,Bouaddi,32,Midfielder,Right,Morocco,MA,2007-10-02,France,19,185.0,75.0,2026-08-26,False
 209244,Phil Foden,Phil,Foden,47,Midfielder,Left,England,GB-ENG,2000-05-28,England,26,171.0,63.0,2016-12-05,False
-595480,Floyd Samba,Floyd,Samba,75,Midfielder,Right,England,GB-ENG,2009-01-15,England,17,183.0,,2026-02-13,False
+595480,Floyd Samba,Floyd,Samba,75,Midfielder,Right,Germany,DE,2009-01-15,England,17,183.0,,2026-02-13,False
 679860,Dexter Oliver,Dexter,Oliver,76,Midfielder,,England,GB-ENG,2008-12-02,England,17,,,2026-10-27,False
 440993,Iliman Ndiaye,Iliman,Ndiaye,7,Forward,Right,Senegal,SN,2000-03-06,France,26,180.0,78.0,2026-09-01,False
 223094,Erling Haaland,Erling,Haaland,9,Forward,Left,Norway,NO,2000-07-21,England,26,195.0,94.0,2022-07-01,False
