@@ -69,7 +69,7 @@ def main():
 
     files = [
         path
-        for path in glob(pattern)
+        for path in sorted(glob(pattern))
         if "_merged" not in path
     ]
 

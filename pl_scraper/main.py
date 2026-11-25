@@ -5,6 +5,7 @@ Order: scrapers -> index/badges -> mergers.
 """
 import os
 import shutil
+from datetime import date
 from pathlib import Path
 
 # config.CACHE_DIR is relative, so pin the cwd to this script's folder.
@@ -22,9 +23,12 @@ import scrape_squads  # noqa: E402
 import scrape_team_stats  # noqa: E402
 
 # ----------------------------------------------------------------- settings
-SEASONS = [2026]            # season start years to scrape (2026 -> 2026-27)
+_TODAY = date.today()
+# season start years to scrape (2026 -> 2026-27); rolls over every August
+SEASONS = [_TODAY.year if _TODAY.month >= 8 else _TODAY.year - 1]
 GAMEWEEK = None           # None = whole season; e.g. 7 = only that gameweek's match stats
-CLEAR_CACHE = False          # cached_get never expires: True refetches SEASONS from the API
+# cached_get never expires: True refetches SEASONS from the API (auto_update.py sets the env var)
+CLEAR_CACHE = os.environ.get("PL_CLEAR_CACHE") == "1"
 
 # scrapers
 RUN_TEAM_STATS = True       # pl_stats/{Team}/events_stats
@@ -32,7 +36,7 @@ RUN_SQUADS = True           # pl_stats/{Team}/squad
 RUN_PLAYER_STATS = True     # pl_stats/{Team}/players_stats (+ by_position)
 
 # index / badges (walk every season in config.DEFAULT_SEASONS; cached, so cheap)
-RUN_BUILD_INDEX = True      # pl_stats/_index
+RUN_BUILD_INDEX = False      # pl_stats/_index
 RUN_BADGES = False          # pl_stats/_badges (static, rarely needs a rerun)
 
 # mergers (read everything under pl_stats, not just SEASONS)

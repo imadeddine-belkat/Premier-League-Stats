@@ -1,6 +1,6 @@
 # ⚽ Premier League Stats
 
-> A unified data repository combining **Fantasy Premier League (FPL)** gameweek statistics with a **historical Premier League archive** of match-event, player, and squad data spanning **2008-09 to the present**. Everything is exported as analysis-ready **CSV**, refreshed automatically every gameweek.
+> A unified data repository combining **Fantasy Premier League (FPL)** gameweek statistics with a **historical Premier League archive** of match-event, player, and squad data spanning **2008-09 to the present**. Everything is exported as analysis-ready **CSV**, refreshed automatically every day.
 
 [![Data Source](https://img.shields.io/badge/source-Official%20FPL%20%2B%20PL%20APIs-37003C)](https://fantasy.premierleague.com/api/)
 [![Automation](https://img.shields.io/badge/automation-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/imadeddine-belkat/Premier-League-Stats/blob/main/.github/workflows/fpl_updater.yml)
@@ -77,7 +77,7 @@ Premier-League-Stats/
 │   ├── _index/{Season}_players.json                        # playerId → name
 │   └── _badges/{code}.svg                                  # club crests
 │
-├── .github/workflows/fpl_updater.yml  # Weekly scheduled refresh
+├── .github/workflows/fpl_updater.yml  # Daily scheduled refresh
 └── requirements.txt
 ```
 
@@ -154,7 +154,10 @@ Run order (also encoded in the workflow):
 
 ## Automation
 
-`.github/workflows/fpl_updater.yml` runs the full pipeline on a schedule (**Tuesdays at 12:00 UTC**) and on manual dispatch. It installs dependencies, runs the five scripts in order, then commits and pushes any changed data. The historical `pl_stats` archive is pushed manually at the end of each round.
+- **FPL data:** `.github/workflows/fpl_updater.yml` runs daily at **05:17 UTC** and on manual dispatch.
+- **PL data (`pl_stats/`):** `pl_scraper/auto_update.py` runs daily from Windows Task Scheduler on the maintainer's PC. It refetches the current season, then commits and pushes `pl_stats/`.
+
+Both commit only when something changed.
 
 ---
 

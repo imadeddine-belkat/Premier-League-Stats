@@ -46,7 +46,7 @@ def main(root: str | None = None, per_season: bool = True):
 
     # 1. Glob all CSVs in the players_stats tree (including by_position)
     pattern = os.path.join(root, "*", "players_stats", "**", "*_players_stats.csv")
-    files = [f for f in glob(pattern, recursive=True) if "_merged" not in f]
+    files = [f for f in sorted(glob(pattern, recursive=True)) if "_merged" not in f]
 
     # Structure: by_category["All" or position_name][season] = [df1, df2...]
     by_category: dict[str, dict[str, list[pd.DataFrame]]] = defaultdict(lambda: defaultdict(list))

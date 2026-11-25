@@ -41,7 +41,7 @@ def main(root: str | None = None):
         raise SystemExit(f"root does not exist: {root}\n(cwd={os.getcwd()})")
 
     pattern = os.path.join(root, "*", "events_stats", "*_events_stats.csv")
-    files = [f for f in glob(pattern) if "_merged" not in f]
+    files = [f for f in sorted(glob(pattern)) if "_merged" not in f]
 
     by_team: dict[str, list[pd.DataFrame]] = defaultdict(list)
     for f in files:

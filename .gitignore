@@ -24,6 +24,7 @@ merge_season_players.py
 cache
 pl_scraper
 fpl_cache
+logs/
 sofascore_scraper
 sofascore_stats
 

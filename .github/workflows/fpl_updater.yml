@@ -2,18 +2,24 @@ name: Update FPL Data
 
 on:
   schedule:
-    - cron: '0 12 * * 2'
+    - cron: '17 5 * * *'   # daily, 05:17 UTC
   workflow_dispatch:
+
+concurrency:
+  group: update-data
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     permissions:
       contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: main   # latest main, so a re-run doesn't start from a stale commit
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,6 +31,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Run FPL Scrapers
         run: |
           python scrape_teams.py
@@ -34,11 +45,14 @@ jobs:
           python merge_players.py
         working-directory: fpl_scraper
 
-      - name: Commit and Push Changes
+      - name: Commit and Push FPL Data
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --ff-only origin main
-          git add .
-          git diff-index --quiet HEAD || git commit -m "Auto-update FPL data for $(date +'%Y-%m-%d')"
-          git push
+          git add fpl_scraper/fpl_stats
+          if git diff --cached --quiet; then
+            echo "No FPL changes."
+          else
+            git commit -m "Auto-update FPL data for $(date +'%Y-%m-%d')"
+            git pull --rebase origin main
+            git push
+          fi
+

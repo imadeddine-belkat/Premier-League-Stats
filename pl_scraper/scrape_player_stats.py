@@ -88,23 +88,19 @@ def _fetch_team_players(
 
         pid, name = player
 
-        try:
-            row = _stats_row(
-                season,
-                label,
-                team_id,
-                team_name,
-                pid,
-                name,
-            )
+        # A failed fetch must abort the run: skipping the player would
+        # overwrite the CSV without them.
+        row = _stats_row(
+            season,
+            label,
+            team_id,
+            team_name,
+            pid,
+            name,
+        )
 
-            if row is not None:
-                rows.append(row)
-
-        except Exception as exc:
-            print(
-                f"    Failed stats for {name} ({pid}): {exc}"
-            )
+        if row is not None:
+            rows.append(row)
 
     return rows
 
